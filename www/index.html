@@ -1,0 +1,108 @@
+<html>
+    <head>
+        <title>Ennorath</title>
+        <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+        <style>
+
+            #map {
+                position: absolute;
+                top: 0px;
+                left: 0px;
+                height: 100%;
+                width: 100%;
+            }
+
+            .map {
+                overflow: hidden;
+            }
+
+            .map * {
+                -webkit-user-select: none;
+                cursor: pointer;
+                overflow: hidden;
+            }
+
+            .zoom {
+                position: absolute;
+                top: 1em;
+                left: 1ex;
+            }
+
+            .viewport {
+                position: absolute;
+            }
+
+            .layer {
+            }
+
+            .scale {
+            }
+
+            .tile {
+                position: absolute;
+                height: 200px;
+                width: 200px;
+            }
+
+            .control {
+                /* http://www.awayback.com/revised-font-stack/ */
+                background-color: white;
+                border: 1px solid #CCCCCC;
+                font-family: Garamond,Baskerville,"Baskerville Old Face","Hoefler Text","Times New Roman",serif;
+                font-size: 13px;
+                padding: 6px 8px;
+                opacity: .75;
+            }
+
+            /* top-left */
+            .navigation-control {
+                position: absolute;
+                top: 1ex;
+                left: 1ex;
+            }
+
+            /* bottom-left */
+            .layer-control {
+                position: absolute;
+                bottom: 1ex;
+                left: 1ex;
+            }
+
+            /* top-right */
+            .link-control {
+                position: absolute;
+                top: 1ex;
+                right: 1ex;
+            }
+
+            /* bottom-left */
+            .about-control {
+                position: absolute;
+                bottom: 1ex;
+                right: 1ex;
+            }
+
+            a {
+                color: #0000aa;
+            }
+            a:visited {
+                color: #7777aa;
+            }
+
+        </style>
+    </head>
+    <body>
+        <div id="map" class="map">
+            <img src="map.png" title="Middle Earth">
+        </div>
+        <div class="control layer-control">
+            <nobr><input id="labels-check" type="checkbox" checked> <label for="labels-check">labels</label></nobr>
+        </div>
+        <div class="control about-control">
+            <a id="about-link" href="about.html">about this map</a>
+        </div>
+        <script src="js/jquery.min.js"></script>
+        <script src="js/jquery.mousewheel.min.js"></script>
+        <script src="js/index.js"></script>
+    </body>
+</html>
