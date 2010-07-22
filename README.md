@@ -1,6 +1,6 @@
 
 This is an online map of Middle Earth.  The front-end is entirely static on
-http://3rin.gs/ posted from the www/ directory.  The static content is
+[http://3rin.gs/](3rin.gs) posted from the www/ directory.  The static content is
 generated with the tile script and the Python Imaging Library.
 
 The raster graphics are not included in this repository on account of their
