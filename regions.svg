@@ -1,0 +1,2130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="7200"
+   height="7200"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="regions.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0"
+   inkscape:export-filename="/home/kris/Dropbox/Public/ennorath/build/ennorath-labels-32768.png"
+   inkscape:export-xdpi="409.60001"
+   inkscape:export-ydpi="409.60001"
+   style="display:inline">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 3600 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="7200 : 3600 : 1"
+       inkscape:persp3d-origin="3600 : 2400 : 1"
+       id="perspective287" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.088388348"
+     inkscape:cx="3482.1569"
+     inkscape:cy="3736.958"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer9"
+     showgrid="false"
+     showborder="true"
+     inkscape:window-width="1680"
+     inkscape:window-height="975"
+     inkscape:window-x="0"
+     inkscape:window-y="49"
+     units="in"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="endor-reference"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <image
+       id="image2961"
+       sodipodi:absref="/home/kris/Dropbox/Public/endor/endor-geography-4000.png"
+       xlink:href="build/ennorath-geography-8000.png"
+       x="0"
+       y="0"
+       width="7200"
+       height="7200" />
+    <text
+       xml:space="preserve"
+       style="font-size:68.36585236px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;opacity:0.63306448;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Nagham;-inkscape-font-specification:Nagham"
+       x="6740.5801"
+       y="7137.4185"
+       id="text5280"><tspan
+         sodipodi:role="line"
+         id="tspan5282"
+         x="6750.0605"
+         y="7137.4185">Copyright 2010 Kris Kowal </tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="1"
+     style="display:inline">
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6.4000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="belegaer"
+       width="4331.0288"
+       height="2607.4563"
+       x="494.97473"
+       y="4574.8662"
+       inkscape:label="#rect2661" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.16784096;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="haradwaith"
+       width="4138.2842"
+       height="1812.7322"
+       x="2712.384"
+       y="5368.6338"
+       inkscape:label="#rect3433" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="mordor"
+       width="2028.5126"
+       height="1423.0524"
+       x="4963.0054"
+       y="3735.1768"
+       inkscape:label="#rect3435" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="gondor"
+       width="2872.6213"
+       height="2024.0938"
+       x="2461.6155"
+       y="3580.4973"
+       inkscape:label="#rect3437" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.32176924;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rhun"
+       width="1728.0704"
+       height="1860.6528"
+       x="5471.1997"
+       y="1649.1729"
+       inkscape:label="#rect3439" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rhovanion"
+       width="2072.707"
+       height="2377.6467"
+       x="3805.1182"
+       y="1331.0138"
+       inkscape:label="#rect3441" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="eriador"
+       width="2885.8794"
+       height="2691.425"
+       x="1286.0504"
+       y="981.87988"
+       inkscape:label="#rect3443" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:5.52763128;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="forodwaith"
+       width="3549.6643"
+       height="1622.7986"
+       x="2081.1091"
+       y="93.140839"
+       inkscape:label="#rect3445" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="2"
+     style="display:inline">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="cof-belfalas"
+       width="2290.625"
+       height="1496.875"
+       x="2384.375"
+       y="4403.125"
+       inkscape:label="#rect3447" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="khand"
+       width="1237.5"
+       height="925"
+       x="5853.125"
+       y="4846.875"
+       inkscape:label="#rect3449" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="eryn-lasgalen"
+       width="890.625"
+       height="1500"
+       x="4393.75"
+       y="1634.3751"
+       inkscape:label="#rect3451" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.79296303;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="adhon-iaur-arnor"
+       width="2363.9954"
+       height="1842.5042"
+       x="1847.5129"
+       y="1172.1113"
+       inkscape:label="#rect3453" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="3"
+     style="opacity:1;display:inline">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7480"
+       width="7323.4287"
+       height="4578.6123"
+       x="-33018.461"
+       y="-5155.9321" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7482"
+       width="10423.389"
+       height="6475.1357"
+       x="-33240.871"
+       y="-5323.5186" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7484"
+       width="29481.797"
+       height="18361.469"
+       x="-33464.746"
+       y="-5540.0835" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       id="rhudaur"
+       width="989.94946"
+       height="685.0097"
+       x="3204.0776"
+       y="1671.309"
+       inkscape:label="#rect3455" />
+    <rect
+       inkscape:label="#rect3455"
+       y="2276.7693"
+       x="2713.5225"
+       height="685.0097"
+       width="989.94946"
+       id="cardolan"
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       id="arthedain"
+       width="989.94946"
+       height="685.0097"
+       x="2055.0293"
+       y="1812.7305"
+       inkscape:label="#rect3455" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="minhiriath"
+       width="1277.2115"
+       height="1118.1125"
+       x="2138.998"
+       y="2515.4177"
+       inkscape:label="#rect3464" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="enedhwaith"
+       width="1219.7592"
+       height="1184.4038"
+       x="2691.425"
+       y="2807.0991"
+       inkscape:label="#rect3466" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="moria"
+       width="510.44269"
+       height="461.8291"
+       x="3679.1648"
+       y="2530.8857"
+       inkscape:label="#rect3468" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="angmar"
+       width="846.31842"
+       height="631.97668"
+       x="3263.7397"
+       y="1165.2858"
+       inkscape:label="#rect3470" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="emyn-angren"
+       width="934.70673"
+       height="399.95728"
+       x="5433.6733"
+       y="1671.309"
+       inkscape:label="#rect3472" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rhunaer"
+       width="662.5"
+       height="709.375"
+       x="6245.3125"
+       y="2620.3125"
+       inkscape:label="#rect3474" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="barannorath"
+       width="968.75"
+       height="665.625"
+       x="4587.5"
+       y="2975"
+       inkscape:label="#rect3476" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="calenardhon"
+       width="971.875"
+       height="687.5"
+       x="3721.875"
+       y="3468.75"
+       inkscape:label="#rect3478" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="druwaith-iaur"
+       width="1171.875"
+       height="443.75"
+       x="2693.75"
+       y="3740.625"
+       inkscape:label="#rect3480" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="anorien"
+       width="723.4375"
+       height="398.4375"
+       x="4309.375"
+       y="3934.375"
+       inkscape:label="#rect3482" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="lamedon"
+       width="820.3125"
+       height="578.125"
+       x="3478.125"
+       y="4007.8125"
+       inkscape:label="#rect3484" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="lebennin"
+       width="784.375"
+       height="612.5"
+       x="4275"
+       y="4271.875"
+       inkscape:label="#rect3486" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="forithilien"
+       width="354.6875"
+       height="554.6875"
+       x="4817.1875"
+       y="3789.0625"
+       inkscape:label="#rect3488" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="harithilien"
+       width="312.5"
+       height="657.8125"
+       x="4882.8125"
+       y="4253.125"
+       inkscape:label="#rect3490" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="gorgoroth"
+       width="901.5625"
+       height="604.6875"
+       x="5190.625"
+       y="3892.1875"
+       inkscape:label="#rect3492" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="nurn"
+       width="1454.6875"
+       height="720.3125"
+       x="5237.5"
+       y="4284.375"
+       inkscape:label="#rect3494" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="nurnen"
+       width="564.0625"
+       height="326.5625"
+       x="5815.625"
+       y="4512.5"
+       inkscape:label="#rect3496" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="lithlad"
+       width="623.4375"
+       height="395.3125"
+       x="5539.0625"
+       y="4250"
+       inkscape:label="#rect3498" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="harondor"
+       width="1392.1875"
+       height="782.8125"
+       x="4346.875"
+       y="4818.75"
+       inkscape:label="#rect3500" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="umbar"
+       width="1341.2931"
+       height="846.31842"
+       x="3493.5493"
+       y="5527.2505"
+       inkscape:label="#rect3502" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="4"
+     style="display:inline">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ered-mithrin-2"
+       width="984.375"
+       height="890.625"
+       x="3153.125"
+       y="6278.125"
+       inkscape:label="#rect3504" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="tolfalas"
+       width="396.875"
+       height="385.9375"
+       x="4051.5625"
+       y="4804.6875"
+       inkscape:label="#rect3506" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ephel-duath"
+       width="1681.25"
+       height="656.25"
+       x="5078.125"
+       y="4454.6875"
+       inkscape:label="#rect3508" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="belfalas"
+       width="470.3125"
+       height="407.8125"
+       x="3885.9375"
+       y="4598.4375"
+       inkscape:label="#rect3510" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="anfalas"
+       width="925"
+       height="357.8125"
+       x="3003.125"
+       y="4426.5625"
+       inkscape:label="#rect3512" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="pinath-gelin"
+       width="809.375"
+       height="243.75"
+       x="3162.5"
+       y="4246.875"
+       inkscape:label="#rect3514" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ered-nimrais"
+       width="1889.0625"
+       height="740.625"
+       x="3117.1875"
+       y="3707.8125"
+       inkscape:label="#rect3516" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="eastfold"
+       width="575"
+       height="364.0625"
+       x="4045.3125"
+       y="3798.4375"
+       inkscape:label="#rect3518" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="westfold"
+       width="531.25"
+       height="382.8125"
+       x="3773.4375"
+       y="3543.75"
+       inkscape:label="#rect3520" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="east-emnet"
+       width="531.25"
+       height="290.625"
+       x="3812.5"
+       y="3462.5"
+       inkscape:label="#rect3522" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="the-wold"
+       width="382.8125"
+       height="320.3125"
+       x="4176.5625"
+       y="3243.75"
+       inkscape:label="#rect3524" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3526"
+       width="460.9375"
+       height="600"
+       x="4253.125"
+       y="3425" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="emyn-muil"
+       width="431.25"
+       height="426.5625"
+       x="4610.9375"
+       y="3510.9375"
+       inkscape:label="#rect3528" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="fangorn"
+       width="410.9375"
+       height="481.25"
+       x="3864.0625"
+       y="3095.3125"
+       inkscape:label="#rect3530" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ered-lithui"
+       width="1842.1875"
+       height="692.1875"
+       x="5001.5625"
+       y="3753.125"
+       inkscape:label="#rect3532" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="dorwinion"
+       width="786.65625"
+       height="479.50677"
+       x="5652.4346"
+       y="2632.5322"
+       inkscape:label="#rect3534" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="barandor"
+       width="426.47375"
+       height="365.70679"
+       x="3278.1028"
+       y="3354.0022"
+       inkscape:label="#rect3536" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="hithaeglir"
+       width="919.23877"
+       height="2329.0332"
+       x="3425.0483"
+       y="1300.078"
+       inkscape:label="#rect3538" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="eregion"
+       width="589.99219"
+       height="428.68347"
+       x="3338.8699"
+       y="2515.4177"
+       inkscape:label="#rect3540" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="lothlorien"
+       width="402.16696"
+       height="446.36115"
+       x="3992.9436"
+       y="2683.3555"
+       inkscape:label="#rect3542" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="anduin"
+       width="1075"
+       height="3556.25"
+       x="4075"
+       y="1581.2501"
+       inkscape:label="#rect3544" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="amon-lanc"
+       width="278.90625"
+       height="229.6875"
+       x="4486.7188"
+       y="2818.75"
+       inkscape:label="#rect3546" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="emyn-lasgalen"
+       width="522.65625"
+       height="196.875"
+       x="4655.4688"
+       y="2000.7814"
+       inkscape:label="#rect3548" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="gwaith-thranduil"
+       width="485.15625"
+       height="260.9375"
+       x="4572.6562"
+       y="1618.7501"
+       inkscape:label="#rect3550" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ered-mithrin"
+       width="1359.375"
+       height="400"
+       x="3954.6875"
+       y="1290.6251"
+       inkscape:label="#rect3552" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="emyn-ring"
+       width="436.41745"
+       height="391.11844"
+       x="3689.1086"
+       y="1831.5128"
+       inkscape:label="#rect3554" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="uanlo"
+       width="427.57861"
+       height="334.77087"
+       x="3669.2212"
+       y="1638.1633"
+       inkscape:label="#rect3556" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ered-angmar"
+       width="781.13202"
+       height="433.10291"
+       x="3422.8386"
+       y="1227.1576"
+       inkscape:label="#rect3558" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="gwathlo"
+       width="994.3689"
+       height="1069.499"
+       x="2731.2"
+       y="2466.8042"
+       inkscape:label="#rect3560" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="baranduin"
+       width="658.49316"
+       height="1113.6931"
+       x="2320.1941"
+       y="1852.5051"
+       inkscape:label="#rect3562" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="i-drann"
+       width="565.625"
+       height="468.75"
+       x="2393.75"
+       y="2090.6252"
+       inkscape:label="#rect3564" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="emyn-uial"
+       width="521.875"
+       height="628.125"
+       x="2325"
+       y="1415.6251"
+       inkscape:label="#rect3566" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ered-lindon"
+       width="796.875"
+       height="1934.375"
+       x="1643.75"
+       y="1046.8751"
+       inkscape:label="#rect3568" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="cof-lhun"
+       width="715.625"
+       height="437.5"
+       x="1506.25"
+       y="2096.8752"
+       inkscape:label="#rect3570" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="harlindon"
+       width="784.375"
+       height="784.375"
+       x="1440.625"
+       y="2271.875"
+       inkscape:label="#rect3572" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="forlindon"
+       width="818.75"
+       height="871.875"
+       x="1131.25"
+       y="1509.3751"
+       inkscape:label="#rect3574" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="himling"
+       width="818.75"
+       height="434.375"
+       x="978.125"
+       y="1150.0001"
+       inkscape:label="#rect3576" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="5"
+     style="display:inline">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="lond-umbar"
+       width="264.84375"
+       height="200.78125"
+       x="3867.1875"
+       y="6021.0938"
+       inkscape:label="#rect3578" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="harnen"
+       width="1323.6155"
+       height="654.07373"
+       x="4434.8853"
+       y="4963.7749"
+       inkscape:label="#rect3580" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="men-harad"
+       width="750"
+       height="993.75"
+       x="4815.625"
+       y="4931.25"
+       inkscape:label="#rect3582" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ethir-anduin"
+       width="575.62909"
+       height="457.4097"
+       x="4243.7456"
+       y="4641.1572"
+       inkscape:label="#rect3584" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="poros"
+       width="546.90289"
+       height="219.86601"
+       x="4675.7437"
+       y="4722.9165"
+       inkscape:label="#rect3586" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ethraid-poros"
+       width="278.42328"
+       height="133.68738"
+       x="4901.1338"
+       y="4747.2236"
+       inkscape:label="#rect3588" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="pelargir"
+       width="245.27766"
+       height="143.63106"
+       x="4640.3882"
+       y="4654.4155"
+       inkscape:label="#rect3590" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="linhir"
+       width="244.17281"
+       height="163.51843"
+       x="4291.2544"
+       y="4621.27"
+       inkscape:label="#rect3592" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="dor-in-ernil"
+       width="433.10291"
+       height="343.60968"
+       x="3998.4678"
+       y="4550.5596"
+       inkscape:label="#rect3594" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="barad-dur"
+       width="354.65823"
+       height="156.88931"
+       x="5388.3745"
+       y="3969.406"
+       inkscape:label="#rect3596" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="orodruin"
+       width="207.71262"
+       height="148.05048"
+       x="5309.9297"
+       y="4065.5283"
+       inkscape:label="#rect3598" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="udun"
+       width="309.35886"
+       height="243.06813"
+       x="5069.0718"
+       y="3789.3147"
+       inkscape:label="#rect3600" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="dagorlad"
+       width="236.43883"
+       height="214.34174"
+       x="5111.0562"
+       y="3682.1438"
+       inkscape:label="#rect3602" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="lo-forn"
+       width="232.01941"
+       height="143.63106"
+       x="4942.0132"
+       y="3690.9827"
+       inkscape:label="#rect3604" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="nindalf"
+       width="356.86795"
+       height="302.73007"
+       x="4703.3647"
+       y="3822.4604"
+       inkscape:label="#rect3606" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="cair-andros"
+       width="202.18834"
+       height="195.55922"
+       x="4885.666"
+       y="4048.9556"
+       inkscape:label="#rect3608" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="minas-tirith"
+       width="276.21359"
+       height="213.23688"
+       x="4787.334"
+       y="4184.8525"
+       inkscape:label="#rect3610" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ethraid-erui"
+       width="145.70312"
+       height="101.17188"
+       x="4826.1719"
+       y="4342.1875"
+       inkscape:label="#rect3612" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="eryn-druadan"
+       width="299.21875"
+       height="177.34375"
+       x="4745.3125"
+       y="4120.3125"
+       inkscape:label="#rect3614" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="gilrain"
+       width="298.31067"
+       height="461.8291"
+       x="4327.7144"
+       y="4283.1846"
+       inkscape:label="#rect3616" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ethring"
+       width="192.24464"
+       height="113.8"
+       x="4293.4639"
+       y="4255.5635"
+       inkscape:label="#rect3618" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="edhelond"
+       width="234.22911"
+       height="165.72815"
+       x="3973.0562"
+       y="4375.9922"
+       inkscape:label="#rect3620" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ringlo"
+       width="400.78125"
+       height="269.53125"
+       x="4050"
+       y="4225"
+       inkscape:label="#rect3622" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ciril"
+       width="146.09375"
+       height="303.90625"
+       x="4146.0938"
+       y="4162.5"
+       inkscape:label="#rect3624" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="calembel"
+       width="153.125"
+       height="88.28125"
+       x="4189.8438"
+       y="4238.2812"
+       inkscape:label="#rect3626" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="morthond"
+       width="236.71875"
+       height="467.1875"
+       x="3912.5"
+       y="4024.2188"
+       inkscape:label="#rect3628" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="erech"
+       width="167.1875"
+       height="111.71875"
+       x="3991.4062"
+       y="4076.5625"
+       inkscape:label="#rect3630" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="eryn-firien"
+       width="271.09375"
+       height="163.28125"
+       x="4325.7812"
+       y="4028.9062"
+       inkscape:label="#rect3632" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="lo-edrain"
+       width="352.34375"
+       height="107.8125"
+       x="4260.9375"
+       y="4014.0625"
+       inkscape:label="#rect3634" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ethir-onodlo"
+       width="317.1875"
+       height="262.5"
+       x="4514.8438"
+       y="3835.9375"
+       inkscape:label="#rect3636" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="onodlo"
+       width="904.6875"
+       height="682.8125"
+       x="3920.3125"
+       y="3420.3125"
+       inkscape:label="#rect3638" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="edoras"
+       width="206.25"
+       height="134.375"
+       x="4003.125"
+       y="3790.625"
+       inkscape:label="#rect3640" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="nen-hithoel"
+       width="208.26505"
+       height="153.57475"
+       x="4571.8872"
+       y="3742.9109"
+       inkscape:label="#rect3642" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="lefnui"
+       width="521.49121"
+       height="706.00189"
+       x="3033.9299"
+       y="4094.2544"
+       inkscape:label="#rect3644" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="hartofn"
+       width="250.80193"
+       height="217.6563"
+       x="4572.9922"
+       y="3314.2273"
+       inkscape:label="#rect3646" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="fortofn"
+       width="262.95532"
+       height="236.43883"
+       x="4487.9185"
+       y="3160.6526"
+       inkscape:label="#rect3648" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="parth-celebrant"
+       width="257.43106"
+       height="208.81746"
+       x="4310.0366"
+       y="3120.8779"
+       inkscape:label="#rect3650" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="cil-rohan"
+       width="259.375"
+       height="233.59375"
+       x="3714.0625"
+       y="3557.8125"
+       inkscape:label="#rect3652" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="angrenost"
+       width="203.90625"
+       height="171.875"
+       x="3653.125"
+       y="3433.5938"
+       inkscape:label="#rect3654" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="eryn-vorn"
+       width="304.6875"
+       height="253.125"
+       x="3432.0312"
+       y="3212.5"
+       inkscape:label="#rect3656" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="adorn"
+       width="520.38739"
+       height="203.29324"
+       x="3293.5708"
+       y="3732.9673"
+       inkscape:label="#rect3658" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="sir-angren"
+       width="945.75531"
+       height="444.15143"
+       x="2856.0483"
+       y="3453.439"
+       inkscape:label="#rect3660" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="lond-daer"
+       width="374.54562"
+       height="289.47183"
+       x="2630.6582"
+       y="3294.3401"
+       inkscape:label="#rect3662" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="nin-in-eilph"
+       width="345.8194"
+       height="228.70485"
+       x="3286.9417"
+       y="2764.01"
+       inkscape:label="#rect3664" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="glanduin"
+       width="542.48346"
+       height="164.62329"
+       x="3299.095"
+       y="2789.4216"
+       inkscape:label="#rect3666" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="tharbad"
+       width="260.74561"
+       height="101.6466"
+       x="3169.8271"
+       y="2818.1477"
+       inkscape:label="#rect3668" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="andrath"
+       width="2156.6755"
+       height="2969.8484"
+       x="2925.6543"
+       y="1861.344"
+       inkscape:label="#rect3670" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="mitheithel"
+       width="1356.25"
+       height="1659.375"
+       x="2721.875"
+       y="1825.0001"
+       inkscape:label="#rect3672" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="bruinen"
+       width="494.97473"
+       height="466.24854"
+       x="3617.293"
+       y="2141.9768"
+       inkscape:label="#rect3674" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="eryn-teryg"
+       width="349.13397"
+       height="331.4563"
+       x="3648.229"
+       y="2104.4119"
+       inkscape:label="#rect3676" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="imladris"
+       width="151.5625"
+       height="123.4375"
+       x="3950"
+       y="2132.8125"
+       inkscape:label="#rect3678" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="sir-ninglor"
+       width="425.36893"
+       height="167.93785"
+       x="4094.5901"
+       y="2362.9478"
+       inkscape:label="#rect3680" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="parth-ninglor"
+       width="293.89124"
+       height="239.75339"
+       x="4243.7456"
+       y="2402.7227"
+       inkscape:label="#rect3682" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rhosgobel"
+       width="288.36697"
+       height="117.11456"
+       x="4439.3047"
+       y="2600.4915"
+       inkscape:label="#rect3684" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rhunag"
+       width="350.23883"
+       height="224.28543"
+       x="4843.6812"
+       y="2560.7168"
+       inkscape:label="#rect3686" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="caras-galdhon"
+       width="142.1875"
+       height="98.4375"
+       x="4197.6562"
+       y="2853.9062"
+       inkscape:label="#rect3688" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="celebrant"
+       width="360.15625"
+       height="337.5"
+       x="4000.7812"
+       y="2698.4375"
+       inkscape:label="#rect3690" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="nimrodel"
+       width="128.90625"
+       height="74.21875"
+       x="4019.5312"
+       y="2882.8125"
+       inkscape:label="#rect3692" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="fanuidhol"
+       width="230.46875"
+       height="189.0625"
+       x="3847.6562"
+       y="2763.2812"
+       inkscape:label="#rect3694" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="celebril"
+       width="255.46875"
+       height="168.75"
+       x="3799.2188"
+       y="2661.7188"
+       inkscape:label="#rect3696" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="caradhras"
+       width="214.84375"
+       height="210.15625"
+       x="3941.4062"
+       y="2550.7812"
+       inkscape:label="#rect3698" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="carnen"
+       width="787.5"
+       height="1028.125"
+       x="5662.5"
+       y="1825.0001"
+       inkscape:label="#rect3700" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="celduin"
+       width="878.125"
+       height="778.125"
+       x="5046.875"
+       y="1706.2501"
+       inkscape:label="#rect3702" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="erebor"
+       width="228.125"
+       height="185.9375"
+       x="5018.75"
+       y="1643.7501"
+       inkscape:label="#rect3704" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="imlad"
+       width="135.15625"
+       height="71.09375"
+       x="5070.3125"
+       y="1757.8126"
+       inkscape:label="#rect3706" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="andnen"
+       width="96.875"
+       height="112.5"
+       x="5075"
+       y="1800.7814"
+       inkscape:label="#rect3708" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="talf-tharn"
+       width="661.80774"
+       height="228.70485"
+       x="4635.9688"
+       y="1423.8217"
+       inkscape:label="#rect3710" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="gundabad"
+       width="214.34174"
+       height="180.09125"
+       x="3987.4192"
+       y="1443.709"
+       inkscape:label="#rect3712" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="anduithel"
+       width="207.71262"
+       height="164.62329"
+       x="4187.3979"
+       y="1760.8021"
+       inkscape:label="#rect3714" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="mithnen"
+       width="86.178635"
+       height="155.78445"
+       x="4302.3027"
+       y="1586.2352"
+       inkscape:label="#rect3716" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3.33354306;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="men-eryn-iaur"
+       width="961.99457"
+       height="317.8645"
+       x="4272.6387"
+       y="1978.6252"
+       inkscape:label="#rect3718" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3720"
+       width="318.19806"
+       height="238.64853"
+       x="3433.8872"
+       y="1304.4973" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="forochel"
+       width="512.5"
+       height="359.375"
+       x="2250"
+       y="984.37512"
+       inkscape:label="#rect3722" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="forlond"
+       width="278.125"
+       height="206.25"
+       x="1484.375"
+       y="2056.2502"
+       inkscape:label="#rect3724" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="harlond"
+       width="265.625"
+       height="240.625"
+       x="1700"
+       y="2321.875"
+       inkscape:label="#rect3726" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="mithlond"
+       width="287.5"
+       height="209.375"
+       x="1959.375"
+       y="2168.75"
+       inkscape:label="#rect3728" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="emyn-beraid"
+       width="260.74561"
+       height="341.39999"
+       x="2193.1357"
+       y="2118.7749"
+       inkscape:label="#rect3730" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="emyn-haeron"
+       width="149.15533"
+       height="211.02718"
+       x="2393.1145"
+       y="2178.437"
+       inkscape:label="#rect3732" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="emyn-nim"
+       width="116.0097"
+       height="162.41359"
+       x="2521.2776"
+       y="2167.9409"
+       inkscape:label="#rect3734" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="sarnathrad"
+       width="162.5"
+       height="153.125"
+       x="2843.75"
+       y="2453.125"
+       inkscape:label="#rect3736" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="in-emyn"
+       width="187.5"
+       height="164.84375"
+       x="2893.75"
+       y="2191.4062"
+       inkscape:label="#rect3738" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="bree"
+       width="248.4375"
+       height="184.375"
+       x="2960.1562"
+       y="2155.4688"
+       inkscape:label="#rect3740" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="emyn-harad"
+       width="345.3125"
+       height="161.71875"
+       x="3100"
+       y="2292.9688"
+       inkscape:label="#rect3742" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="amon-sul"
+       width="210.9375"
+       height="144.53125"
+       x="3246.875"
+       y="2149.2188"
+       inkscape:label="#rect3744" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="emyn-sul"
+       width="266.40625"
+       height="277.34375"
+       x="3169.5312"
+       y="1989.0626"
+       inkscape:label="#rect3746" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="fornost-erain"
+       width="489.0625"
+       height="155.46875"
+       x="2746.875"
+       y="1834.3751"
+       inkscape:label="#rect3748" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="emyn-formen"
+       width="524.21875"
+       height="258.59375"
+       x="2783.5938"
+       y="1685.9376"
+       inkscape:label="#rect3750" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="nenuial"
+       width="291.40625"
+       height="198.4375"
+       x="2510.1562"
+       y="1787.5001"
+       inkscape:label="#rect3752" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="6"
+     style="display:inline">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7476"
+       width="1839.6735"
+       height="1141.7142"
+       x="-32881.617"
+       y="-5028.9736" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7478"
+       width="3670.5305"
+       height="2280.4897"
+       x="-33009.379"
+       y="-5112.1743" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7488"
+       width="10995.511"
+       height="6876.6133"
+       x="-33551.758"
+       y="-5503.9185" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="haudh-in-gwanur"
+       width="200.53105"
+       height="50.823299"
+       x="4942.5659"
+       y="4792.5225"
+       inkscape:label="#rect3754" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="sirith"
+       width="181.25"
+       height="491.40625"
+       x="4662.5"
+       y="4275"
+       inkscape:label="#rect3756" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="sir-celos"
+       width="91.40625"
+       height="210.15625"
+       x="4745.3125"
+       y="4303.125"
+       inkscape:label="#rect3758" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="erui"
+       width="167.96875"
+       height="239.84375"
+       x="4828.125"
+       y="4293.75"
+       inkscape:label="#rect3760" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="emyn-arnen"
+       width="179.6875"
+       height="142.96875"
+       x="4960.1562"
+       y="4332.0312"
+       inkscape:label="#rect3762" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="minas-morgul"
+       width="158.5466"
+       height="140.86893"
+       x="5065.7568"
+       y="4207.502"
+       inkscape:label="#rect3764" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="cirith-ungol"
+       width="157.44174"
+       height="140.86893"
+       x="5146.9639"
+       y="4227.3896"
+       inkscape:label="#rect3766" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="minolduin"
+       width="172.9097"
+       height="124.29611"
+       x="4813.8501"
+       y="4203.0825"
+       inkscape:label="#rect3768" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="amon-din"
+       width="106.61844"
+       height="74.025238"
+       x="4916.0493"
+       y="4174.9087"
+       inkscape:label="#rect3770" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="eilenach"
+       width="112.14267"
+       height="86.731705"
+       x="4813.2979"
+       y="4164.9653"
+       inkscape:label="#rect3772" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="serini"
+       width="221.09375"
+       height="265.625"
+       x="4450.7812"
+       y="4452.3438"
+       inkscape:label="#rect3774" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="dol-amroth"
+       width="200.78125"
+       height="179.6875"
+       x="3867.9688"
+       y="4560.9375"
+       inkscape:label="#rect3776" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="achad-tarlang"
+       width="203.125"
+       height="133.59375"
+       x="4028.9062"
+       y="4082.0312"
+       inkscape:label="#rect3778" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="mornorod"
+       width="170.3125"
+       height="135.9375"
+       x="3946.0938"
+       y="3942.1875"
+       inkscape:label="#rect3780" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rudhrasg"
+       width="123.74368"
+       height="107.17087"
+       x="4061.4446"
+       y="3939.0225"
+       inkscape:label="#rect3782" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="irensaga"
+       width="112.14272"
+       height="94.465042"
+       x="4073.0454"
+       y="3895.3806"
+       inkscape:label="#rect3784" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ered-morn"
+       width="79.549515"
+       height="46.403881"
+       x="3986.3145"
+       y="3905.877"
+       inkscape:label="#rect3786" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="dunharrow"
+       width="87.835922"
+       height="45.851456"
+       x="3997.9153"
+       y="3867.7593"
+       inkscape:label="#rect3788" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="losstoben"
+       width="199.97864"
+       height="85.626213"
+       x="4091.8279"
+       y="3810.3069"
+       inkscape:label="#rect3790" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="athrad-onodlo"
+       width="150.26019"
+       height="80.654366"
+       x="4202.3135"
+       y="3664.4661"
+       inkscape:label="#rect3792" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="nardol"
+       width="105.46875"
+       height="118.35938"
+       x="4711.7188"
+       y="4177.3438"
+       inkscape:label="#rect3794" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3796"
+       width="77.734375"
+       height="118.75"
+       x="4663.2812"
+       y="4164.4531" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="min-rimmon"
+       width="114.84375"
+       height="65.625"
+       x="4563.6719"
+       y="4169.9219"
+       inkscape:label="#rect3798" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="calenhad"
+       width="110.15625"
+       height="95.703125"
+       x="4509.7656"
+       y="4124.6094"
+       inkscape:label="#rect3800" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="eryn-uireb"
+       width="111.71875"
+       height="85.9375"
+       x="4466.4062"
+       y="4085.9375"
+       inkscape:label="#rect3802" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="amon-anwar"
+       width="92.578125"
+       height="89.453125"
+       x="4409.375"
+       y="4082.0312"
+       inkscape:label="#rect3804" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="glanhir"
+       width="204.29688"
+       height="146.875"
+       x="4389.0625"
+       y="4005.0781"
+       inkscape:label="#rect3806" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="belannurath"
+       width="1316.9863"
+       height="605.46014"
+       x="3701.262"
+       y="3664.4661"
+       inkscape:label="#rect3808" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="athrad-angren"
+       width="173.04688"
+       height="103.51562"
+       x="3682.8125"
+       y="3646.875"
+       inkscape:label="#rect3810" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="orthanc"
+       width="53.125"
+       height="69.726562"
+       x="3722.2656"
+       y="3464.6484"
+       inkscape:label="#rect3812" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="methedras"
+       width="103.71094"
+       height="83.007812"
+       x="3709.9609"
+       y="3399.4141"
+       inkscape:label="#rect3814" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rath-harad-iaur"
+       width="775.60767"
+       height="1531.3273"
+       x="2980.897"
+       y="2195.01"
+       inkscape:label="#rect3816" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="calenrath"
+       width="260.15625"
+       height="452.34375"
+       x="2921.875"
+       y="1850.7814"
+       inkscape:label="#rect3818" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="amon-hen"
+       width="114.07621"
+       height="65.186401"
+       x="4592.3271"
+       y="3826.8796"
+       inkscape:label="#rect3832" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="amon-lhaw"
+       width="110.76048"
+       height="70.71064"
+       x="4659.4468"
+       y="3810.8594"
+       inkscape:label="#rect3834" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="tol-brandir"
+       width="141.42136"
+       height="78.444656"
+       x="4607.5186"
+       y="3786.0002"
+       inkscape:label="#rect3836" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="lanthir-rauros"
+       width="123.46747"
+       height="77.339806"
+       x="4624.9204"
+       y="3816.3835"
+       inkscape:label="#rect3838" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="parth-galen"
+       width="78.720871"
+       height="62.700481"
+       x="4614.7002"
+       y="3807.5449"
+       inkscape:label="#rect3840" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="carach-angren"
+       width="117.57812"
+       height="88.671875"
+       x="5189.8438"
+       y="3907.4219"
+       inkscape:label="#rect3846" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="durthang"
+       width="53.515625"
+       height="54.6875"
+       x="5157.0312"
+       y="3913.2812"
+       inkscape:label="#rect3848" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="morannon"
+       width="131.64062"
+       height="83.984375"
+       x="5129.2969"
+       y="3820.3125"
+       inkscape:label="#rect3850" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="narcost"
+       width="52.734375"
+       height="57.8125"
+       x="5147.2656"
+       y="3828.5156"
+       inkscape:label="#rect3852" />
+    <rect
+       inkscape:label="#rect3852"
+       y="3821.875"
+       x="5186.7188"
+       height="57.8125"
+       width="52.734375"
+       id="carcost"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="barad-durin"
+       width="180.46875"
+       height="104.29688"
+       x="3812.1094"
+       y="2633.5938"
+       inkscape:label="#rect3862" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="annon-caradhras"
+       width="228.125"
+       height="136.32812"
+       x="3828.9062"
+       y="2581.25"
+       inkscape:label="#rect3864" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="nanduhirion"
+       width="160.15625"
+       height="136.71875"
+       x="3948.0469"
+       y="2629.6875"
+       inkscape:label="#rect3866" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="nen-cenedril"
+       width="73.196602"
+       height="62.976696"
+       x="3992.9436"
+       y="2691.0896"
+       inkscape:label="#rect3868" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="arcirith"
+       width="301.17188"
+       height="138.28125"
+       x="4031.25"
+       y="2046.0939"
+       inkscape:label="#rect3874" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="athrad-iaur"
+       width="149.60938"
+       height="113.28125"
+       x="4365.2344"
+       y="2113.2812"
+       inkscape:label="#rect3876" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="beorn"
+       width="144.92188"
+       height="117.96875"
+       x="4416.4062"
+       y="2056.25"
+       inkscape:label="#rect3878" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="gond"
+       width="114.45312"
+       height="98.828125"
+       x="4368.75"
+       y="2013.672"
+       inkscape:label="#rect3880" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="annon-eryn"
+       width="166.83301"
+       height="107.17087"
+       x="4333.2388"
+       y="1821.5692"
+       inkscape:label="#rect3882" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="erynrad"
+       width="578.94366"
+       height="123.19125"
+       x="4414.998"
+       y="1797.8148"
+       inkscape:label="#rect3884" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="erynduin"
+       width="577.28638"
+       height="301.07281"
+       x="4431.5708"
+       y="1578.5012"
+       inkscape:label="#rect3886" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="andlo"
+       width="77.339806"
+       height="70.158249"
+       x="5044.2124"
+       y="1830.9604"
+       inkscape:label="#rect3888" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2.32372856;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="esgaroth"
+       width="112.81899"
+       height="60.338402"
+       x="5078.6772"
+       y="1823.9932"
+       inkscape:label="#rect3890" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="amon-craban"
+       width="54.492188"
+       height="43.554688"
+       x="5097.0703"
+       y="1746.0939"
+       inkscape:label="#rect3892" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="orod-gram"
+       width="260.19321"
+       height="187.82524"
+       x="3624.4746"
+       y="1622.1429"
+       inkscape:label="#rect3894" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="elostirion"
+       width="158.5462"
+       height="85.073341"
+       x="2263.8464"
+       y="2188.9331"
+       inkscape:label="#rect3896" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="men-daer-rhun-annui"
+       width="2006.4154"
+       height="247.48737"
+       x="2061.6582"
+       y="2144.1865"
+       inkscape:label="#rect3898" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="baranduiniant"
+       width="96.950966"
+       height="85.073784"
+       x="2747.4966"
+       y="2181.4753"
+       inkscape:label="#rect3902" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="eryn-iaur"
+       width="141.69757"
+       height="170.42378"
+       x="2811.3018"
+       y="2190.5906"
+       inkscape:label="#rect3904" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="eryn-ost"
+       width="108.5"
+       height="105"
+       x="3042.5"
+       y="2156.5"
+       inkscape:label="#rect3906" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="lo"
+       width="148.5"
+       height="131"
+       x="3105"
+       y="2132.5"
+       inkscape:label="#rect3908" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="iant-vedui"
+       width="141.75"
+       height="89.5"
+       x="3619"
+       y="2151"
+       inkscape:label="#rect3910" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="annuminas"
+       width="71.25"
+       height="68.5"
+       x="2656.5"
+       y="1898.5"
+       inkscape:label="#rect3912" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="cerin-amroth"
+       width="87.875"
+       height="42.625"
+       x="4220.5"
+       y="2897.375"
+       inkscape:label="#rect3914" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="7"
+     style="display:inline">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7472"
+       width="323.65289"
+       height="200.01021"
+       x="-32721.062"
+       y="-4883.0146" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7474"
+       width="646.78625"
+       height="400.02042"
+       x="-32775.613"
+       y="-4935.4849" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="pelennor"
+       width="123.46747"
+       height="124.29611"
+       x="4930.6885"
+       y="4235.6758"
+       inkscape:label="#rect3820" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="osgiliath"
+       width="130.46875"
+       height="125.78125"
+       x="4977.3438"
+       y="4235.9375"
+       inkscape:label="#rect3822" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="imlad-thol"
+       width="173.4375"
+       height="69.53125"
+       x="3837.5"
+       y="3771.0938"
+       inkscape:label="#rect3824" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="iorost"
+       width="59.109707"
+       height="56.347569"
+       x="3878.8672"
+       y="3776.6089"
+       inkscape:label="#rect3826" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="imladnur"
+       width="166.00436"
+       height="69.329605"
+       x="3827.2153"
+       y="3768.875"
+       inkscape:label="#rect3828" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="aglarond"
+       width="82.58786"
+       height="83.968925"
+       x="3826.3867"
+       y="3761.4172"
+       inkscape:label="#rect3830" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="sarn-gebir"
+       width="119.14062"
+       height="183.98438"
+       x="4591.0156"
+       y="3625"
+       inkscape:label="#rect3842" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="argonath"
+       width="125.78125"
+       height="94.140625"
+       x="4579.6875"
+       y="3606.6406"
+       inkscape:label="#rect3844" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ost-in-edhil"
+       width="93.360191"
+       height="64.357765"
+       x="3738.2747"
+       y="2810.6899"
+       inkscape:label="#rect3856" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="pendlanthir"
+       width="51.928154"
+       height="47.508736"
+       x="3781.364"
+       y="2866.209"
+       inkscape:label="#rect3858" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ennyn-moria"
+       width="56.071358"
+       height="50.547085"
+       x="3807.8804"
+       y="2859.3035"
+       inkscape:label="#rect3860" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="loeg-ningloron"
+       width="139.84375"
+       height="97.65625"
+       x="4365.625"
+       y="2411.3281"
+       inkscape:label="#rect3870" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="athrad-imladris"
+       width="102.34375"
+       height="69.140625"
+       x="3918.3594"
+       y="2197.2656"
+       inkscape:label="#rect3872" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="caras-perian"
+       width="224.28543"
+       height="162.6898"
+       x="2550.5562"
+       y="2134.7954"
+       inkscape:label="#rect3900" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="8"
+     style="display:inline">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7486"
+       width="228.48979"
+       height="141.06122"
+       x="-32693.381"
+       y="-4860.9829" />
+  </g>
+</svg>
