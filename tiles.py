@@ -39,5 +39,5 @@ def seed(file_name, prefix, suffix):
     quad(image, prefix, suffix, 0, 0, width, height)
 
 seed("build/ennorath-geography-16000.png", "build/tiles/g", ".png")
-seed("build/ennorath-labels-16000.png", "build/tiles/l", ".png")
+#seed("build/ennorath-labels-16000.png", "build/tiles/l", ".png")
 
