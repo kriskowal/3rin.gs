@@ -11,17 +11,9 @@
 
 var SNAP_DELAY = 200;
 var TILE_SIZE = 200;
+var showing, neighborhoods, regions, bounds, scale;
 
-$("#labels-check").click(function () {
-    $(".layer-l").css({
-        "display": $(this).attr("checked") ? "block" : "none"
-    });
-});
-
-Map("#map", [ // layers
-    {"name": "Geography", "prefix": "g"},
-    {"name": "Labels", "prefix": "l"}
-], [ // scale sizes
+var scaleSizes = [
     200,
     400,
     800,
@@ -29,26 +21,113 @@ Map("#map", [ // layers
     3200,
     6400,
     12800
-], function (layer, scale, position, div) { // getTile
+];
+
+$("#labels-check").click(function () {
+    $(".layer-l").css({
+        "display": $(this).attr("checked") ? "block" : "none"
+    });
+});
+
+$.ajax({
+    "url": "data.json",
+    "dataType": "json",
+    "success": function (data) {
+        regions = data.regions;
+        for (var name in regions) {
+            var region = regions[name];
+            // transport numbers
+            region.top = region.y;
+            region.left = region.x;
+            region.height = region.h;
+            region.width = region.w;
+            delete region.y;
+            delete region.x;
+            delete region.h;
+            delete region.w;
+            // computed numbers
+            region.centerTop = region.top + region.height / 2;
+            region.centerLeft = region.left + region.width / 2;
+        }
+        neighborhoods = data.neighborhoods;
+        onShow();
+    }
+});
+
+Map("#map", [ // layers
+    {"name": "Geography", "prefix": "g"},
+    {"name": "Labels", "prefix": "l"}
+], scaleSizes, function (layer, scale, position, div) { // getTile
     if (!div)
         div = $("<img>");
-    var path = [];
-    for (var i = 0; i < scale; i++) {
-        var y = position.top & (1 << i) && 1;
-        var x = position.left & (1 << i) && 1;
-        path.unshift("0123".charAt(y << 1 | x));
-    }
+    position.scale = scale;
+    var quadkey = QuadKey(position);
     return div.attr({
         "src":
             "http://3rin.gs/tiles/" +
             layer.prefix +
-            path.join("") +
+            quadkey +
             ".png",
         "class": "tile"
     });
-});
+}, function (_showing, _bounds, _scale) {
+    showing = _showing;
+    bounds = _bounds;
+    scale = _scale;
+    onShow();
+}); // onShow
 
-function Map(selector, layers, scales, getTile) {
+// discover the most relevant visible regions when new tiles
+// are shown
+function onShow() {
+    var set = {}, list = [], i, ii, j, jj, quadkey, _regions, region, name;
+    if (!neighborhoods || !bounds)
+        return;
+    for (i = 0, ii = showing.length; i < ii; i++) {
+        quadkey = QuadKey(showing[i]);
+        while (!neighborhoods[quadkey])
+            quadkey = quadkey.slice(0, quadkey.length - 1);
+        _regions = neighborhoods[quadkey];
+        for (j = 0, jj = _regions.length; j < jj; j++) {
+            set[_regions[j]] = true;
+        }
+    }
+    for (name in set) {
+        regions[name].name = name;
+        list.push(regions[name]);
+    }
+    var center = {
+        "top": (bounds.top + bounds.bottom + 1) / 2 * TILE_SIZE / scaleSizes[scale],
+        "left": (bounds.left + bounds.right + 1) / 2 * TILE_SIZE / scaleSizes[scale]
+    };
+    for (i = 0, ii = list.length; i < ii; i++) {
+        region = list[i];
+        region.distance = Math.sqrt(
+            Math.pow(center.top - region.centerTop, 2) +
+            Math.pow(center.left - region.centerLeft, 2)
+        );
+    }
+    list.sort(function (a, b) {
+        return a.distance - b.distance;
+    });
+    for (i = 0, ii = Math.min(5, list.length); i < ii; i++) {
+        region = list[i];
+    }
+}
+
+// computes a quadkey, as used to name tiles, based on
+// the position, including the scale, of the tile.
+function QuadKey(position) {
+    var path = [];
+    for (var i = 0, ii = position.scale; i < ii; i++) {
+        var y = position.top & (1 << i) && 1;
+        var x = position.left & (1 << i) && 1;
+        path.unshift("0123".charAt(y << 1 | x));
+    }
+    return path.join("")
+}
+
+function Map(selector, layers, scales, getTile, onShow) {
     $(selector).each(function () {
         var freeList = [];
         var tiles = {};
@@ -160,7 +239,7 @@ function Map(selector, layers, scales, getTile) {
         // fills the visible region with the correct tiles, garbage
         // collecting the tiles that are no longer visible
         function show(viewport) {
-            var x, y, i, ii, layer;
+            var x, y, i, ii, layer, showing = [];
             calculateBounds(viewport);
             collect(); // garbage tiles
             for (i = 0, ii = layers.length; i < ii; i++) {
@@ -177,6 +256,19 @@ function Map(selector, layers, scales, getTile) {
                         }
                     }
                 }
+            }
+
+            if (onShow) {
+                for (y = bounds.top; y <= bounds.bottom; y++) {
+                    for (x = bounds.left; x <= bounds.right; x++) {
+                        showing.push({
+                            "top": y,
+                            "left": x,
+                            "scale": scale
+                        });
+                    }
+                }
+                onShow(showing, bounds, scale);
             }
 
             if (hashHandle)

@@ -6,6 +6,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="10000"
@@ -14,9 +15,31 @@
    sodipodi:version="0.32"
    inkscape:version="0.46"
    version="1.0"
-   sodipodi:docname="normal.svg"
+   sodipodi:docname="label.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
-  <defs>
+  <defs
+     id="defs3">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 750 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="10000 : 750 : 1"
+       inkscape:persp3d-origin="5000 : 500 : 1"
+       id="perspective11" />
+    <inkscape:perspective
+       id="perspective2511"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2530"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -68,12 +91,20 @@
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:12.40600014;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect2387"
-       width="3807.2354"
+       width="4186.8271"
        height="1501.7664"
        x="0"
        y="-0.8831653"
-       inkscape:export-filename="/home/kris/Dropbox/Public/endor/labels/emyn-lasgalen-st-normalized.png"
+       inkscape:export-filename="/home/kris/Dropbox/Public/ennorath/labels/men-daer-rhun-annui-st-normalized.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
+    <image
+       y="228.62245"
+       x="18.352285"
+       id="image2532"
+       height="991.73468"
+       width="4240.8467"
+       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/labels/men-daer-rhun-annui-st.png"
+       xlink:href="labels/men-daer-rhun-annui-st.png" />
   </g>
 </svg>

@@ -1,5 +1,8 @@
-
 # -*- coding: UTF-8 -*-
+
+"""
+Constructs an index.html for debugging the translation and region information.
+"""
 
 from regions import regions as get_regions
 from names import names as get_names
@@ -7,70 +10,6 @@ from labels import labels as get_labels
 regions = get_regions()
 names = get_names()
 labels = get_labels()
-
-HTML = """\
-<html>
-    <head>
-        <title>Ennorath</title>
-        <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
-        <style>
-
-            body, p, td, th, li, a {
-                /* http://www.awayback.com/revised-font-stack/ */
-                font-family: Garamond,Baskerville,"Baskerville Old Face","Hoefler Text","Times New Roman",serif;
-                font-size: 24px;
-            }
-
-            small {
-                font-size: 70%%;
-            }
-
-            td {
-                padding: 1em;
-            }
-
-            a {
-                color: #0000aa;
-            }
-            a:visited {
-                color: #7777aa;
-            }
-
-            img.thumbnail {
-                border: solid 1px #cccccc;
-                height: 200px;
-                width: 200px;
-            }
-
-            img.label {
-                height: 100px;
-                vertical-align: middle;
-            }
-
-        </style>
-    </head>
-    <body>
-        <table>
-            %s
-        </table>
-    </body>
-</html>
-"""
-
-REGION = """\
-<tr>
-    <td>
-        <a href="%(href)s"><img class="thumbnail" src="%(thumbnail)s"></a></p>
-    </td>
-    <td valign="top">
-        %(languages)s
-    </td>
-</tr>
-"""
-
-LANGUAGE = """\
-<p><em><strong>%s:</strong></em> %s%s %s %s</p> %s
-"""
 
 def language_abbr(language):
     return """<em><abbr title="%s">%s</abbr>.</em>""" % (
@@ -95,6 +34,10 @@ def label_html(language):
         label["Language"][0].lower(),
         label["Canonical"]
     )
+
+LANGUAGE = """\
+<p class="translation"><em><strong>%s:</strong></em> %s%s %s %s</p> %s
+"""
 
 def language_html(language):
     return LANGUAGE % (
@@ -146,6 +89,17 @@ def language_html(language):
         ),
     )
 
+REGION = """\
+<tr>
+    <td valign="top">
+        <a href="%(href)s"><img class="thumbnail" src="%(thumbnail)s"></a></p>
+    </td>
+    <td valign="top">
+        %(languages)s
+    </td>
+</tr>
+"""
+
 def region_html(name, region):
     return REGION % {
         "href": region["url"],
@@ -155,6 +109,59 @@ def region_html(name, region):
             for language in names.get(name, [])
         )
     }
+
+HTML = """\
+<html>
+    <head>
+        <title>Ennorath</title>
+        <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+        <style>
+
+            body, p, td, th, li, a {
+                /* http://www.awayback.com/revised-font-stack/ */
+                font-family: Garamond,Baskerville,"Baskerville Old Face","Hoefler Text","Times New Roman",serif;
+                font-size: 24px;
+            }
+
+            small {
+                font-size: 70%%;
+            }
+
+            td {
+                padding: 1em;
+            }
+
+            a {
+                color: #0000aa;
+            }
+            a:visited {
+                color: #7777aa;
+            }
+
+            img.thumbnail {
+                border: solid 1px #cccccc;
+                height: 200px;
+                width: 200px;
+            }
+
+            img.label {
+                height: 100px;
+                vertical-align: middle;
+            }
+
+            p.translation {
+                line-height: 100px;
+            }
+
+        </style>
+    </head>
+    <body>
+        <table>
+            %s
+        </table>
+    </body>
+</html>
+"""
 
 html = HTML % "".join(
     region_html(name, region)

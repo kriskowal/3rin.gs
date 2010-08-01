@@ -3,7 +3,7 @@ import csv
 
 def names():
     entires = {}
-    for line in csv.DictReader(open("names-0.0.csv")):
+    for line in csv.DictReader(open("names.csv")):
         entry = entires.setdefault(line["Canonical"], [])
         entry.append(dict(
             (key.decode("UTF-8"), value.decode("UTF-8"))

@@ -14,7 +14,7 @@ SINDARIN_LABEL_PAGES = "S page"
 ISSUES = "Outstanding Issues"
 NOTES = "Location"
 
-FILE = 'locations-0.1.csv'
+FILE = 'locations.csv'
 
 def locations():
     def item(row):

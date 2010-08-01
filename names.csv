@@ -1,11 +1,11 @@
 Canonical,Name,Language,Meaning,Attested,Constructed,Construction,Notes,TODO
 ennorath,Ennorath,Sindarin,middle-lands,,,middle E - en- S; land / earth E - nor S; -ath S - plural
 ennorath,Middle Earth,English
-ennorath,Endor,Quenya,middle-land
+ennorath,Endor,Quenya,middle-land,,,en- Q - mid- E
 mordor,Mordor,Sindarin,dark-land
-gondor,Gondor,Sindarin,stone-land
+gondor,Gondor,Sindarin,stone-land,,,gond S - stone E; dor S - land E
 gondor,Ondonóre,Quenya,stone-land
-calenardhon,Calenardhon,Sindarin,green-land
+calenardhon,Calenardhon,Sindarin,green-land,,,calen S - green E; ardhon S - realm E
 calenardhon,Rohan,Rohirric,horse-country
 eriador,Eriador,Sindarin,lone-land
 rhovanion,Rhovanion,Sindarin,wilderness-country
@@ -14,15 +14,15 @@ rhun,Rhûn,Sindarin,east
 forodwaith,Forodwaith,Sindarin,northern-realm,,,northern E > forod S; realm E > gwaith S; forod + gwaith S > forodwaith S
 haradwaith,Haradwaith,Sindarin,southern-realm,,,southern E > harad S; realm E > gwaith; harad + gwaith S > haradwaith S
 belegaer,Belegaer,Sindarin,great-sea,,,great E > beleg S; sea E > aer S
-,Near Harad,English,near south
-ardhon-iaur-arnor,Ardhon Iaur Arnor,Sindarin,realm old high-land
+near-harad,Near Harad,English,near south
+ardhon-iaur-arnor,Ardhon Iaur Arnor,Sindarin,realm old high-land,,,ardhon S - realm E; iaur S - old E; ar- S - high E; dor S - land E; ar + dor > arnor S
 ardhon-iaur-arnor,Lost Realm of Arnor,English
-cof-belfalas,Côf Belfalas,Sindarin
+cof-belfalas,Côf Belfalas,Sindarin,,,,côf S - bay E; beleg S - great E; falas S - shore E; beleg + falas > belfalas S
 cof-belfalas,Bay of Belfalas,English,bay of great-shore,,,bay E > côf S; great E > beleg S; shore E > falas S; beleg + falas S > belfalas S
 arthedain,Arthedain,Sindarin,realm of men,,,ardhon S - realm E; edain S - men E; ardhon + edain -> arthedain
 rhudaur,Rhudaur,Sindarin,east-forest,,,rhûn S - east E; daur S - forest E; rhûn + daur S > rhudaur S
 cardolan,Cardolan,Unknown
-minhiriath,Minhiriath,Sindarin,between-rivers
+minhiriath,Minhiriath,Sindarin,between-rivers,,,min- S - between E; sirion S - river E; -ath S - plural; min + sirion > minhirion S; sirion + ath > siriath S; minhirion + ath > minhiriath S
 enedhwaith,Enedwaith,Sindarin,mid-region,,,gwaith S - realm E; enedh S - middle E
 harondor,Harondor,Sindarin,south-Gondor (stone-land)
 forithilien,Forithilien,Sindarin,north-Ithilien,,Kris Kowal
@@ -223,8 +223,8 @@ gundabad,Mount Gundabad,English
 gundabad,Gundabad,Khuzdul,cave-
 ered-moria,Ered Moria,Sindarin,mountains of Moria (dark-chasm),,Kris Kowal,mountains of moria; ered > mountains
 ered-moria,Mountains of Moria,English
-arcirith,Argirith,Sindarin,,,Kris Kowal,high pass; ar > high; cirith > pass,Lenition r-c > r-g
-arcirith,High Pass,English
+argirith,Argirith,Sindarin,,,Kris Kowal,high pass; ar > high; cirith > pass,Lenition r-c > r-g
+argirith,High Pass,English
 emyn-nim,Emyn Nim,Sindarin,hills of white,,Kris Kowal,"white downs; downs > hills > emyn; white > nim, as in Ered Nimrais"
 emyn-nim,White Downs,English
 cair-andros,Cair Andros,Sindarin,ship of long foam
@@ -337,7 +337,7 @@ ethir-onodlo,Ethir Onodló,Sindarin,,,Kris Kowal,"Mouths of Entwash; mouths > et
 ethir-onodlo,Mouths of Entwash,English
 athrad-onodlo,Athrad Onodló,Sindarin,,,Kris Kowal,Entwade > Ford of Entwash; ford > athrad; Entwash > Onodló
 athrad-onodlo,Entwade,English
-,,Sindarin,,,,Snowbourn; loss > snow; toben ?,"I can't recall that I suggested this form, and I am at a loss to explain the etymology. Perhaps better with Lossir < loss+sîr? -Måns"
+lossir,Lossir,Sindarin,,,Måns Björkman,snow E > loss S; river E > sîr S; loss + sîr > lossir
 ,Snowbourn,English
 onodlo,Onodló,Sindarin,ent-wash
 onodlo,Entwash,English
@@ -386,7 +386,7 @@ amon-din,Amon Dîn,Sindarin,hill of silence
 nardol,Nardol,Sindarin,fire hill
 erelas,Erelas,Unknown
 calenhad,Calenhad,Sindarin,green ?
-,Upbourn,English
+upbourn,Upbourn,English
 nen-cenedril,Nen Cenedril,Sindarin,,,Kris Kowal / Måns Björkman,Mirrormere > mirror + mere > Lake Mirror; mirror E > cenedril S; mere E > lake / water E > nen S
 nen-cenedril,Mirrormere,English
 orod-gram,Orod Gram,Sindarin,,,Kris Kowal,Mt. Gram; mountain E > orod S
@@ -411,8 +411,9 @@ lithlad,Ash Plain,English
 sarngebir,Sarngebir,Sindarin,stone ridge
 parth-galen,Parth Galen,Sindarin
 parth-galen,Greenfield,English
-sarngond,Sarngond,Sindarin,,,Kris Kowal,Carrock > car + rock; car <em>anglo saxon</em> > rock E > sarn S; rock / stone E > gond S,http://lotr.wikia.com/wiki/Carrock
-sarngond,Carrock,English
+carag,Sargond,Sindarin,,,Kris Kowal,Carrock > car + rock; car <em>anglo saxon</em> > rock E > sarn S; rock / stone E > gond S,http://lotr.wikia.com/wiki/Carrock,_Sargond_; cf. _morgul_ < _morn-gul_.
+carag,Carag,Sindarin,"spike, tooth of rock",,Måns Björkman
+carag,Carrock,English
 celduin,Celduin,Sindarin,run river
 celduin,River Running,English
 emyn-ring,Emyn Ring,Sindarin,,,Kris Kowal,"Coldfells > cold + fells; fells E > hills E > emyn S; cold E > ring S, as in Ringló"
@@ -424,7 +425,7 @@ eryn-uireb,Eryn Uireb,Sindarin,,,Kris Kowal,Everholt > ever + holt; ever / etern
 eryn-uireb,Everholt,English
 imladnur,Imladnûr,Sindarin,,,Kris Kowal,Deeping Comb E; deeping E > deep E > nur S; comb E > narrow valley E > valley E > imlad S
 imladnur,Deeping Coomb,English
-,Withywindle,English
+withywindle,Withywindle,English
 andnen,Andnen,Sindarin,long lake,,Kris Kowal,Long Lake E; long E > and S; lake / water E > nen S
 andnen,Long Lake,English
 andlo,Andló,Sindarin,long marsh,,Kris Kowal,Long Marshes E; long E > and S; marshes E > ló S
@@ -444,8 +445,8 @@ erynduin,Erynduin,Sindarin,,,Kris Kowal,Forest River; forest / woods E > eryn S;
 erynduin,Forest River,English
 erech,Erech,English
 dol-amroth,Dol Amroth,Sindarin,Amroth's tower
-,Framsburg,English
-,Rhimdath,Sindarin
-,The Angle,English
-,Helevorn,Sindarin
-,Mt. Rerir,English
+framsburg,Framsburg,English
+rhimdath,Rhimdath,Sindarin
+the-angle,The Angle,English
+helevorn,Helevorn,Sindarin
+orod-rerir,Mt. Rerir,English

@@ -1,5 +1,5 @@
 
-import Image, ImageColor, ImageFont, ImageDraw
+import Image
 
 TILE_HEIGHT = 200
 TILE_WIDTH = 200
@@ -38,6 +38,10 @@ def seed(file_name, prefix, suffix):
     width, height = (int(n) for n in image.size)
     quad(image, prefix, suffix, 0, 0, width, height)
 
-seed("build/ennorath-geography-16000.png", "build/tiles/g", ".png")
-#seed("build/ennorath-labels-16000.png", "build/tiles/l", ".png")
+def the_usual():
+    seed("build/ennorath-geography-16000.png", "build/tiles/g", ".png")
+    seed("build/ennorath-labels-16000.png", "build/tiles/l", ".png")
+
+if __name__ == '__main__':
+    the_usual()
 

@@ -17,7 +17,7 @@
    sodipodi:docname="geography.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
-   inkscape:export-filename="/home/kris/Dropbox/Public/ennorath/build/ennorath-geography-16000.png"
+   inkscape:export-filename="/home/kris/Dropbox/Public/ennorath/build/ennorath-geography-16000-export.png"
    inkscape:export-xdpi="200"
    inkscape:export-ydpi="200"
    style="display:inline">
@@ -826,9 +826,9 @@
      objecttolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.87722225"
-     inkscape:cx="5583.2024"
-     inkscape:cy="3231.5231"
+     inkscape:zoom="0.43861113"
+     inkscape:cx="4950.3665"
+     inkscape:cy="3358.4015"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2803,14 +2803,14 @@
        sodipodi:absref="/home/kris/Dropbox/Public/ennorath/icons/lond-3.png"
        xlink:href="icons/lond-3.png" />
     <image
-       y="2168.3901"
-       x="1966.5013"
+       y="2221.8596"
+       x="1990.4469"
        id="image3872"
        height="75.056107"
        width="80.685318"
        sodipodi:absref="/home/kris/Dropbox/Public/ennorath/icons/lond-1.png"
        xlink:href="icons/lond-1.png"
-       transform="matrix(0.9964808,8.3821643e-2,-8.3821643e-2,0.9964808,0,0)" />
+       transform="matrix(0.9964808,8.3821639e-2,-8.3821639e-2,0.9964808,0,0)" />
     <image
        y="2125.9949"
        x="1568.1461"
@@ -2844,8 +2844,8 @@
        sodipodi:absref="/home/kris/Dropbox/Public/ennorath/icons/lond-edain-4.png"
        xlink:href="icons/lond-edain-4.png" />
     <image
-       y="5473.1523"
-       x="4412.4619"
+       y="6052.2529"
+       x="3942.7976"
        id="image4686"
        height="81.687149"
        width="119.21909"

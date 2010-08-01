@@ -4,11 +4,11 @@
 from locations import locations as get_locations, SCALE
 from glob import glob
 from re import compile as re
-from subprocess import Popen
-from os import stat, makedirs
+from os import stat
 from os.path import isfile
-import errno
 import csv
+from utils import makedirs
+from scale import scale_command
 
 normalized_labels_re = re(r'labels/(.*)\-(..)-normalized\.png')
 languages = {
@@ -63,19 +63,17 @@ def build():
     label_prefixes = set(labels.keys())
     prefixes = location_prefixes.intersection(label_prefixes)
     prefixes = sorted(prefixes, key = lambda prefix: -labels[prefix]['mtime'])
-    _makedirs("build/labels/")
+    makedirs("build/labels/")
     for prefix in prefixes:
         label = labels[prefix]
         location = locations[prefix]
         print label['prefix']
-        scale = "20%" if int(location[SCALE]) > 3 else "100%"
+        scale = .2 if int(location[SCALE]) > 3 else 1
         normalized = label["normalized"]
         thumbnail = label["thumbnail"]
         resized = label["resized"]
-        if not isfile(thumbnail):
-            Popen(["convert", "-scale", "6%", normalized, thumbnail]).communicate()
-        if not isfile(resized):
-            Popen(["convert", "-scale", scale, normalized, resized]).communicate()
+        scale_command(normalized, thumbnail, .6)
+        scale_command(normalized, resized, scale)
 
 def store():
     locations = dict((key, value) for key, value in get_locations() if key)
@@ -107,15 +105,6 @@ def labels():
         for label in csv.DictReader(open('labels.csv'))
     )
 
-def _makedirs(path):
-    try:
-        makedirs(path)
-    except OSError, exc:
-        if exc.errno == errno.EEXIST:
-            pass
-        else:
-            raise
-
 if __name__ == "__main__":
-    store()
+    build()
 
