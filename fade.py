@@ -8,11 +8,14 @@ def fade(image, factor):
     backdrop.paste(image, (0, 0), mask)
     return backdrop
 
+def command(source, target, factor):
+    image = Image.open(source)
+    factor = float(factor)
+    fade(image, factor).save(target)
+
 def main():
     import sys
-    image = Image.open(sys.argv[1])
-    factor = float(sys.argv[2])
-    fade(image, factor).save(sys.argv[3])
+    command(sys.argv[1], sys.argv[2], sys.argv[3])
 
 if __name__ == '__main__':
     main()

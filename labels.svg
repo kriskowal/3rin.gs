@@ -178,7 +178,7 @@
   </metadata>
   <g
      inkscape:groupmode="layer"
-     id="layer9"
+     id="layer-reference"
      inkscape:label="endor-reference"
      style="display:none"
      sodipodi:insensitive="true">
@@ -320,6 +320,12 @@
        sodipodi:absref="/home/kris/Dropbox/Public/endor/labels/ardhon-iaur-arnor-st-resized.png"
        xlink:href="build/labels/ardhon-iaur-arnor-st-normalized.png"
        transform="matrix(0.9890981,0.1472581,-0.1472581,0.9890981,0,0)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="3"
+     style="opacity:1;display:inline">
     <image
        style="opacity:0.91129037;display:inline"
        y="-4246.147"
@@ -330,12 +336,6 @@
        sodipodi:absref="/home/kris/Dropbox/Public/endor/labels/eryn-lasgalen-st-resized.png"
        xlink:href="build/labels/eryn-lasgalen-st-resized.png"
        transform="matrix(0.2646373,0.964348,-0.964348,0.2646373,0,0)" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer7"
-     inkscape:label="3"
-     style="opacity:1;display:inline">
     <image
        style="opacity:0.77822583;display:inline"
        y="2968.2017"
@@ -588,7 +588,7 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer11"
+     id="layer4"
      inkscape:label="4"
      style="display:inline">
     <image
@@ -994,7 +994,7 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer12"
+     id="layer5"
      inkscape:label="5"
      style="display:inline">
     <image
@@ -1926,7 +1926,7 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer3"
+     id="layer6"
      inkscape:label="6"
      style="display:inline">
     <image
@@ -2532,7 +2532,7 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer4"
+     id="layer7"
      inkscape:label="7"
      style="display:inline">
     <image
@@ -2797,7 +2797,7 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer5"
+     id="layer8"
      inkscape:label="8"
      style="display:inline">
     <image
