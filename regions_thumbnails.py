@@ -2,13 +2,11 @@
 import Image, ImageDraw
 from regions import regions as get_regions
 from over import over
+from tiles import WIDTH, HEIGHT, TILE_WIDTH, TILE_HEIGHT
 regions = get_regions()
 
-GEOGRAPHY = Image.open("build/ennorath-geography-16000.png")
-LABELS = Image.open("build/ennorath-labels-16000.png")
-WIDTH, HEIGHT = (int(n) for n in LABELS.size)
-T_WIDTH = 200
-T_HEIGHT = 200
+GEOGRAPHY = Image.open("build/geography-16384.png")
+LABELS = Image.open("build/labels-st-16384.png")
 
 for name, region in regions.items():
     print name
@@ -18,16 +16,16 @@ for name, region in regions.items():
     height = int(region['height'] * HEIGHT)
     bx = ax + width
     by = ay + height
-    if width < T_WIDTH:
-        d = (T_WIDTH - width) / 2
+    if width < TILE_WIDTH:
+        d = (TILE_WIDTH - width) / 2
         ax = ax - d
-        bx = ax + T_WIDTH
-        width = T_WIDTH
-    if height < T_HEIGHT:
-        d = (T_HEIGHT - height) / 2
+        bx = ax + TILE_WIDTH
+        width = TILE_WIDTH
+    if height < TILE_HEIGHT:
+        d = (TILE_HEIGHT - height) / 2
         ay = ay - d
-        by = ay + T_HEIGHT
-        height = T_HEIGHT
+        by = ay + TILE_HEIGHT
+        height = TILE_HEIGHT
     if width < height:
         d = (height - width) / 2
         ax = ax - d
@@ -40,7 +38,7 @@ for name, region in regions.items():
 
 	backdrop = Image.new(
 		"RGBA",
-		(T_WIDTH, T_HEIGHT),
+		(TILE_WIDTH, TILE_HEIGHT),
 		(255, 255, 255, 0)
 	)
 
@@ -50,7 +48,7 @@ for name, region in regions.items():
         bx,
         by
     )).resize(
-        (T_WIDTH, T_HEIGHT),
+        (TILE_WIDTH, TILE_HEIGHT),
         Image.ANTIALIAS,
     )
 
@@ -60,7 +58,7 @@ for name, region in regions.items():
         bx,
         by
     )).resize(
-        (T_WIDTH, T_HEIGHT),
+        (TILE_WIDTH, TILE_HEIGHT),
         Image.ANTIALIAS,
     )
 

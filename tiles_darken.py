@@ -1,15 +1,14 @@
 
 import darken
 from tiles import walk
+from os.path import isfile
 
 def command(source, target, factor):
     for quadkey in walk():
-        print quadkey
-        darken.command(
-            source + "-" + quadkey + ".png",
-            target + "-" + quadkey + ".png",
-            factor
-        )
+        source_file = source + quadkey + ".png"
+        target_file = target + quadkey + ".png"
+        print source_file, target_file
+        darken.command(source_file, target_file, factor)
 
 def main():
     import sys

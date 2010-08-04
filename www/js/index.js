@@ -1,26 +1,18 @@
 
-/*
-    16000 400
-    8000 800
-    4000 1600
-    2000 3200
-    1000 6400
-    500 12800
-    250 25600
-*/
-
 var SNAP_DELAY = 200;
-var TILE_SIZE = 200;
+var TILE_SIZE = 256;
+var TILE_URL = "http://3rin.gs/tiles.4/";
 var showing, neighborhoods, regions, bounds, scale;
 
 var scaleSizes = [
-    200,
-    400,
-    800,
-    1600,
-    3200,
-    6400,
-    12800
+    256,
+    512,
+    1024,
+    2048,
+    4096,
+    8192,
+    16384,
+    32768
 ];
 
 $("#labels-check").click(function () {
@@ -56,7 +48,8 @@ $.ajax({
 
 Map("#map", [ // layers
     {"name": "Geography", "prefix": "g"},
-    {"name": "Labels", "prefix": "l"}
+    {"name": "Sindarin / Tengwar", "prefix": "st"}
+    // {"name": "English / Latin", "prefix": "el"}
 ], scaleSizes, function (layer, scale, position, div) { // getTile
     if (!div)
         div = $("<img>");
@@ -64,7 +57,7 @@ Map("#map", [ // layers
     var quadkey = QuadKey(position);
     return div.attr({
         "src":
-            "http://3rin.gs/tiles/" +
+            TILE_URL + 
             layer.prefix +
             quadkey +
             ".png",
