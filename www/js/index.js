@@ -16,7 +16,7 @@ var scaleSizes = [
 ];
 
 $("#labels-check").click(function () {
-    $(".layer-l").css({
+    $(".layer-st").css({
         "display": $(this).attr("checked") ? "block" : "none"
     });
 });

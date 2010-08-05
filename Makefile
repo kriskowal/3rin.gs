@@ -134,7 +134,7 @@ build/tiles/g: build/geography-translucent-32768
 	mkdir -p build/tiles
 	python tiles_darken.py build/geography-translucent-32768/t $@ .5
 
-# 14 HOURS
+# 1 HOURS
 build/geography-translucent-32768:
 	mkdir -p $@
 	bash tiles_c2a.bash build/geography-export-32768/t build/geography-translucent-32768/t
