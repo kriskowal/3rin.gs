@@ -3,6 +3,7 @@
 
 .SECONDARY:
 .PRECIOUS:
+.PRECIOUSSSSS:
 
 all: \
 		build/tiles \
