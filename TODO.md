@@ -1,16 +1,15 @@
-
 TODO
 ----
 
 1
 
 * latin alphabet labels (50% complete)
-** automate latin alphabet label resizing
+  * automate latin alphabet label resizing
 * more icons for minor locations (50% complete)
-** 3 ring and palantir icons
+  * 3 ring and palantir icons
 * javascript location search
-** wiki article div popups
-*** location articles with links
+  * wiki article div popups
+    * location articles with links
 * parchment background
 
 2
@@ -18,12 +17,12 @@ TODO
 * favicon
 * look into rudhras-1 and rudhras-2 variants
 * replace the images of the following in labels-st (presently not referring to a normalized graphic)
-** westfold-et
-** cair-andros-st
-** min-rimmon-st
-** cof-belfalas-st
-** rhunaer-st
-** durthang-st
+  * westfold-et
+  * cair-andros-st
+  * min-rimmon-st
+  * cof-belfalas-st
+  * rhunaer-st
+  * durthang-st
 * drag and drop bug in IE
 * redraw when the document or window resizes
 * apple touch events
