@@ -2,6 +2,14 @@
 TODO
 ----
 
+* look into rudhras-1 and rudhras-2 variants
+* replace the images of the following in labels-st (presently not referring to a normalized graphic)
+** westfold-et
+** cair-andros-st
+** min-rimmon-st
+** cof-belfalas-st
+** rhunaer-st
+** durthang-st
 * drag and drop bug in IE
 * english/latin labels
 * more icons for minor locations

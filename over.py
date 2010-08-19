@@ -22,11 +22,14 @@ def over(front,back):
     result[back_transparent]=front[back_transparent]
     return Image.fromarray(result.astype('uint8'), "RGBA")
 
+def command(a, b, target):
+    a = Image.open(a)
+    b = Image.open(b)
+    over(b, a).save(target)
+
 def main():
     import sys
-    a = Image.open(sys.argv[1])
-    b = Image.open(sys.argv[2])
-    over(a, b).save(sys.argv[3])
+    command(*sys.argv[1:])
 
 if __name__ == '__main__':
     main()

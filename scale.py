@@ -3,12 +3,9 @@
 import Image
 
 def scale(image, factor):
-    r, g, b, a = image.split()
-    image = Image.merge("RGB", (r, g, b))
-    mask = Image.merge("L", (a,))
     return image.resize(
         [int(axis * factor) for axis in image.size],
-        mask
+        Image.ANTIALIAS
     )
 
 def scale_command(source, target, factor):

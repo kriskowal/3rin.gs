@@ -1,12 +1,11 @@
 
 import Image, ImageDraw
 from regions import regions as get_regions
-from over import over
 from tiles import WIDTH, HEIGHT, TILE_WIDTH, TILE_HEIGHT
 regions = get_regions()
+import sys
 
-GEOGRAPHY = Image.open("build/geography-16384.png")
-LABELS = Image.open("build/labels-st-16384.png")
+MAP = Image.open(sys.argv[1])
 
 for name, region in regions.items():
     print name
@@ -36,13 +35,7 @@ for name, region in regions.items():
         by = ay + width
     assert (bx - ax) == (by - ay), (bx - ax, by - ay)
 
-	backdrop = Image.new(
-		"RGBA",
-		(TILE_WIDTH, TILE_HEIGHT),
-		(255, 255, 255, 0)
-	)
-
-    labels = LABELS.crop((
+    map = MAP.crop((
         ax,
         ay,
         bx,
@@ -52,17 +45,5 @@ for name, region in regions.items():
         Image.ANTIALIAS,
     )
 
-    geography = GEOGRAPHY.crop((
-        ax,
-        ay,
-        bx,
-        by
-    )).resize(
-        (TILE_WIDTH, TILE_HEIGHT),
-        Image.ANTIALIAS,
-    )
-
-	backdrop = over(geography, backdrop)
-    backdrop = over(labels, backdrop)
-    backdrop.save("build/regions/%s.png" % name)
+    map.save("build/regions/%s.png" % name)
 

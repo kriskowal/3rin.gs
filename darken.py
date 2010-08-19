@@ -15,7 +15,7 @@ def command(source, target, factor):
 
 def main():
     import sys
-    command(sys.argv[1], sys.argv[3], sys.argv[2])
+    command(sys.argv[1], sys.argv[2], sys.argv[3])
 
 if __name__ == '__main__':
     main()

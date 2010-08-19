@@ -1,8 +1,11 @@
+(function () {
 
 var SNAP_DELAY = 200;
 var TILE_SIZE = 256;
 var TILE_URL = "http://3rin.gs/tiles.4/";
-var showing, neighborhoods, regions, bounds, scale;
+var regions; // acquired via AJAX
+var largeToSmall; // computed from regions
+var show; // updated by the Map.onShow emitter
 
 var scaleSizes = [
     256,
@@ -26,13 +29,15 @@ $.ajax({
     "dataType": "json",
     "success": function (data) {
         regions = data.regions;
+        largeToSmall = [];
         for (var name in regions) {
             var region = regions[name];
             // transport numbers
-            region.top = region.y;
-            region.left = region.x;
-            region.height = region.h;
-            region.width = region.w;
+            region.name = name;
+            region.top = +region.y;
+            region.left = +region.x;
+            region.height = +region.h;
+            region.width = +region.w;
             delete region.y;
             delete region.x;
             delete region.h;
@@ -40,11 +45,26 @@ $.ajax({
             // computed numbers
             region.centerTop = region.top + region.height / 2;
             region.centerLeft = region.left + region.width / 2;
+            region.area = region.height * region.width;
+            region.bottom = region.top + region.height;
+            region.right = region.left + region.width;
+            largeToSmall.push(region);
         }
-        neighborhoods = data.neighborhoods;
+        largeToSmall.sort(byArea);
         onShow();
     }
 });
+
+function byArea(a, b) {
+    return b.area - a.area;
+}
+
+function contains(a, b) {
+    return a.top <= b.top &&
+        a.left <= b.left &&
+        a.bottom >= b.bottom &&
+        a.right >= b.right;
+}
 
 Map("#map", [ // layers
     {"name": "Geography", "prefix": "g"},
@@ -57,55 +77,31 @@ Map("#map", [ // layers
     var quadkey = QuadKey(position);
     return div.attr({
         "src":
-            TILE_URL + 
+            TILE_URL +
             layer.prefix +
             quadkey +
             ".png",
         "class": "tile"
     });
-}, function (_showing, _bounds, _scale) {
-    showing = _showing;
-    bounds = _bounds;
-    scale = _scale;
+}, function (_show) { // onShow
+    show = _show;
     onShow();
-}); // onShow
+});
 
 // discover the most relevant visible regions when new tiles
 // are shown
 function onShow() {
-    var set = {}, list = [], i, ii, j, jj, quadkey, _regions, region, name;
-    if (!neighborhoods || !bounds)
+    if (!regions || !show)
         return;
-    for (i = 0, ii = showing.length; i < ii; i++) {
-        quadkey = QuadKey(showing[i]);
-        while (!neighborhoods[quadkey])
-            quadkey = quadkey.slice(0, quadkey.length - 1);
-        _regions = neighborhoods[quadkey];
-        for (j = 0, jj = _regions.length; j < jj; j++) {
-            set[_regions[j]] = true;
-        }
+    var containers = [], contents = [], i, ii;
+    for (i = 0, ii = largeToSmall.length; i < ii; i++) {
+        var region = largeToSmall[i];
+        if (contains(region, show.region))
+            containers.unshift(region);
+        if (contains(show.region, region))
+            contents.push(region);
     }
-    for (name in set) {
-        regions[name].name = name;
-        list.push(regions[name]);
-    }
-    var center = {
-        "top": (bounds.top + bounds.bottom + 1) / 2 * TILE_SIZE / scaleSizes[scale],
-        "left": (bounds.left + bounds.right + 1) / 2 * TILE_SIZE / scaleSizes[scale]
-    };
-    for (i = 0, ii = list.length; i < ii; i++) {
-        region = list[i];
-        region.distance = Math.sqrt(
-            Math.pow(center.top - region.centerTop, 2) +
-            Math.pow(center.left - region.centerLeft, 2)
-        );
-    }
-    list.sort(function (a, b) {
-        return a.distance - b.distance;
-    });
-    for (i = 0, ii = Math.min(5, list.length); i < ii; i++) {
-        region = list[i];
-    }
+    // XXX
 }
 
 // computes a quadkey, as used to name tiles, based on
@@ -124,7 +120,8 @@ function Map(selector, layers, scales, getTile, onShow) {
     $(selector).each(function () {
         var freeList = [];
         var tiles = {};
-        var bounds = {};
+        var bounds = {}; // the visible region in tile coordinates rounded outward
+        var region = {}; // the visible region in normalized map coordinates
         var scale = 0;
         var hashHandle;
 
@@ -232,7 +229,7 @@ function Map(selector, layers, scales, getTile, onShow) {
         // fills the visible region with the correct tiles, garbage
         // collecting the tiles that are no longer visible
         function show(viewport) {
-            var x, y, i, ii, layer, showing = [];
+            var x, y, i, ii, layer; 
             calculateBounds(viewport);
             collect(); // garbage tiles
             for (i = 0, ii = layers.length; i < ii; i++) {
@@ -252,16 +249,12 @@ function Map(selector, layers, scales, getTile, onShow) {
             }
 
             if (onShow) {
-                for (y = bounds.top; y <= bounds.bottom; y++) {
-                    for (x = bounds.left; x <= bounds.right; x++) {
-                        showing.push({
-                            "top": y,
-                            "left": x,
-                            "scale": scale
-                        });
-                    }
-                }
-                onShow(showing, bounds, scale);
+                onShow({
+                    "viewport": viewport, 
+                    "region": region,
+                    "bounds": bounds, 
+                    "scale": scale
+                });
             }
 
             if (hashHandle)
@@ -290,6 +283,12 @@ function Map(selector, layers, scales, getTile, onShow) {
             bounds.right = Math.floor((-viewport.left + size.width + TILE_SIZE) / TILE_SIZE) - 1;
             bounds.top = Math.floor((-viewport.top - TILE_SIZE) / TILE_SIZE) + 1;
             bounds.bottom = Math.floor((-viewport.top + size.height + TILE_SIZE) / TILE_SIZE) - 1;
+            region.left = -viewport.left / viewport.width;
+            region.top = -viewport.top / viewport.height;
+            region.width = size.width / viewport.width;
+            region.height = size.height / viewport.height;
+            region.bottom = region.top + region.height;
+            region.right = region.left + region.width;
         }
 
         // removes all tiles that are not in the visible region and
@@ -586,3 +585,4 @@ function Drag(el, onMove, onDown, onUp, onScroll) {
     });
 }
 
+})();

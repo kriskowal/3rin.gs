@@ -12,7 +12,9 @@ rhovanion,Rhovanion,Sindarin,wilderness-country
 rhovanion,Wilderland,English
 rhun,Rhûn,Sindarin,east
 forodwaith,Forodwaith,Sindarin,northern-realm,,,northern E > forod S; realm E > gwaith S; forod + gwaith S > forodwaith S
+forodwaith,Northern Waste,English
 haradwaith,Haradwaith,Sindarin,southern-realm,,,southern E > harad S; realm E > gwaith; harad + gwaith S > haradwaith S
+haradwaith,Sutherland,English
 belegaer,Belegaer,Sindarin,great-sea,,,great E > beleg S; sea E > aer S
 near-harad,Near Harad,English,near south
 ardhon-iaur-arnor,Ardhon Iaur Arnor,Sindarin,realm old high-land,,,ardhon S - realm E; iaur S - old E; ar- S - high E; dor S - land E; ar + dor > arnor S
@@ -397,7 +399,8 @@ bamfurlong,Bamfurlong,English,bean field
 orthanc,Orthanc,Sindarin
 durthang,Durthang,Sindarin,dark opression
 caras-galdhon,Caras Galdhon,Sindarin,city of light
-cerin-amroth,Cerin Amroth,Sindarin,Amroth's mound
+cerin-amroth,Cerin Amroth,Sindarin,mound of Amroth
+cerin-amroth,Amroth's Mound,English
 pendlanthir,Pendlanthir,Sindarin,,,Kris Kowal,Stair Falls; stair E > declivity E > pend S; stairway E > pendrath S; pendrath > pend + rath; rath > path / way; stairway : stair :: pendrath : pend; falls / waterfalls E > lanthir S as in Lanthir Rauros,"pend [] ( penn ) n. declivityEty/380, X/ND1OS *pende (PED)
  -- http://www.jrrvf.com/cgi-bin/hisweloke/sindarin.cgi?search=pend&phon=ipa
 
@@ -408,7 +411,7 @@ carchost,Carchost,Sindarin,fang fortress
 narchost,Narchost,Sindarin
 lithlad,Lithlad,Sindarin,ash plain
 lithlad,Ash Plain,English
-sarngebir,Sarngebir,Sindarin,stone ridge
+sarn-gebir,Sarn Gebir,Sindarin,stone ridge
 parth-galen,Parth Galen,Sindarin
 parth-galen,Greenfield,English
 carag,Sargond,Sindarin,,,Kris Kowal,Carrock > car + rock; car <em>anglo saxon</em> > rock E > sarn S; rock / stone E > gond S,http://lotr.wikia.com/wiki/Carrock,_Sargond_; cf. _morgul_ < _morn-gul_.
