@@ -2,21 +2,37 @@
 TODO
 ----
 
-* drag and drop bug in IE
-* english/latin labels
-* more icons for minor locations
-* 3 ring and palantir icons
-* redraw when the document or window resizes
-* automate upload and download of site, components, sources, and archives
-* parchment background
+1
+
+* latin alphabet labels (50% complete)
+** automate latin alphabet label resizing
+* more icons for minor locations (50% complete)
+** 3 ring and palantir icons
 * javascript location search
 ** wiki article div popups
+*** location articles with links
+* parchment background
+
+2
+
+* favicon
+* look into rudhras-1 and rudhras-2 variants
+* replace the images of the following in labels-st (presently not referring to a normalized graphic)
+** westfold-et
+** cair-andros-st
+** min-rimmon-st
+** cof-belfalas-st
+** rhunaer-st
+** durthang-st
+* drag and drop bug in IE
+* redraw when the document or window resizes
 * apple touch events
-* automate down-scaled images
-* khuzdul rune labels
 * about page div popup
-* rough content, indexed, thumbnailed
-* location articles with links
+
+3
+
+* khuzdul rune labels
+* rough source content, indexed, thumbnailed
 * minor icon animation tricks
 * improve performance of tiling
 
@@ -29,4 +45,6 @@ TODONE
 * double resolution
 * automate color to alpha
 * automate darkening
+* automate download of components, sources, and archives
+* automate down-scaled images
 

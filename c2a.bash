@@ -1,5 +1,6 @@
 #!/bin/bash
 xargs -n 512 | while read ARGS; do
+    # this is a crime against humanity, and I know it.
     FILE_NAMES=$(echo $ARGS | xargs -n 1 | while read line; do echo '"'"$line"'"'; done)
     echo $FILE_NAMES
     gimp -i -d --stack-trace-mode always -b "
