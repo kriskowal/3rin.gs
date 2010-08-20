@@ -49,6 +49,6 @@ def regions():
 if __name__ == '__main__':
     regions_svg = dom.parse("regions.svg")
     regions_csv = csv.writer(open("regions.csv", "w"))
-    for row in walk(regions_svg.documentElement, regions_csv):
+    for row in walk(regions_svg.documentElement):
         regions_csv.writerow(row)
 

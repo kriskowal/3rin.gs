@@ -17,9 +17,9 @@
    sodipodi:docname="regions.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
-   inkscape:export-filename="/home/kris/Dropbox/Public/ennorath/build/ennorath-labels-32768.png"
-   inkscape:export-xdpi="409.60001"
-   inkscape:export-ydpi="409.60001"
+   inkscape:export-filename="/home/kris/Dropbox/Public/ennorath/regions.png"
+   inkscape:export-xdpi="25"
+   inkscape:export-ydpi="25"
    style="display:inline">
   <defs
      id="defs4">
@@ -41,11 +41,11 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.088388348"
-     inkscape:cx="3482.1569"
-     inkscape:cy="3736.958"
+     inkscape:zoom="1"
+     inkscape:cx="4759.605"
+     inkscape:cy="2657.6009"
      inkscape:document-units="px"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer3"
      showgrid="false"
      showborder="true"
      inkscape:window-width="1680"
@@ -70,12 +70,10 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="endor-reference"
-     style="display:none"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <image
        id="image2961"
-       sodipodi:absref="/home/kris/Dropbox/Public/endor/endor-geography-4000.png"
-       xlink:href="build/ennorath-geography-8000.png"
+       xlink:href="build/map-tengwar-4096.png"
        x="0"
        y="0"
        width="7200"
@@ -192,7 +190,7 @@
        inkscape:label="#rect3451" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:6.79296303;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="adhon-iaur-arnor"
+       id="ardhon-iaur-arnor"
        width="2363.9954"
        height="1842.5042"
        x="1847.5129"
@@ -457,7 +455,7 @@
        inkscape:label="#rect3512" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="pinath-gelin"
+       id="pinnath-gelin"
        width="809.375"
        height="243.75"
        x="3162.5"
@@ -822,7 +820,7 @@
        inkscape:label="#rect3602" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="lo-forn"
+       id="lo-fern"
        width="232.01941"
        height="143.63106"
        x="4942.0132"
@@ -886,7 +884,7 @@
        inkscape:label="#rect3618" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="edhelond"
+       id="edhellond"
        width="234.22911"
        height="165.72815"
        x="3973.0562"
@@ -1134,7 +1132,7 @@
        inkscape:label="#rect3680" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="parth-ninglor"
+       id="perth-ninglor"
        width="293.89124"
        height="239.75339"
        x="4243.7456"
@@ -1150,7 +1148,7 @@
        inkscape:label="#rect3684" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rhunag"
+       id="rhunnag"
        width="350.23883"
        height="224.28543"
        x="4843.6812"
@@ -1190,7 +1188,7 @@
        inkscape:label="#rect3694" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="celebril"
+       id="celebdil"
        width="255.46875"
        height="168.75"
        x="3799.2188"
@@ -1504,7 +1502,7 @@
        inkscape:label="#rect3766" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="minolduin"
+       id="mindolluin"
        width="172.9097"
        height="124.29611"
        x="4813.8501"
@@ -1528,7 +1526,7 @@
        inkscape:label="#rect3772" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="serini"
+       id="serni"
        width="221.09375"
        height="265.625"
        x="4450.7812"
@@ -1560,7 +1558,7 @@
        inkscape:label="#rect3780" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rudhrasg"
+       id="rudhras"
        width="123.74368"
        height="107.17087"
        x="4061.4446"
@@ -1775,7 +1773,7 @@
        inkscape:label="#rect3850" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="narcost"
+       id="narchost"
        width="52.734375"
        height="57.8125"
        x="5147.2656"
@@ -1847,7 +1845,7 @@
        inkscape:label="#rect3878" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="gond"
+       id="carag"
        width="114.45312"
        height="98.828125"
        x="4368.75"
@@ -1981,6 +1979,14 @@
        x="4220.5"
        y="2897.375"
        inkscape:label="#rect3914" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="limlight"
+       width="592"
+       height="185"
+       x="3962"
+       y="3159"
+       inkscape:label="#rect2640" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2051,7 +2057,7 @@
        inkscape:label="#rect3830" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="sarn-gebir"
+       id="sarngebir"
        width="119.14062"
        height="183.98438"
        x="4591.0156"
