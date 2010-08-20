@@ -251,6 +251,13 @@ function Map(selector, layers, scales, getTile, onShow) {
                 }
             }
 
+            $(el).css({
+                "background-position":
+                    viewport.left + "px" +
+                    " " +
+                    viewport.top + "px"
+            });
+
             if (onShow) {
                 for (y = bounds.top; y <= bounds.bottom; y++) {
                     for (x = bounds.left; x <= bounds.right; x++) {
