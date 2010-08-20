@@ -46,6 +46,19 @@ def regions():
         for name, x, y, width, height, url in get()
     )
 
+def regions2():
+    return dict(
+        (name, type('region-%s' % str(name), (), dict(
+            name = name,
+            x = x,
+            y = y,
+            width = width,
+            height = height,
+            url = url,
+        )))
+        for name, x, y, width, height, url in get()
+    )
+
 if __name__ == '__main__':
     regions_svg = dom.parse("regions.svg")
     regions_csv = csv.writer(open("regions.csv", "w"))

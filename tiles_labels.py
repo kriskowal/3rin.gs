@@ -8,16 +8,17 @@ import Image
 
 def command(source, target):
     for quadkey in walk():
+        file_name = "%s%s.png" % (target, quadkey)
+        print file_name
         scale = len(quadkey)
         levels = LEVELS[scale]
-        print quadkey, levels
         image = Image.new("RGBA", (TILE_WIDTH, TILE_HEIGHT), (255, 255, 255, 0))
         for level, factor in levels:
             export = Image.open("%s/%d-%s.png" % (source, level, quadkey))
             faded = fade(export, factor)
             dark = darken(faded, .5)
             image = over(dark, image)
-        image.save("%s%s.png" % (target, quadkey))
+        image.save(file_name)
 
 def main():
     import sys
