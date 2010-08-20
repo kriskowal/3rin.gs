@@ -256,6 +256,13 @@ function Map(el, layers, scales, getTile, onShow) {
                 }
             }
 
+            $(el).css({
+                "background-position":
+                    viewport.left + "px" +
+                    " " +
+                    viewport.top + "px"
+            });
+
             if (onShow) {
                 onShow({
                     "viewport": viewport, 

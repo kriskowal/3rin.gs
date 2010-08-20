@@ -5,8 +5,6 @@
         <style>
 
             #map {
-                background-color: #d9cbaf;
-                background-image: url(parchment.jpg);
                 position: absolute;
                 background-image: url(parchment.jpg);
                 background-color: #d9cbaf;
@@ -104,10 +102,19 @@
     </head>
     <body>
         <div id="map" class="map">
-            <img src="map-1024.png" title="Middle Earth">
+            <noscript>
+                <img src="map-1024.png" title="Middle Earth">
+            </noscript>
         </div>
         <div class="control layer-control">
-            <nobr><input id="labels-check" type="checkbox" checked> <label for="labels-check">labels</label></nobr>
+            <label for="labels">
+                Labels:
+                <select name="select-labels">
+                    <option value="l">English</option>
+                    <option value="t">Elvish</option>
+                    <option value="*">None</option>
+                </select>
+            </label>
         </div>
         <div class="control about-control">
             <a id="about-link" href="about.html">about this map</a>
