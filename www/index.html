@@ -5,11 +5,7 @@
         <style>
 
             #map {
-                background-color: #d9cbaf;
-                background-image: url(parchment.jpg);
                 position: absolute;
-                background-image: url(parchment.jpg);
-                background-color: #d9cbaf;
                 top: 0px;
                 left: 0px;
                 height: 100%;
@@ -104,19 +100,23 @@
     </head>
     <body>
         <div id="map" class="map">
-            <img src="map-1024.png" title="Middle Earth">
+            <noscript>
+                <img src="map-1024.png" title="Middle Earth">
+            </noscript>
         </div>
         <div class="control layer-control">
-            <nobr><input id="labels-check" type="checkbox" checked> <label for="labels-check">labels</label></nobr>
+            <label for="labels-check">
+            <input type="checkbox" id="labels-check" checked>
+            Labels
+            </label>
         </div>
         <div class="control about-control">
             <a id="about-link" href="about.html">about this map</a>
         </div>
         <div class="control article-control">
         </div>
-        <script src="js/jquery-1.4.2.min.js"></script>
-        <script src="js/jquery-mousewheel-3.0.2.min.js"></script>
-        <script src="js/jquery-ui-1.8.4.autocomplete.min.js"></script>
+        <script src="js/jquery.min.js"></script>
+        <script src="js/jquery.mousewheel.min.js"></script>
         <script src="js/index.js"></script>
         <script src="http://static.getclicky.com/js" type="text/javascript"></script>
         <script type="text/javascript">clicky.init(237383);</script>

@@ -1,11 +1,8 @@
-(function () {
 
 var SNAP_DELAY = 200;
 var TILE_SIZE = 256;
-var TILE_URL = "http://3rin.gs/tiles.8/";
-var regions; // acquired via AJAX
-var largeToSmall; // computed from regions
-var show; // updated by the Map.onShow emitter
+var TILE_URL = "http://3rin.gs/tiles.9/";
+var showing, neighborhoods, regions, bounds, scale;
 
 var scaleSizes = [
     256,
@@ -18,32 +15,24 @@ var scaleSizes = [
     32768
 ];
 
-var layers = [
-    {"name": "Geography", "prefix": "g"},
-    {"name": "English / Latin", "prefix": "l"},
-    {"name": "Sindarin / Tengwar", "prefix": "t", "visible": false}
-];
-
-$("select-labels").mousedown(function (event) {
-    console.log('here');
-    event.stopPropagation();
+$("#labels-check").click(function () {
+    $(".layer-t").css({
+        "display": $(this).attr("checked") ? "block" : "none"
+    });
 });
 
 $.ajax({
     "url": "data.json",
     "dataType": "json",
     "success": function (data) {
-        console.log(data);
         regions = data.regions;
-        largeToSmall = [];
         for (var name in regions) {
             var region = regions[name];
             // transport numbers
-            region.name = name;
-            region.top = +region.y;
-            region.left = +region.x;
-            region.height = +region.h;
-            region.width = +region.w;
+            region.top = region.y;
+            region.left = region.x;
+            region.height = region.h;
+            region.width = region.w;
             delete region.y;
             delete region.x;
             delete region.h;
@@ -51,59 +40,72 @@ $.ajax({
             // computed numbers
             region.centerTop = region.top + region.height / 2;
             region.centerLeft = region.left + region.width / 2;
-            region.area = region.height * region.width;
-            region.bottom = region.top + region.height;
-            region.right = region.left + region.width;
-            largeToSmall.push(region);
         }
-        largeToSmall.sort(byArea);
+        neighborhoods = data.neighborhoods;
         onShow();
     }
 });
 
-function byArea(a, b) {
-    return b.area - a.area;
-}
-
-function contains(a, b) {
-    return a.top <= b.top &&
-        a.left <= b.left &&
-        a.bottom >= b.bottom &&
-        a.right >= b.right;
-}
-
-var map = Map("#map", layers, scaleSizes, function (layer, scale, position, div) { // getTile
+Map("#map", [ // layers
+    {"name": "Geography", "prefix": "g"},
+    {"name": "Sindarin / Tengwar", "prefix": "t"}
+    // {"name": "English / Latin", "prefix": "l"}
+], scaleSizes, function (layer, scale, position, div) { // getTile
     if (!div)
         div = $("<img>");
     position.scale = scale;
     var quadkey = QuadKey(position);
     return div.attr({
         "src":
-            TILE_URL +
+            TILE_URL + 
             layer.prefix +
             quadkey +
             ".png",
         "class": "tile"
     });
-}, function (_show) { // onShow
-    show = _show;
+}, function (_showing, _bounds, _scale) {
+    showing = _showing;
+    bounds = _bounds;
+    scale = _scale;
     onShow();
-});
+}); // onShow
 
 // discover the most relevant visible regions when new tiles
 // are shown
 function onShow() {
-    if (!regions || !show)
+    var set = {}, list = [], i, ii, j, jj, quadkey, _regions, region, name;
+    if (!neighborhoods || !bounds)
         return;
-    var containers = [], contents = [], i, ii;
-    for (i = 0, ii = largeToSmall.length; i < ii; i++) {
-        var region = largeToSmall[i];
-        if (contains(region, show.region))
-            containers.unshift(region);
-        if (contains(show.region, region))
-            contents.push(region);
+    for (i = 0, ii = showing.length; i < ii; i++) {
+        quadkey = QuadKey(showing[i]);
+        while (!neighborhoods[quadkey])
+            quadkey = quadkey.slice(0, quadkey.length - 1);
+        _regions = neighborhoods[quadkey];
+        for (j = 0, jj = _regions.length; j < jj; j++) {
+            set[_regions[j]] = true;
+        }
     }
-    // XXX
+    for (name in set) {
+        regions[name].name = name;
+        list.push(regions[name]);
+    }
+    var center = {
+        "top": (bounds.top + bounds.bottom + 1) / 2 * TILE_SIZE / scaleSizes[scale],
+        "left": (bounds.left + bounds.right + 1) / 2 * TILE_SIZE / scaleSizes[scale]
+    };
+    for (i = 0, ii = list.length; i < ii; i++) {
+        region = list[i];
+        region.distance = Math.sqrt(
+            Math.pow(center.top - region.centerTop, 2) +
+            Math.pow(center.left - region.centerLeft, 2)
+        );
+    }
+    list.sort(function (a, b) {
+        return a.distance - b.distance;
+    });
+    for (i = 0, ii = Math.min(5, list.length); i < ii; i++) {
+        region = list[i];
+    }
 }
 
 // computes a quadkey, as used to name tiles, based on
@@ -118,130 +120,123 @@ function QuadKey(position) {
     return path.join("")
 }
 
-function Map(el, layers, scales, getTile, onShow) {
-    var freeList = [];
-    var tiles = {};
-    var bounds = {}; // the visible region in tile coordinates rounded outward
-    var region = {}; // the visible region in normalized map coordinates
-    var scale = 0;
-    var hashHandle;
+function Map(selector, layers, scales, getTile, onShow) {
+    $(selector).each(function () {
+        var freeList = [];
+        var tiles = {};
+        var bounds = {};
+        var scale = 0;
+        var hashHandle;
 
-    // erase the javascript support warning
-    $(el).html("");
+        // erase the javascript support warning
+        $(this).html("");
 
-    // the viewport control is a movable and resizable container
-    // for all of the scales, layers, and tiles
-    var viewportControl = $("<div></div>").attr({
-        "class": "viewport"
-    }).appendTo(el);
+        // the viewport control is a movable and resizable container
+        // for all of the scales, layers, and tiles
+        var viewportControl = $("<div></div>").attr({
+            "class": "viewport"
+        }).appendTo(this);
 
-    var zoomControl = $("<div></div>").attr({
-        "class": "control navigation-control"
-    }).appendTo(el);
+        var zoomControl = $("<div></div>").attr({
+            "class": "control navigation-control"
+        }).appendTo(this);
 
-    // the navigator observes all clicking, dragging, and
-    // scrolling events inside the map and manages the
-    // viewports and zoom controls accordingly.  it delegates
-    // the init, drag, and zoom events back to us so we can
-    // adjust the *content* of the viewport control while
-    // it adjusts the size and position.  it informs us
-    // of the visible bounds of the viewport and the current
-    // scale when that changes.
-    var navigator = ZoomAndDrag(el, zoomControl, scales,
-        function (viewport) { // init
-            init();
-            show(viewport);
-            $(viewportControl).css(viewport);
-            setTimeout(function () {
-                window.map = navigator; // for debugging
-                if (window.location.hash) {
-                    var parts = window.location.hash.substring(1).split(/,/g);
-                    navigator.go({
-                        "height": parts[0],
-                        "width": parts[1],
-                        "top": parts[2],
-                        "left": parts[3]
-                    });
-                } else {
-                    navigator.go({
-                        "top": .2,
-                        "left": .2,
-                        "height": .6,
-                        "width": .6
-                    });
-                }
-            }, 0);
-        },
-        function (viewport) { // drag
-            show(viewport);
-            $(viewportControl).css(viewport);
-        },
-        function (scale, viewport) { // zoom
-            updateScale(scale);
-            show(viewport);
-            $(viewportControl).css(viewport);
-        }
-    );
-
-    // constructs the containers for the layers and scales
-    // with appropriate css classes and nesting.
-    function init() {
-
-        var i, ii, layer, j, jj;
-        for (i = 0, ii = layers.length; i < ii; i++) {
-            layer = layers[i];
-            layer.scales = [];
-            layer.control = $("<div></div>").attr({
-                "class": "layer layer-" + layer.prefix
-            }).appendTo(viewportControl);
-            for (j = 0, jj = scales.length; j < jj; j++) {
-                layer.scales[j] = $("<div></div>").attr({
-                    "class": "scale scale-" + j
-                }).css({
-                    "display": j === scale && layer.visible ? 
-                        "block" : "none"
-                }).appendTo(layer.control);
+        // the navigator observes all clicking, dragging, and
+        // scrolling events inside the map and manages the
+        // viewports and zoom controls accordingly.  it delegates
+        // the init, drag, and zoom events back to us so we can
+        // adjust the *content* of the viewport control while
+        // it adjusts the size and position.  it informs us
+        // of the visible bounds of the viewport and the current
+        // scale when that changes.
+        var navigator = ZoomAndDrag(this, zoomControl, scales,
+            function (viewport) { // init
+                init();
+                show(viewport);
+                $(viewportControl).css(viewport);
+                setTimeout(function () {
+                    window.map = navigator; // for debugging
+                    if (window.location.hash) {
+                        var parts = window.location.hash.substring(1).split(/,/g);
+                        navigator.go({
+                            "height": parts[0],
+                            "width": parts[1],
+                            "top": parts[2],
+                            "left": parts[3]
+                        });
+                    } else {
+                        navigator.go({
+                            "top": .2,
+                            "left": .2,
+                            "height": .6,
+                            "width": .6
+                        });
+                    }
+                }, 0);
+            },
+            function (viewport) { // drag
+                show(viewport);
+                $(viewportControl).css(viewport);
+            },
+            function (scale, viewport) { // zoom
+                updateScale(scale);
+                show(viewport);
+                $(viewportControl).css(viewport);
             }
-        }
+        );
 
-    }
+        // constructs the containers for the layers and scales
+        // with appropriate css classes and nesting.
+        function init() {
 
-    // when the scale factor changes, the scale containers
-    // for each layer have to be either shown or hidden.
-    // there is one scale div for each scale in each layer div.
-    // it might be possible to do this with a single css selector
-    // instead of tracking the divs.
-    function updateScale(_scale) {
-        var i, ii, layer, scales;
-        for (i = 0, ii = layers.length; i < ii; i++) {
-            layer = layers[i];
-            scales = layer.scales;
-            if (!scales[_scale])
-                throw new Error("No such scale: " + _scale);
-            scales[scale].css({
-                "display": "none"
-            });
-            scales[_scale].css({
-                "display": "block"
-            });
-        }
-        scale = _scale;
-    }
-
-    // fills the visible region with the correct tiles, garbage
-    // collecting the tiles that are no longer visible
-    function show(viewport) {
-        var x, y, i, ii, layer; 
-        calculateBounds(viewport);
-        collect(); // garbage tiles
-        if (hashHandle)
-            clearTimeout(hashHandle);
-        setTimeout(function () { // redraw
-
+            var i, ii, layer, j, jj;
             for (i = 0, ii = layers.length; i < ii; i++) {
                 layer = layers[i];
-                if (!layer.visible)
-                    continue;
+                layer.scales = [];
+                layer.control = $("<div></div>").attr({
+                    "class": "layer layer-" + layer.prefix
+                }).appendTo(viewportControl);
+                for (j = 0, jj = scales.length; j < jj; j++) {
+                    layer.scales[j] = $("<div></div>").attr({
+                        "class": "scale scale-" + j
+                    }).css({
+                        "display": j === scale ? "block" :"none"
+                    }).appendTo(layer.control);
+                }
+            }
+
+        }
+
+        // when the scale factor changes, the scale containers
+        // for each layer have to be either shown or hidden.
+        // there is one scale div for each scale in each layer div.
+        // it might be possible to do this with a single css selector
+        // instead of tracking the divs.
+        function updateScale(_scale) {
+            var i, ii, layer, scales;
+            for (i = 0, ii = layers.length; i < ii; i++) {
+                layer = layers[i];
+                scales = layer.scales;
+                if (!scales[_scale])
+                    throw new Error("No such scale: " + _scale);
+                scales[scale].css({
+                    "display": "none"
+                });
+                scales[_scale].css({
+                    "display": "block"
+                });
+            }
+            scale = _scale;
+        }
+
+        // fills the visible region with the correct tiles, garbage
+        // collecting the tiles that are no longer visible
+        function show(viewport) {
+            var x, y, i, ii, layer, showing = [];
+            calculateBounds(viewport);
+            collect(); // garbage tiles
+            for (i = 0, ii = layers.length; i < ii; i++) {
+                layer = layers[i];
                 for (y = bounds.top; y <= bounds.bottom; y++) {
                     for (x = bounds.left; x <= bounds.right; x++) {
                         if (
@@ -257,14 +252,20 @@ function Map(el, layers, scales, getTile, onShow) {
             }
 
             if (onShow) {
-                onShow({
-                    "viewport": viewport, 
-                    "region": region,
-                    "bounds": bounds, 
-                    "scale": scale
-                });
+                for (y = bounds.top; y <= bounds.bottom; y++) {
+                    for (x = bounds.left; x <= bounds.right; x++) {
+                        showing.push({
+                            "top": y,
+                            "left": x,
+                            "scale": scale
+                        });
+                    }
+                }
+                onShow(showing, bounds, scale);
             }
 
+            if (hashHandle)
+                clearTimeout(hashHandle);
             hashHandle = setTimeout(function () {
                 var at = navigator.at();
                 location.replace(
@@ -276,72 +277,63 @@ function Map(el, layers, scales, getTile, onShow) {
                 hashHandle = undefined;
             }, 250);
 
-        }, 0);
-
-    }
-
-    // computes the range of tile numbers that are in the viewable
-    // region of the map
-    function calculateBounds(viewport) {
-        var size = {
-            "height": $(el).height(),
-            "width": $(el).width()
-        };
-        bounds.left = Math.floor((-viewport.left - TILE_SIZE) / TILE_SIZE) + 1;
-        bounds.right = Math.floor((-viewport.left + size.width + TILE_SIZE) / TILE_SIZE) - 1;
-        bounds.top = Math.floor((-viewport.top - TILE_SIZE) / TILE_SIZE) + 1;
-        bounds.bottom = Math.floor((-viewport.top + size.height + TILE_SIZE) / TILE_SIZE) - 1;
-        region.left = -viewport.left / viewport.width;
-        region.top = -viewport.top / viewport.height;
-        region.width = size.width / viewport.width;
-        region.height = size.height / viewport.height;
-        region.bottom = region.top + region.height;
-        region.right = region.left + region.width;
-    }
-
-    // removes all tiles that are not in the visible region and
-    // puts them onto the free list so that the DOM elements
-    // can be re-used.
-    function collect() {
-        var hash, layer, _scale, top, left;
-        for (hash in tiles) {
-            hash = hash.split(",");
-            layer = hash[0];
-            _scale = +hash[1];
-            top = +hash[2];
-            left = +hash[3];
-            if (
-                // in bounds
-                scale === _scale &&
-                top >= bounds.top &&
-                top <= bounds.bottom &&
-                left >= bounds.left &&
-                left <= bounds.right &&
-                layers[layer].visible
-            ) {
-                continue;
-            }
-            freeList.push($(tiles[hash]).remove());
-            delete tiles[hash];
         }
-    }
 
-    // displays a single tile unless it's already visible
-    function showTile(layer, y, x) {
-        var hash = layer.prefix + "," + scale + "," + y + "," + x;
-        if (tiles[hash])
-            return;
-        var tile = getTile(layer, scale, {
-            "top": y,
-            "left": x
-        }, freeList.shift());
-        tiles[hash] = tile;
-        $(tile).css({
-            "top": y * TILE_SIZE,
-            "left": x * TILE_SIZE
-        }).appendTo(layer.scales[scale]);
-    }
+        // computes the range of tile numbers that are in the viewable
+        // region of the map
+        function calculateBounds(viewport) {
+            var size = {
+                "height": $(this).height(),
+                "width": $(this).width()
+            };
+            bounds.left = Math.floor((-viewport.left - TILE_SIZE) / TILE_SIZE) + 1;
+            bounds.right = Math.floor((-viewport.left + size.width + TILE_SIZE) / TILE_SIZE) - 1;
+            bounds.top = Math.floor((-viewport.top - TILE_SIZE) / TILE_SIZE) + 1;
+            bounds.bottom = Math.floor((-viewport.top + size.height + TILE_SIZE) / TILE_SIZE) - 1;
+        }
 
+        // removes all tiles that are not in the visible region and
+        // puts them onto the free list so that the DOM elements
+        // can be re-used.
+        function collect() {
+            var hash, layer, _scale, top, left;
+            for (hash in tiles) {
+                hash = hash.split(",");
+                layer = hash[0];
+                _scale = +hash[1];
+                top = +hash[2];
+                left = +hash[3];
+                if ( // in bounds
+                    scale === _scale &&
+                    top >= bounds.top &&
+                    top <= bounds.bottom &&
+                    left >= bounds.left &&
+                    left <= bounds.right
+                ) {
+                    continue;
+                }
+                freeList.push($(tiles[hash]).remove());
+                delete tiles[hash];
+            }
+        }
+
+        // displays a single tile unless it's already visible
+        function showTile(layer, y, x) {
+            var hash = layer.prefix + "," + scale + "," + y + "," + x;
+            if (tiles[hash])
+                return;
+            var tile = getTile(layer, scale, {
+                "top": y,
+                "left": x
+            }, freeList.shift());
+            tiles[hash] = tile;
+            $(tile).css({
+                "top": y * TILE_SIZE,
+                "left": x * TILE_SIZE
+            }).appendTo(layer.scales[scale]);
+        }
+
+    });
 }
 
 // a controller for dragging and zooming a region.  the zoom and
@@ -559,7 +551,7 @@ function ZoomAndDrag(map, control, scales, onInit, onDrag, onZoom) {
 // deltas to mouse move, down, and up observers.
 function Drag(el, onMove, onDown, onUp, onScroll) {
     var isDown, left, top, scroll, start;
-    $(el).mousedown(function (event) {
+    $(this).mousedown(function (event) {
         isDown = true;
         scroll = event.shiftKey;
         left = event.pageX;
@@ -572,7 +564,7 @@ function Drag(el, onMove, onDown, onUp, onScroll) {
         event.stopPropagation();
         event.preventDefault();
     });
-    $(window).mousemove(function (event) {
+    $(this).mousemove(function (event) {
         if (isDown) {
             if (scroll) {
                 var delta = (event.pageX - left) + (top - event.pageY);
@@ -588,10 +580,9 @@ function Drag(el, onMove, onDown, onUp, onScroll) {
             }
         }
     });
-    $(window).mouseup(function (event) {
+    $(this).mouseup(function (event) {
         isDown = false;
         onUp && onUp(event);
     });
 }
 
-})();
