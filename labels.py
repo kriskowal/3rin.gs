@@ -2,7 +2,9 @@
 # -*- coding: UTF-8 -*-
 
 import Image
+from tiles import HEIGHT, WIDTH
 from locations import locations as get_locations, SCALE
+from regions import regions2 as get_regions
 from glob import glob
 from re import compile as re
 from os import stat
@@ -140,6 +142,78 @@ def labels():
         ((label['Canonical'], label['Language'], label['Letters'], label['Mode']), label)
         for label in csv.DictReader(open('labels.csv'))
     )
+
+class Label(object):
+    @property
+    def original(self):
+        return 'build/labels/original/%s-%s.png' % self.parts
+    @property
+    def embedded(self):
+        return 'build/labels/embedded/%s-%s.png' % self.parts
+    @property
+    def practice(self):
+        return 'build/labels/practice/%s-%s.png' % self.parts
+    @property
+    def thumbnail(self):
+        return 'build/labels/thumbnails/%s-%s.png' % self.parts
+
+def labels2():
+    pngs = set(glob("archive/labels/*.png"))
+    normalized_pngs = set(glob("archive/labels/*-normalized.png"))
+    abnormal_pngs = pngs.difference(normalized_pngs)
+    for abnormal in sorted(abnormal_pngs):
+        match = abnormal_labels_re.match(abnormal)
+        if not match:
+            continue
+        parts = match.groups()
+        canonical, (_language, _letters) = parts
+        language = languages[_language]
+        letters = alphabets[_letters]
+        normalized = "archive/labels/%s-%s-normalized.png" % parts
+        yield type("%s-%s%s" % (canonical, _language, _letters), (Label,), {
+            "canonical": canonical,
+            "parts": parts,
+            "language": language,
+            "letters": letters,
+            "source": normalized if isfile(normalized) else abnormal,
+            "normalized": isfile(normalized),
+        })()
+
+TEMP = set(('west-emnet', 'withywindle'))
+def build2():
+    makedirs("build/labels/embedded")
+    makedirs("build/labels/practice")
+    makedirs("build/labels/thumbnails")
+    regions = get_regions()
+    for label in labels2():
+        if label.canonical in TEMP:
+            continue
+        source = Image.open(label.source)
+        region = regions[label.canonical]
+        width, height = source.size
+
+        # embedded images
+        outer_size = outer_width, outer_height = [
+            int(region.diagonal * WIDTH),
+            int(region.width / region.diagonal * region.height * HEIGHT),
+        ]
+        if width > outer_width:
+            embedded = source.resize(outer_size, Image.ANTIALIAS)
+        else:
+            embedded = source
+        embedded.save(label.embedded)
+
+        practice = embedded.resize([dim / 2 for dim in embedded.size], Image.ANTIALIAS)
+        practice.save(label.practice)
+
+        # thumbnail
+        thumb_size = [
+            int(float(width) / height * 100),
+            100,
+        ]
+        source.resize(thumb_size, Image.ANTIALIAS).save(label.thumbnail)
+
+        print label.parts, source.size, outer_size, thumb_size
 
 def main():
     import sys

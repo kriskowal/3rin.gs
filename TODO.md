@@ -34,6 +34,7 @@ TODO
 * rough source content, indexed, thumbnailed
 * minor icon animation tricks
 * improve performance of tiling
+* ambient contextual audio at close zoom
 
 TODONE
 ------
