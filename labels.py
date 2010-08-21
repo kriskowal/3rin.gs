@@ -151,6 +151,9 @@ class Label(object):
     def embedded(self):
         return 'build/labels/embedded/%s-%s.png' % self.parts
     @property
+    def practice(self):
+        return 'build/labels/practice/%s-%s.png' % self.parts
+    @property
     def thumbnail(self):
         return 'build/labels/thumbnails/%s-%s.png' % self.parts
 
@@ -179,6 +182,7 @@ def labels2():
 TEMP = set(('west-emnet', 'withywindle'))
 def build2():
     makedirs("build/labels/embedded")
+    makedirs("build/labels/practice")
     makedirs("build/labels/thumbnails")
     regions = get_regions()
     for label in labels2():
@@ -198,6 +202,9 @@ def build2():
         else:
             embedded = source
         embedded.save(label.embedded)
+
+        practice = embedded.resize([dim / 2 for dim in embedded.size], Image.ANTIALIAS)
+        practice.save(label.practice)
 
         # thumbnail
         thumb_size = [

@@ -209,7 +209,7 @@
        id="image6118"
        height="1052.4456"
        width="1038.4128"
-       xlink:href="archive/labels/gondor-st-normalized.png"
+       xlink:href="build/labels/practice/gondor-st.png"
        transform="matrix(0.9111824,0.4120032,-0.4120032,0.9111824,0,0)" />
     <image
        y="-99.414955"
@@ -217,7 +217,7 @@
        id="image6263"
        height="1502.1769"
        width="1040.5078"
-       xlink:href="archive/labels/rhun-st-normalized.png"
+       xlink:href="build/labels/practice/rhun-st.png"
        style="opacity:1"
        transform="matrix(0.971291,0.2378946,-0.2378946,0.971291,0,0)" />
     <image
@@ -226,7 +226,7 @@
        id="image6373"
        height="1192.2512"
        width="1896.4742"
-       xlink:href="archive/labels/rhovanion-st-normalized.png"
+       xlink:href="build/labels/practice/rhovanion-st.png"
        transform="matrix(0.6976223,0.7164658,-0.7164658,0.6976223,0,0)"
        style="opacity:0.63306448" />
     <image
@@ -235,7 +235,7 @@
        id="image6500"
        height="1472.6409"
        width="1493.2578"
-       xlink:href="archive/labels/eriador-st-normalized.png"
+       xlink:href="build/labels/practice/eriador-st.png"
        style="opacity:0.63306448" />
     <image
        y="-665.59296"
@@ -243,7 +243,7 @@
        id="image7143"
        height="1012.7104"
        width="1787.0962"
-       xlink:href="build/labels/forodwaith-st-resized.png"
+       xlink:href="build/labels/practice/forodwaith-st.png"
        style="opacity:1"
        transform="matrix(0.9822915,0.187359,-0.187359,0.9822915,0,0)" />
     <image
@@ -252,7 +252,7 @@
        id="image3055"
        height="1062.2546"
        width="1548.0591"
-       xlink:href="archive/labels/haradwaith-st-normalized.png"
+       xlink:href="build/labels/practice/haradwaith-st.png"
        transform="matrix(0.9776951,-0.2100291,0.2100291,0.9776951,0,0)"
        style="opacity:1" />
     <image
@@ -262,7 +262,7 @@
        id="image3008"
        height="898.9903"
        width="1402.4249"
-       xlink:href="archive/labels/mordor-st-normalized.png"
+       xlink:href="build/labels/practice/mordor-st.png"
        transform="matrix(0.9940926,0.1085354,-0.1085354,0.9940926,0,0)" />
     <image
        y="4751.2993"
@@ -270,7 +270,7 @@
        id="image14251"
        height="1160.8066"
        width="1965.6327"
-       xlink:href="archive/labels/belegaer-st-normalized.png"
+       xlink:href="build/labels/practice/belegaer-st.png"
        transform="matrix(0.9601123,0.2796146,-0.2796146,0.9601123,0,0)" />
   </g>
   <g
@@ -285,7 +285,7 @@
        id="image5527"
        height="455.76639"
        width="285.61362"
-       xlink:href="build/labels/khand-ut-resized.png"
+       xlink:href="build/labels/practice/khand-ut.png"
        transform="matrix(0.9511528,0.3087205,-0.3087205,0.9511528,0,0)" />
     <image
        style="display:inline"
@@ -294,7 +294,7 @@
        id="image14344"
        height="341.13004"
        width="1005.4359"
-       xlink:href="archive/labels/cof-belfalas-st.png"
+       xlink:href="build/labels/practice/cof-belfalas-st.png"
        transform="matrix(0.8938867,0.448293,-0.448293,0.8938867,0,0)" />
     <image
        style="display:inline"
@@ -303,7 +303,7 @@
        id="image4014"
        height="500.04889"
        width="1321.7959"
-       xlink:href="archive/labels/ardhon-iaur-arnor-st-normalized.png"
+       xlink:href="build/labels/practice/ardhon-iaur-arnor-st.png"
        transform="matrix(0.9890981,0.1472581,-0.1472581,0.9890981,0,0)" />
   </g>
   <g
@@ -318,7 +318,7 @@
        id="image3216"
        height="555.23438"
        width="1138.2303"
-       xlink:href="build/labels/eryn-lasgalen-st-resized.png"
+       xlink:href="build/labels/practice/eryn-lasgalen-st.png"
        transform="matrix(0.2646373,0.964348,-0.964348,0.2646373,0,0)" />
     <image
        style="opacity:0.77822583;display:inline"
@@ -327,7 +327,7 @@
        id="image4609"
        height="429.43964"
        width="655.03864"
-       xlink:href="build/labels/arthedain-st-resized.png"
+       xlink:href="build/labels/practice/arthedain-st.png"
        transform="matrix(0.8443007,-0.5358697,0.5358697,0.8443007,0,0)" />
     <image
        style="opacity:1;display:inline"
@@ -336,7 +336,7 @@
        id="image5789"
        height="368.64133"
        width="605.06335"
-       xlink:href="build/labels/cardolan-ut-resized.png"
+       xlink:href="build/labels/practice/cardolan-ut.png"
        transform="matrix(0.9348551,-0.3550296,0.3550296,0.9348551,0,0)" />
     <image
        y="2410.281"
@@ -344,7 +344,7 @@
        id="image5918"
        height="462.76874"
        width="602.5249"
-       xlink:href="build/labels/rhudaur-st-resized.png"
+       xlink:href="build/labels/practice/rhudaur-st.png"
        style="opacity:1"
        transform="matrix(0.9820195,-0.1887795,0.1887795,0.9820195,0,0)" />
     <image
@@ -353,7 +353,7 @@
        id="image3438"
        height="377.83905"
        width="343.83353"
-       xlink:href="build/labels/angmar-st-resized.png"
+       xlink:href="build/labels/practice/angmar-st.png"
        style="opacity:1;display:inline" />
     <image
        y="1813.2555"
@@ -361,7 +361,7 @@
        id="image8228"
        height="274.76624"
        width="507.21848"
-       xlink:href="build/labels/emyn-angren-st-resized.png"
+       xlink:href="build/labels/practice/emyn-angren-st.png"
        style="opacity:1;display:inline" />
     <image
        y="4939.688"
@@ -369,7 +369,7 @@
        id="image6843"
        height="390.841"
        width="555.77594"
-       xlink:href="build/labels/lebennin-st-resized.png"
+       xlink:href="build/labels/practice/lebennin-st.png"
        transform="matrix(0.989999,-0.1410744,0.1410744,0.989999,0,0)"
        style="opacity:0.90725804;display:inline" />
     <image
@@ -378,7 +378,7 @@
        id="image6732"
        height="340.47906"
        width="538.86487"
-       xlink:href="build/labels/lamedon-ut-resized.png"
+       xlink:href="build/labels/practice/lamedon-ut.png"
        transform="matrix(0.984581,0.1749291,-0.1749291,0.984581,0,0)"
        style="opacity:0.96370963;display:inline" />
     <image
@@ -388,7 +388,7 @@
        id="image3691"
        height="339.49258"
        width="368.23627"
-       xlink:href="build/labels/anorien-st-resized.png"
+       xlink:href="build/labels/practice/anorien-st.png"
        transform="matrix(0.9702545,0.242087,-0.242087,0.9702545,0,0)" />
     <image
        style="opacity:0.94758061;display:inline"
@@ -397,7 +397,7 @@
        id="image7868"
        height="242.09091"
        width="481.2767"
-       xlink:href="build/labels/druwaith-iaur-st-resized.png"
+       xlink:href="build/labels/practice/druwaith-iaur-st.png"
        transform="matrix(0.9797849,-0.2000539,0.2000539,0.9797849,0,0)" />
     <image
        y="-3606.8074"
@@ -405,7 +405,7 @@
        id="image4299"
        height="295.3338"
        width="450.48248"
-       xlink:href="build/labels/forithilien-st-resized.png"
+       xlink:href="build/labels/practice/forithilien-st.png"
        transform="matrix(0.3192383,0.9476745,-0.9476745,0.3192383,0,0)"
        style="opacity:0.77822583" />
     <image
@@ -414,7 +414,7 @@
        id="image4412"
        height="258.85385"
        width="433.49396"
-       xlink:href="build/labels/harithilien-st-resized.png"
+       xlink:href="build/labels/practice/harithilien-st.png"
        transform="matrix(0.1585425,-0.9873522,0.9873522,0.1585425,0,0)"
        style="opacity:0.77822583" />
     <image
@@ -423,7 +423,7 @@
        id="image2739"
        height="395.41415"
        width="533.28192"
-       xlink:href="build/labels/harondor-st-resized.png"
+       xlink:href="build/labels/practice/harondor-st.png"
        transform="matrix(0.9761026,-0.2173101,0.2173101,0.9761026,0,0)"
        style="opacity:1" />
     <image
@@ -432,7 +432,7 @@
        id="image3642"
        height="307.69482"
        width="524.51715"
-       xlink:href="build/labels/minhiriath-st-resized.png"
+       xlink:href="build/labels/practice/minhiriath-st.png"
        transform="matrix(0.4734282,-0.8808324,0.8808324,0.4734282,0,0)"
        style="opacity:1" />
     <image
@@ -441,7 +441,7 @@
        id="image3752"
        height="395.00977"
        width="576.71423"
-       xlink:href="build/labels/enedhwaith-st-resized.png"
+       xlink:href="build/labels/practice/enedhwaith-st.png"
        transform="matrix(0.8580293,-0.5136007,0.5136007,0.8580293,0,0)"
        style="opacity:1" />
     <image
@@ -451,7 +451,7 @@
        id="image6624"
        height="191.3156"
        width="394.97412"
-       xlink:href="archive/labels/rhunaer-st.png"
+       xlink:href="build/labels/practice/rhunaer-st.png"
        transform="matrix(0.9001631,0.4355531,-0.4355531,0.9001631,0,0)"
        inkscape:transform-center-x="172.47633"
        inkscape:transform-center-y="108.05746" />
@@ -461,7 +461,7 @@
        id="image6733"
        height="283.27924"
        width="331.81439"
-       xlink:href="build/labels/nurnen-st-resized.png"
+       xlink:href="build/labels/practice/nurnen-st.png"
        style="opacity:0.96370963"
        transform="matrix(0.9795142,-0.201375,0.201375,0.9795142,0,0)" />
     <image
@@ -471,7 +471,7 @@
        id="image7988"
        height="284.80054"
        width="270.18079"
-       xlink:href="build/labels/moria-st-resized.png" />
+       xlink:href="build/labels/practice/moria-st.png" />
     <image
        style="opacity:1;display:inline"
        y="6962.3062"
@@ -479,7 +479,7 @@
        id="image15639"
        height="333.24844"
        width="246.60385"
-       xlink:href="build/labels/umbar-st-resized.png"
+       xlink:href="build/labels/practice/umbar-st.png"
        transform="matrix(0.9140213,-0.4056662,0.4056662,0.9140213,0,0)" />
     <image
        style="display:inline"
@@ -488,7 +488,7 @@
        id="image10351"
        height="182.30099"
        width="253.39838"
-       xlink:href="build/labels/lithlad-st-resized.png" />
+       xlink:href="build/labels/practice/lithlad-st.png" />
     <image
        style="display:inline"
        y="3892.3718"
@@ -496,7 +496,7 @@
        id="image4599"
        height="307.439"
        width="520.59662"
-       xlink:href="build/labels/barannorath-st-resized.png"
+       xlink:href="build/labels/practice/barannorath-st.png"
        transform="matrix(0.9871535,-0.1597749,0.1597749,0.9871535,0,0)" />
     <image
        style="opacity:0.72177417;display:inline"
@@ -505,7 +505,7 @@
        id="image5434"
        height="377.88452"
        width="789.02301"
-       xlink:href="build/labels/calenardhon-st-resized.png"
+       xlink:href="build/labels/practice/calenardhon-st.png"
        transform="matrix(0.8335886,0.5523858,-0.5523858,0.8335886,0,0)" />
     <image
        style="display:inline"
@@ -514,7 +514,7 @@
        id="image10220"
        height="300"
        width="588"
-       xlink:href="build/labels/gorgoroth-st-resized.png"
+       xlink:href="build/labels/practice/gorgoroth-st.png"
        transform="matrix(0.8743199,-0.4853501,0.4853501,0.8743199,0,0)" />
     <image
        style="display:inline"
@@ -523,7 +523,7 @@
        id="image3136"
        height="404.85626"
        width="415.65247"
-       xlink:href="build/labels/nurn-st-resized.png"
+       xlink:href="build/labels/practice/nurn-st.png"
        transform="matrix(0.9875334,-0.1574095,0.1574095,0.9875334,0,0)" />
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -558,7 +558,7 @@
        id="image7942"
        height="159.94191"
        width="298.77151"
-       xlink:href="build/labels/east-emnet-et-resized.png"
+       xlink:href="build/labels/practice/east-emnet-et.png"
        style="opacity:1"
        transform="matrix(0.9939394,-0.1099297,0.1099297,0.9939394,0,0)" />
     <image
@@ -567,7 +567,7 @@
        id="image8012"
        height="165.5778"
        width="225.51695"
-       xlink:href="build/labels/eastfold-et-resized.png"
+       xlink:href="build/labels/practice/eastfold-et.png"
        transform="matrix(0.7506572,0.6606919,-0.6606919,0.7506572,0,0)"
        style="opacity:1" />
     <image
@@ -576,7 +576,7 @@
        id="image4962"
        height="242.9949"
        width="349.4267"
-       xlink:href="build/labels/baranduin-st-resized.png"
+       xlink:href="build/labels/practice/baranduin-st.png"
        transform="matrix(0.8788583,-0.4770829,0.4770829,0.8788583,0,0)"
        style="opacity:1;display:inline" />
     <image
@@ -585,7 +585,7 @@
        id="image3368"
        height="180.07774"
        width="211.89146"
-       xlink:href="build/labels/anfalas-st-resized.png"
+       xlink:href="build/labels/practice/anfalas-st.png"
        transform="matrix(0.963517,-0.2676473,0.2676473,0.963517,0,0)"
        style="opacity:0.91532258;display:inline" />
     <image
@@ -595,7 +595,7 @@
        id="image5129"
        height="124.14079"
        width="203.50813"
-       xlink:href="build/labels/belfalas-st-resized.png"
+       xlink:href="build/labels/practice/belfalas-st.png"
        transform="matrix(0.5572981,0.8303125,-0.8303125,0.5572981,0,0)" />
     <image
        style="opacity:1;display:inline"
@@ -604,7 +604,7 @@
        id="image7336"
        height="169.4868"
        width="293.55109"
-       xlink:href="build/labels/ered-angmar-st-resized.png"
+       xlink:href="build/labels/practice/ered-angmar-st.png"
        transform="matrix(0.9017718,0.4322124,-0.4322124,0.9017718,0,0)" />
     <image
        style="opacity:1;display:inline"
@@ -613,7 +613,7 @@
        id="image4167"
        height="185.91451"
        width="380.7529"
-       xlink:href="build/labels/ered-lindon-st-resized.png"
+       xlink:href="build/labels/practice/ered-lindon-st.png"
        transform="matrix(9.270072e-2,-0.995694,0.995694,9.270072e-2,0,0)" />
     <image
        y="-3920.9036"
@@ -621,7 +621,7 @@
        id="image4671"
        height="210.7887"
        width="324.33356"
-       xlink:href="build/labels/hithaeglir-st-resized.png"
+       xlink:href="build/labels/practice/hithaeglir-st.png"
        transform="matrix(0.2089996,0.9779157,-0.9779157,0.2089996,0,0)"
        style="opacity:0.91532258" />
     <image
@@ -630,12 +630,12 @@
        id="image4801"
        height="209.74815"
        width="322.73248"
-       xlink:href="build/labels/hithaeglir-st-resized.png"
+       xlink:href="build/labels/practice/hithaeglir-st.png"
        transform="matrix(0.4862282,-0.8738319,0.8738319,0.4862282,0,0)"
        style="opacity:1" />
     <image
        transform="matrix(0.5226471,0.8525491,-0.8525491,0.5226471,0,0)"
-       xlink:href="build/labels/ered-lindon-st-resized.png"
+       xlink:href="build/labels/practice/ered-lindon-st.png"
        width="380.75293"
        height="185.91452"
        id="image3756"
@@ -648,12 +648,12 @@
        id="image4094"
        height="203.83167"
        width="376.27325"
-       xlink:href="build/labels/ered-nimrais-st-resized.png"
+       xlink:href="build/labels/practice/ered-nimrais-st.png"
        style="opacity:1" />
     <image
        style="opacity:1"
        transform="matrix(0.8801312,-0.4747305,0.4747305,0.8801312,0,0)"
-       xlink:href="build/labels/hithaeglir-st-resized.png"
+       xlink:href="build/labels/practice/hithaeglir-st.png"
        width="322.73248"
        height="209.74815"
        id="image7001"
@@ -665,7 +665,7 @@
        id="image7242"
        height="218.33698"
        width="444.6796"
-       xlink:href="build/labels/ered-mithrin-st-resized.png"
+       xlink:href="build/labels/practice/ered-mithrin-st.png"
        transform="matrix(0.9937482,-0.1116448,0.1116448,0.9937482,0,0)"
        style="opacity:1" />
     <image
@@ -674,7 +674,7 @@
        id="image8123"
        height="151.57054"
        width="256.7605"
-       xlink:href="build/labels/lothlorien-st-resized.png"
+       xlink:href="build/labels/practice/lothlorien-st.png"
        transform="matrix(0.9026531,0.4303688,-0.4303688,0.9026531,0,0)"
        style="opacity:0.91532258" />
     <image
@@ -684,7 +684,7 @@
        id="image4204"
        height="142.15338"
        width="244.97766"
-       xlink:href="build/labels/emyn-muil-st-resized.png"
+       xlink:href="build/labels/practice/emyn-muil-st.png"
        transform="matrix(0.9375812,-0.3477663,0.3477663,0.9375812,0,0)" />
     <image
        style="opacity:0.91532258;display:inline"
@@ -693,7 +693,7 @@
        id="image6685"
        height="190.30655"
        width="227.73352"
-       xlink:href="build/labels/fangorn-st-resized.png"
+       xlink:href="build/labels/practice/fangorn-st.png"
        transform="matrix(0.4479501,-0.8940586,0.8940586,0.4479501,0,0)" />
     <image
        style="opacity:0.91532258;display:inline"
@@ -702,7 +702,7 @@
        id="image5203"
        height="171.16226"
        width="232.78067"
-       xlink:href="build/labels/amon-lanc-st-resized.png" />
+       xlink:href="build/labels/practice/amon-lanc-st.png" />
     <image
        style="opacity:0.91532258;display:inline"
        y="3969.7478"
@@ -710,7 +710,7 @@
        id="image10910"
        height="254.8868"
        width="451.14963"
-       xlink:href="build/labels/dorwinion-st-resized.png"
+       xlink:href="build/labels/practice/dorwinion-st.png"
        transform="matrix(0.9761382,-0.2171503,0.2171503,0.9761382,0,0)" />
     <image
        style="opacity:0.91532258;display:inline"
@@ -719,7 +719,7 @@
        id="image11747"
        height="164.61137"
        width="353.36575"
-       xlink:href="build/labels/pinnath-gelin-st-resized.png"
+       xlink:href="build/labels/practice/pinnath-gelin-st.png"
        transform="matrix(0.972895,-0.2312472,0.2312472,0.972895,0,0)" />
     <image
        style="opacity:1;display:inline"
@@ -728,7 +728,7 @@
        id="image12473"
        height="223.166"
        width="350.37064"
-       xlink:href="build/labels/gwathlo-st-resized.png"
+       xlink:href="build/labels/practice/gwathlo-st.png"
        transform="matrix(0.7376699,-0.6751616,0.6751616,0.7376699,0,0)" />
     <image
        style="opacity:1;display:inline"
@@ -737,7 +737,7 @@
        id="image14889"
        height="252.9796"
        width="315.38123"
-       xlink:href="build/labels/cof-lhun-st-resized.png" />
+       xlink:href="build/labels/practice/cof-lhun-st.png" />
     <image
        style="opacity:1;display:inline"
        y="1926.3556"
@@ -745,7 +745,7 @@
        id="image15326"
        height="207.88504"
        width="317.37115"
-       xlink:href="build/labels/forlindon-st-resized.png"
+       xlink:href="build/labels/practice/forlindon-st.png"
        transform="matrix(0.3063396,-0.9519223,0.9519223,0.3063396,0,0)" />
     <image
        y="297.64661"
@@ -753,7 +753,7 @@
        id="image15434"
        height="190.88681"
        width="342.95999"
-       xlink:href="build/labels/harlindon-st-resized.png"
+       xlink:href="build/labels/practice/harlindon-st.png"
        transform="matrix(0.643526,0.7654243,-0.7654243,0.643526,0,0)"
        style="opacity:1" />
     <image
@@ -763,7 +763,7 @@
        id="image4976"
        height="104.37131"
        width="265.76028"
-       xlink:href="archive/labels/westfold-et.png"
+       xlink:href="build/labels/practice/westfold-et.png"
        transform="matrix(0.7734215,0.6338921,-0.6338921,0.7734215,0,0)" />
     <image
        y="3318.0239"
@@ -771,7 +771,7 @@
        id="image5067"
        height="160.35851"
        width="316.44077"
-       xlink:href="build/labels/west-emnet-et-resized.png"
+       xlink:href="build/labels/practice/west-emnet-et.png"
        transform="matrix(0.9988039,4.8896075e-2,-4.8896075e-2,0.9988039,0,0)" />
     <image
        y="5192.4829"
@@ -779,7 +779,7 @@
        id="image5231"
        height="152.46001"
        width="193.62421"
-       xlink:href="build/labels/the-wold-et-resized.png"
+       xlink:href="build/labels/practice/the-wold-et.png"
        transform="matrix(0.8297016,-0.5582072,0.5582072,0.8297016,0,0)" />
     <image
        style="display:inline"
@@ -788,7 +788,7 @@
        id="image5347"
        height="131.75697"
        width="135.70967"
-       xlink:href="build/labels/anduin-st-resized.png"
+       xlink:href="build/labels/practice/anduin-st.png"
        transform="matrix(0.6362841,-0.7714548,0.7714548,0.6362841,0,0)" />
     <image
        style="display:inline"
@@ -797,7 +797,7 @@
        id="image7616"
        height="198.74933"
        width="243.13667"
-       xlink:href="build/labels/eregion-st-resized.png"
+       xlink:href="build/labels/practice/eregion-st.png"
        transform="matrix(0.9912686,-0.131858,0.131858,0.9912686,0,0)" />
     <image
        y="5038.5879"
@@ -805,7 +805,7 @@
        id="image8902"
        height="188.62166"
        width="262.81287"
-       xlink:href="build/labels/tolfalas-st-resized.png" />
+       xlink:href="build/labels/practice/tolfalas-st.png" />
     <image
        style="display:inline"
        y="-65.222527"
@@ -813,7 +813,7 @@
        id="image9692"
        height="141.30612"
        width="361.27264"
-       xlink:href="build/labels/gwaith-thranduil-st-resized.png"
+       xlink:href="build/labels/practice/gwaith-thranduil-st.png"
        transform="matrix(0.9412299,0.3377665,-0.3377665,0.9412299,0,0)" />
     <image
        style="display:inline"
@@ -822,9 +822,9 @@
        id="image10596"
        height="174.8967"
        width="241.35742"
-       xlink:href="build/labels/ephel-duath-st-resized.png" />
+       xlink:href="build/labels/practice/ephel-duath-st.png" />
     <image
-       xlink:href="build/labels/ephel-duath-st-resized.png"
+       xlink:href="build/labels/practice/ephel-duath-st.png"
        width="229.83885"
        height="166.5499"
        id="image10601"
@@ -838,7 +838,7 @@
        id="image10766"
        height="164.08664"
        width="253.78732"
-       xlink:href="build/labels/ered-lithui-st-resized.png"
+       xlink:href="build/labels/practice/ered-lithui-st.png"
        transform="matrix(0.9911134,0.1330193,-0.1330193,0.9911134,0,0)" />
     <image
        y="1099.666"
@@ -846,7 +846,7 @@
        id="image8590"
        height="141.15208"
        width="222.07928"
-       xlink:href="build/labels/uanlo-st-resized.png"
+       xlink:href="build/labels/practice/uanlo-st.png"
        transform="matrix(0.9871394,0.1598617,-0.1598617,0.9871394,0,0)"
        style="opacity:0.9758065;display:inline" />
     <image
@@ -855,7 +855,7 @@
        id="image7044"
        height="159.55794"
        width="254.22897"
-       xlink:href="build/labels/emyn-ring-st-resized.png"
+       xlink:href="build/labels/practice/emyn-ring-st.png"
        transform="matrix(0.9655087,0.2603709,-0.2603709,0.9655087,0,0)" />
     <image
        y="2227.2361"
@@ -863,7 +863,7 @@
        id="image7172"
        height="113.38776"
        width="287.62692"
-       xlink:href="build/labels/emyn-lasgalen-st-resized.png"
+       xlink:href="build/labels/practice/emyn-lasgalen-st.png"
        transform="matrix(0.9992738,-3.810426e-2,3.810426e-2,0.9992738,0,0)" />
     <image
        style="opacity:1;display:inline"
@@ -872,7 +872,7 @@
        id="image5888"
        height="265.65335"
        width="332.95218"
-       xlink:href="build/labels/himling-st-resized.png"
+       xlink:href="build/labels/practice/himling-st.png"
        transform="matrix(0.9361815,0.3515169,-0.3515169,0.9361815,0,0)" />
     <image
        style="display:inline"
@@ -881,7 +881,7 @@
        id="image7167"
        height="216.55745"
        width="279.3591"
-       xlink:href="build/labels/emyn-uial-st-resized.png"
+       xlink:href="build/labels/practice/emyn-uial-st.png"
        transform="matrix(0.8175691,0.5758305,-0.5758305,0.8175691,0,0)"
        inkscape:transform-center-x="115.79411"
        inkscape:transform-center-y="-47.94392" />
@@ -891,7 +891,7 @@
        id="image3523"
        height="205.0036"
        width="287.00507"
-       xlink:href="build/labels/i-drann-st-resized.png"
+       xlink:href="build/labels/practice/i-drann-st.png"
        transform="matrix(0.9848164,-0.1735993,0.1735993,0.9848164,0,0)" />
   </g>
   <g
@@ -905,7 +905,7 @@
        id="image3298"
        height="64.148529"
        width="65.388741"
-       xlink:href="build/labels/andrath-st-resized.png"
+       xlink:href="build/labels/practice/andrath-st.png"
        transform="matrix(0.4703191,0.8824964,-0.8824964,0.4703191,0,0)"
        style="opacity:0.9758065" />
     <image
@@ -914,7 +914,7 @@
        id="image3511"
        height="73.247513"
        width="104.15797"
-       xlink:href="build/labels/angrenost-st-resized.png"
+       xlink:href="build/labels/practice/angrenost-st.png"
        style="opacity:0.9758065" />
     <image
        y="3732.5391"
@@ -922,7 +922,7 @@
        id="image5361"
        height="81.755058"
        width="112.22243"
-       xlink:href="build/labels/calembel-st-resized.png"
+       xlink:href="build/labels/practice/calembel-st.png"
        transform="matrix(0.993715,0.1119398,-0.1119398,0.993715,0,0)"
        style="opacity:0.9758065" />
     <image
@@ -931,7 +931,7 @@
        id="image6642"
        height="71.581276"
        width="61.655331"
-       xlink:href="build/labels/ciril-st-resized.png"
+       xlink:href="build/labels/practice/ciril-st.png"
        transform="matrix(0.5078262,-0.8614595,0.8614595,0.5078262,0,0)"
        style="opacity:0.9758065" />
     <image
@@ -941,7 +941,7 @@
        id="image8082"
        height="111.95442"
        width="137.55467"
-       xlink:href="build/labels/edhellond-st-resized.png" />
+       xlink:href="build/labels/practice/edhellond-st.png" />
     <image
        style="opacity:0.9758065;display:inline"
        y="4153.9565"
@@ -949,7 +949,7 @@
        id="image4906"
        height="121.81642"
        width="215.61507"
-       xlink:href="build/labels/minas-tirith-st-resized.png"
+       xlink:href="build/labels/practice/minas-tirith-st.png"
        transform="matrix(0.9997135,2.3937268e-2,-2.3937268e-2,0.9997135,0,0)" />
     <image
        y="-241.24951"
@@ -957,7 +957,7 @@
        id="image6107"
        height="73.071053"
        width="169.96056"
-       xlink:href="archive/labels/cair-andros-st.png"
+       xlink:href="build/labels/practice/cair-andros-st.png"
        transform="matrix(0.7498154,0.6616471,-0.6616471,0.7498154,0,0)"
        style="opacity:0.9758065" />
     <image
@@ -967,7 +967,7 @@
        id="image6494"
        height="92.573669"
        width="174.47052"
-       xlink:href="build/labels/barad-dur-st-resized.png"
+       xlink:href="build/labels/practice/barad-dur-st.png"
        transform="matrix(0.9896178,0.1437239,-0.1437239,0.9896178,0,0)" />
     <image
        y="1494.296"
@@ -975,7 +975,7 @@
        id="image7092"
        height="100.56552"
        width="179.94521"
-       xlink:href="build/labels/talf-tharn-st-resized.png"
+       xlink:href="build/labels/practice/talf-tharn-st.png"
        style="opacity:0.9758065;display:inline" />
     <image
        y="2809.021"
@@ -983,7 +983,7 @@
        id="image5586"
        height="92.461792"
        width="159.65068"
-       xlink:href="build/labels/fanuidhol-st-resized.png"
+       xlink:href="build/labels/practice/fanuidhol-st.png"
        style="opacity:0.9758065;display:inline" />
     <image
        y="2705.7822"
@@ -991,7 +991,7 @@
        id="image5659"
        height="100.65408"
        width="177.62088"
-       xlink:href="build/labels/celebdil-st-resized.png"
+       xlink:href="build/labels/practice/celebdil-st.png"
        style="opacity:0.9758065;display:inline" />
     <image
        style="opacity:0.9758065;display:inline"
@@ -1000,7 +1000,7 @@
        id="image8553"
        height="47.453144"
        width="115.50095"
-       xlink:href="build/labels/caras-galdhon-st-resized.png" />
+       xlink:href="build/labels/practice/caras-galdhon-st.png" />
     <image
        style="opacity:0.9758065;display:inline"
        y="2065.3457"
@@ -1008,7 +1008,7 @@
        id="image9184"
        height="85.976845"
        width="166.36975"
-       xlink:href="build/labels/men-eryn-iaur-st-resized.png"
+       xlink:href="build/labels/practice/men-eryn-iaur-st.png"
        transform="matrix(0.9999594,9.0123445e-3,-8.4196036e-3,0.9999646,0,0)" />
     <image
        style="opacity:0.9758065;display:inline"
@@ -1017,7 +1017,7 @@
        id="image4075"
        height="81.148582"
        width="184.74828"
-       xlink:href="build/labels/parth-celebrant-st-resized.png"
+       xlink:href="build/labels/practice/parth-celebrant-st.png"
        transform="matrix(0.8355537,0.5494088,-0.5494088,0.8355537,0,0)" />
     <image
        style="opacity:0.9758065;display:inline"
@@ -1026,7 +1026,7 @@
        id="image4672"
        height="92.325439"
        width="203.73148"
-       xlink:href="build/labels/ethir-onodlo-st-resized.png"
+       xlink:href="build/labels/practice/ethir-onodlo-st.png"
        transform="matrix(0.9903342,0.138702,-0.138702,0.9903342,0,0)" />
     <image
        style="opacity:0.9758065;display:inline"
@@ -1035,14 +1035,14 @@
        id="image4545"
        height="78.399261"
        width="129.88144"
-       xlink:href="build/labels/nen-hithoel-st-resized.png" />
+       xlink:href="build/labels/practice/nen-hithoel-st.png" />
     <image
        y="2356.2686"
        x="4192.3145"
        id="image5410"
        height="90.335548"
        width="193.61917"
-       xlink:href="build/labels/sir-ninglor-st-resized.png"
+       xlink:href="build/labels/practice/sir-ninglor-st.png"
        style="opacity:0.9758065" />
     <image
        style="opacity:0.9758065;display:inline"
@@ -1051,7 +1051,7 @@
        id="image6156"
        height="65.167831"
        width="85.369865"
-       xlink:href="build/labels/andeithel-st-resized.png"
+       xlink:href="build/labels/practice/andeithel-st.png"
        transform="matrix(0.8983791,0.4392208,-0.4392208,0.8983791,0,0)" />
     <image
        style="opacity:0.9758065;display:inline"
@@ -1060,7 +1060,7 @@
        id="image6298"
        height="75.934914"
        width="95.424881"
-       xlink:href="build/labels/mithnen-st-resized.png"
+       xlink:href="build/labels/practice/mithnen-st.png"
        transform="matrix(7.7150324e-2,-0.9970195,0.9970195,7.7150324e-2,0,0)" />
     <image
        style="opacity:0.9758065;display:inline"
@@ -1069,7 +1069,7 @@
        id="image6775"
        height="84.079323"
        width="141.81378"
-       xlink:href="build/labels/onodlo-st-resized.png"
+       xlink:href="build/labels/practice/onodlo-st.png"
        transform="matrix(0.856347,0.5164008,-0.5164008,0.856347,0,0)" />
     <image
        y="2413.7886"
@@ -1077,7 +1077,7 @@
        id="image5271"
        height="125.5799"
        width="151.53311"
-       xlink:href="build/labels/bree-et-resized.png"
+       xlink:href="build/labels/practice/bree-et.png"
        style="opacity:1;display:inline"
        transform="matrix(0.9977799,-6.6597333e-2,6.6597333e-2,0.9977799,0,0)" />
     <image
@@ -1086,7 +1086,7 @@
        id="image7708"
        height="164.81633"
        width="209.86612"
-       xlink:href="build/labels/nenuial-st-resized.png"
+       xlink:href="build/labels/practice/nenuial-st.png"
        style="opacity:1" />
     <image
        y="1543.3096"
@@ -1094,7 +1094,7 @@
        id="image8016"
        height="87.500969"
        width="116.08463"
-       xlink:href="build/labels/mithlond-st-resized.png"
+       xlink:href="build/labels/practice/mithlond-st.png"
        style="opacity:0.9758065"
        transform="matrix(0.9595256,0.2816213,-0.2816213,0.9595256,0,0)" />
     <image
@@ -1103,7 +1103,7 @@
        id="image8307"
        height="80.363174"
        width="137.95677"
-       xlink:href="build/labels/emyn-haeron-st-resized.png"
+       xlink:href="build/labels/practice/emyn-haeron-st.png"
        transform="matrix(0.8664018,0.4993475,-0.4993475,0.8664018,0,0)"
        style="opacity:0.9758065" />
     <image
@@ -1113,14 +1113,14 @@
        id="image9613"
        height="122.3286"
        width="104.79484"
-       xlink:href="build/labels/edoras-et-resized.png" />
+       xlink:href="build/labels/practice/edoras-et.png" />
     <image
        y="4032.0229"
        x="4347.7129"
        id="image9738"
        height="116.06753"
        width="178.74399"
-       xlink:href="build/labels/eryn-firien-st-resized.png"
+       xlink:href="build/labels/practice/eryn-firien-st.png"
        style="opacity:0.9758065" />
     <image
        style="opacity:0.9758065;display:inline"
@@ -1129,7 +1129,7 @@
        id="image11020"
        height="150.79831"
        width="236.75336"
-       xlink:href="build/labels/celduin-st-resized.png"
+       xlink:href="build/labels/practice/celduin-st.png"
        transform="matrix(0.9814012,0.1919679,-0.1919679,0.9814012,0,0)" />
     <image
        y="-3806.7515"
@@ -1137,12 +1137,12 @@
        id="image11167"
        height="164.42461"
        width="199.50185"
-       xlink:href="build/labels/carnen-st-resized.png"
+       xlink:href="build/labels/practice/carnen-st.png"
        transform="matrix(0.5548854,0.8319268,-0.8319268,0.5548854,0,0)"
        style="opacity:0.9758065" />
     <image
        transform="matrix(0.9987718,-4.9547669e-2,4.9547669e-2,0.9987718,0,0)"
-       xlink:href="build/labels/celduin-st-resized.png"
+       xlink:href="build/labels/practice/celduin-st.png"
        width="236.75334"
        height="150.79831"
        id="image11171"
@@ -1156,7 +1156,7 @@
        id="image11818"
        height="101.87359"
        width="104.25065"
-       xlink:href="build/labels/adorn-st-resized.png"
+       xlink:href="build/labels/practice/adorn-st.png"
        transform="matrix(0.8418983,0.5396363,-0.5396363,0.8418983,0,0)" />
     <image
        y="1520.3049"
@@ -1164,7 +1164,7 @@
        id="image12071"
        height="110.44898"
        width="194.3902"
-       xlink:href="build/labels/eryn-vorn-st-resized.png"
+       xlink:href="build/labels/practice/eryn-vorn-st.png"
        transform="matrix(0.9096698,0.4153322,-0.4153322,0.9096698,0,0)"
        style="opacity:0.9758065" />
     <image
@@ -1173,7 +1173,7 @@
        id="image12305"
        height="105.42462"
        width="172.19356"
-       xlink:href="build/labels/lond-daer-st-resized.png"
+       xlink:href="build/labels/practice/lond-daer-st.png"
        transform="matrix(0.9544332,-0.2984248,0.2984248,0.9544332,0,0)"
        style="opacity:0.9758065" />
     <image
@@ -1183,7 +1183,7 @@
        id="image12600"
        height="142.02927"
        width="166.64766"
-       xlink:href="build/labels/mitheithel-st-resized.png"
+       xlink:href="build/labels/practice/mitheithel-st.png"
        transform="matrix(0.8156789,-0.5785049,0.5785049,0.8156789,0,0)" />
     <image
        y="4005.7107"
@@ -1191,7 +1191,7 @@
        id="image12708"
        height="104.83755"
        width="172.28305"
-       xlink:href="build/labels/glanduin-st-resized.png"
+       xlink:href="build/labels/practice/glanduin-st.png"
        transform="matrix(0.922696,-0.3855284,0.3855284,0.922696,0,0)"
        style="opacity:0.9758065" />
     <image
@@ -1201,11 +1201,11 @@
        id="image13036"
        height="128.79321"
        width="184.1743"
-       xlink:href="build/labels/bruinen-st-resized.png"
+       xlink:href="build/labels/practice/bruinen-st.png"
        transform="matrix(0.7994602,-0.600719,0.600719,0.7994602,0,0)" />
     <image
        transform="matrix(0.3696864,-0.9291566,0.9291566,0.3696864,0,0)"
-       xlink:href="build/labels/mitheithel-st-resized.png"
+       xlink:href="build/labels/practice/mitheithel-st.png"
        width="166.64766"
        height="142.02927"
        id="image13079"
@@ -1219,7 +1219,7 @@
        id="image13456"
        height="88.408165"
        width="133.79102"
-       xlink:href="build/labels/pelargir-st-resized.png" />
+       xlink:href="build/labels/practice/pelargir-st.png" />
     <image
        style="opacity:0.9758065;display:inline"
        y="3786.5552"
@@ -1227,7 +1227,7 @@
        id="image14121"
        height="91.346947"
        width="129.40817"
-       xlink:href="build/labels/linhir-st-resized.png"
+       xlink:href="build/labels/practice/linhir-st.png"
        transform="matrix(0.9831434,0.1828361,-0.1828361,0.9831434,0,0)" />
     <image
        y="5893.5132"
@@ -1235,7 +1235,7 @@
        id="image14300"
        height="69.306122"
        width="108.81059"
-       xlink:href="build/labels/gilrain-st-resized.png"
+       xlink:href="build/labels/practice/gilrain-st.png"
        transform="matrix(0.3923186,-0.9198294,0.9198294,0.3923186,0,0)"
        style="opacity:0.9758065" />
     <image
@@ -1244,7 +1244,7 @@
        id="image14444"
        height="86.938774"
        width="81.14286"
-       xlink:href="build/labels/ethring-st-resized.png"
+       xlink:href="build/labels/practice/ethring-st.png"
        style="opacity:0.9758065" />
     <image
        y="5853.9551"
@@ -1252,7 +1252,7 @@
        id="image14548"
        height="76.607285"
        width="102.90913"
-       xlink:href="build/labels/ringlo-st-resized.png"
+       xlink:href="build/labels/practice/ringlo-st.png"
        transform="matrix(0.8762875,-0.4817885,0.4817885,0.8762875,0,0)"
        style="opacity:0.9758065" />
     <image
@@ -1261,7 +1261,7 @@
        id="image14675"
        height="74.195541"
        width="91.75515"
-       xlink:href="build/labels/morthond-st-resized.png"
+       xlink:href="build/labels/practice/morthond-st.png"
        transform="matrix(0.8835002,0.4684307,-0.4684307,0.8835002,0,0)"
        style="opacity:0.9758065" />
     <image
@@ -1270,7 +1270,7 @@
        id="image14782"
        height="87.002121"
        width="120.93295"
-       xlink:href="build/labels/tharbad-ut-resized.png"
+       xlink:href="build/labels/practice/tharbad-ut.png"
        style="opacity:0.9758065" />
     <image
        style="opacity:0.9758065;display:inline"
@@ -1279,7 +1279,7 @@
        id="image15017"
        height="81.061226"
        width="100.51591"
-       xlink:href="build/labels/harlond-st-resized.png"
+       xlink:href="build/labels/practice/harlond-st.png"
        transform="matrix(0.9735194,0.2286045,-0.2286045,0.9735194,0,0)" />
     <image
        y="2379.4158"
@@ -1287,7 +1287,7 @@
        id="image15182"
        height="92.81633"
        width="115.09225"
-       xlink:href="build/labels/forlond-st-resized.png"
+       xlink:href="build/labels/practice/forlond-st.png"
        style="opacity:0.9758065"
        transform="matrix(0.9852679,-0.171018,0.171018,0.9852679,0,0)" />
     <image
@@ -1297,7 +1297,7 @@
        id="image15821"
        height="106.04082"
        width="152.69878"
-       xlink:href="build/labels/lond-umbar-st-resized.png" />
+       xlink:href="build/labels/practice/lond-umbar-st.png" />
     <image
        style="display:inline"
        y="5448.5806"
@@ -1305,7 +1305,7 @@
        id="image4770"
        height="71.998558"
        width="102.71794"
-       xlink:href="build/labels/fortofn-st-resized.png"
+       xlink:href="build/labels/practice/fortofn-st.png"
        transform="matrix(0.7591426,-0.6509243,0.6509243,0.7591426,0,0)" />
     <image
        y="3670.72"
@@ -1313,13 +1313,13 @@
        id="image4883"
        height="66.501564"
        width="108.61922"
-       xlink:href="build/labels/hartofn-st-resized.png"
+       xlink:href="build/labels/practice/hartofn-st.png"
        transform="matrix(0.9982966,-5.8343262e-2,5.8343262e-2,0.9982966,0,0)"
        inkscape:transform-center-x="-38.233122"
        inkscape:transform-center-y="-2.9941926" />
     <image
        transform="matrix(0.9376848,0.3474871,-0.3474871,0.9376848,0,0)"
-       xlink:href="build/labels/onodlo-st-resized.png"
+       xlink:href="build/labels/practice/onodlo-st.png"
        width="141.81378"
        height="84.079323"
        id="image5235"
@@ -1332,7 +1332,7 @@
        id="image6867"
        height="91.496773"
        width="114.50191"
-       xlink:href="build/labels/nindalf-st-resized.png"
+       xlink:href="build/labels/practice/nindalf-st.png"
        style="opacity:0.91532258;display:inline"
        transform="matrix(0.9788472,-0.2045925,0.2045925,0.9788472,0,0)" />
     <image
@@ -1341,7 +1341,7 @@
        id="image6997"
        height="74.069382"
        width="119.00479"
-       xlink:href="build/labels/lo-fern-st-resized.png"
+       xlink:href="build/labels/practice/lo-fern-st.png"
        transform="matrix(0.9886236,-0.150411,0.150411,0.9886236,0,0)"
        style="opacity:0.91532258;display:inline" />
     <image
@@ -1351,7 +1351,7 @@
        id="image7501"
        height="77.129257"
        width="136.31308"
-       xlink:href="build/labels/dagorlad-st-resized.png"
+       xlink:href="build/labels/practice/dagorlad-st.png"
        transform="matrix(0.9864145,-0.1642754,0.1642754,0.9864145,0,0)" />
     <image
        style="opacity:0.91532258;display:inline"
@@ -1360,11 +1360,11 @@
        id="image13241"
        height="93.052925"
        width="127.17233"
-       xlink:href="build/labels/ethir-anduin-st-resized.png"
+       xlink:href="build/labels/practice/ethir-anduin-st.png"
        transform="matrix(0.5292198,-0.8484847,0.8484847,0.5292198,0,0)" />
     <image
        transform="matrix(9.3648016e-2,0.9956054,-0.9956054,9.3648016e-2,0,0)"
-       xlink:href="build/labels/anduin-st-resized.png"
+       xlink:href="build/labels/practice/anduin-st.png"
        width="87.024261"
        height="84.489578"
        id="image5351"
@@ -1372,7 +1372,7 @@
        y="-4261.1943" />
     <image
        transform="matrix(0.6362841,-0.7714548,0.7714548,0.6362841,0,0)"
-       xlink:href="build/labels/anduin-st-resized.png"
+       xlink:href="build/labels/practice/anduin-st.png"
        width="78.592934"
        height="76.303825"
        id="image5354"
@@ -1385,14 +1385,14 @@
        id="image6043"
        height="100.60741"
        width="156.27684"
-       xlink:href="build/labels/caradhras-st-resized.png" />
+       xlink:href="build/labels/practice/caradhras-st.png" />
     <image
        y="1616.8812"
        x="3990.1992"
        id="image6418"
        height="125.28996"
        width="220.51031"
-       xlink:href="build/labels/eryn-teryg-st-resized.png"
+       xlink:href="build/labels/practice/eryn-teryg-st.png"
        transform="matrix(0.9894214,0.14507,-0.14507,0.9894214,0,0)" />
     <image
        y="-148.53841"
@@ -1400,7 +1400,7 @@
        id="image6548"
        height="89.076134"
        width="193.59213"
-       xlink:href="build/labels/emyn-beraid-st-resized.png"
+       xlink:href="build/labels/practice/emyn-beraid-st.png"
        transform="matrix(0.6886383,0.725105,-0.725105,0.6886383,0,0)" />
     <image
        y="2021.5386"
@@ -1408,7 +1408,7 @@
        id="image7040"
        height="134.51947"
        width="303.56561"
-       xlink:href="build/labels/emyn-formen-st-resized.png"
+       xlink:href="build/labels/practice/emyn-formen-st.png"
        transform="matrix(0.9937739,-0.1114154,0.1114154,0.9937739,0,0)" />
     <image
        y="2479.8279"
@@ -1416,7 +1416,7 @@
        id="image7489"
        height="104.57143"
        width="240.51428"
-       xlink:href="build/labels/nin-in-eilph-st-resized.png"
+       xlink:href="build/labels/practice/nin-in-eilph-st.png"
        transform="matrix(0.9938278,0.1109342,-0.1109342,0.9938278,0,0)" />
     <image
        style="display:inline"
@@ -1425,7 +1425,7 @@
        id="image8077"
        height="104.66537"
        width="209.33075"
-       xlink:href="build/labels/fornost-erain-st-resized.png"
+       xlink:href="build/labels/practice/fornost-erain-st.png"
        transform="matrix(0.9931052,-0.1172269,0.1172269,0.9931052,0,0)" />
     <image
        y="912.63507"
@@ -1433,14 +1433,14 @@
        id="image8225"
        height="211.83673"
        width="207.60001"
-       xlink:href="build/labels/forochel-st-resized.png" />
+       xlink:href="build/labels/practice/forochel-st.png" />
     <image
        y="5629.1152"
        x="3298.1077"
        id="image8395"
        height="47.265305"
        width="99.257141"
-       xlink:href="build/labels/ethraid-erui-st-resized.png"
+       xlink:href="build/labels/practice/ethraid-erui-st.png"
        transform="matrix(0.9540166,-0.2997539,0.2997539,0.9540166,0,0)" />
     <image
        style="display:inline"
@@ -1449,7 +1449,7 @@
        id="image8653"
        height="82.946342"
        width="82.116875"
-       xlink:href="build/labels/poros-st-resized.png"
+       xlink:href="build/labels/practice/poros-st.png"
        transform="matrix(0.7563684,0.6541459,-0.6541459,0.7563684,0,0)" />
     <image
        style="display:inline"
@@ -1458,7 +1458,7 @@
        id="image9245"
        height="102.81317"
        width="180.95117"
-       xlink:href="build/labels/men-harad-st-resized.png"
+       xlink:href="build/labels/practice/men-harad-st.png"
        transform="matrix(0.9642321,0.2650595,-0.2650595,0.9642321,0,0)" />
     <image
        style="display:inline"
@@ -1467,7 +1467,7 @@
        id="image9415"
        height="83.885078"
        width="128.62379"
-       xlink:href="build/labels/emyn-nim-st-resized.png"
+       xlink:href="build/labels/practice/emyn-nim-st.png"
        transform="matrix(0.9351725,0.3541926,-0.3541926,0.9351725,0,0)" />
     <image
        y="2622.551"
@@ -1475,7 +1475,7 @@
        id="image9582"
        height="100.16327"
        width="125.87184"
-       xlink:href="build/labels/rhunnag-st-resized.png" />
+       xlink:href="build/labels/practice/rhunnag-st.png" />
     <image
        style="display:inline"
        y="4980.6724"
@@ -1483,7 +1483,7 @@
        id="image10483"
        height="103.10204"
        width="168.40001"
-       xlink:href="build/labels/orodruin-st-resized.png"
+       xlink:href="build/labels/practice/orodruin-st.png"
        transform="matrix(0.9810686,-0.1936605,0.1936605,0.9810686,0,0)" />
     <image
        style="display:inline"
@@ -1492,11 +1492,11 @@
        id="image11049"
        height="40.24649"
        width="57.686634"
-       xlink:href="build/labels/celebrant-st-resized.png"
+       xlink:href="build/labels/practice/celebrant-st.png"
        transform="matrix(0.7000732,0.7140711,-0.7140711,0.7000732,0,0)" />
     <image
        transform="matrix(0.8538585,0.5205051,-0.5205051,0.8538585,0,0)"
-       xlink:href="build/labels/celebrant-st-resized.png"
+       xlink:href="build/labels/practice/celebrant-st.png"
        width="57.68663"
        height="40.246487"
        id="image11055"
@@ -1509,7 +1509,7 @@
        id="image11163"
        height="40.236816"
        width="73.096886"
-       xlink:href="build/labels/nimrodel-st-resized.png"
+       xlink:href="build/labels/practice/nimrodel-st.png"
        transform="matrix(0.8899049,-0.4561461,0.4561461,0.8899049,0,0)" />
     <image
        style="display:inline"
@@ -1518,7 +1518,7 @@
        id="image11852"
        height="61.95919"
        width="119.37469"
-       xlink:href="build/labels/lo-edrein-st-resized.png"
+       xlink:href="build/labels/practice/lo-edrein-st.png"
        transform="matrix(0.9076736,-0.4196769,0.4196769,0.9076736,0,0)" />
     <image
        y="5413.2607"
@@ -1526,11 +1526,11 @@
        id="image11965"
        height="125.44565"
        width="179.38728"
-       xlink:href="build/labels/harnen-st-resized.png"
+       xlink:href="build/labels/practice/harnen-st.png"
        transform="matrix(0.9999975,2.2269411e-3,-2.2269411e-3,0.9999975,0,0)" />
     <image
        transform="matrix(0.3737806,-0.9275171,0.9275171,0.3737806,0,0)"
-       xlink:href="build/labels/harnen-st-resized.png"
+       xlink:href="build/labels/practice/harnen-st.png"
        width="179.38728"
        height="125.44567"
        id="image11969"
@@ -1542,7 +1542,7 @@
        id="image5537"
        height="71.074745"
        width="112.53501"
-       xlink:href="build/labels/imladris-st-resized.png"
+       xlink:href="build/labels/practice/imladris-st.png"
        style="opacity:0.9758065;display:inline" />
     <image
        style="display:inline"
@@ -1551,7 +1551,7 @@
        id="image14009"
        height="73.394829"
        width="51.621033"
-       xlink:href="archive/labels/erech-st-normalized.png" />
+       xlink:href="build/labels/practice/erech-st.png" />
     <image
        style="display:inline"
        y="3384.3289"
@@ -1559,7 +1559,7 @@
        id="image8545"
        height="64.897964"
        width="135.42041"
-       xlink:href="build/labels/ethraid-poros-st-resized.png"
+       xlink:href="build/labels/practice/ethraid-poros-st.png"
        transform="matrix(0.9686678,0.2483602,-0.2483602,0.9686678,0,0)" />
     <image
        style="display:inline"
@@ -1568,7 +1568,7 @@
        id="image5010"
        height="88.051491"
        width="155.55762"
-       xlink:href="build/labels/rhosgobel-st-resized.png"
+       xlink:href="build/labels/practice/rhosgobel-st.png"
        transform="matrix(0.9509493,0.3093468,-0.3093468,0.9509493,0,0)" />
     <image
        y="3314.2122"
@@ -1576,7 +1576,7 @@
        id="image5139"
        height="82.517822"
        width="192.81665"
-       xlink:href="build/labels/eryn-druadan-st-resized.png"
+       xlink:href="build/labels/practice/eryn-druadan-st.png"
        transform="matrix(0.9862611,0.165194,-0.165194,0.9862611,0,0)"
        style="opacity:0.96370963" />
     <image
@@ -1586,7 +1586,7 @@
        id="image5693"
        height="73.335007"
        width="213.16043"
-       xlink:href="build/labels/perth-ninglor-st-resized.png"
+       xlink:href="build/labels/practice/perth-ninglor-st.png"
        transform="matrix(0.921114,0.389293,-0.389293,0.921114,0,0)" />
     <image
        style="opacity:0.99193552;display:inline"
@@ -1595,7 +1595,7 @@
        id="image7585"
        height="61.962486"
        width="70.885086"
-       xlink:href="build/labels/imlad-st-resized.png" />
+       xlink:href="build/labels/practice/imlad-st.png" />
     <image
        style="display:inline"
        y="5079.5688"
@@ -1603,7 +1603,7 @@
        id="image5994"
        height="63.135529"
        width="77.867149"
-       xlink:href="build/labels/andnen-st-resized.png"
+       xlink:href="build/labels/practice/andnen-st.png"
        transform="matrix(1.5026426e-3,-0.9999989,0.9999989,1.5026426e-3,0,0)" />
     <image
        y="2194.1821"
@@ -1611,17 +1611,17 @@
        id="image6654"
        height="112.97748"
        width="181.51714"
-       xlink:href="build/labels/amon-sul-st-resized.png" />
+       xlink:href="build/labels/practice/amon-sul-st.png" />
     <image
        y="2485.5767"
        x="4059.0989"
        id="image6908"
        height="90.119171"
        width="184.14349"
-       xlink:href="build/labels/angren-st-resized.png"
+       xlink:href="build/labels/practice/angren-st.png"
        transform="matrix(0.9446425,0.3281014,-0.3281014,0.9446425,0,0)" />
     <image
-       xlink:href="build/labels/angren-st-resized.png"
+       xlink:href="build/labels/practice/angren-st.png"
        width="189.73094"
        height="92.853645"
        id="image6912"
@@ -1634,7 +1634,7 @@
        id="image7452"
        height="97.465759"
        width="151.39682"
-       xlink:href="build/labels/emyn-sul-st-resized.png"
+       xlink:href="build/labels/practice/emyn-sul-st.png"
        transform="matrix(0.8433082,0.5374302,-0.5374302,0.8433082,0,0)" />
     <image
        y="6218.6655"
@@ -1642,7 +1642,7 @@
        id="image7685"
        height="107.97318"
        width="237.8289"
-       xlink:href="build/labels/dor-en-ernil-st-resized.png"
+       xlink:href="build/labels/practice/dor-en-ernil-st.png"
        transform="matrix(0.8333751,-0.5527078,0.5527078,0.8333751,0,0)"
        style="opacity:0.91532258;display:inline" />
     <image
@@ -1652,7 +1652,7 @@
        id="image6570"
        height="105.38832"
        width="171.64246"
-       xlink:href="build/labels/carn-dum-ut-resized.png" />
+       xlink:href="build/labels/practice/carn-dum-ut.png" />
     <image
        style="opacity:1;display:inline"
        y="1511.8611"
@@ -1660,14 +1660,14 @@
        id="image6487"
        height="103.05114"
        width="141.86708"
-       xlink:href="build/labels/gundabad-kt-resized.png" />
+       xlink:href="build/labels/practice/gundabad-kt.png" />
     <image
        y="1630.9987"
        x="5063.2183"
        id="image7458"
        height="116.6328"
        width="147.73488"
-       xlink:href="build/labels/erebor-st-resized.png"
+       xlink:href="build/labels/practice/erebor-st.png"
        style="opacity:0.9758065;display:inline" />
     <image
        style="display:inline"
@@ -1676,7 +1676,7 @@
        id="image3364"
        height="96.463814"
        width="165.59619"
-       xlink:href="build/labels/emyn-harad-st-resized.png"
+       xlink:href="build/labels/practice/emyn-harad-st.png"
        transform="matrix(0.9913605,0.1311655,-0.1311655,0.9913605,0,0)" />
     <image
        y="-1017.5435"
@@ -1684,7 +1684,7 @@
        id="image7584"
        height="74.247955"
        width="90.582504"
-       xlink:href="build/labels/in-emyn-st-resized.png"
+       xlink:href="build/labels/practice/in-emyn-st.png"
        transform="matrix(0.6052806,0.7960122,-0.7960122,0.6052806,0,0)"
        style="opacity:0.99193552;display:inline" />
     <image
@@ -1694,7 +1694,7 @@
        id="image6801"
        height="71.416908"
        width="144.50021"
-       xlink:href="build/labels/sarnathrad-st-resized.png"
+       xlink:href="build/labels/practice/sarnathrad-st.png"
        transform="matrix(0.6264407,0.7794691,-0.7794691,0.6264407,0,0)" />
     <image
        y="3857.2219"
@@ -1702,7 +1702,7 @@
        id="image4499"
        height="108.76073"
        width="88.96627"
-       xlink:href="build/labels/udun-st-resized.png"
+       xlink:href="build/labels/practice/udun-st.png"
        style="opacity:0.9758065;display:inline" />
     <image
        style="display:inline"
@@ -1711,7 +1711,7 @@
        id="image3661"
        height="79.488136"
        width="125.06134"
-       xlink:href="build/labels/cil-rohan-st-resized.png"
+       xlink:href="build/labels/practice/cil-rohan-st.png"
        transform="matrix(0.9217665,-0.3877454,0.3877454,0.9217665,0,0)" />
     <image
        y="4592.751"
@@ -1719,7 +1719,7 @@
        id="image3866"
        height="123.18648"
        width="168.35486"
-       xlink:href="build/labels/lefnui-st-resized.png"
+       xlink:href="build/labels/practice/lefnui-st.png"
        transform="matrix(0.422938,-0.9061586,0.9061586,0.422938,0,0)" />
     <image
        style="display:inline"
@@ -1728,7 +1728,7 @@
        id="image4575"
        height="81.732346"
        width="140.85208"
-       xlink:href="build/labels/limlight-et-resized.png"
+       xlink:href="build/labels/practice/limlight-et.png"
        transform="matrix(0.955152,-0.2961158,0.2961158,0.955152,0,0)" />
   </g>
   <g
@@ -1742,7 +1742,7 @@
        id="image4759"
        height="29.958578"
        width="49.191986"
-       xlink:href="build/labels/athrad-iaur-st-resized.png"
+       xlink:href="build/labels/practice/athrad-iaur-st.png"
        transform="matrix(0.6817058,-0.7316264,0.7316264,0.6817058,0,0)"
        style="opacity:0.99193552;display:inline" />
     <image
@@ -1751,7 +1751,7 @@
        id="image4660"
        height="41.609501"
        width="63.468353"
-       xlink:href="build/labels/cirith-ungol-st-resized.png"
+       xlink:href="build/labels/practice/cirith-ungol-st.png"
        transform="matrix(0.9924513,-0.1226393,0.1226393,0.9924513,0,0)"
        style="opacity:0.99193552" />
     <image
@@ -1760,7 +1760,7 @@
        id="image4773"
        height="50.133339"
        width="110.15966"
-       xlink:href="build/labels/minas-morgul-st-resized.png"
+       xlink:href="build/labels/practice/minas-morgul-st.png"
        transform="matrix(0.8635368,-0.5042859,0.5042859,0.8635368,0,0)"
        style="opacity:0.99193552" />
     <image
@@ -1769,7 +1769,7 @@
        id="image5166"
        height="45.408531"
        width="79.253021"
-       xlink:href="build/labels/mindolluin-st-resized.png"
+       xlink:href="build/labels/practice/mindolluin-st.png"
        transform="matrix(0.9596249,-0.2812829,0.2812829,0.9596249,0,0)"
        style="opacity:0.99193552" />
     <image
@@ -1779,7 +1779,7 @@
        id="image5033"
        height="47.864777"
        width="69.372017"
-       xlink:href="build/labels/osgiliath-st-resized.png"
+       xlink:href="build/labels/practice/osgiliath-st.png"
        transform="matrix(0.7935129,0.6085534,-0.6085534,0.7935129,0,0)" />
     <image
        style="opacity:0.99193552;display:inline"
@@ -1788,7 +1788,7 @@
        id="image5422"
        height="48.37524"
        width="72.466118"
-       xlink:href="build/labels/calenhad-st-resized.png"
+       xlink:href="build/labels/practice/calenhad-st.png"
        transform="matrix(0.8577566,-0.5140561,0.5140561,0.8577566,0,0)" />
     <image
        y="5947.6987"
@@ -1796,7 +1796,7 @@
        id="image5536"
        height="26.138273"
        width="82.817078"
-       xlink:href="archive/labels/min-rimmon-st.png"
+       xlink:href="build/labels/practice/min-rimmon-st.png"
        transform="matrix(0.8652998,-0.5012546,0.5012546,0.8652998,0,0)"
        style="opacity:0.99193552" />
     <image
@@ -1805,7 +1805,7 @@
        id="image5777"
        height="41.469151"
        width="41.469151"
-       xlink:href="build/labels/erelas-st-resized.png"
+       xlink:href="build/labels/practice/erelas-st.png"
        transform="matrix(0.9016071,-0.4325559,0.4325559,0.9016071,0,0)"
        style="opacity:0.99193552" />
     <image
@@ -1814,7 +1814,7 @@
        id="image5907"
        height="50.902088"
        width="70.991455"
-       xlink:href="build/labels/nardol-st-resized.png"
+       xlink:href="build/labels/practice/nardol-st.png"
        transform="matrix(0.8063095,-0.5914939,0.5914939,0.8063095,0,0)"
        style="opacity:0.99193552" />
     <image
@@ -1824,7 +1824,7 @@
        id="image2956"
        height="54.643154"
        width="92.419792"
-       xlink:href="build/labels/amon-anwar-st-resized.png"
+       xlink:href="build/labels/practice/amon-anwar-st.png"
        transform="matrix(0.8566193,-0.5159491,0.5159491,0.8566193,0,0)" />
     <image
        style="opacity:0.99193552;display:inline"
@@ -1833,7 +1833,7 @@
        id="image6034"
        height="48.920853"
        width="72.207184"
-       xlink:href="build/labels/amon-din-st-resized.png"
+       xlink:href="build/labels/practice/amon-din-st.png"
        transform="matrix(0.9629639,-0.2696305,0.2696305,0.9629639,0,0)" />
     <image
        y="5054.0957"
@@ -1841,7 +1841,7 @@
        id="image8155"
        height="45.96154"
        width="62.599609"
-       xlink:href="build/labels/eilenach-et-resized.png"
+       xlink:href="build/labels/practice/eilenach-et.png"
        transform="matrix(0.9800114,-0.1989412,0.1989412,0.9800114,0,0)"
        style="opacity:0.99193552;display:inline" />
     <image
@@ -1850,7 +1850,7 @@
        id="image7696"
        height="44.170078"
        width="61.013599"
-       xlink:href="build/labels/esgaroth-st-resized.png"
+       xlink:href="build/labels/practice/esgaroth-st.png"
        transform="matrix(0.9748024,-0.2230701,0.2230701,0.9748024,0,0)"
        style="opacity:0.99193552" />
     <image
@@ -1860,14 +1860,14 @@
        id="image4535"
        height="44.092621"
        width="58.496208"
-       xlink:href="build/labels/argonath-st-resized.png" />
+       xlink:href="build/labels/practice/argonath-st.png" />
     <image
        y="4369.0249"
        x="4986.3032"
        id="image8301"
        height="64.957626"
        width="122.76991"
-       xlink:href="build/labels/emyn-arnen-st-resized.png"
+       xlink:href="build/labels/practice/emyn-arnen-st.png"
        style="opacity:0.99193552;display:inline" />
     <image
        y="3264.4714"
@@ -1875,7 +1875,7 @@
        id="image4832"
        height="43.503517"
        width="91.444382"
-       xlink:href="build/labels/baranduiniant-st-resized.png"
+       xlink:href="build/labels/practice/baranduiniant-st.png"
        transform="matrix(0.8794686,-0.475957,0.475957,0.8794686,0,0)"
        style="opacity:0.99193552;display:inline" />
     <image
@@ -1885,7 +1885,7 @@
        id="image5681"
        height="35.528824"
        width="86.453468"
-       xlink:href="build/labels/athrad-imladris-st-resized.png"
+       xlink:href="build/labels/practice/athrad-imladris-st.png"
        transform="matrix(0.6097864,0.7925658,-0.7925658,0.6097864,0,0)" />
     <image
        style="opacity:0.99193552;display:inline"
@@ -1894,7 +1894,7 @@
        id="image6595"
        height="58.679592"
        width="91.148972"
-       xlink:href="build/labels/orod-gram-st-resized.png"
+       xlink:href="build/labels/practice/orod-gram-st.png"
        transform="matrix(0.9999353,-1.1373043e-2,1.1373043e-2,0.9999353,0,0)" />
     <image
        y="3927.2866"
@@ -1902,7 +1902,7 @@
        id="image6952"
        height="46.780212"
        width="82.021301"
-       xlink:href="build/labels/iant-vedui-st-resized.png"
+       xlink:href="build/labels/practice/iant-vedui-st.png"
        transform="matrix(0.8095499,-0.5870511,0.5870511,0.8095499,0,0)"
        style="opacity:0.99193552" />
     <image
@@ -1911,7 +1911,7 @@
        id="image7335"
        height="66.335266"
        width="55.058273"
-       xlink:href="build/labels/lo-st-resized.png"
+       xlink:href="build/labels/practice/lo-st.png"
        style="opacity:1" />
     <image
        y="-783.88354"
@@ -1919,7 +1919,7 @@
        id="image7480"
        height="72.686897"
        width="116.05674"
-       xlink:href="build/labels/eryn-iaur-st-resized.png"
+       xlink:href="build/labels/practice/eryn-iaur-st.png"
        transform="matrix(0.6429167,0.7659361,-0.7659361,0.6429167,0,0)"
        style="opacity:0.99193552" />
     <image
@@ -1929,7 +1929,7 @@
        id="image10412"
        height="62.065784"
        width="104.89117"
-       xlink:href="build/labels/mornorod-st-resized.png" />
+       xlink:href="build/labels/practice/mornorod-st.png" />
     <image
        style="display:inline"
        y="3037.1013"
@@ -1937,7 +1937,7 @@
        id="image11293"
        height="34.012405"
        width="66.437561"
-       xlink:href="build/labels/barad-durin-st-resized.png"
+       xlink:href="build/labels/practice/barad-durin-st.png"
        transform="matrix(0.9951394,-9.8476704e-2,9.8476704e-2,0.9951394,0,0)"
        inkscape:transform-center-x="35.83191"
        inkscape:transform-center-y="6.7726322" />
@@ -1948,7 +1948,7 @@
        id="image12835"
        height="38.384155"
        width="68.067902"
-       xlink:href="build/labels/ost-in-edhil-st-resized.png"
+       xlink:href="build/labels/practice/ost-in-edhil-st.png"
        inkscape:transform-center-y="-2.4441431"
        inkscape:transform-center-x="-1.5258788e-05" />
     <image
@@ -1958,7 +1958,7 @@
        id="image8236"
        height="53.806969"
        width="92.763214"
-       xlink:href="build/labels/nanduhirion-st-resized.png"
+       xlink:href="build/labels/practice/nanduhirion-st.png"
        transform="matrix(0.9747392,-0.2233461,0.2233461,0.9747392,0,0)" />
     <image
        style="display:inline"
@@ -1967,7 +1967,7 @@
        id="image13815"
        height="88.408165"
        width="55.69714"
-       xlink:href="build/labels/erui-st-resized.png"
+       xlink:href="build/labels/practice/erui-st.png"
        transform="matrix(0.830621,0.5568381,-0.5568381,0.830621,0,0)" />
     <image
        style="display:inline"
@@ -1976,7 +1976,7 @@
        id="image4460"
        height="52.624401"
        width="128.0527"
-       xlink:href="build/labels/athrad-onodlo-st-resized.png"
+       xlink:href="build/labels/practice/athrad-onodlo-st.png"
        transform="matrix(0.9685394,-0.2488603,0.2488603,0.9685394,0,0)" />
     <image
        style="display:inline"
@@ -1985,7 +1985,7 @@
        id="image9922"
        height="42.983131"
        width="71.92511"
-       xlink:href="build/labels/glanhir-st-resized.png"
+       xlink:href="build/labels/practice/glanhir-st.png"
        transform="matrix(0.9516212,-0.3072737,0.3072737,0.9516212,0,0)" />
     <image
        style="opacity:0.9758065;display:inline"
@@ -1994,7 +1994,7 @@
        id="image4684"
        height="53.413658"
        width="84.678459"
-       xlink:href="build/labels/athrad-angren-st-resized.png" />
+       xlink:href="build/labels/practice/athrad-angren-st.png" />
     <image
        style="display:inline"
        y="3420.2485"
@@ -2002,7 +2002,7 @@
        id="image5660"
        height="42.176838"
        width="63.827614"
-       xlink:href="build/labels/methedras-st-resized.png" />
+       xlink:href="build/labels/practice/methedras-st.png" />
     <image
        style="display:inline"
        y="3763.1555"
@@ -2010,12 +2010,12 @@
        id="image7339"
        height="57.909725"
        width="75.282646"
-       xlink:href="build/labels/eryn-ost-st-resized.png"
+       xlink:href="build/labels/practice/eryn-ost-st.png"
        transform="matrix(0.5965607,-0.8025679,0.8025679,0.5965607,0,0)" />
     <image
        style="opacity:0.9758065;display:inline"
        transform="matrix(0.2351279,-0.9719644,0.9719644,0.2351279,0,0)"
-       xlink:href="build/labels/andrath-st-resized.png"
+       xlink:href="build/labels/practice/andrath-st.png"
        width="71.303833"
        height="69.951431"
        id="image7737"
@@ -2027,11 +2027,11 @@
        id="image7928"
        height="56.363392"
        width="115.92071"
-       xlink:href="build/labels/rath-harad-iaur-st-resized.png"
+       xlink:href="build/labels/practice/rath-harad-iaur-st.png"
        transform="matrix(7.354898e-2,0.9972916,-0.9972916,7.354898e-2,0,0)" />
     <image
        transform="matrix(0.1043362,0.9945421,-0.9945421,0.1043362,0,0)"
-       xlink:href="build/labels/rath-harad-iaur-st-resized.png"
+       xlink:href="build/labels/practice/rath-harad-iaur-st.png"
        width="115.92071"
        height="56.363392"
        id="image7932"
@@ -2044,7 +2044,7 @@
        id="image9029"
        height="63.272556"
        width="108.61789"
-       xlink:href="build/labels/sir-celos-st-resized.png"
+       xlink:href="build/labels/practice/sir-celos-st.png"
        transform="matrix(0.1265224,-0.9919638,0.9919638,0.1265224,0,0)" />
     <image
        style="display:inline"
@@ -2053,14 +2053,14 @@
        id="image11427"
        height="43.108952"
        width="93.833809"
-       xlink:href="build/labels/imlad-thol-st-resized.png" />
+       xlink:href="build/labels/practice/imlad-thol-st.png" />
     <image
        y="3919.9702"
        x="4090.842"
        id="image12323"
        height="47.519588"
        width="79.516106"
-       xlink:href="build/labels/irensaga-et-resized.png" />
+       xlink:href="build/labels/practice/irensaga-et.png" />
     <image
        style="display:inline"
        y="2595.8081"
@@ -2068,7 +2068,7 @@
        id="image12621"
        height="61.959187"
        width="125.77715"
-       xlink:href="build/labels/achad-tarlang-st-resized.png"
+       xlink:href="build/labels/practice/achad-tarlang-st.png"
        transform="matrix(0.9489674,0.3153741,-0.3153741,0.9489674,0,0)" />
     <image
        y="2909.6589"
@@ -2076,7 +2076,7 @@
        id="image12881"
        height="16.349167"
        width="36.458641"
-       xlink:href="build/labels/cerin-amroth-st-resized.png" />
+       xlink:href="build/labels/practice/cerin-amroth-st.png" />
     <image
        style="display:inline"
        y="1829.6327"
@@ -2084,9 +2084,9 @@
        id="image13753"
        height="56.081635"
        width="87.48735"
-       xlink:href="build/labels/erynrad-st-resized.png" />
+       xlink:href="build/labels/practice/erynrad-st.png" />
     <image
-       xlink:href="build/labels/erynrad-st-resized.png"
+       xlink:href="build/labels/practice/erynrad-st.png"
        width="87.48735"
        height="56.081635"
        id="image13760"
@@ -2100,7 +2100,7 @@
        id="image13885"
        height="69.306122"
        width="118.51348"
-       xlink:href="build/labels/erynduin-st-resized.png"
+       xlink:href="build/labels/practice/erynduin-st.png"
        transform="matrix(0.707032,0.7071816,-0.7071816,0.707032,0,0)" />
     <image
        style="display:inline"
@@ -2109,14 +2109,14 @@
        id="image14120"
        height="67.260857"
        width="136.98795"
-       xlink:href="build/labels/dol-amroth-st-resized.png" />
+       xlink:href="build/labels/practice/dol-amroth-st.png" />
     <image
        y="4793.2549"
        x="4949.7593"
        id="image14495"
        height="36.104263"
        width="89.057175"
-       xlink:href="build/labels/haudh-in-gwanur-st-resized.png" />
+       xlink:href="build/labels/practice/haudh-in-gwanur-st.png" />
     <image
        style="display:inline"
        y="2103.6484"
@@ -2124,14 +2124,14 @@
        id="image6291"
        height="44.733826"
        width="61.732677"
-       xlink:href="build/labels/beorn-et-resized.png" />
+       xlink:href="build/labels/practice/beorn-et.png" />
     <image
        y="6386.9951"
        x="-1196.6681"
        id="image6398"
        height="77.594833"
        width="95.700287"
-       xlink:href="build/labels/serni-st-resized.png"
+       xlink:href="build/labels/practice/serni-st.png"
        transform="matrix(0.5777637,-0.8162041,0.8162041,0.5777637,0,0)" />
     <image
        y="-2026.3412"
@@ -2139,11 +2139,11 @@
        id="image6522"
        height="63.656067"
        width="56.441708"
-       xlink:href="build/labels/sirith-st-resized.png"
+       xlink:href="build/labels/practice/sirith-st.png"
        transform="matrix(0.48292,0.8756645,-0.8756645,0.48292,0,0)" />
     <image
        transform="matrix(-0.1427476,0.9897591,-0.9897591,-0.1427476,0,0)"
-       xlink:href="build/labels/sirith-st-resized.png"
+       xlink:href="build/labels/practice/sirith-st.png"
        width="56.441708"
        height="63.656067"
        id="image6526"
@@ -2155,7 +2155,7 @@
        id="image7322"
        height="58.214321"
        width="92.366722"
-       xlink:href="build/labels/calenrath-st-resized.png"
+       xlink:href="build/labels/practice/calenrath-st.png"
        transform="matrix(0.2025383,0.9792743,-0.9792743,0.2025383,0,0)" />
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -2184,7 +2184,7 @@
        id="image7612"
        height="47.539948"
        width="66.429153"
-       xlink:href="build/labels/morannon-st-resized.png"
+       xlink:href="build/labels/practice/morannon-st.png"
        transform="matrix(0.9800969,-0.1985199,0.1985199,0.9800969,0,0)"
        style="opacity:0.9758065;display:inline" />
     <image
@@ -2194,7 +2194,7 @@
        id="image4453"
        height="47.910538"
        width="86.238968"
-       xlink:href="build/labels/carach-angren-st-resized.png"
+       xlink:href="build/labels/practice/carach-angren-st.png"
        transform="matrix(0.961155,-0.2760093,0.2760093,0.961155,0,0)" />
     <image
        y="4504.7456"
@@ -2202,7 +2202,7 @@
        id="image2842"
        height="58.036903"
        width="121.68404"
-       xlink:href="build/labels/menion-annui-st-resized.png"
+       xlink:href="build/labels/practice/menion-annui-st.png"
        transform="matrix(0.9964309,-8.4412511e-2,8.4412511e-2,0.9964309,0,0)" />
     <image
        y="1339.2406"
@@ -2210,7 +2210,7 @@
        id="image2972"
        height="57.809418"
        width="121.20708"
-       xlink:href="build/labels/menion-annui-st-resized.png"
+       xlink:href="build/labels/practice/menion-annui-st.png"
        transform="matrix(0.8649681,0.5018268,-0.5018268,0.8649681,0,0)" />
     <image
        y="1037.9216"
@@ -2218,7 +2218,7 @@
        id="image3456"
        height="41.464085"
        width="81.822464"
-       xlink:href="build/labels/caras-perian-st-resized.png"
+       xlink:href="build/labels/practice/caras-perian-st.png"
        transform="matrix(0.9301184,0.3672599,-0.3672599,0.9301184,0,0)" />
     <image
        y="2089.7969"
@@ -2226,14 +2226,14 @@
        id="image3953"
        height="34.753979"
        width="44.253399"
-       xlink:href="build/labels/argirith-st-resized.png" />
+       xlink:href="build/labels/practice/argirith-st.png" />
     <image
        y="2103.0857"
        x="2336.0488"
        id="image4121"
        height="54.72234"
        width="152.67532"
-       xlink:href="build/labels/men-daer-rhun-annui-st-resized.png"
+       xlink:href="build/labels/practice/men-daer-rhun-annui-st.png"
        transform="matrix(0.995725,9.2367596e-2,-9.2367596e-2,0.995725,0,0)" />
     <image
        y="2037.5177"
@@ -2241,7 +2241,7 @@
        id="image4205"
        height="51.92725"
        width="144.87704"
-       xlink:href="build/labels/men-daer-rhun-annui-st-resized.png"
+       xlink:href="build/labels/practice/men-daer-rhun-annui-st.png"
        transform="matrix(0.9992984,3.7453886e-2,-3.7453886e-2,0.9992984,0,0)" />
     <image
        y="2484.5642"
@@ -2249,7 +2249,7 @@
        id="image4289"
        height="65.770882"
        width="183.50076"
-       xlink:href="build/labels/men-daer-rhun-annui-st-resized.png"
+       xlink:href="build/labels/practice/men-daer-rhun-annui-st.png"
        transform="matrix(0.9952238,-9.7619219e-2,9.7619219e-2,0.9952238,0,0)" />
     <image
        y="2040.2947"
@@ -2257,14 +2257,14 @@
        id="image4390"
        height="42.568943"
        width="39.87291"
-       xlink:href="build/labels/carag-st-resized.png" />
+       xlink:href="build/labels/practice/carag-st.png" />
     <image
        y="4377.1562"
        x="3610.6736"
        id="image4695"
        height="56.250004"
        width="53.437504"
-       xlink:href="build/labels/lossir-st-resized.png"
+       xlink:href="build/labels/practice/lossir-st.png"
        transform="matrix(0.99005,-0.140716,0.140716,0.99005,0,0)" />
   </g>
   <g
@@ -2279,7 +2279,7 @@
        id="image4859"
        height="28.445957"
        width="56.512634"
-       xlink:href="build/labels/lanthir-rauros-st-resized.png"
+       xlink:href="build/labels/practice/lanthir-rauros-st.png"
        transform="matrix(0.9806077,-0.195981,0.195981,0.9806077,0,0)" />
     <image
        style="display:inline"
@@ -2288,7 +2288,7 @@
        id="image5078"
        height="20.592033"
        width="42.213669"
-       xlink:href="build/labels/amon-craban-st-resized.png" />
+       xlink:href="build/labels/practice/amon-craban-st.png" />
     <image
        style="display:inline"
        y="4282.5576"
@@ -2296,14 +2296,14 @@
        id="image13692"
        height="19.417583"
        width="26.925716"
-       xlink:href="build/labels/pelennor-st-resized.png" />
+       xlink:href="build/labels/practice/pelennor-st.png" />
     <image
        y="3725.7151"
        x="3077.5469"
        id="image3503"
        height="24.489796"
        width="61.306118"
-       xlink:href="build/labels/nen-cenedril-st-resized.png"
+       xlink:href="build/labels/practice/nen-cenedril-st.png"
        transform="matrix(0.9601745,-0.2794009,0.2794009,0.9601745,0,0)" />
     <image
        style="display:inline"
@@ -2312,7 +2312,7 @@
        id="image10896"
        height="24.469425"
        width="70.798203"
-       xlink:href="build/labels/loeg-ningloron-st-resized.png"
+       xlink:href="build/labels/practice/loeg-ningloron-st.png"
        transform="matrix(0.9413188,-0.3375187,0.3375187,0.9413188,0,0)" />
     <image
        style="display:inline"
@@ -2321,7 +2321,7 @@
        id="image9214"
        height="17.951391"
        width="26.807411"
-       xlink:href="build/labels/aglarond-st-resized.png" />
+       xlink:href="build/labels/practice/aglarond-st.png" />
     <image
        style="display:inline"
        y="4498.5098"
@@ -2329,7 +2329,7 @@
        id="image9342"
        height="19.466208"
        width="37.245342"
-       xlink:href="build/labels/imladnur-st-resized.png"
+       xlink:href="build/labels/practice/imladnur-st.png"
        transform="matrix(0.9814117,-0.1919141,0.1919141,0.9814117,0,0)" />
     <image
        style="display:inline"
@@ -2338,7 +2338,7 @@
        id="image12077"
        height="34.797138"
        width="62.63485"
-       xlink:href="build/labels/elostirion-st-resized.png" />
+       xlink:href="build/labels/practice/elostirion-st.png" />
     <image
        style="display:inline"
        y="3810.4509"
@@ -2346,7 +2346,7 @@
        id="image12433"
        height="25.224491"
        width="52.971432"
-       xlink:href="build/labels/tol-brandir-st-resized.png" />
+       xlink:href="build/labels/practice/tol-brandir-st.png" />
     <image
        style="display:inline"
        y="3462.3855"
@@ -2354,7 +2354,7 @@
        id="image12549"
        height="24.902624"
        width="42.168446"
-       xlink:href="build/labels/amon-hen-st-resized.png"
+       xlink:href="build/labels/practice/amon-hen-st.png"
        transform="matrix(0.9968885,7.882467e-2,-7.882467e-2,0.9968885,0,0)" />
     <image
        style="display:inline"
@@ -2363,7 +2363,7 @@
        id="image12749"
        height="20.24547"
        width="15.926435"
-       xlink:href="build/labels/orthanc-st-resized.png" />
+       xlink:href="build/labels/practice/orthanc-st.png" />
     <image
        style="display:inline"
        y="-3177.2881"
@@ -2371,7 +2371,7 @@
        id="image13011"
        height="20.100828"
        width="28.141161"
-       xlink:href="build/labels/pendlanthir-st-resized.png"
+       xlink:href="build/labels/practice/pendlanthir-st.png"
        transform="matrix(0.1945356,0.9808955,-0.9808955,0.1945356,0,0)" />
     <image
        style="display:inline"
@@ -2380,7 +2380,7 @@
        id="image2999"
        height="26.011997"
        width="43.353325"
-       xlink:href="build/labels/dunharrow-et-resized.png"
+       xlink:href="build/labels/practice/dunharrow-et.png"
        transform="matrix(0.9226225,-0.3857043,0.3857043,0.9226225,0,0)" />
     <image
        y="3916.2039"
@@ -2388,14 +2388,14 @@
        id="image13298"
        height="25.44054"
        width="41.044071"
-       xlink:href="build/labels/eryn-morn-st-resized.png" />
+       xlink:href="build/labels/practice/eryn-morn-st.png" />
     <image
        y="1432.6997"
        x="4552.4751"
        id="image13565"
        height="29.427563"
        width="42.277599"
-       xlink:href="build/labels/annon-eryn-st-resized.png"
+       xlink:href="build/labels/practice/annon-eryn-st.png"
        transform="matrix(0.9955382,9.435973e-2,-9.435973e-2,0.9955382,0,0)"
        inkscape:transform-center-x="11.878569"
        inkscape:transform-center-y="-3.3728732" />
@@ -2406,7 +2406,7 @@
        id="image3514"
        height="24.962044"
        width="37.942307"
-       xlink:href="build/labels/amon-lhaw-st-resized.png"
+       xlink:href="build/labels/practice/amon-lhaw-st.png"
        transform="matrix(0.9959632,8.9762919e-2,-8.9762919e-2,0.9959632,0,0)" />
     <image
        style="display:inline"
@@ -2415,7 +2415,7 @@
        id="image4895"
        height="18.617359"
        width="21.472019"
-       xlink:href="build/labels/iorost-st-resized.png"
+       xlink:href="build/labels/practice/iorost-st.png"
        transform="matrix(0.7805445,-0.6251002,0.6251002,0.7805445,0,0)" />
     <image
        y="1969.4966"
@@ -2423,7 +2423,7 @@
        id="image5416"
        height="14.541918"
        width="28.502161"
-       xlink:href="build/labels/ennyn-moria-st-resized.png"
+       xlink:href="build/labels/practice/ennyn-moria-st.png"
        transform="matrix(0.9753671,0.2205877,-0.2205877,0.9753671,0,0)" />
     <image
        y="4116.1836"
@@ -2431,7 +2431,7 @@
        id="image5563"
        height="27.061224"
        width="52.588978"
-       xlink:href="build/labels/eryn-uireb-st-resized.png" />
+       xlink:href="build/labels/practice/eryn-uireb-st.png" />
     <image
        style="display:inline"
        y="1403.2896"
@@ -2439,7 +2439,7 @@
        id="image5865"
        height="25.476042"
        width="62.416302"
-       xlink:href="build/labels/annon-caradhras-st-resized.png"
+       xlink:href="build/labels/practice/annon-caradhras-st.png"
        transform="matrix(0.9583438,0.2856171,-0.2856171,0.9583438,0,0)" />
     <image
        style="display:inline"
@@ -2448,7 +2448,7 @@
        id="image6123"
        height="19.934895"
        width="25.649567"
-       xlink:href="build/labels/andlo-st-resized.png"
+       xlink:href="build/labels/practice/andlo-st.png"
        transform="matrix(0.9113889,0.4115463,-0.4115463,0.9113889,0,0)" />
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -2470,7 +2470,7 @@
        id="image4320"
        height="25.936296"
        width="34.616306"
-       xlink:href="build/labels/narchost-st-resized.png"
+       xlink:href="build/labels/practice/narchost-st.png"
        style="opacity:0.99193552;display:inline"
        transform="matrix(0.9019999,0.4317363,-0.4317363,0.9019999,0,0)" />
     <image
@@ -2480,7 +2480,7 @@
        id="image3219"
        height="25.719915"
        width="29.492168"
-       xlink:href="build/labels/carchost-st-resized.png"
+       xlink:href="build/labels/practice/carchost-st.png"
        transform="matrix(0.9094744,0.4157598,-0.4157598,0.9094744,0,0)" />
     <image
        style="opacity:0.99193552;display:inline"
@@ -2489,7 +2489,7 @@
        id="image6221"
        height="16.125427"
        width="32.086308"
-       xlink:href="archive/labels/durthang-st.png" />
+       xlink:href="build/labels/practice/durthang-st.png" />
     <image
        style="display:inline"
        y="3634.2104"
@@ -2497,7 +2497,7 @@
        id="image3763"
        height="28.294193"
        width="71.11274"
-       xlink:href="build/labels/imrath-gondraich-st-resized.png"
+       xlink:href="build/labels/practice/imrath-gondraich-st.png"
        transform="matrix(0.9930438,0.1177453,-0.1177453,0.9930438,0,0)" />
     <image
        y="2254.9893"
@@ -2505,7 +2505,7 @@
        id="image4491"
        height="39.254379"
        width="53.385956"
-       xlink:href="build/labels/annuminas-st-resized.png"
+       xlink:href="build/labels/practice/annuminas-st.png"
        transform="matrix(0.9916261,-0.1291421,0.1291421,0.9916261,0,0)" />
   </g>
   <g
@@ -2520,7 +2520,7 @@
        id="image4969"
        height="15.455581"
        width="26.48056"
-       xlink:href="build/labels/parth-galen-st-resized.png"
+       xlink:href="build/labels/practice/parth-galen-st.png"
        transform="matrix(0.8218413,0.5697164,-0.5697164,0.8218413,0,0)" />
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
