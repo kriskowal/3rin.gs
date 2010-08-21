@@ -46,16 +46,24 @@ def regions():
         for name, x, y, width, height, url in get()
     )
 
+class Region(object):
+    @property
+    def diagonal(self):
+        return (self.width ** 2 + self.height ** 2) ** .5
+    @property
+    def size(self):
+        return self.width, self.height
+
 def regions2():
     return dict(
-        (name, type('region-%s' % str(name), (), dict(
+        (name, type('region-%s' % str(name), (Region,), dict(
             name = name,
             x = x,
             y = y,
             width = width,
             height = height,
             url = url,
-        )))
+        ))())
         for name, x, y, width, height, url in get()
     )
 
