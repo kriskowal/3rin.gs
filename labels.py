@@ -94,25 +94,6 @@ def differences():
     for label in sorted(location_prefixes.difference(label_prefixes)):
         print '    %s' % label
     
-def build():
-    locations = dict((key, value) for key, value in get_locations() if key)
-    labels = normalized_labels_dict()
-    location_prefixes = set(locations.keys())
-    label_prefixes = set(labels.keys())
-    prefixes = location_prefixes.intersection(label_prefixes)
-    prefixes = sorted(prefixes, key = lambda prefix: -labels[prefix]['mtime'])
-    makedirs("build/labels/")
-    for prefix in prefixes:
-        label = labels[prefix]
-        location = locations[prefix]
-        print label['prefix']
-        scale = .2 if int(location[SCALE]) > 3 else 1
-        normalized = label["normalized"]
-        thumbnail = label["thumbnail"]
-        resized = label["resized"]
-        scale_command(normalized, thumbnail, .6)
-        scale_command(normalized, resized, scale)
-
 def store():
     locations = dict((key, value) for key, value in get_locations() if key)
     labels = normalized_labels_dict()
@@ -179,13 +160,18 @@ def labels2():
             "normalized": isfile(normalized),
         })()
 
-TEMP = set(('west-emnet', 'withywindle'))
-def build2():
+def labels2_list():
+    return list(labels2())
+
+TEMP = set(('withywindle',))
+def build(*filter):
     makedirs("build/labels/embedded")
     makedirs("build/labels/practice")
     makedirs("build/labels/thumbnails")
     regions = get_regions()
     for label in labels2():
+        if filter and label.canonical not in filter:
+            continue
         if label.canonical in TEMP:
             continue
         source = Image.open(label.source)
@@ -194,11 +180,15 @@ def build2():
 
         # embedded images
         outer_size = outer_width, outer_height = [
-            int(region.diagonal * WIDTH),
-            int(region.width / region.diagonal * region.height * HEIGHT),
+            int(float(region.diagonal) * WIDTH),
+            int(float(region.width) / region.diagonal * region.height * HEIGHT),
         ]
         if width > outer_width:
-            embedded = source.resize(outer_size, Image.ANTIALIAS)
+            inner_size = [
+                int(outer_width),
+                int(float(outer_width) * height / width),
+            ]
+            embedded = source.resize(inner_size, Image.ANTIALIAS)
         else:
             embedded = source
         embedded.save(label.embedded)
@@ -213,7 +203,7 @@ def build2():
         ]
         source.resize(thumb_size, Image.ANTIALIAS).save(label.thumbnail)
 
-        print label.parts, source.size, outer_size, thumb_size
+        print label.parts, outer_size, source.size, embedded.size, thumb_size, practice.size
 
 def main():
     import sys

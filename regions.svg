@@ -41,11 +41,11 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284272"
-     inkscape:cx="4193.1777"
-     inkscape:cy="3282.4377"
+     inkscape:zoom="0.5"
+     inkscape:cx="3370.1977"
+     inkscape:cy="4851.1983"
      inkscape:document-units="px"
-     inkscape:current-layer="layer12"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showborder="true"
      inkscape:window-width="1680"
@@ -172,6 +172,14 @@
        x="3760.5"
        y="3692.5"
        inkscape:label="#rect3418" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="men-rhun-annui"
+       width="2008"
+       height="268"
+       x="2054"
+       y="2112"
+       inkscape:label="#rect2650" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -484,16 +492,16 @@
        y="3798.4375"
        inkscape:label="#rect3518" />
     <rect
-       style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:5.57128763;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="westfold"
-       width="531.25"
-       height="382.8125"
-       x="3773.4375"
-       y="3543.75"
+       width="532.07874"
+       height="289.6412"
+       x="3773.0232"
+       y="3637.3357"
        inkscape:label="#rect3520" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="east-emnet"
+       id="west-emnet"
        width="531.25"
        height="290.625"
        x="3812.5"
@@ -509,11 +517,12 @@
        inkscape:label="#rect3524" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect3526"
+       id="east-emnet"
        width="460.9375"
        height="600"
        x="4253.125"
-       y="3425" />
+       y="3425"
+       inkscape:label="#rect3526" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="emyn-muil"
@@ -1980,12 +1989,12 @@
        y="1622.1429"
        inkscape:label="#rect3894" />
     <rect
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:3.07464027;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="elostirion"
-       width="158.5462"
-       height="85.073341"
-       x="2263.8464"
-       y="2188.9331"
+       width="137.03903"
+       height="103.38348"
+       x="2216.6169"
+       y="2157.8577"
        inkscape:label="#rect3896" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
