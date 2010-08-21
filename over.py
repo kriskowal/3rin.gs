@@ -2,6 +2,7 @@
 
 import Image
 import numpy
+numpy.seterr(all='ignore')
 
 def over(front,back):
     # The formula comes from http://en.wikipedia.org/wiki/Alpha_compositing

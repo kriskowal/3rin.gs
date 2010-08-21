@@ -1461,7 +1461,7 @@
        sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/angmar-sl.png"
        xlink:href="archive/labels/angmar-sl.png" />
     <image
-       style="display:inline;opacity:0.78629032"
+       style="opacity:0.78629037;display:inline"
        y="3920.7585"
        x="2443.2061"
        id="image2622"
@@ -1514,7 +1514,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="4"
-     style="display:inline">
+     style="display:none">
     <image
        y="6166.9004"
        x="4289.6602"
@@ -1798,7 +1798,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="5"
-     style="display:inline">
+     style="display:none">
     <image
        style="display:inline"
        y="1488.3855"
@@ -2360,7 +2360,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="6"
-     style="display:inline">
+     style="display:none">
     <image
        style="display:inline"
        y="3430.9377"
@@ -2408,9 +2408,9 @@
        id="image6273"
        x="2270.4165"
        y="2160.6426"
-       style="display:inline;opacity:1" />
+       style="opacity:1;display:inline" />
     <image
-       style="display:inline;opacity:1"
+       style="opacity:1;display:inline"
        y="6123.1772"
        x="2401.4495"
        id="image2943"
@@ -2460,7 +2460,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="7"
-     style="display:inline">
+     style="display:none">
     <image
        style="display:inline"
        y="5676.1108"
@@ -2486,5 +2486,5 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="8"
-     style="display:inline" />
+     style="display:none" />
 </svg>
