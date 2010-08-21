@@ -1158,7 +1158,6 @@
        id="image3847"
        height="4827.7271"
        width="6172.3911"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/references/return-of-the-king.gif"
        xlink:href="archive/references/return-of-the-king.gif" />
   </g>
   <g
@@ -1197,7 +1196,6 @@
        id="image4131"
        height="7200"
        width="7200"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/build/labels-st-4096.png"
        xlink:href="build/labels-tengwar-4096.png" />
   </g>
   <g
@@ -1212,8 +1210,7 @@
        id="image2892"
        height="487.97983"
        width="2503.0493"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/belegaer-el.png"
-       xlink:href="archive/labels/belegaer-el.png"
+       xlink:href="build/labels/embedded/belegaer-el.png"
        transform="matrix(0.9703022,0.2418959,-0.2418959,0.9703022,0,0)" />
     <image
        y="791.27087"
@@ -1221,8 +1218,7 @@
        id="image3040"
        height="483.47964"
        width="1139.6306"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/rhun-sl.png"
-       xlink:href="archive/labels/rhun-sl.png"
+       xlink:href="build/labels/embedded/rhun-sl.png"
        transform="matrix(0.9834204,0.1813402,-0.1813402,0.9834204,0,0)" />
     <image
        y="-2311.009"
@@ -1230,8 +1226,7 @@
        id="image3153"
        height="535.42065"
        width="2255.7073"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/rhovanion-el.png"
-       xlink:href="archive/labels/rhovanion-el.png"
+       xlink:href="build/labels/embedded/rhovanion-el.png"
        transform="matrix(0.6799967,0.7332151,-0.7332151,0.6799967,0,0)"
        style="opacity:0.7258065" />
     <image
@@ -1240,8 +1235,7 @@
        id="image3246"
        height="502.48727"
        width="2400.2305"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/haradwaith-el.png"
-       xlink:href="archive/labels/haradwaith-el.png"
+       xlink:href="build/labels/embedded/haradwaith-el.png"
        transform="matrix(0.9738392,-0.2272381,0.2272381,0.9738392,0,0)" />
     <image
        y="-412.83322"
@@ -1249,8 +1243,7 @@
        id="image3540"
        height="518.94922"
        width="3545.2966"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/forodwaith-el.png"
-       xlink:href="archive/labels/forodwaith-el.png"
+       xlink:href="build/labels/embedded/forodwaith-el.png"
        transform="matrix(0.98305,0.1833376,-0.1833376,0.98305,0,0)" />
     <image
        y="2209.1248"
@@ -1258,8 +1251,7 @@
        id="image3647"
        height="443.79718"
        width="1881.9248"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/eriador-sl.png"
-       xlink:href="archive/labels/eriador-sl.png"
+       xlink:href="build/labels/embedded/eriador-sl.png"
        transform="matrix(0.9974962,-7.0719738e-2,7.0719738e-2,0.9974962,0,0)"
        style="opacity:0.61290325" />
     <image
@@ -1268,8 +1260,7 @@
        id="image3837"
        height="408.11569"
        width="1563.6792"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/mordor-sl.png"
-       xlink:href="archive/labels/mordor-sl.png"
+       xlink:href="build/labels/embedded/mordor-sl.png"
        transform="matrix(0.9852598,0.1710649,-0.1710649,0.9852598,0,0)" />
     <image
        y="2579.3406"
@@ -1277,8 +1268,7 @@
        id="image3924"
        height="554.23364"
        width="1856.4136"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/gondor-sl.png"
-       xlink:href="archive/labels/gondor-sl.png"
+       xlink:href="build/labels/embedded/gondor-sl.png"
        transform="matrix(0.9460439,0.3240386,-0.3240386,0.9460439,0,0)"
        style="opacity:0.61290325" />
   </g>
@@ -1294,8 +1284,7 @@
        id="image2797"
        height="295.11035"
        width="771.82703"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/calenardhon-el.png"
-       xlink:href="archive/labels/calenardhon-el.png"
+       xlink:href="build/labels/embedded/calenardhon-el.png"
        transform="matrix(0.9082926,0.4183355,-0.4183355,0.9082926,0,0)" />
     <image
        y="1099.7485"
@@ -1303,8 +1292,7 @@
        id="image3997"
        height="225.26797"
        width="1876.4589"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/ardhon-iaur-arnor-el.png"
-       xlink:href="archive/labels/ardhon-iaur-arnor-el.png"
+       xlink:href="build/labels/embedded/ardhon-iaur-arnor-el.png"
        transform="matrix(0.9949475,0.100397,-0.100397,0.9949475,0,0)" />
     <image
        y="3965.9673"
@@ -1312,8 +1300,7 @@
        id="image4610"
        height="266.73367"
        width="1750.0995"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/cof-belfalas-el.png"
-       xlink:href="archive/labels/cof-belfalas-el.png"
+       xlink:href="build/labels/embedded/cof-belfalas-el.png"
        transform="matrix(0.9613344,0.2753838,-0.2753838,0.9613344,0,0)" />
   </g>
   <g
@@ -1327,8 +1314,7 @@
        id="image4796"
        height="148.97482"
        width="685.58813"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/arthedain-sl.png"
-       xlink:href="archive/labels/arthedain-sl.png"
+       xlink:href="build/labels/embedded/arthedain-sl.png"
        transform="matrix(0.8784395,-0.4778537,0.4778537,0.8784395,0,0)" />
     <image
        y="2793.364"
@@ -1336,8 +1322,7 @@
        id="image4906"
        height="163.77007"
        width="543.2757"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/rhudaur-sl.png"
-       xlink:href="archive/labels/rhudaur-sl.png"
+       xlink:href="build/labels/embedded/rhudaur-sl.png"
        transform="matrix(0.9653902,-0.2608097,0.2608097,0.9653902,0,0)" />
     <image
        y="3511.5601"
@@ -1345,8 +1330,7 @@
        id="image5016"
        height="162.48232"
        width="609.74542"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/cardolan-ul.png"
-       xlink:href="archive/labels/cardolan-ul.png"
+       xlink:href="build/labels/embedded/cardolan-ul.png"
        transform="matrix(0.9310803,-0.3648143,0.3648143,0.9310803,0,0)" />
     <image
        y="4596.292"
@@ -1354,8 +1338,7 @@
        id="image5126"
        height="148.84557"
        width="682.58478"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/enedwaith-sl.png"
-       xlink:href="archive/labels/enedwaith-sl.png"
+       xlink:href="build/labels/embedded/enedwaith-sl.png"
        transform="matrix(0.8179127,-0.5753423,0.5753423,0.8179127,0,0)" />
     <image
        y="3634.9412"
@@ -1363,8 +1346,7 @@
        id="image5239"
        height="150.87837"
        width="700.6134"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/minhiriath-sl.png"
-       xlink:href="archive/labels/minhiriath-sl.png"
+       xlink:href="build/labels/embedded/minhiriath-sl.png"
        transform="matrix(0.3889527,-0.9212577,0.9212577,0.3889527,0,0)" />
     <image
        y="2917.762"
@@ -1372,8 +1354,7 @@
        id="image5326"
        height="91.034653"
        width="358.20157"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/anorien-sl.png"
-       xlink:href="archive/labels/anorien-sl.png"
+       xlink:href="build/labels/embedded/anorien-sl.png"
        transform="matrix(0.9751934,0.2213544,-0.2213544,0.9751934,0,0)" />
     <image
        y="-3305.9304"
@@ -1381,8 +1362,7 @@
        id="image5433"
        height="81.716064"
        width="469.66107"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/forithilien-el.png"
-       xlink:href="archive/labels/forithilien-el.png"
+       xlink:href="build/labels/embedded/forithilien-el.png"
        transform="matrix(0.3523586,0.9358651,-0.9358651,0.3523586,0,0)"
        style="opacity:0.85887098" />
     <image
@@ -1391,8 +1371,7 @@
        id="image5526"
        height="90.610283"
        width="502.71277"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/harithilien-el.png"
-       xlink:href="archive/labels/harithilien-el.png"
+       xlink:href="build/labels/embedded/harithilien-el.png"
        transform="matrix(0.2385507,-0.97113,0.97113,0.2385507,0,0)"
        style="opacity:0.85887098" />
     <image
@@ -1402,8 +1381,7 @@
        id="image5676"
        height="154.88275"
        width="571.51733"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/lamedon-ul.png"
-       xlink:href="archive/labels/lamedon-ul.png"
+       xlink:href="build/labels/embedded/lamedon-ul.png"
        transform="matrix(0.9837959,0.1792918,-0.1792918,0.9837959,0,0)" />
     <image
        y="5230.085"
@@ -1411,8 +1389,7 @@
        id="image5764"
        height="183.47215"
        width="548.73328"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/lebennin-sl.png"
-       xlink:href="archive/labels/lebennin-sl.png"
+       xlink:href="build/labels/embedded/lebennin-sl.png"
        transform="matrix(0.9819247,-0.1892722,0.1892722,0.9819247,0,0)"
        style="opacity:0.85887098" />
     <image
@@ -1421,8 +1398,7 @@
        id="image5857"
        height="155.60393"
        width="784.30664"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/near-harad-el.png"
-       xlink:href="archive/labels/near-harad-el.png"
+       xlink:href="build/labels/embedded/near-harad-el.png"
        transform="matrix(0.9978447,-6.5619834e-2,6.5619834e-2,0.9978447,0,0)" />
     <image
        y="5032.8164"
@@ -1430,8 +1406,7 @@
        id="image5947"
        height="159.14503"
        width="715.38013"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/far-harad-el.png"
-       xlink:href="archive/labels/far-harad-el.png"
+       xlink:href="build/labels/embedded/far-harad-el.png"
        transform="matrix(0.9487249,0.3161029,-0.3161029,0.9487249,0,0)" />
     <image
        y="5425.4385"
@@ -1439,8 +1414,7 @@
        id="image6054"
        height="210.61899"
        width="492.89188"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/nurn-sl.png"
-       xlink:href="archive/labels/nurn-sl.png"
+       xlink:href="build/labels/embedded/nurn-sl.png"
        transform="matrix(0.9846931,-0.1742971,0.1742971,0.9846931,0,0)" />
     <image
        y="3150.0823"
@@ -1448,8 +1422,7 @@
        id="image6284"
        height="156.91354"
        width="439.35791"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/khand-ul.png"
-       xlink:href="archive/labels/khand-ul.png"
+       xlink:href="build/labels/embedded/khand-ul.png"
        transform="matrix(0.9629292,0.2697543,-0.2697543,0.9629292,0,0)" />
     <image
        style="opacity:0.78629037;display:inline"
@@ -1458,8 +1431,7 @@
        id="image7175"
        height="164.27966"
        width="477.12527"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/angmar-sl.png"
-       xlink:href="archive/labels/angmar-sl.png" />
+       xlink:href="build/labels/embedded/angmar-sl.png" />
     <image
        style="display:inline;opacity:0.78629032"
        y="3920.7585"
@@ -1467,8 +1439,7 @@
        id="image2622"
        height="145.02528"
        width="542.03198"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/moria-sl.png"
-       xlink:href="archive/labels/moria-sl.png"
+       xlink:href="build/labels/embedded/moria-sl.png"
        transform="matrix(0.9318976,-0.3627214,0.3627214,0.9318976,0,0)" />
     <image
        style="display:inline"
@@ -1477,8 +1448,7 @@
        id="image2935"
        height="247.89772"
        width="967.98157"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/eryn-lasgalen-el.png"
-       xlink:href="archive/labels/eryn-lasgalen-el.png"
+       xlink:href="build/labels/embedded/eryn-lasgalen-el.png"
        transform="matrix(0.2872795,-0.9578468,0.9578468,0.2872795,0,0)" />
     <image
        style="display:inline"
@@ -1487,8 +1457,7 @@
        id="image3282"
        height="153.75003"
        width="627.94751"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/emyn-angren-el.png"
-       xlink:href="archive/labels/emyn-angren-el.png" />
+       xlink:href="build/labels/embedded/emyn-angren-el.png" />
     <image
        style="display:inline"
        y="4126.0215"
@@ -1496,8 +1465,7 @@
        id="image3195"
        height="113.1555"
        width="677.94904"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/barannorath-el.png"
-       xlink:href="archive/labels/barannorath-el.png"
+       xlink:href="build/labels/embedded/barannorath-el.png"
        transform="matrix(0.9819219,-0.1892865,0.1892865,0.9819219,0,0)" />
     <image
        style="display:inline"
@@ -1506,8 +1474,7 @@
        id="image6172"
        height="135.0033"
        width="329.85339"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/eregion-el.png"
-       xlink:href="archive/labels/eregion-el.png"
+       xlink:href="build/labels/embedded/eregion-el.png"
        transform="matrix(0.9999991,1.3451262e-3,-1.3451262e-3,0.9999991,0,0)" />
   </g>
   <g
@@ -1521,8 +1488,7 @@
        id="image6144"
        height="121.12671"
        width="394.59836"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/nurnen-el.png"
-       xlink:href="archive/labels/nurnen-el.png"
+       xlink:href="build/labels/embedded/nurnen-el.png"
        transform="matrix(0.9586011,-0.2847525,0.2847525,0.9586011,0,0)" />
     <image
        y="1992.7056"
@@ -1530,13 +1496,11 @@
        id="image6434"
        height="61.964798"
        width="438.27182"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/ered-lindon-el.png"
-       xlink:href="archive/labels/ered-lindon-el.png"
+       xlink:href="build/labels/embedded/ered-lindon-el.png"
        transform="matrix(-1.9151262e-2,-0.9998166,0.9998166,-1.9151262e-2,0,0)" />
     <image
        transform="matrix(0.4765408,0.8791524,-0.8791524,0.4765408,0,0)"
-       xlink:href="archive/labels/ered-lindon-el.png"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/ered-lindon-el.png"
+       xlink:href="build/labels/embedded/ered-lindon-el.png"
        width="362.18054"
        height="51.20668"
        id="image6438"
@@ -1548,8 +1512,7 @@
        id="image6566"
        height="74.301262"
        width="574.43658"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/ered-mithrin-el.png"
-       xlink:href="archive/labels/ered-mithrin-el.png"
+       xlink:href="build/labels/embedded/ered-mithrin-el.png"
        transform="matrix(0.9982719,-5.8764503e-2,5.8764503e-2,0.9982719,0,0)" />
     <image
        y="4464.2466"
@@ -1557,8 +1520,7 @@
        id="image6773"
        height="75.322296"
        width="559.97186"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/ered-nimrais-el.png"
-       xlink:href="archive/labels/ered-nimrais-el.png"
+       xlink:href="build/labels/embedded/ered-nimrais-el.png"
        transform="matrix(0.9852556,-0.1710889,0.1710889,0.9852556,0,0)" />
     <image
        y="-3938.1934"
@@ -1566,13 +1528,11 @@
        id="image6883"
        height="70.100784"
        width="556.37885"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/hithaeglir-el.png"
-       xlink:href="archive/labels/hithaeglir-el.png"
+       xlink:href="build/labels/embedded/hithaeglir-el.png"
        transform="matrix(0.1702066,0.9854084,-0.9854084,0.1702066,0,0)" />
     <image
        transform="matrix(0.4695845,-0.8828875,0.8828875,0.4695845,0,0)"
-       xlink:href="archive/labels/hithaeglir-el.png"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/hithaeglir-el.png"
+       xlink:href="build/labels/embedded/hithaeglir-el.png"
        width="556.37885"
        height="70.100784"
        id="image6887"
@@ -1584,8 +1544,7 @@
        id="image6998"
        height="91.561005"
        width="437.55597"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/cof-lhun-el.png"
-       xlink:href="archive/labels/cof-lhun-el.png"
+       xlink:href="build/labels/embedded/cof-lhun-el.png"
        transform="matrix(0.993968,-0.1096708,0.1096708,0.993968,0,0)" />
     <image
        y="-1856.4725"
@@ -1593,8 +1552,7 @@
        id="image7088"
        height="67.359589"
        width="286.01291"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/lhun-el.png"
-       xlink:href="archive/labels/lhun-el.png"
+       xlink:href="build/labels/embedded/lhun-el.png"
        transform="matrix(0.2468136,0.969063,-0.969063,0.2468136,0,0)" />
     <image
        y="2889.2798"
@@ -1602,8 +1560,7 @@
        id="image7364"
        height="93.350555"
        width="330.82123"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/i-drann-el.png"
-       xlink:href="archive/labels/i-drann-el.png"
+       xlink:href="build/labels/embedded/i-drann-el.png"
        transform="matrix(0.9753696,-0.220577,0.220577,0.9753696,0,0)" />
     <image
        y="-736.13214"
@@ -1611,8 +1568,7 @@
        id="image7477"
        height="52.946198"
        width="233.29419"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/nindalf-el.png"
-       xlink:href="archive/labels/nindalf-el.png"
+       xlink:href="build/labels/embedded/nindalf-el.png"
        transform="matrix(0.6958076,0.7182282,-0.7182282,0.6958076,0,0)" />
     <image
        y="4755.519"
@@ -1620,8 +1576,7 @@
        id="image7618"
        height="29.104109"
        width="189.02351"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/lo-fern-el.png"
-       xlink:href="archive/labels/lo-fern-el.png"
+       xlink:href="build/labels/embedded/lo-fern-el.png"
        transform="matrix(0.9753277,-0.2207622,0.2207622,0.9753277,0,0)" />
     <image
        y="4098.9829"
@@ -1629,8 +1584,7 @@
        id="image2805"
        height="43.482819"
        width="95.088806"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/udun-sl.png"
-       xlink:href="archive/labels/udun-sl.png"
+       xlink:href="build/labels/embedded/udun-sl.png"
        transform="matrix(0.9991349,-4.1587171e-2,4.1587171e-2,0.9991349,0,0)" />
     <image
        y="1321.2246"
@@ -1638,8 +1592,7 @@
        id="image3082"
        height="57.149574"
        width="345.47174"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/talf-tharn-el.png"
-       xlink:href="archive/labels/talf-tharn-el.png"
+       xlink:href="build/labels/embedded/talf-tharn-el.png"
        transform="matrix(0.9992338,3.9139129e-2,-3.9139129e-2,0.9992338,0,0)" />
     <image
        y="4061.5166"
@@ -1647,8 +1600,7 @@
        id="image3372"
        height="60.543926"
        width="332.38617"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/east-emnet-el.png"
-       xlink:href="archive/labels/east-emnet-el.png"
+       xlink:href="build/labels/embedded/east-emnet-el.png"
        transform="matrix(0.992453,-0.1226257,0.1226257,0.992453,0,0)" />
     <image
        y="221.52711"
@@ -1656,8 +1608,7 @@
        id="image3462"
        height="58.699081"
        width="223.63626"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/eastfold-el.png"
-       xlink:href="archive/labels/eastfold-el.png"
+       xlink:href="build/labels/embedded/eastfold-el.png"
        transform="matrix(0.7632675,0.6460826,-0.6460826,0.7632675,0,0)" />
     <image
        y="5397.1562"
@@ -1665,8 +1616,7 @@
        id="image4034"
        height="63.339298"
        width="244.33154"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/the-wold-el.png"
-       xlink:href="archive/labels/the-wold-el.png"
+       xlink:href="build/labels/embedded/the-wold-el.png"
        transform="matrix(0.7600724,-0.6498384,0.6498384,0.7600724,0,0)" />
     <image
        y="3576.4136"
@@ -1674,16 +1624,14 @@
        id="image4107"
        height="54.570919"
        width="311.58237"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/west-emnet-el.png"
-       xlink:href="archive/labels/west-emnet-el.png" />
+       xlink:href="build/labels/embedded/west-emnet-el.png" />
     <image
        y="1419.5721"
        x="5077.8833"
        id="image4197"
        height="66.464218"
        width="276.13486"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/westfold-el.png"
-       xlink:href="archive/labels/westfold-el.png"
+       xlink:href="build/labels/embedded/westfold-el.png"
        transform="matrix(0.8868233,0.4621086,-0.4621086,0.8868233,0,0)" />
     <image
        y="362.43536"
@@ -1691,8 +1639,7 @@
        id="image4417"
        height="56.250034"
        width="459.00031"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/ered-angmar-el.png"
-       xlink:href="archive/labels/ered-angmar-el.png"
+       xlink:href="build/labels/embedded/ered-angmar-el.png"
        inkscape:transform-center-x="-206.30714"
        inkscape:transform-center-y="46.388483"
        transform="matrix(0.9673395,0.2534841,-0.2534841,0.9673395,0,0)" />
@@ -1703,8 +1650,7 @@
        id="image2649"
        height="72.085495"
        width="211.62712"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/belfalas-sl.png"
-       xlink:href="archive/labels/belfalas-sl.png"
+       xlink:href="build/labels/embedded/belfalas-sl.png"
        transform="matrix(0.5603547,0.8282527,-0.8282527,0.5603547,0,0)" />
     <image
        y="3124.5518"
@@ -1712,8 +1658,7 @@
        id="image2918"
        height="56.250034"
        width="144.00009"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/folde-el.png"
-       xlink:href="archive/labels/folde-el.png"
+       xlink:href="build/labels/embedded/folde-el.png"
        transform="matrix(0.9886799,0.1500404,-0.1500404,0.9886799,0,0)" />
     <image
        style="display:inline"
@@ -1722,8 +1667,7 @@
        id="image3247"
        height="58.750027"
        width="254.88474"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/angren-el.png"
-       xlink:href="archive/labels/angren-el.png"
+       xlink:href="build/labels/embedded/angren-el.png"
        transform="matrix(0.8968814,-0.4422711,0.4422711,0.8968814,0,0)" />
     <image
        y="804.55109"
@@ -1731,8 +1675,7 @@
        id="image3338"
        height="87.276772"
        width="283.26675"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/himling-sl.png"
-       xlink:href="archive/labels/himling-sl.png"
+       xlink:href="build/labels/embedded/himling-sl.png"
        transform="matrix(0.9255234,0.3786905,-0.3786905,0.9255234,0,0)" />
     <image
        style="display:inline"
@@ -1741,8 +1684,7 @@
        id="image4464"
        height="56.916882"
        width="253.41565"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/eryn-teryg-el.png"
-       xlink:href="archive/labels/eryn-teryg-el.png"
+       xlink:href="build/labels/embedded/eryn-teryg-el.png"
        transform="matrix(0.7289727,-0.6845428,0.6845428,0.7289727,0,0)" />
     <image
        style="display:inline"
@@ -1751,8 +1693,7 @@
        id="image6701"
        height="84.070213"
        width="414.40668"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/baranduin-el.png"
-       xlink:href="archive/labels/baranduin-el.png"
+       xlink:href="build/labels/embedded/baranduin-el.png"
        transform="matrix(0.7950676,-0.6065208,0.6065208,0.7950676,0,0)" />
     <image
        style="display:inline"
@@ -1761,8 +1702,7 @@
        id="image3677"
        height="56.202515"
        width="237.29948"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/emyn-muil-sl.png"
-       xlink:href="archive/labels/emyn-muil-sl.png"
+       xlink:href="build/labels/embedded/emyn-muil-sl.png"
        transform="matrix(0.6006384,-0.7995208,0.7995208,0.6006384,0,0)" />
     <image
        style="display:inline"
@@ -1771,8 +1711,7 @@
        id="image5712"
        height="89.415138"
        width="423.74997"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/druwaith-iaur-el.png"
-       xlink:href="archive/labels/druwaith-iaur-el.png"
+       xlink:href="build/labels/embedded/druwaith-iaur-el.png"
        transform="matrix(0.9685284,-0.2489032,0.2489032,0.9685284,0,0)" />
     <image
        y="3729.6572"
@@ -1780,8 +1719,7 @@
        id="image5803"
        height="39.650307"
        width="132.16769"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/calembel-sl.png"
-       xlink:href="archive/labels/calembel-sl.png"
+       xlink:href="build/labels/embedded/calembel-sl.png"
        transform="matrix(0.9930836,0.117409,-0.117409,0.9930836,0,0)" />
     <image
        style="display:inline"
@@ -1790,8 +1728,7 @@
        id="image7160"
        height="135.00002"
        width="422.0527"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/umbar-sl.png"
-       xlink:href="archive/labels/umbar-sl.png"
+       xlink:href="build/labels/embedded/umbar-sl.png"
        transform="matrix(0.912871,-0.4082482,0.4082482,0.912871,0,0)" />
   </g>
   <g
@@ -1806,8 +1743,7 @@
        id="image4307"
        height="37.655285"
        width="149.51363"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/carn-dum-ul.png"
-       xlink:href="archive/labels/carn-dum-ul.png"
+       xlink:href="build/labels/embedded/carn-dum-ul.png"
        transform="matrix(0.9999807,-6.2089053e-3,6.2089053e-3,0.9999807,0,0)" />
     <image
        style="display:inline"
@@ -1816,8 +1752,7 @@
        id="image4653"
        height="21.94108"
        width="108.57052"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/angrenost-el.png"
-       xlink:href="archive/labels/angrenost-el.png" />
+       xlink:href="build/labels/embedded/angrenost-el.png" />
     <image
        style="display:inline"
        y="5186.8999"
@@ -1825,8 +1760,7 @@
        id="image3022"
        height="27.71879"
        width="88.591431"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/edoras-el.png"
-       xlink:href="archive/labels/edoras-el.png"
+       xlink:href="build/labels/embedded/edoras-el.png"
        transform="matrix(0.907195,-0.4207105,0.4207105,0.907195,0,0)" />
     <image
        style="display:inline"
@@ -1835,24 +1769,21 @@
        id="image3488"
        height="52.242126"
        width="155.28853"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/caradhras-el.png"
-       xlink:href="archive/labels/caradhras-el.png" />
+       xlink:href="build/labels/embedded/caradhras-el.png" />
     <image
        y="2724.6885"
        x="3826.4607"
        id="image3602"
        height="43.287434"
        width="167.2373"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/celebdil-el.png"
-       xlink:href="archive/labels/celebdil-el.png" />
+       xlink:href="build/labels/embedded/celebdil-el.png" />
     <image
        y="2848.9529"
        x="3849.7688"
        id="image3692"
        height="40.383068"
        width="171.18134"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/fanuidhol-el.png"
-       xlink:href="archive/labels/fanuidhol-el.png" />
+       xlink:href="build/labels/embedded/fanuidhol-el.png" />
     <image
        style="display:inline"
        y="2240.5059"
@@ -1860,32 +1791,28 @@
        id="image3896"
        height="71.422134"
        width="150.32658"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/bree-el.png"
-       xlink:href="archive/labels/bree-el.png" />
+       xlink:href="build/labels/embedded/bree-el.png" />
     <image
        y="1896.2349"
        x="2912.9861"
        id="image4021"
        height="48.322369"
        width="176.70827"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/fornost-erain-el.png"
-       xlink:href="archive/labels/fornost-erain-el.png" />
+       xlink:href="build/labels/embedded/fornost-erain-el.png" />
     <image
        y="2161.676"
        x="4378.4219"
        id="image4111"
        height="48.310738"
        width="147.97884"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/athrad-iaur-el.png"
-       xlink:href="archive/labels/athrad-iaur-el.png" />
+       xlink:href="build/labels/embedded/athrad-iaur-el.png" />
     <image
        y="3234.1692"
        x="1877.3213"
        id="image4204"
        height="51.666077"
        width="215.35579"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/sarnathrad-el.png"
-       xlink:href="archive/labels/sarnathrad-el.png"
+       xlink:href="build/labels/embedded/sarnathrad-el.png"
        transform="matrix(0.9595475,-0.2815468,0.2815468,0.9595475,0,0)" />
     <image
        y="-426.96799"
@@ -1893,8 +1820,7 @@
        id="image4334"
        height="39.049755"
        width="155.51393"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/eryn-iaur-el.png"
-       xlink:href="archive/labels/eryn-iaur-el.png"
+       xlink:href="build/labels/embedded/eryn-iaur-el.png"
        transform="matrix(0.7117843,0.7023981,-0.7023981,0.7117843,0,0)" />
     <image
        style="display:inline"
@@ -1903,8 +1829,7 @@
        id="image4558"
        height="33.05489"
        width="151.19551"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/amon-sul-el.png"
-       xlink:href="archive/labels/amon-sul-el.png"
+       xlink:href="build/labels/embedded/amon-sul-el.png"
        transform="matrix(0.9393947,-0.3428376,0.3428376,0.9393947,0,0)" />
     <image
        y="2826.9534"
@@ -1912,16 +1837,14 @@
        id="image4649"
        height="61.500038"
        width="214.27986"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/tharbad-ul.png"
-       xlink:href="archive/labels/tharbad-ul.png" />
+       xlink:href="build/labels/embedded/tharbad-ul.png" />
     <image
        y="-115.30194"
        x="3287.4675"
        id="image4756"
        height="44.913746"
        width="195.571"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/emyn-beraid-el.png"
-       xlink:href="archive/labels/emyn-beraid-el.png"
+       xlink:href="build/labels/embedded/emyn-beraid-el.png"
        transform="matrix(0.6911825,0.7226802,-0.7226802,0.6911825,0,0)" />
     <image
        style="display:inline"
@@ -1930,8 +1853,7 @@
        id="image4863"
        height="69.85659"
        width="359.3584"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/emyn-formen-el.png"
-       xlink:href="archive/labels/emyn-formen-el.png"
+       xlink:href="build/labels/embedded/emyn-formen-el.png"
        transform="matrix(0.9361149,-0.3516944,0.3516944,0.9361149,0,0)" />
     <image
        y="1022.7264"
@@ -1939,8 +1861,7 @@
        id="image4972"
        height="38.714619"
        width="159.32555"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/emyn-haeron-el.png"
-       xlink:href="archive/labels/emyn-haeron-el.png"
+       xlink:href="build/labels/embedded/emyn-haeron-el.png"
        transform="matrix(0.9083507,0.4182093,-0.4182093,0.9083507,0,0)" />
     <image
        y="1600.7361"
@@ -1948,8 +1869,7 @@
        id="image5099"
        height="59.360241"
        width="312.78281"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/emyn-harad-el.png"
-       xlink:href="archive/labels/emyn-harad-el.png"
+       xlink:href="build/labels/embedded/emyn-harad-el.png"
        transform="matrix(0.9739451,0.2267841,-0.2267841,0.9739451,0,0)" />
     <image
        y="177.08327"
@@ -1957,8 +1877,7 @@
        id="image5206"
        height="59.803741"
        width="292.55347"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/emyn-sul-el.png"
-       xlink:href="archive/labels/emyn-sul-el.png"
+       xlink:href="build/labels/embedded/emyn-sul-el.png"
        transform="matrix(0.8786862,0.4773998,-0.4773998,0.8786862,0,0)" />
     <image
        y="-1705.848"
@@ -1966,8 +1885,7 @@
        id="image5353"
        height="79.250038"
        width="465.03323"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/emyn-uial-el.png"
-       xlink:href="archive/labels/emyn-uial-el.png"
+       xlink:href="build/labels/embedded/emyn-uial-el.png"
        transform="matrix(0.3878594,0.9217185,-0.9217185,0.3878594,0,0)"
        inkscape:transform-center-x="92.282831"
        inkscape:transform-center-y="-159.04006" />
@@ -1978,8 +1896,7 @@
        id="image5614"
        height="26.651094"
        width="192.37801"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/in-emyn-el.png"
-       xlink:href="archive/labels/in-emyn-el.png"
+       xlink:href="build/labels/embedded/in-emyn-el.png"
        transform="matrix(0.4329822,0.9014025,-0.9014025,0.4329822,0,0)" />
     <image
        y="3088.6355"
@@ -1987,8 +1904,7 @@
        id="image5825"
        height="38.70369"
        width="223.66658"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/nenuial-el.png"
-       xlink:href="archive/labels/nenuial-el.png"
+       xlink:href="build/labels/embedded/nenuial-el.png"
        transform="matrix(0.79673,-0.6043354,0.6043354,0.79673,0,0)" />
     <image
        y="784.6756"
@@ -1996,8 +1912,7 @@
        id="image5932"
        height="26.234411"
        width="146.68701"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/lo-el.png"
-       xlink:href="archive/labels/lo-el.png"
+       xlink:href="build/labels/embedded/lo-el.png"
        transform="matrix(0.9243039,0.3816573,-0.3816573,0.9243039,0,0)" />
     <image
        y="2884.7441"
@@ -2005,8 +1920,7 @@
        id="image6065"
        height="49.108799"
        width="189.54274"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/nin-in-eilph-el.png"
-       xlink:href="archive/labels/nin-in-eilph-el.png" />
+       xlink:href="build/labels/embedded/nin-in-eilph-el.png" />
     <image
        style="opacity:1;display:inline"
        y="2936.6616"
@@ -2014,8 +1928,7 @@
        id="image6267"
        height="29.074158"
        width="279.75012"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/men-daer-rhun-annui-el.png"
-       xlink:href="archive/labels/men-daer-rhun-annui-el.png"
+       xlink:href="build/labels/embedded/men-daer-rhun-annui-el.png"
        transform="matrix(0.976598,-0.2150727,0.2150727,0.976598,0,0)" />
     <image
        y="-2251.1099"
@@ -2023,8 +1936,7 @@
        id="image6520"
        height="32.359451"
        width="155.60637"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/calenrath-el.png"
-       xlink:href="archive/labels/calenrath-el.png"
+       xlink:href="build/labels/embedded/calenrath-el.png"
        transform="matrix(0.3204519,0.9472648,-0.9472648,0.3204519,0,0)" />
     <image
        y="-2833.6931"
@@ -2032,8 +1944,7 @@
        id="image6608"
        height="63.830158"
        width="247.12225"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/andrath-el.png"
-       xlink:href="archive/labels/andrath-el.png"
+       xlink:href="build/labels/embedded/andrath-el.png"
        transform="matrix(0.1858318,0.9825816,-0.9825816,0.1858318,0,0)" />
     <image
        style="display:inline"
@@ -2042,8 +1953,7 @@
        id="image6792"
        height="40.327869"
        width="157.49094"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/glanduin-sl.png"
-       xlink:href="archive/labels/glanduin-sl.png"
+       xlink:href="build/labels/embedded/glanduin-sl.png"
        transform="matrix(0.946026,-0.3240908,0.3240908,0.946026,0,0)" />
     <image
        y="4051.9705"
@@ -2051,8 +1961,7 @@
        id="image6906"
        height="50.587692"
        width="332.58716"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/mitheithel-el.png"
-       xlink:href="archive/labels/mitheithel-el.png"
+       xlink:href="build/labels/embedded/mitheithel-el.png"
        transform="matrix(0.2354857,-0.9718778,0.9718778,0.2354857,0,0)" />
     <image
        y="-2743.8601"
@@ -2060,8 +1969,7 @@
        id="image6999"
        height="27.266054"
        width="125.71087"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/rhosgobel-sl.png"
-       xlink:href="archive/labels/rhosgobel-sl.png"
+       xlink:href="build/labels/embedded/rhosgobel-sl.png"
        transform="matrix(0.4887262,0.8724372,-0.8724372,0.4887262,0,0)" />
     <image
        y="666.76923"
@@ -2069,8 +1977,7 @@
        id="image7126"
        height="71.021416"
        width="497.82629"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/forochel-el.png"
-       xlink:href="archive/labels/forochel-el.png"
+       xlink:href="build/labels/embedded/forochel-el.png"
        transform="matrix(0.9923699,0.1232964,-0.1232964,0.9923699,0,0)" />
     <image
        y="4571.0986"
@@ -2078,8 +1985,7 @@
        id="image7219"
        height="27.326864"
        width="126.75014"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/morannon-el.png"
-       xlink:href="archive/labels/morannon-el.png"
+       xlink:href="build/labels/embedded/morannon-el.png"
        transform="matrix(0.9879329,-0.1548824,0.1548824,0.9879329,0,0)" />
     <image
        y="2956.1167"
@@ -2087,8 +1993,7 @@
        id="image7332"
        height="54.500038"
        width="279.65674"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/harlond-el.png"
-       xlink:href="archive/labels/harlond-el.png"
+       xlink:href="build/labels/embedded/harlond-el.png"
        transform="matrix(0.9204067,-0.3909622,0.3909622,0.9204067,0,0)" />
     <image
        y="5148.0723"
@@ -2096,8 +2001,7 @@
        id="image7459"
        height="53.811058"
        width="176.18784"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/edhellond-el.png"
-       xlink:href="archive/labels/edhellond-el.png"
+       xlink:href="build/labels/embedded/edhellond-el.png"
        transform="matrix(0.9820834,-0.1884467,0.1884467,0.9820834,0,0)" />
     <image
        y="6747.5122"
@@ -2105,8 +2009,7 @@
        id="image7549"
        height="39.627262"
        width="119.23248"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/pelargir-sl.png"
-       xlink:href="archive/labels/pelargir-sl.png"
+       xlink:href="build/labels/embedded/pelargir-sl.png"
        transform="matrix(0.7701555,-0.6378562,0.6378562,0.7701555,0,0)"
        inkscape:transform-center-x="36.181379"
        inkscape:transform-center-y="40.164945" />
@@ -2116,16 +2019,14 @@
        id="image7656"
        height="60.05442"
        width="294.08093"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/lond-daer-el.png"
-       xlink:href="archive/labels/lond-daer-el.png" />
+       xlink:href="build/labels/embedded/lond-daer-el.png" />
     <image
        y="3824.1692"
        x="5188.6631"
        id="image2833"
        height="61.812538"
        width="136.7534"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/linhir-sl.png"
-       xlink:href="archive/labels/linhir-sl.png"
+       xlink:href="build/labels/embedded/linhir-sl.png"
        transform="matrix(0.9837891,0.1793291,-0.1793291,0.9837891,0,0)" />
     <image
        style="display:inline"
@@ -2134,8 +2035,7 @@
        id="image3315"
        height="28.330137"
        width="202.88957"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/eryn-druadan-el.png"
-       xlink:href="archive/labels/eryn-druadan-el.png"
+       xlink:href="build/labels/embedded/eryn-druadan-el.png"
        transform="matrix(0.9867014,0.1625432,-0.1625432,0.9867014,0,0)" />
     <image
        y="5899.4399"
@@ -2143,8 +2043,7 @@
        id="image3389"
        height="25.29212"
        width="101.68464"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/amon-anwar-el.png"
-       xlink:href="archive/labels/amon-anwar-el.png"
+       xlink:href="build/labels/embedded/amon-anwar-el.png"
        transform="matrix(0.8314637,-0.5555791,0.5555791,0.8314637,0,0)" />
     <image
        y="5351.3159"
@@ -2152,8 +2051,7 @@
        id="image3476"
        height="20.433432"
        width="71.622345"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/eilenach-el.png"
-       xlink:href="archive/labels/eilenach-el.png"
+       xlink:href="build/labels/embedded/eilenach-el.png"
        transform="matrix(0.9622948,-0.2720087,0.2720087,0.9622948,0,0)" />
     <image
        style="display:inline"
@@ -2162,8 +2060,7 @@
        id="image3771"
        height="65.651115"
        width="337.45901"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/pinnath-gelin-sl.png"
-       xlink:href="archive/labels/pinnath-gelin-sl.png"
+       xlink:href="build/labels/embedded/pinnath-gelin-sl.png"
        transform="matrix(0.9731111,-0.2303364,0.2303364,0.9731111,0,0)" />
     <image
        y="5035.709"
@@ -2171,16 +2068,14 @@
        id="image3885"
        height="79.246658"
        width="262.1922"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/tolfalas-sl.png"
-       xlink:href="archive/labels/tolfalas-sl.png" />
+       xlink:href="build/labels/embedded/tolfalas-sl.png" />
     <image
        y="5210.3945"
        x="-4162.1958"
        id="image4213"
        height="50.295025"
        width="256.88318"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/lossarnach-sl.png"
-       xlink:href="archive/labels/lossarnach-sl.png"
+       xlink:href="build/labels/embedded/lossarnach-sl.png"
        transform="matrix(8.7755394e-2,-0.9961421,0.9961421,8.7755394e-2,0,0)" />
     <image
        y="5961.0483"
@@ -2188,8 +2083,7 @@
        id="image5096"
        height="17.890074"
        width="90.70266"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/min-rimmon-sl.png"
-       xlink:href="archive/labels/min-rimmon-sl.png"
+       xlink:href="build/labels/embedded/min-rimmon-sl.png"
        transform="matrix(0.8626639,-0.5057777,0.5057777,0.8626639,0,0)" />
     <image
        y="5388.1265"
@@ -2197,8 +2091,7 @@
        id="image5209"
        height="22.038883"
        width="105.38132"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/mindolluin-sl.png"
-       xlink:href="archive/labels/mindolluin-sl.png"
+       xlink:href="build/labels/embedded/mindolluin-sl.png"
        transform="matrix(0.9652718,-0.2612478,0.2612478,0.9652718,0,0)" />
     <image
        style="display:inline"
@@ -2207,8 +2100,7 @@
        id="image5505"
        height="39.163254"
        width="179.55981"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/dagorlad-el.png"
-       xlink:href="archive/labels/dagorlad-el.png"
+       xlink:href="build/labels/embedded/dagorlad-el.png"
        transform="matrix(0.9795513,-0.2011945,0.2011945,0.9795513,0,0)" />
     <image
        y="6201.3262"
@@ -2216,8 +2108,7 @@
        id="image5619"
        height="50.250034"
        width="280.42761"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/dor-en-ernil-sl.png"
-       xlink:href="archive/labels/dor-en-ernil-sl.png"
+       xlink:href="build/labels/embedded/dor-en-ernil-sl.png"
        transform="matrix(0.8540053,-0.5202643,0.5202643,0.8540053,0,0)" />
     <image
        style="display:inline"
@@ -2226,8 +2117,7 @@
        id="image5984"
        height="82.794899"
        width="174.08159"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/lefnui-sl.png"
-       xlink:href="archive/labels/lefnui-sl.png"
+       xlink:href="build/labels/embedded/lefnui-sl.png"
        transform="matrix(0.3962462,-0.9181443,0.9181443,0.3962462,0,0)" />
     <image
        y="6509.8643"
@@ -2235,8 +2125,7 @@
        id="image6075"
        height="33.149574"
        width="228.67062"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/ethir-anduin-el.png"
-       xlink:href="archive/labels/ethir-anduin-el.png"
+       xlink:href="build/labels/embedded/ethir-anduin-el.png"
        transform="matrix(0.5618152,-0.8272627,0.8272627,0.5618152,0,0)" />
     <image
        style="display:inline"
@@ -2245,8 +2134,7 @@
        id="image6317"
        height="39.021412"
        width="173.08508"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/nen-hithoel-sl.png"
-       xlink:href="archive/labels/nen-hithoel-sl.png"
+       xlink:href="build/labels/embedded/nen-hithoel-sl.png"
        transform="matrix(0.9924918,-0.1223113,0.1223113,0.9924918,0,0)" />
     <image
        y="5200.416"
@@ -2254,8 +2142,7 @@
        id="image6429"
        height="26.26841"
        width="114.57497"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/ciril-el.png"
-       xlink:href="archive/labels/ciril-el.png"
+       xlink:href="build/labels/embedded/ciril-el.png"
        transform="matrix(0.2654848,-0.964115,0.964115,0.2654848,0,0)" />
     <image
        y="950.25031"
@@ -2263,8 +2150,7 @@
        id="image6542"
        height="32.150551"
        width="189.29764"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/morthond-el.png"
-       xlink:href="archive/labels/morthond-el.png"
+       xlink:href="build/labels/embedded/morthond-el.png"
        transform="matrix(0.7862573,0.6178993,-0.6178993,0.7862573,0,0)" />
     <image
        y="6031.939"
@@ -2272,8 +2158,7 @@
        id="image6752"
        height="28.578682"
        width="156.8652"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/ringlo-sl.png"
-       xlink:href="archive/labels/ringlo-sl.png"
+       xlink:href="build/labels/embedded/ringlo-sl.png"
        transform="matrix(0.8125677,-0.5828668,0.5828668,0.8125677,0,0)" />
     <image
        y="6440.4541"
@@ -2281,8 +2166,7 @@
        id="image6845"
        height="38.570923"
        width="194.55003"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/serni-sl.png"
-       xlink:href="archive/labels/serni-sl.png"
+       xlink:href="build/labels/embedded/serni-sl.png"
        transform="matrix(0.6045394,-0.7965753,0.7965753,0.6045394,0,0)" />
     <image
        y="5496.5698"
@@ -2290,8 +2174,7 @@
        id="image6958"
        height="26.000036"
        width="120.88677"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/sir-celos-sl.png"
-       xlink:href="archive/labels/sir-celos-sl.png"
+       xlink:href="build/labels/embedded/sir-celos-sl.png"
        transform="matrix(0.1791735,-0.9838175,0.9838175,0.1791735,0,0)" />
     <image
        y="-2544.033"
@@ -2299,13 +2182,11 @@
        id="image7068"
        height="46.346481"
        width="114.64656"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/sirith-sl.png"
-       xlink:href="archive/labels/sirith-sl.png"
+       xlink:href="build/labels/embedded/sirith-sl.png"
        transform="matrix(0.4043337,0.9146115,-0.9146115,0.4043337,0,0)" />
     <image
        transform="matrix(7.3159848e-2,0.9973202,-0.9973202,7.3159848e-2,0,0)"
-       xlink:href="archive/labels/sirith-sl.png"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/sirith-sl.png"
+       xlink:href="build/labels/embedded/sirith-sl.png"
        width="114.64656"
        height="46.346481"
        id="image7072"
@@ -2318,16 +2199,14 @@
        id="image7354"
        height="62.860245"
        width="411.55673"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/caras-corsairs-el.png"
-       xlink:href="archive/labels/caras-corsairs-el.png" />
+       xlink:href="build/labels/embedded/caras-corsairs-el.png" />
     <image
        y="6680.1138"
        x="2904.2429"
        id="image7502"
        height="44.689842"
        width="300.48599"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/lond-umbar-el.png"
-       xlink:href="archive/labels/lond-umbar-el.png"
+       xlink:href="build/labels/embedded/lond-umbar-el.png"
        transform="matrix(0.9883778,-0.1520178,0.1520178,0.9883778,0,0)" />
     <image
        y="3726.9629"
@@ -2335,8 +2214,7 @@
        id="image7615"
        height="55.021412"
        width="354.70114"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/men-harad-el.png"
-       xlink:href="archive/labels/men-harad-el.png"
+       xlink:href="build/labels/embedded/men-harad-el.png"
        transform="matrix(0.9589197,0.2836778,-0.2836778,0.9589197,0,0)" />
     <image
        y="1543.2452"
@@ -2344,16 +2222,14 @@
        id="image7705"
        height="44.204956"
        width="328.13681"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/gundabad-kl.png"
-       xlink:href="archive/labels/gundabad-kl.png" />
+       xlink:href="build/labels/embedded/gundabad-kl.png" />
     <image
        y="630.35468"
        x="3369.0881"
        id="image7812"
        height="36.002262"
        width="212.18356"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/emyn-nim-el.png"
-       xlink:href="archive/labels/emyn-nim-el.png"
+       xlink:href="build/labels/embedded/emyn-nim-el.png"
        transform="matrix(0.8670913,0.4981493,-0.4981493,0.8670913,0,0)" />
   </g>
   <g
@@ -2368,8 +2244,7 @@
        id="image4531"
        height="20.156286"
        width="98.447548"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/methedras-sl.png"
-       xlink:href="archive/labels/methedras-sl.png" />
+       xlink:href="build/labels/embedded/methedras-sl.png" />
     <image
        style="display:inline"
        y="2099.2817"
@@ -2377,8 +2252,7 @@
        id="image2733"
        height="10.875041"
        width="41.083488"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/argirith-el.png"
-       xlink:href="archive/labels/argirith-el.png" />
+       xlink:href="build/labels/embedded/argirith-el.png" />
     <image
        style="display:inline"
        y="3084.3992"
@@ -2386,8 +2260,7 @@
        id="image3805"
        height="19.720503"
        width="156.95081"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/baranduiniant-el.png"
-       xlink:href="archive/labels/baranduiniant-el.png"
+       xlink:href="build/labels/embedded/baranduiniant-el.png"
        transform="matrix(0.9283817,-0.3716281,0.3716281,0.9283817,0,0)" />
     <image
        style="display:inline"
@@ -2396,13 +2269,11 @@
        id="image5483"
        height="21.522446"
        width="79.706009"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/eryn-ost-el.png"
-       xlink:href="archive/labels/eryn-ost-el.png"
+       xlink:href="build/labels/embedded/eryn-ost-el.png"
        transform="matrix(0.6604288,0.7508887,-0.7508887,0.6604288,0,0)" />
     <image
        transform="matrix(0.9971777,7.5077649e-2,-7.5077649e-2,0.9971777,0,0)"
-       xlink:href="archive/labels/men-daer-rhun-annui-el.png"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/men-daer-rhun-annui-el.png"
+       xlink:href="build/labels/embedded/men-daer-rhun-annui-el.png"
        width="174.83351"
        height="18.170275"
        id="image6273"
@@ -2416,8 +2287,7 @@
        id="image2943"
        height="15.859258"
        width="103.00507"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/ethraid-erui-el.png"
-       xlink:href="archive/labels/ethraid-erui-el.png"
+       xlink:href="build/labels/embedded/ethraid-erui-el.png"
        transform="matrix(0.8922164,-0.4516082,0.4516082,0.8922164,0,0)" />
     <image
        y="4301.0303"
@@ -2425,16 +2295,14 @@
        id="image3075"
        height="26.939253"
        width="87.140236"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/ethring-sl.png"
-       xlink:href="archive/labels/ethring-sl.png" />
+       xlink:href="build/labels/embedded/ethring-sl.png" />
     <image
        y="3692.9626"
        x="5931.3438"
        id="image3205"
        height="18.233492"
        width="129.19731"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/ethraid-poros-el.png"
-       xlink:href="archive/labels/ethraid-poros-el.png"
+       xlink:href="build/labels/embedded/ethraid-poros-el.png"
        transform="matrix(0.9791404,0.2031849,-0.2031849,0.9791404,0,0)" />
     <image
        style="display:inline"
@@ -2443,8 +2311,7 @@
        id="image3998"
        height="19.250042"
        width="67.76535"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/argonath-sl.png"
-       xlink:href="archive/labels/argonath-sl.png" />
+       xlink:href="build/labels/embedded/argonath-sl.png" />
     <image
        style="display:inline"
        y="3584.9546"
@@ -2452,8 +2319,7 @@
        id="image5431"
        height="15.927232"
        width="95.701881"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/imrath-gondraich-el.png"
-       xlink:href="archive/labels/imrath-gondraich-el.png"
+       xlink:href="build/labels/embedded/imrath-gondraich-el.png"
        transform="matrix(0.9918306,0.127562,-0.127562,0.9918306,0,0)" />
   </g>
   <g
@@ -2468,8 +2334,7 @@
        id="image5319"
        height="9.0123234"
        width="51.120323"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/pelennor-el.png"
-       xlink:href="archive/labels/pelennor-el.png"
+       xlink:href="build/labels/embedded/pelennor-el.png"
        transform="matrix(0.179476,-0.9837624,0.9837624,0.179476,0,0)" />
     <image
        style="display:inline"
@@ -2478,8 +2343,7 @@
        id="image6185"
        height="10.077872"
        width="63.442608"
-       sodipodi:absref="/home/kris/Dropbox/Public/ennorath/archive/labels/lanthir-rauros-el.png"
-       xlink:href="archive/labels/lanthir-rauros-el.png"
+       xlink:href="build/labels/embedded/lanthir-rauros-el.png"
        transform="matrix(0.9027146,-0.4302399,0.4302399,0.9027146,0,0)" />
   </g>
   <g
