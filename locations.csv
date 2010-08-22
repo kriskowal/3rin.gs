@@ -1,265 +1,265 @@
-English [Westron] {Rohirric},Sindarin [Ñoldorin] {Unknown/Other},Quenya [Khuzdul],File Prefix,Scale,Parent,Type,Icon,I page,S page,S,SL,L page,L,LM,Outstanding Issues,Location
-Middle-earth,Ennorath,Endor,ennorath-s,0,,Region,,,"60,",X,X,"4,12"
-Rohan,Calenardhon (obsolete name),,calenardhon-s,1,Ennorath,Nation,,,"6,8,9,12",X,1,"4,12"
-Stoneland*,Gondor,Ondonóre,gondor-s,1,Ennorath,Nation,,,"6,8",X,1,"4,12"
-(Dark Land*),Mordor,,mordor-s,1,Ennorath,Nation,,,"6,8,9,15,64",X,1,"4,12"
-Lone-lands,Eriador,,eriador-s,1,Ennorath,Region,,,"4,6,8",X,1,"4,12"
-Northern Waste,Forodwaith,,forodwaith-s,1,Ennorath,Region,,,"6,8,9",X,1,"4,12"
-Sutherland,Haradwaith,,haradwaith-s,1,Ennorath,Region,,,"6,8,18",X,1,"4,12"
-Wilderland,Rhovanion,,rhovanion-s,1,Ennorath,Region,,,"6,8",X,1,"4,12"
-East,Rhûn,,rhun-s,1,Ennorath,Region,,,"6,8",X,1,"4,12"
-Great Sea*,Belegaer,,belegaer-s,1,,Sea,,,"14,64,",X,1,"5,13"
-Lost Realm of Arnor,Ardhon Iaur Arnor,,ardhon-iaur-arnor-s,2,Eriador,Region,,,"2,11,71",X,1,"5,13",,,,Eriador
-Bay of Belfalas (Greatshore),Côf Belfalas,,cof-belfalas-s,2,Gondor,Sea/Bay,,,"33,",X,1,"5,13"
-Realm of Men,Arthedain,,arthedain-s,3,Arnor,Nation,,,"1,11,22",X,1,"5,13",,,,Arnor
-East Forest,Rhudaur,,rhudaur-s,3,Arnor,Nation,,,"10,",X,1,"5,12",,,,Lost Realm of Arnor
-,{Cardolan},,cardolan-u,3,Arnor,Region,,,"10,",X,1,"6,13"
-Middle-Region or Middle-folk,Enedwaith (Enedhwaith),,enedhwaith-s,3,Eriador,Region,,,"3,11",X,1,"6,13"
-Between Rivers,Minhiriath,,minhiriath-s,3,Eriador,Region,,,"3,11",X,1,"6,13"
-(Sunland*),Anórien,,anorien-s,3,Gondor,Region,,,"12,32",X,1,"6,14"
-North Ithilien,Forithilien*,,forithilien-s,3,Gondor,Region,,,"31,",X,1,"6,14"
-South Ithilien,Harithilien*,,harithilien-s,3,Gondor,Region,,,"31,",X,1,"6,14"
-South Gondor,Harondor,,harondor-s,3,Gondor,Region,,,"31,",X,1,"6,14"
-,{Lamedon},,lamedon-u,3,Gondor,Region,,,"33,",X,1,"6,14"
-Near Harad,? Harad,,near-harad-e,3,Harad,Region,,,,,,"5,15",,,"Translate ""near"" to Sindarin (not obvious)"
-Far Harad,Haeron? + Harad,,,3,Harad,Region,,,,,,"5,15"
-,Núrn,,nurn-s,3,Mordor,Region,,,"60,",X,1,"7,14"
-Sea of Nurn,Núrnen,,nurnen-s,3,Mordor,Sea,,,"12,18",X,1,"7,14"
-Blue Mountains,Ered Luin / Ered Lindon,,ered-lindon-s,4,Ennorath,Mountains,,,"5,10",X,1,"7,15",,,,Eriador
-Grey Mountains,Ered Mithrin,,ered-mithrin-s,4,Ennorath,Mountains,,,"10,",X,1,"7,15"
-White Mountains,Ered Nimrais,,ered-nimrais-s,4,Ennorath,Mountains,,,"11,",X,1,"7,15"
-Misty Mountains,Hithaeglir,,hithaeglir-s,4,Ennorath,Mountains,,,"10,21",X,1,"7,15"
-River Lune,[Lhûn],,lhun-s,4,Ennorath,Reiver,,,"5,11",X,1,"7,16",,,,Lindon
-(Iron dwelling*),Angmar,,angmar-s,4,Eriador,Nation,,,"11,",X,1,"8,16"
-"The Shire [Sûzat, Sûza]",i Drann,,i-drann-s,4,Eriador,Nation,,,"11,75",P,1,"7,16",,,,VT #31 pp21-22
-Wetwang,Nindalf,,nindalf-s,4,Gondor,Water,,,"34,",X,1,"8,16"
-Dead Marshes,Lô Fern*,,lo-fern-s,4,Gondor,Water/Marsh,,,"34,",X,1,"8,16"
-Moria (Black chasm),Moria,[Khazad-dûm],moria-s,4,Hithaiglir,Region,,,"36,",X,1,"8,16"
-(Deep-hidden*),Udûn (Ñoldorin?),Utumno,udun-s,4,Mordor,Region,,,"53,12",X,1,"8,16"
-Mirkwood,Eryn Lasgalen,,eryn-lasgalen-s,4,Rhovanion,Forest,,,"22,",X,1,"8,16",,,,"Beeches and Oaks, with Firs on the slopes of the mountains of Mirkwood.  Dark firs around amon lanc"
-Withered Heath,Talf Tharn*,,talf-tharn-s,4,Rhovanion,Mountains,,,"43,",X,1,"8,16"
-The Brown Lands,Barannorath*,,barannorath-s,4,Rhovanion,Region,,,"12,64,",X,1,"8,17"
-Iron Hills,Emyn Angren*,,emyn-angren-s,4,Rhûn,Mountains,,,"13,",X,1,"9,17"
-East Emnet,,,east-emnet-e,4,Rohan,Region,,,"13,",X,1,"9,17"
-Eastfold,,Romen-?,eastfold-e,4,Rohan,Region,,,"13,",X,1,"9,17"
-Folde,,?,folde-e,4,Rohan,Region,,,"13,",X,1,"9,17"
-The Wold,,,the-wold-e,4,Rohan,Region,,,"13,",X,1,"9,17"
-West Emnet,,,west-emnet-e,4,Rohan,Region,,,"60,",X,1,"9,17",,,"Verify canon, stardogg map"
-Westfold,,,westfold-e,4,Rohan,Region,,,"60,",X,1,"9,17",,,"Verify canon, stardogg map"
-,{Khand},,khand-u,4,,Region,,,"14,23",X,1,"9,18",,,"use extended ""quesse"" instead of khwesta"
-X,{Carn Dûm},,carn-dum-u,5,Angmar,City,,,"3,14,18",X,1,"9,18",,,,Capital of Angmar
-Fords of Isen,Ethraid Angren,,athrad-angren-s,5,Angren,Crossing,TODO,,"14,23",RE,1,"9,18",,,athrad/ethraid review
-End-horn,Methedras,,methedras-s,5,Angren,Mountain,,,"14,",X,1,18,,,,"Southern tip of misty mountains, overlooking Isengard"
-Isengard,Angrenost,,angrenost-s,5,Angren,Structure,,,"14,23",X,1,18
-River Isen,Sîr Angren,,sir-angren-s,5,Angren,Water/River,,,"15,23,72",X,1,18,,,silme nuquerna/silme
-,Himling,,himling-s,5,Ennorath,Island,,,"5,15",X,1,18,,,,Attested on the map at the back of later editions of LOTR
-Grey Mountains,Ered Mithrin,,ered-mithrin-2-s,5,Ennorath,Mountains,,,,X,1,18,,,,"This is the second range of mountains known as the Grey Mountains, in the far south"
-Redhorn,Caradhras,[Barazinbar],caradhras-s,5,Ered Moria,Mountain,,,"15,65,",X,1,18
-Silvertine,Celebdil,[Zirakzigil],celebdil-s,5,Ered Moria,Mountain,,,"15,",X,1,19,,,,"Westernmost of the three peaks above Moria, where Gandalf slew the Balrog, and on which Durin's Tower rests"
-Cloudyhead,Fanuidhol,[Bundushathûr],fanuidhol-s,5,Ered Moria,Mountain,,,"16,",X,1,19,,,,Easternmost of the three peaks above Moria
-Brandywine Bridge,Baranduiniant,,baranduiniant-s,5,Eriador,Bridge,TODO,,"16,77",P?,1,19,,,Should the i in iant be yanta here?
-Bree,X,,bree-e,5,Eriador,City,X,,"16,",X,1,19
-North Fortress (Norbury) of the Kings*,Fornost Erain,,fornost-erain-s,5,Eriador,City/Fortress,TODO,,"3,16,49,",X,1,19,,,,Ancient Capital of Arnor
-Old Ford,Athrad Iaur,,athrad-iaur-s,5,Eriador,Crossing,TODO,,"17,",X,1,19
-Sarn Ford (Stone Ford),Sarnathrad (LR430),Sarno-?,sarnathrad-s,5,Eriador,Crossing,TODO,,"4,16,24,72",X,1,19,,,silme nuquerna/silme
-Old Forest,Eryn Iaur,,eryn-iaur-s,5,Eriador,Forest,,,"17,",X,1,19
-Trollshaws,Eryn Teryg*,,eryn-teryg-s,5,Eriador,Forest,,,"17,",X,1,20,,,,Beech trees
-Weathertop,Amon Sûl,,amon-sul-s,5,Eriador,Hill,TODO,,"17,24,72",X,1,20,,,silme nuquerna/silme
-,{Tharbad},,tharbad-u,5,Eriador,Hill,,,"4,17",X,1,20
-Tower Hills,Emyn Beraid,,emyn-beraid-s,5,Eriador,Hills,,,"2,18,65",X,1,20,,,,Eriador
-North Downs,Emyn Formen*,,emyn-formen-s,5,Eriador,Hills,,,"2,19,66",X,1,20,,,,"Shire, Eriador"
-Far Downs,Emyn Haeron*,,emyn-haeron-s,5,Eriador,Hills,,,"2,18,65",X,1,20,,,,Eriador
-South Downs,Emyn Harad*,,emyn-harad-s,5,Eriador,Hills,,,"19,71",X,1,20
-Weather Hills,Emyn Sûl*,,emyn-sul-s,5,Eriador,Hills,,,"3,19,24,70",X,1,"21,32",,,silme nuquerna/nuquerna,"Sul/thul is from quenya, not attested in Sindarin except as Amon Sûl"
-Hills of Evendim,Emyn Uial,,emyn-uial-s,5,Eriador,Hills,,,"3,19",X,1,21,,,,West of Annúminas
-Chetwood,Eryn Ost*,,eryn-ost-s,5,Eriador,Hills,,,"19,",X,1,21,,,,"Chet derives from Latin, meaning ""fortified camp"""
-Barrow Downs,In Emyn (lit. The Hills)*,,in-emyn-s,5,Eriador,Hills,,,"19,",X,1,21,,,,Both barrow and downs refer to hills
-Lake Evendim,Nenuial,,nenuial-s,5,Eriador,Lake,,,"2,20",X,1,21,,,,North of the Shire
-Midgewater,Lô*,,lo-s,5,Eriador,Marsh,,,"20,",X,1,21,,,,Lô means swamp in Sindarin
-Swanfleet,Nîn-in-Eilph,,nin-in-eilph-s,5,Eriador,Marsh,,,"20,24,66",X,1,22,,,,"an inland delta where Glanduin and Gwathló meet.  Ford over Glanduin leads to Ost-in-Edhil, the ruined city of Eregion"
-Mountains of Angmar,Ered Angmar,,ered-angmar-s,5,Eriador,Mountains,,,"20,25,66",X,1,22,,,nwalme has a bar on top
-Hollin,Eregion,,eregion-s,5,Eriador,Nation,,,"20,60,",X,1,22
-Long Road,Andrath*,,andrath-s,5,Eriador,Road,,,"21,",X,1,22
-Great East/West Road,Men Daer Rhún-annui*,,men-daer-rhun-annui-s,5,Eriador,Road,,,"21,75",P,1,22
-Old South Road,Rath Harad Iaur,,rath-harad-iaur-s,5,Eriador,Road,,,"20,25",X,1,22
-Brandywine (lit. Brown River),Baranduin,,baranduin-s,5,Eriador,Water/River,,,"4,21",X,1,22
-Border River*,Glanduin,,glanduin-s,5,Eriador,Water/River,,,"44,57,",X,1,23
-River Hoarwell (Grey Spring),Mitheithel,,mitheithel-s,5,Eriador,Water/River,,,"21,",X,1,23
-,Rhosgobel,,rhosgobel-s,5,Eryn Lasgalen,,TODO,,"72,",X,1,23,,,,"Settlement of Radagast the Brown, opposite the east bight of Mirkwood"
-Ice Bay of Forochel (Northern Ice),Forochel,,forochel-s,5,Forodwaith,Sea,,,"5,21",P,1,23
-Black Gate,Morannon,,morannon-s,5,Girith Gorgor,Location,TODO,,"25,",X,1,23
-South Harbor,Harlond,,harlond-s,5,Gondor,City/Haven,TODO,,"27,",X,1,23,,,,Southern Harbor of Minas Tirith
-Elfhaven,Edhellond,Eldalonde*,edhellond-s,5,Gondor,City/Haven,X,,"26,",X,1,23,,,,End of the Ringló River
-Royal Shipyard*,Pelargir,,pelargir-s,5,Gondor,City/Haven,X,,"26,28",X,1,24
-Great [Middle] Haven / Newhaven,Lond Daer [Enedh],Vinyalonde,lond-daer-s,5,Gondor,City/Haven,,,"4,26",X,1,24,,,,Gondor
-,Linhir,,linhir-s,5,Gondor,City/Town,,,"27,",X,1,24
-Crossings of Erui (Lone Crossings),Ethraid Erui*,,ethraid-erui-s,5,Gondor,Crossing,TODO,,"27,66",X,1,24
-Crossings of Poros,Ethraid Poros*,,ethraid-poros-s,5,Gondor,Crossing,TODO,,"27,",X,1,24
-Ethring (Cold Crossing),Ethring,,ethring-s,5,Gondor,Crossing,TODO,,"27,",X,1,24,,,,A town near the head of the Ringló Vale
-Druadan Forest,Eryn Druadan*,,eryn-druadan-s,5,Gondor,Forest,,,"28,73,",X,1,24
-Halifirien (Mtn|Hill w/ Beacon),"Amon Anwar (""hill of awe"")",,amon-anwar-s,5,Gondor,Hill,TODO,,"28,",X,1,25,,,,mountain overlooking the firien wood
-Eilenach (Beacon),,,eilenach-e,5,Gondor,Hill,TODO,,"28,",X,1,25,,,,"Amid Druadan forest, highest peak"
-Arnen Hills,Emyn Arnen,,emyn-arnen-s,5,Gondor,Hills,,,"29,",X,1,25
-(Drear Hills),Emyn Muil,,emyn-muil-s,5,Gondor,Hills,,,"29,",X,1,25
-(Green slopes),Pinnath Gelin,,pinnath-gelin-s,5,Gondor,Hills,,,"28,",X,1,25
-(Island of the Shore),Tolfalas,,tolfalas-s,5,Gondor,Island,,,"29,",X,1,25
-Gate of Kings / Pillars of the Kings,Argonath,,argonath-s,5,Gondor,Location,X,,"29,",X,1,25
-(Flower-Arnach),Lossarnach,,lossarnach-s,5,Gondor,Location,,,"29,76,",P,,25
-Min-Rimmon (Beacon),Min-Rimmon,,min-rimmon-s,5,Gondor,Mountain,TODO,,"30,",X,1,26,,,,Highest of a set of peaks called the Rimmon
-(Towering Blue Head),Mindolluin,,mindolluin-s,5,Gondor,Mountain,,,"30,",X,1,26,,,,Mountain over Minas Tirith
-Fields of Pelennor (Fenced field of Middle-earth*),Pelennor,,pelennor-s,5,Gondor,Region,TODO,,"32,",X,1,26
-Battle Plain,Dagorlad,,dagorlad-s,5,Gondor,Region,,,"31.,",X,1,26
-Land of the Prince*,Dor-en-Ernil,,dor-en-ernil-s,5,Gondor,Region,,,"30,",X,1,26
-Old Púkel Land,Drúwaith Iaur,,druwaith-iaur-s,5,Gondor,Region,,,"30,",X,1,26,,,,Region west of Gondor
-(Five streams*),Lebennin*,,lebennin-s,5,Gondor,Region,,,"30,",X,1,27
-(Green field*),Calembel,,calembel-s,5,Gondor,Region,,,"31,",X,,27
-Stonewain Valley,Imrath Gondraich ,,imrath-gondraich-s,5,Gondor,Region,,,"32,66,76",P,,27
-Langstrand (Longbeach),Anfalas,,anfalas-s,5,Gondor,Region/Beach,,,"32,",X,1,27
-Greatshore,Belfalas,,belfalas-s,5,Gondor,Region/Beach,,,"32,",X,1,27
-,Lefnui,,lefnui-s,5,Gondor,River,,,"73,76,",P,1,27,,,,transliterated as levnui
-Mouths of Anduin,Ethir Anduin,,ethir-anduin-s,5,Gondor,Water,,,"34,",X,1,27
-Falls of Rauros,Lanthir Rauros,,lanthir-rauros-s,5,Gondor,Water,,,"34,",X,1,27
-,Nen Hithoel,,nen-hithoel-s,5,Gondor,Water/Lake,,,"34,",X,1,28,,,,The lake south of the Argonath
-Ciril River (Cleft Glitter*),Ciril,,ciril-s,5,Gondor,Water/River,,,"35,",X,1,28
-(River) Morthond (Blackroot),Morthond,,morthond-s,5,Gondor,Water/River,,,"35,",X,1,28,,,,Ends at Erech in Gondor.  (Blackroot attested in Chris Taylor's map)
-,{Poros}*,,poros-s,5,Gondor,Water/River,,,"35,",X,1,28
-River Ringlo (Coldflood*),Ringlo,,ringlo-s,5,Gondor,Water/River,,,"35,",X,1,28
-River Serni,{Serni},,serni-s,5,Gondor,Water/River,,,"35,70",X,1,28,,,silme nuquerna/nuquerna,"The Stardoog map incorrectly labels this ""sernui"""
-River Celos,Sîr Celos*,,sir-celos-s,5,Gondor,Water/River,,,"61,",X,1,28
-X,Sirith,,sirith-s,5,Gondor,Water/River,,,"35,72",X,1,29,,,simle nuquerna -> simle
-(lit. Doom),,Umbar,umbar-s,5,Harad,City,,,"36,",X,1,29
-City of Corsairs,Caras ?,,,5,Harad,City,,,,,,29,,,"Conjugate ""nor/ner"" (run) as (runner), the root of Corsair"
-Haven of Umbar,Lond Umbar*,,lond-umbar-s,5,Harad,City/Haven,X,,"35,",X,1,29
-The Harad Road,Men Harad*,,men-harad-s,5,Harad,Road,,,"36,",X,1,29
-Mount Gundabad (Tunnel-),,[Gundabad],gundabad-k,5,Hithaiglir,Mountain,,,"36,",X,1,29
-Mountains of Moria,Ered Moria,,ered-moria-s,5,Hithaiglir,Mountains,,,"36,",X,X,29
-High Pass,Argirith*,,argirith-s,5,Hithaiglir?,Location,TODO,,"56,76,",P,1,30
-White Downs,Emyn Nim*,,emyn-nim-s,5,i Dran,Hills,,,"37,67",X,1,30
-Ship of Long foam,Cair Andros,,cair-andros-s,5,Ithilien,City/Fortress,TODO,,"37,57",X,1,30
-Bald Hill,Amon Lanc,,amon-lanc-s,5,Lasgalen,Hill,,,"37,",X,X,30,,,,Name of Dol Guldur before and after Sauron
-Mountains of Mirkwood,Emyn Lasgalen,,emyn-lasgalen-s,5,Lasgalen,Mountains,,,"12,",X,1,30,,,,aka Emyn nu Fuin
-Wood Elves / Thranduil's Realm,Galadhrim / Gwaith Thranduil,,gwaith-thranduil-s,5,Lasgalen,Region,TODO,,"37,57,68",X,1,31
-East Bight,Rhúnnag*,Romen? ?,rhunnag-s,5,Lasgalen,Region,,,"56,",RE,1,31,,,bight - loop
-Old Forest Road,Men Eryn Iaur*,,men-eryn-iaur-s,5,Lasgalen,Road,,,"38,",X,1,31
-Hill of Sorcery (see: amon lanc),Dol Guldur,,dol-guldur-s,5,Lasgalen,Structure/Tower,,,"38,64,",X,X,31
-North Lindon,Forlindon,,forlindon-s,5,Lhûn,City,,,"38,",X,1,31,,,,Lindon
-South Lindon,Harlindon,,harlindon-s,5,Lhûn,City,,,"38,",X,1,31
-South Haven,Harlond,,harlond-s,5,Lhûn,City/Haven,TODO,,"5,39",X,1,32,,,,Lindon
-North Haven,Forlond,,forlond-s,5,Lhûn,City/Haven,X,,"5,39",X,1,32,,,,Lindon
-Grey Havens,Mithlond,,mithlond-s,5,Lhûn,City/Haven,X,,"5,38",X,1,32,,,,Lindon
-Gulf of Lune,Côf [Lhûn],,cof-lhun-s,5,Lhûn,Water/Sea,,,"1,39",X,1,32
-Black Wood,Eryn Vorn,,eryn-vorn-s,5,Minhiriath,Forest,,,"2,39",X,1,32,,,,Minhiriath
-Dunland,Barandor*,,barandor-s,5,Minhiriath,Region,,,"39,",RE?,1,33,,,"would this be lenited to ""Barannor""?"
-Moria Gate,Ennyn Moria*,,ennyn-moria-s,5,Minhiriath,Structure,,,"40,73,",X,1,33
-Dark Tower,Barad Dûr,,barad-dur-s,5,Mordor,City/Fortress,X (eye),,"40,",X,1,33
-Dark Fortress,Morigost,,morigost-s,5,Mordor,City/Fortress,,,"40,",X,,,,,,"Non-cannon, part of LOTR RPG"
-The Spider's Pass,Cirith Ungol,,cirith-ungol-s,5,Mordor,Location,,,"40,",X,1,33
-,Cirith Gorgor,,cirith-gorgor-s,5,Mordor,Location,,,"40,",X,,33,,,,The pass of the Morannon
-Mount Doom,Orodruin,,orodruin-s,5,Mordor,Mountain,TODO,,"61,",X,1,33
-Mountains of Shadow,Ephel Duath,,ephel-duath-s,5,Mordor,Mountains,,,"41,",X,1,34
-Ash Mountains,Ered Lithui,,ered-lithui-s,5,Mordor,Mountains,,,"41,57",X,1,34
-Good Stone,Maegond (Spur),,maegond-s,5,Mordor,Mountains,,,"41,",X,X,,,,"Non-cannon, part of LOTR RPG"
-Isenmouthe (Iron Jaws),Carach Angren,,carach-angren-s,5,Mordor,Region,TODO,,"41,",X,1,34
-Plateau of Terror,Gorgoroth,,gorgoroth-s,5,Mordor,Region,,,"41,",X,1,34
-Dale,Imlad*,,imlad-s,5,Rhovanion,City,X,,"42,",X,1,34,,,,"Erebor area, Rhovanion"
-Lake Town,Esgaroth,,esgaroth-s,5,Rhovanion,City/Town,X,,"42,",X,1,34,,,,On the long lake
-Treebeard's Forest,Fangorn (beard oak),,fangorn-s,5,Rhovanion,Forest,TODO,,"42,",X,1,34
-The Golden Wood,Lothlórien,,lothlorien-s,5,Rhovanion,Forest,,,"42,",X,1,34
-Lonely Mountain,Erebor,,erebor-s,5,Rhovanion,Mountain,,,"42,",X,1,35
-Resting place of the Ring,Loeg Ningloron,,loeg-ningloron-s,5,Rhovanion,Region,TODO,,"43,67",X,1,35,,,_oe_ should be spelled with <yanta> + o-tehta
-(River) Silverlode,Celebrant,[Kibil-nâla],celebrant-s,5,Rhovanion,Region,,,"44,43,",X,1,35
-North Undeep,Fortofn (translit Fortovn),,fortofn-s,5,Rhovanion,Region,,,"56,69",X,1,35
-South Undeep,Hartofn (translit Hartovn),,hartofn-s,5,Rhovanion,Region,,,"56,69",X,1,35
-Field of Celebrant,Parth Celebrant*,,parth-celebrant-s,5,Rhovanion,Region,,,"43,",X,1,35
-Dimrill Dale,Nanduhirion,[Azanulbizar],nanduhirion-s,5,Rhovanion,Region/Valley,,,"43,",X,1,36
-Great River,Anduin,,anduin-s,5,Rhovanion,Water/River,,,"44,61,",X,1,36
-(River) Nimrodel,Nimrodel,,nimrodel-s,5,Rhovanion,Water/River,,,"44,",X,1,36
-"(River) Gladden, River Goldwater",Sîr Ninglor,,sir-ninglor-s,5,Rhovanion,Water/River,,,"45,",X,1,36
-Limlight (River),,,limlight-e,5,Rhovanion,Water/River,,,"77,",P,,36
-Rivendell (Ravine Valley),Imladris,,imladris-s,5,Rhudaur,City/Town,X,,"2,45",X,1,36,,,,"Rhudaur, Arnor, Eriador"
-Ford of Rivendell,Athrad Imladris*,,athrad-imladris-s,5,Rhudaur,Crossing,TODO,,"45,",X,1,36
-The Last Bridge,Iant Vedui*,,iant-vedui-s,5,Rhudaur,Location,TODO,,"45,",X,1,37
-Ettenmoors,Úanló*,,uanlo-s,5,Rhudaur,Region,,,"56,",RE,1,37
-Loudwater,Bruinen,,bruinen-s,5,Rhudaur,Water/River,,,"45,58,",X,1,37
-Redwater* (River),Carnen,,carnen-s,5,Rhûn,Water/River,,,"46,",X,1,37
-Sea of Rhûn,Rhúnaer*,,rhunaer-s,5,Rhûn,Water/Sea,,,"46,",X,1,37
-{Aldburg} {Hornburg} (Old Fortress),Iorost*,,iorost-s,5,Rohan,City/Fortress,PLACE,,"46,71",X,1,37,,,_Iorhael_ < _iaur-hael_,"Folde, southeast of edoras, a fortified settlement"
-Edoras,,,edoras-e,5,Rohan,City/Fortress,TODO,,"46,",X,1,38
-Helm's Deep,Imlad Thôl,,imlad-thol-s,5,Rohan,City/Fortress,,,"46,64,",X,1,38
-Firien Wood,Eryn Firien*,,eryn-firien-s,5,Rohan,Forest,,,"47,",X,1,38
-Dunharrow,,,dunharrow-e,5,Rohan,Location,TODO,,"47,",X,1,38,,,,"On a cliff, path to paths of the dead, overlooking Harrowdale"
-Gap of Rohan,Cîl Rohan*,,cil-rohan-s,5,Rohan,Location,,,"47,75",P,1,38
-Great West Road,Menion Annui*,,menion-annui-s,5,Rohan,Road,,,"47,76,",P,1,38
-Mouths of Entwash,Ethir Onodló*,,ethir-onodlo-s,5,Rohan,Water/Delta,,,"47,",X,1,38,,,"Sindarin word for ""Ent"" (Onod)"
-Entwade,Athrad Onodló*,,athrad-onodlo-s,5,Rohan,Water/River,TODO,,"48,67,",X,1,39
-Snowbourn,Lossir,,lossir-s,5,Rohan,Water/River,,,"48,77",P,1,39
-River Entwash,Onodló,,onodlo-s,5,Rohan,Water/River,,,"48,",X,1,39
-Mering Stream,Glanhír,,glanhir-s,5,Rohan,Water/River/Stream,,,"48,",X,1,39,,,,"Uplands beneath Halifrien, through the Firien Wood"
-"Fenmarch (fen: marsh, march/mark: border)",Lô Edrein,,lo-edrein-s,5,Rohan,,,,"48,58,65",X,1,39,,,_amrún_ < _am-rhûn_
-,{Adorn}*,,adorn-s,5,,Water/River,,,"49,",X,1,39
-Langwell (River),Andeithel*,,andeithel-s,5,,Water/River,,,"49,58",X,1,39
-River Erui,Erui,,erui-s,5,,Water/River,,,"50,58",X,1,39
-Greyflood (Shadowmarsh*),Gwathló,,gwathlo-s,5,,Water/River,,,"4,49,68",X,1,40
-Southwater*,Harnen,,harnen-s,5,,Water/River,,,"49,",X,1,40
-Greylin (River),Mithnen*,,mithnen-s,5,,Water/River,,,"49,",X,1,40
-Beorn,,,beorn-e,5,,,X,,"74,",X,1,40
-Erech,,,erech-s,5,,,X,,"63,",X,1,40
-Greenway,Calenrath,,calenrath-s,5,,,,,,X,1,40
-Gladden Fields,Perth Ninglor,,perth-ninglor-s,5,,,,,"74,",X,1,40
-Durin's Tower,Barad Durin*,,barad-durin-s,6,Celebdil,Location,TODO,,"50,",X,1,40,,,,On Celebdil
-Glittering Caves {Súthburg},Aglarond,,aglarond-s,6,Deeping Coomb,Location/Cave,TODO,,"50,50",X,1,41
-,Elostirion,,elostirion-s,6,Emyn Beraid,Structure/Tower,,,"50,",X,1,41,,,,"Tallest of the three towers standing on the Tower Hills, Emyn Beraid"
-Ravenhill,Amon Craban*,,amon-craban-s,6,Erebor,Hills,TODO,,"55,",X,1,41,,,,A hill overlooking the river running on Erebor
-Irensaga,X,,irensaga-e,6,Ered Wethrin,Mountain,,,"51,67",X,1,41,,,"Since -saga means ""saw"" (OE) not ""tale"", we have no Sindarin for this",One of the mountains above harrowdale
-Starkhorn,Rudhras*,,rudhras-s,6,Ered Wethrin,Mountain,,,"50,67,78",P?,1,41,,,Would rûdh + ras = rudhras?,A peak in the White Mountains from which the Snowbourn issued
-,Ost-in-Edhil,,ost-in-edhil-s,6,Eregion,City,TODO,,"51,",X,1,48,,,,"A ruined city in Eregion, Hollin"
-West Tower,Annúminas,,annuminas-s,6,Eriador,Structure,TODO,,"3,21,77",P,1,41,,,,North of the Shire
-Long Lake,Andnen*,,andnen-s,6,Esgaroth,Lake,,,"74,",X,1,42
-Long Marshes,Andló*,,andlo-s,6,Esgaroth,Marsh,,,"74,",X,1,42,,,"Verify canon, Chris Taylor map"
-City of Stars*,Osgiliath,,osgiliath-s,6,Gondor,City,,,"25,",X,1,42
-Tower of Sorcery,Minas Morgul,,minas-morgul-s,6,Gondor,City/Fortress,?,,"26,",X,1,42
-Tower of the Guard,Minas Tirith,,minas-tirith-s,6,Gondor,City/Fortress,?,,"25,",X,1,42
-,Tol Brandir,,tol-brandir-s,6,Gondor,Island,,,"62,",X,1,42
-Tomb of the Twins,Haudh-In-Gwanûr,,haudh-in-gwanur-s,6,Gondor,Location,TODO,,"51,69",X,1,43
-Tarlang's Neck,Achad Tarlang,,achad-tarlang-s,6,Gondor,Location/Pass,,,"51,65",X,1,43
-Dwimorberg,Mornorod*,,mornorod-s,6,Gondor,Mountain,,,"51,",X,1,43,,,,A peak of the White Mountains at the Head of the valley of Harrowdale
-,Gilrain,,gilrain-s,6,Gondor,River,,,"52,59",X,1,43
-(Silent Hill (Beacon)),Amon Dîn,,amon-din-s,6,Gondor,Structure,TODO,,"33,",X,1,43
-Calenhad (Beacon),Calenhad,,calenhad-s,6,Gondor,Structure,TODO,,"33,",X,1,43
-Erelas (Beacon),{Erelas},,erelas-s,6,Gondor,Structure,TODO,,"33,",X,1,43
-(Fire Hill (Beacon)),Nardol,,nardol-s,6,Gondor,Structure,,,"33,",X,1,43
-Upbourn,,,upbourn-e,6,Harrowdale,City/Town,,,,,,43,,,,Hamlet on the banks of the Snowbourn in the valley of Harrowdale
-Mirrormere,Nen Cenedril*,,nen-cenedril-s,6,Highaiglir,Water/Lake,,,"52,68",X,1,44
-Mt. Gram,Orod Gram*,,orod-gram-s,6,Hithaiglir,Mountain,,,"52,",X,1,44,,,,"A mountain in north Eriador; its exact location is unknown but it probably was located either in the Ettenmoors or the Mountains of Angmar, or somewhere else in the northern Misty Mountains."
-Hobbiton,Caras Perian*,,caras-perian-s,6,i Dran,City/Town,X,,"37,75",P,1,44
-Bamfurlong (Bean-field),,?lad,bamfurlong-e,6,i Drann,Location,,,,X,,,,,,"The field of Farmer Maggot, Marish, Eastern Shire"
-,Orthanc,,orthanc-s,6,Isengard,Structure/Tower,X,,"52,",X,1,44
-(Dark Oppression),Durthang,,durthang-s,6,Isenmouthe,City/Fortress,,,"52,",X,1,44,,,,"Northern Ephel Dúath, on the slopes above the Isenmouthe"
-,Caras Galdhon,,caras-galdhon-s,6,Lothlorien,City,,,"54,",X,1,44,,,,City in Lothlorien around Cerin Amroth
-Amroth's Mound,Cerin Amroth,,cerin-amroth-s,6,Lothlorien,Location,,,"54,",X,1,45,,,,Mound in Lothlórien
-Stair Falls,Pendlanthir*,,pendlanthir-s,6,Minhiriath,Water,TODO,,"54,",X,1,45,,,,"The river Sirannon, after the dam at the gate, that formed the pool of the watcher in the water lived"
-,Carchost,,carchost-s,6,Morannon,Structure/Tower,,,"54,",X,1,45,,,,East tower of the Morannon
-,Narchost,,narchost-s,6,Morannon,Structure/Tower,,,"54,",X,1,45,,,,West tower of the Morannon
-Ash Plain,Lithlad,,lithlad-s,6,Mordor,Region,,,"52,",X,1,45,,,,"A region of Mordor to the south of Ered Lithui, upon the outskirts of which the Tower of Barad-dûr stood"
-Greenfield, Parth Galen,,parth-galen-s,6,Nen Hithoel,Region,,,"55,",X,1,45,,,,"A green lawn above the falls of Rauros, at the foot of Amon Hen"
-Stoneridge*,Sarn Gebir,,sarn-gebir-s,6,Nen Hithoel,Region,,,"53,72",RE,1,46,,,s/sarngebir/sarn-gebir,A hilly area just west of the Falls of Rauros on the river Anduin.
-Carrock,Carag,,carag-s,6,Rhovanion,Location,TODO,,"53,77",P,1,46
-River Running,Celduin,,celduin-s,6,Rhovanion,Water/Water/River,,,"53,59",X,1,46
-Coldfells,Emyn Ring*,,emyn-ring-s,6,Rhudaur,Region,,,"55,61,70",X,1,46,,,"s/amon/emyn, pluralize ring","The highlands west of the Misty Mountains and south of the Ettenmoors, separated from them by the northern branch of the river Bruinen."
-Land of Wine,Dorwinion,,dorwinion-s,6,Rhûn,Region,,,"53,59",X,1,46,,,,At the end of Carnen and Celduin
-Dimholt (Dark Wood),Eryn Morn*,,eryn-morn-s,6,Rohan,Forest,,,"53,",X,1,46,,,,"Pine and fir forest, base of Dwimorberg, past Dunharrow.  Road to Paths of the Dead."
-Everholt (Eternal Wood),Eryn Uireb*,,eryn-uireb-s,6,Rohan,Region,,,"55,73,",X,1,46,,,,"A section of the firienholt, known for its boars."
-Deeping Coomb,Imladnûr*,,imladnur-s,6,Rohan,Region,,,"53,",X,1,47,,,,"The deep, well-defended valley in the northern White Mountains that held Helm's Deep and the castle of the Hornburg. The site of an important battle, the Battle of the Hornburg, during the War of the Ring. The word coomb is a rare Brythonic survival word; meaning a small deep dry valley, easily defended. It gives its name to many places in the British Isles."
-Redhorn Gate,Annon Caradhras*,,annon-caradhras-s,6,,,TODO,,"74,",X,1,47
-Tower of Amroth,Dol Amroth,,dol-amroth-s,6,,,TODO,,"63,",X,1,47,,,,Gondor's Coast
-Hill of Sight,Amon Hen,,amon-hen-s,6,,,,,"62,",X,1,47,,,,west side
-Hill of Ear,Amon Lhaw,,amon-lhaw-s,6,,,,,"62,71",X,1,47,,,lawd/lhaw,east side
-Forest Gate,Annon Eryn*,,annon-eryn-s,6,,,,,"62,",X,1,48
-Forest River,Erynduin*,,erynduin-s,6,,,,,"63,",X,1,48
-Forest Path,Erynrâd*,,erynrad-s,6,,,,,"62,",X,1,48
-Withywindle,,,withywindle-e,,Eryn Iaur,River,,,,,,48,,,,River through the old forest
-Framsburg,,,framsburg-e,,,,,,,,,,,,"Verify canon, stardogg map"
-,Helevorn,,helevorn-s,,,,,,,,,,,,"Verify canon, stardogg map","North ered luin, forest"
-,Rhimdath,,,,,,,,,,,,,,"Verify canon, stardogg map"
-The Angle,,,,,,,,,,,,,,,"Verify canon, stardogg map",Between Hoarwell and Bruinen
-Mt. Rerir,,,,,,,,,,,,,,,"Verify canon, stardogg map","North ered luin, mountain"
+Canonical,English [Westron] {Rohirric},Sindarin [Ñoldorin] {Unknown/Other},Quenya [Khuzdul],Scale,Parent,Type,Icon,I page,S page,S,SL,L page,L,LL,Outstanding Issues,Location
+pendlanthir-s,Stair Falls,Pendlanthir*,,6,Minhiriath,Water,RE,,"54,",X,1,45,X,6,redraw the region at high detail,"The river Sirannon, after the dam at the gate, that formed the pool of the watcher in the water lived"
+argirith-s,High Pass,Argirith*,,5,Hithaiglir?,Location,TODO,,"56,76,",X,1,30,X,6
+fangorn-s,Treebeard's Forest,Fangorn (beard oak),,5,Rhovanion,Forest,TODO,,"42,",X,1,34,X,4
+harlond-s,South Harbor,Harlond,,5,Gondor,City/Haven,TODO,,"27,",X,1,23,X,5,,Southern Harbor of Minas Tirith
+cair-andros-s,Ship of Long foam,Cair Andros,,5,Ithilien,City/Fortress,TODO,,"37,57",X,1,30,X,5
+minas-tirith-s,Tower of the Guard,Minas Tirith,,6,Gondor,City/Fortress,TODO,,"25,",X,1,42,X,5
+loeg-ningloron-s,Resting place of the Ring,Loeg Ningloron,,5,Rhovanion,Region,TODO,,"43,67",X,1,35,X,6,_oe_ should be spelled with <yanta> + o-tehta
+dunharrow-e,Dunharrow,,,5,Rohan,Location,TODO,,"47,",X,1,38,X,6,,"On a cliff, path to paths of the dead, overlooking Harrowdale"
+aglarond-s,Glittering Caves {Súthburg},Aglarond,,6,Deeping Coomb,Location/Cave,TODO,,"50,50",X,1,41,X,6
+haudh-in-gwanur-s,Tomb of the Twins,Haudh-In-Gwanûr,,6,Gondor,Location,TODO,,"51,69",X,1,43,X,6
+annon-caradhras-s,Redhorn Gate,Annon Caradhras*,,6,,,TODO,,"74,",X,1,47,X,6
+pelennor-s,Fields of Pelennor (Fenced field of Middle-earth*),Pelennor,,5,Gondor,Region,TODO,,"32,",X,1,26,X,7
+amon-craban-s,Ravenhill,Amon Craban*,,6,Erebor,Hills,TODO,,"55,",X,1,41,X,8,,A hill overlooking the river running on Erebor
+athrad-iaur-s,Old Ford,Athrad Iaur,,5,Eriador,Crossing,X,,"17,",X,1,19,X,5
+harlond-s,South Haven,Harlond,,5,Lhûn,City/Haven,X,,"5,39",X,1,32,X,5,,Lindon
+athrad-onodlo-s,Entwade,Athrad Onodló*,,5,Rohan,Water/River,X,,"48,67,",X,1,39,X,5
+ethraid-erui-s,Crossings of Erui (Lone Crossings),Ethraid Erui*,,5,Gondor,Crossing,X,,"27,66",X,1,24,X,6
+ethring-s,Ethring (Cold Crossing),Ethring,,5,Gondor,Crossing,X,,"27,",X,1,24,X,6,,A town near the head of the Ringló Vale
+barad-durin-s,Durin's Tower,Barad Durin*,,6,Celebdil,Location,X,,"50,",X,1,40,X,6,,On Celebdil
+ost-in-edhil-s,,Ost-in-Edhil,,6,Eregion,City,X,,"51,",X,1,48,X,6,,"A ruined city in Eregion, Hollin"
+dol-amroth-s,Tower of Amroth,Dol Amroth,,6,,,X,,"63,",X,1,47,X,6,,Gondor's Coast
+upbourn-e,Upbourn,,,6,Harrowdale,City/Town,X,,,,,43,X,6,,Hamlet on the banks of the Snowbourn in the valley of Harrowdale
+ethraid-angren-s,Fords of Isen,Ethraid Angren,,5,Angren,Crossing,X,,"14,23",X,1,"9,18",X,5,athrad/ethraid review
+caras-perian-s,Hobbiton,Caras Perian*,,6,i Dran,City/Town,X,,"37,75",X,1,44,X,5
+annuminas-s,West Tower,Annúminas,,6,Eriador,Structure,X,,"3,21,77",X,1,41,X,6,,North of the Shire
+carag-s,Carrock,Carag,,6,Rhovanion,Location,X,,"53,77",X,1,46,X,6
+baranduiniant-s,Brandywine Bridge,Baranduiniant,,5,Eriador,Bridge,X,,"16,77",X,1,19,X,6,Should the i in iant be yanta here?
+bree-e,Bree,X,,5,Eriador,City,X,,"16,",X,1,19,X,5
+fornost-erain-s,North Fortress (Norbury) of the Kings*,Fornost Erain,,5,Eriador,City/Fortress,X,,"3,16,49,",X,1,19,X,5,,Ancient Capital of Arnor
+sarnathrad-s,Sarn Ford (Stone Ford),Sarnathrad (LR430),Sarno-?,5,Eriador,Crossing,X,,"4,16,24,72",X,1,19,X,5,silme nuquerna/silme
+amon-sul-s,Weathertop,Amon Sûl,,5,Eriador,Hill,X,,"17,24,72",X,1,20,X,5,silme nuquerna/silme
+rhosgobel-s,,Rhosgobel,,5,Eryn Lasgalen,,X,,"72,",X,1,23,X,5,,"Settlement of Radagast the Brown, opposite the east bight of Mirkwood"
+morannon-s,Black Gate,Morannon,,5,Girith Gorgor,Location,X,,"25,",X,1,23,X,5
+edhellond-s,Elfhaven,Edhellond,Eldalonde*,5,Gondor,City/Haven,X,,"26,",X,1,23,X,5,,End of the Ringló River
+pelargir-s,Royal Shipyard*,Pelargir,,5,Gondor,City/Haven,X,,"26,28",X,1,24,X,5
+amon-anwar-s,Halifirien (Mtn|Hill w/ Beacon),"Amon Anwar (""hill of awe"")",,5,Gondor,Hill,X,,"28,",X,1,25,X,5,,mountain overlooking the firien wood
+eilenach-e,Eilenach (Beacon),,,5,Gondor,Hill,X,,"28,",X,1,25,X,5,,"Amid Druadan forest, highest peak"
+min-rimmon-s,Min-Rimmon (Beacon),Min-Rimmon,,5,Gondor,Mountain,X,,"30,",X,1,26,X,5,,Highest of a set of peaks called the Rimmon
+lond-umbar-s,Haven of Umbar,Lond Umbar*,,5,Harad,City/Haven,X,,"35,",X,1,29,X,5
+gwaith-thranduil-s,Wood Elves / Thranduil's Realm,Galadhrim / Gwaith Thranduil,,5,Lasgalen,Region,X,,"37,57,68",X,1,31,X,5
+forlond-s,North Haven,Forlond,,5,Lhûn,City/Haven,X,,"5,39",X,1,32,X,5,,Lindon
+mithlond-s,Grey Havens,Mithlond,,5,Lhûn,City/Haven,X,,"5,38",X,1,32,X,5,,Lindon
+orodruin-s,Mount Doom,Orodruin,,5,Mordor,Mountain,X,,"61,",X,1,33,X,5
+imlad-s,Dale,Imlad*,,5,Rhovanion,City,X,,"42,",X,1,34,X,5,,"Erebor area, Rhovanion"
+imladris-s,Rivendell (Ravine Valley),Imladris,,5,Rhudaur,City/Town,X,,"2,45",X,1,36,X,5,,"Rhudaur, Arnor, Eriador"
+edoras-e,Edoras,,,5,Rohan,City/Fortress,X,,"46,",X,1,38,X,5
+beorn-e,Beorn,,,5,,,X,,"74,",X,1,40,X,5
+erech-s,Erech,,,5,,,X,,"63,",X,1,40,X,5
+minas-morgul-s,Tower of Sorcery,Minas Morgul,,6,Gondor,City/Fortress,X,,"26,",X,1,42,X,5
+amon-din-s,(Silent Hill (Beacon)),Amon Dîn,,6,Gondor,Structure,X,,"33,",X,1,43,X,5
+calenhad-s,Calenhad (Beacon),Calenhad,,6,Gondor,Structure,X,,"33,",X,1,43,X,5
+erelas-s,Erelas (Beacon),{Erelas},,6,Gondor,Structure,X,,"33,",X,1,43,X,5
+ethraid-poros-s,Crossings of Poros,Ethraid Poros*,,5,Gondor,Crossing,X,,"27,",X,1,24,X,6
+argonath-s,Gate of Kings / Pillars of the Kings,Argonath,,5,Gondor,Location,X,,"29,",X,1,25,X,6
+esgaroth-s,Lake Town,Esgaroth,,5,Rhovanion,City/Town,X,,"42,",X,1,34,X,6,,On the long lake
+athrad-imladris-s,Ford of Rivendell,Athrad Imladris*,,5,Rhudaur,Crossing,X,,"45,",X,1,36,X,6
+iant-vedui-s,The Last Bridge,Iant Vedui*,,5,Rhudaur,Location,X,,"45,",X,1,37,X,6
+orthanc-s,,Orthanc,,6,Isengard,Structure/Tower,X,,"52,",X,1,44,X,6
+iorost-s,{Aldburg} {Hornburg} (Old Fortress),Iorost*,,5,Rohan,City/Fortress,X,,"46,71",X,1,37,X,7,_Iorhael_ < _iaur-hael_,"Folde, southeast of edoras, a fortified settlement"
+barad-dur-s,Dark Tower,Barad Dûr,,5,Mordor,City/Fortress,X (eye),,"40,",X,1,33,X,5
+carach-angren-s,Isenmouthe (Iron Jaws),Carach Angren,,5,Mordor,Region,,,"41,",X,1,34,X,6
+enedwaith-s,Middle-Region or Middle-folk,Enedwaith,,3,Eriador,Region,,,"3,11",RE,1,"6,13",X,3,s/enedh/ened/
+barannor-s,Dunland,Barannor*,,5,Minhiriath,Region,,,"39,",RE,1,33,X,4,barandor/barannor
+ered-lasgalen-s,Mountains of Mirkwood,Ered Lasgalen,,5,Lasgalen,Mountains,,,"12,",RE,1,30,X,5,s/emyn/ered,aka Emyn nu Fuin
+east-bight-e,East Bight,Rhúnnag*,Romen? ?,5,Lasgalen,Region,,,"56,",RE,1,31,X,5,bight - loop
+uanlo-s,Ettenmoors,Úanló*,,5,Rhudaur,Region,,,"56,",RE,1,37,X,5
+i-drann-s,"The Shire [Sûzat, Sûza]",i Drann,,4,Eriador,Nation,,,"11,75",X,1,"7,16",X,4,,VT #31 pp21-22
+lefnui-s,,Lefnui,,5,Gondor,River,,,"73,76,",X,1,27,X,5,,transliterated as levnui
+cil-rohan-s,Gap of Rohan,Cîl Rohan*,,5,Rohan,Location,,,"47,75",X,1,38,X,5
+menion-annui-s,Great West Road,Menion Annui*,,5,Rohan,Road,,,"47,76,",X,1,38,X,5
+lossir-s,Snowbourn,Lossir,,5,Rohan,Water/River,,,"48,77",X,1,39,X,5
+forochel-s,Ice Bay of Forochel (Northern Ice),Forochel,,4,Forodwaith,Sea,,,"5,21",X,3,23,X,4
+lossarnach-s,(Flower-Arnach),Lossarnach,,5,Gondor,Location,,,"29,76,",X,4,25,X,5
+limlight-e,Limlight (River),,,5,Rhovanion,Water/River,,,"77,",X,,36,X,5
+imrath-gondraich-s,Stonewain Valley,Imrath Gondraich ,,5,Gondor,Region,,,"32,66,76",X,,27,X,6
+rudhras-s,Starkhorn,Rudhras*,,6,Ered Wethrin,Mountain,,,"50,67,78",X,1,41,X,5,Would rûdh + ras = rudhras?,A peak in the White Mountains from which the Snowbourn issued
+nurn-s,,Nurn,,3,Mordor,Region,,,"60,",X,3,"7,14",X,3,no acute on nurn
+folde-e,Folde,,?,4,Rohan,Region,,,"13,",X,4,"9,17",X,4
+west-emnet-e,West Emnet,,,4,Rohan,Region,,,"60,",X,1,"9,17",X,4
+men-rhun-annui-s,East/West Road,Men Rhún-annui*,,5,Eriador,Road,,,"21,75",X,5,22,X,5
+sarn-gebir-s,Stoneridge*,Sarn Gebir,,6,Nen Hithoel,Region,,,"53,72",X,6,46,X,6,s/sarngebir/sarn-gebir,A hilly area just west of the Falls of Rauros on the river Anduin.
+lhun-s,River Lune,[Lhûn],,4,Ennorath,Reiver,,,"5,11",X,4,"7,16",X,4,not placed on map in sindarin,Lindon
+gondor-s,Stoneland*,Gondor,Ondonóre,1,Ennorath,Nation,,,"6,8",X,1,"4,12",X,1
+mordor-s,(Dark Land*),Mordor,,1,Ennorath,Nation,,,"6,8,9,15,64",X,1,"4,12",X,1
+eriador-s,Lone-lands,Eriador,,1,Ennorath,Region,,,"4,6,8",X,1,"4,12",X,1
+forodwaith-s,Northern Waste,Forodwaith,,1,Ennorath,Region,,,"6,8,9",X,1,"4,12",X,1
+haradwaith-s,Sutherland,Haradwaith,,1,Ennorath,Region,,,"6,8,18",X,1,"4,12",X,1
+rhovanion-s,Wilderland,Rhovanion,,1,Ennorath,Region,,,"6,8",X,1,"4,12",X,1
+rhun-s,East,Rhûn,,1,Ennorath,Region,,,"6,8",X,1,"4,12",X,1
+belegaer-s,Great Sea*,Belegaer,,1,,Sea,,,"14,64,",X,1,"5,13",X,1
+calenardhon-s,Rohan,Calenardhon (obsolete name),,2,Ennorath,Nation,,,"6,8,9,12",X,1,"4,12",X,2
+ardhon-iaur-arnor-s,Lost Realm of Arnor,Ardhon Iaur Arnor,,2,Eriador,Region,,,"2,11,71",X,1,"5,13",X,2,,Eriador
+cof-belfalas-s,Bay of Belfalas (Greatshore),Côf Belfalas,,2,Gondor,Sea/Bay,,,"33,",X,1,"5,13",X,2
+arthedain-s,Realm of Men,Arthedain,,3,Arnor,Nation,,,"1,11,22",X,1,"5,13",X,3,,Arnor
+rhudaur-s,East Forest,Rhudaur,,3,Arnor,Nation,,,"10,",X,1,"5,12",X,3,,Lost Realm of Arnor
+cardolan-u,,{Cardolan},,3,Arnor,Region,,,"10,",X,1,"6,13",X,3
+minhiriath-s,Between Rivers,Minhiriath,,3,Eriador,Region,,,"3,11",X,1,"6,13",X,3
+anorien-s,(Sunland*),Anórien,,3,Gondor,Region,,,"12,32",X,1,"6,14",X,3
+forithilien-s,North Ithilien,Forithilien*,,3,Gondor,Region,,,"31,",X,1,"6,14",X,3
+harithilien-s,South Ithilien,Harithilien*,,3,Gondor,Region,,,"31,",X,1,"6,14",X,3
+lamedon-u,,{Lamedon},,3,Gondor,Region,,,"33,",X,1,"6,14",X,3
+lebennin-s,(Five streams*),Lebennin*,,3,Gondor,Region,,,"30,",X,1,27,X,3
+angmar-s,(Iron dwelling*),Angmar,,4,Eriador,Nation,,,"11,",X,1,"8,16",X,3
+moria-s,Moria (Black chasm),Moria,[Khazad-dûm],4,Hithaiglir,Region,,,"36,",X,1,"8,16",X,3
+eryn-lasgalen-s,Mirkwood,Eryn Lasgalen,,4,Rhovanion,Forest,,,"22,",X,1,"8,16",X,3,,"Beeches and Oaks, with Firs on the slopes of the mountains of Mirkwood.  Dark firs around amon lanc"
+barannorath-s,The Brown Lands,Barannorath*,,4,Rhovanion,Region,,,"12,64,",X,1,"8,17",X,3
+emyn-angren-s,Iron Hills,Emyn Angren*,,4,Rhûn,Mountains,,,"13,",X,1,"9,17",X,3
+khand-u,,{Khand},,4,,Region,,,"14,23",X,1,"9,18",X,3,"use extended ""quesse"" instead of khwesta"
+eregion-s,Hollin,Eregion,,5,Eriador,Nation,,,"20,60,",X,1,22,X,3
+gorgoroth-s,Plateau of Terror,Gorgoroth,,5,Mordor,Region,,,"41,",X,1,34,X,3
+harondor-s,South Gondor,Harondor,,3,Gondor,Region,,,"31,",X,1,"6,14",X,3
+nurnen-s,Sea of Nurn,Núrnen,,3,Mordor,Sea,,,"12,18",X,1,"7,14",X,4
+ered-lindon-s,Blue Mountains,Ered Luin / Ered Lindon,,4,Ennorath,Mountains,,,"5,10",X,1,"7,15",X,4,,Eriador
+ered-mithrin-s,Grey Mountains,Ered Mithrin,,4,Ennorath,Mountains,,,"10,",X,1,"7,15",X,4
+ered-nimrais-s,White Mountains,Ered Nimrais,,4,Ennorath,Mountains,,,"11,",X,1,"7,15",X,4
+hithaeglir-s,Misty Mountains,Hithaeglir,,4,Ennorath,Mountains,,,"10,21",X,1,"7,15",X,4
+nindalf-s,Wetwang,Nindalf,,4,Gondor,Water,,,"34,",X,1,"8,16",X,4
+lo-fern-s,Dead Marshes,Lô Fern*,,4,Gondor,Water/Marsh,,,"34,",X,1,"8,16",X,4
+udun-s,(Deep-hidden*),Udûn (Ñoldorin?),Utumno,4,Mordor,Region,,,"53,12",X,1,"8,16",X,4
+talf-tharn-s,Withered Heath,Talf Tharn*,,4,Rhovanion,Mountains,,,"43,",X,1,"8,16",X,4
+east-emnet-e,East Emnet,,,4,Rohan,Region,,,"13,",X,1,"9,17",X,4
+eastfold-e,Eastfold,,Romen-?,4,Rohan,Region,,,"13,",X,1,"9,17",X,4
+the-wold-e,The Wold,,,4,Rohan,Region,,,"13,",X,1,"9,17",X,4
+westfold-e,Westfold,,,4,Rohan,Region,,,"60,",X,1,"9,17",X,4,"Verify canon, stardogg map"
+ered-angmar-s,Mountains of Angmar,Ered Angmar,,5,Eriador,Mountains,,,"20,25,66",X,1,22,X,4,nwalme has a bar on top
+cof-lhun-s,Gulf of Lune,Côf [Lhûn],,5,Lhûn,Water/Sea,,,"1,39",X,1,32,X,4
+belfalas-s,Greatshore,Belfalas,,5,Gondor,Region/Beach,,,"32,",X,1,27,X,4,english version got overwritten by cof-belfalas
+sir-angren-s,River Isen,Sîr Angren,,5,Angren,Water/River,,,"15,23,72",X,1,18,X,4,silme nuquerna/silme
+himling-s,,Himling,,5,Ennorath,Island,,,"5,15",X,1,18,X,4,,Attested on the map at the back of later editions of LOTR
+eryn-teryg-s,Trollshaws,Eryn Teryg*,,5,Eriador,Forest,,,"17,",X,1,20,X,4,,Beech trees
+baranduin-s,Brandywine (lit. Brown River),Baranduin,,5,Eriador,Water/River,,,"4,21",X,1,22,X,4
+mitheithel-s,River Hoarwell (Grey Spring),Mitheithel,,5,Eriador,Water/River,,,"21,",X,1,23,X,4
+druwaith-iaur-s,Old Púkel Land,Drúwaith Iaur,,5,Gondor,Region,,,"30,",X,1,26,X,4,,Region west of Gondor
+umbar-s,(lit. Doom),,Umbar,5,Harad,City,,,"36,",X,1,29,X,4
+forlindon-s,North Lindon,Forlindon,,5,Lhûn,City,,,"38,",X,1,31,X,4,,Lindon
+harlindon-s,South Lindon,Harlindon,,5,Lhûn,City,,,"38,",X,1,31,X,4
+ephel-duath-s,Mountains of Shadow,Ephel Duath,,5,Mordor,Mountains,,,"41,",X,1,34,X,4
+ered-lithui-s,Ash Mountains,Ered Lithui,,5,Mordor,Mountains,,,"41,57",X,1,34,X,4
+lothlorien-s,The Golden Wood,Lothlórien,,5,Rhovanion,Forest,,,"42,",X,1,34,X,4
+erebor-s,Lonely Mountain,Erebor,,5,Rhovanion,Mountain,,,"42,",X,1,35,X,4
+anduin-s,Great River,Anduin,,5,Rhovanion,Water/River,,,"44,61,",X,1,36,X,4
+rhunaer-s,Sea of Rhûn,Rhúnaer*,,5,Rhûn,Water/Sea,,,"46,",X,1,37,X,4
+eryn-firien-s,Firien Wood,Eryn Firien*,,5,Rohan,Forest,,,"47,",X,1,38,X,4
+gwathlo-s,Greyflood (Shadowmarsh*),Gwathló,,5,,Water/River,,,"4,49,68",X,1,40,X,4
+lithlad-s,Ash Plain,Lithlad,,6,Mordor,Region,,,"52,",X,1,45,X,4,,"A region of Mordor to the south of Ered Lithui, upon the outskirts of which the Tower of Barad-dûr stood"
+emyn-ring-s,Coldfells,Emyn Ring*,,6,Rhudaur,Region,,,"55,61,70",X,1,46,X,4,"s/amon/emyn, pluralize ring","The highlands west of the Misty Mountains and south of the Ettenmoors, separated from them by the northern branch of the river Bruinen."
+dorwinion-s,Land of Wine,Dorwinion,,6,Rhûn,Region,,,"53,59",X,1,46,X,4,,At the end of Carnen and Celduin
+carn-dum-u,X,{Carn Dûm},,5,Angmar,City,,,"3,14,18",X,1,"9,18",X,5,,Capital of Angmar
+angrenost-s,Isengard,Angrenost,,5,Angren,Structure,,,"14,23",X,1,18,X,5
+caradhras-s,Redhorn,Caradhras,[Barazinbar],5,Ered Moria,Mountain,,,"15,65,",X,1,18,X,5
+celebdil-s,Silvertine,Celebdil,[Zirakzigil],5,Ered Moria,Mountain,,,"15,",X,1,19,X,5,,"Westernmost of the three peaks above Moria, where Gandalf slew the Balrog, and on which Durin's Tower rests"
+fanuidhol-s,Cloudyhead,Fanuidhol,[Bundushathûr],5,Ered Moria,Mountain,,,"16,",X,1,19,X,5,,Easternmost of the three peaks above Moria
+eryn-iaur-s,Old Forest,Eryn Iaur,,5,Eriador,Forest,,,"17,",X,1,19,X,5
+tharbad-u,,{Tharbad},,5,Eriador,Hill,,,"4,17",X,1,20,X,5
+emyn-beraid-s,Tower Hills,Emyn Beraid,,5,Eriador,Hills,,,"2,18,65",X,1,20,X,5,,Eriador
+emyn-formen-s,North Downs,Emyn Formen*,,5,Eriador,Hills,,,"2,19,66",X,1,20,X,5,,"Shire, Eriador"
+emyn-haeron-s,Far Downs,Emyn Haeron*,,5,Eriador,Hills,,,"2,18,65",X,1,20,X,5,,Eriador
+emyn-harad-s,South Downs,Emyn Harad*,,5,Eriador,Hills,,,"19,71",X,1,20,X,5
+emyn-sul-s,Weather Hills,Emyn Sûl*,,5,Eriador,Hills,,,"3,19,24,70",X,1,"21,32",X,5,silme nuquerna/nuquerna,"Sul/thul is from quenya, not attested in Sindarin except as Amon Sûl"
+emyn-uial-s,Hills of Evendim,Emyn Uial,,5,Eriador,Hills,,,"3,19",X,1,21,X,5,,West of Annúminas
+in-emyn-s,Barrow Downs,In Emyn (lit. The Hills)*,,5,Eriador,Hills,,,"19,",X,1,21,X,5,,Both barrow and downs refer to hills
+nenuial-s,Lake Evendim,Nenuial,,5,Eriador,Lake,,,"2,20",X,1,21,X,5,,North of the Shire
+lo-s,Midgewater,Lô*,,5,Eriador,Marsh,,,"20,",X,1,21,X,5,,Lô means swamp in Sindarin
+nin-in-eilph-s,Swanfleet,Nîn-in-Eilph,,5,Eriador,Marsh,,,"20,24,66",X,1,22,X,5,,"an inland delta where Glanduin and Gwathló meet.  Ford over Glanduin leads to Ost-in-Edhil, the ruined city of Eregion"
+andrath-s,Long Road,Andrath*,,5,Eriador,Road,,,"21,",X,1,22,X,5
+glanduin-s,Border River*,Glanduin,,5,Eriador,Water/River,,,"44,57,",X,1,23,X,5
+lond-daer-s,Great [Middle] Haven / Newhaven,Lond Daer [Enedh],Vinyalonde,5,Gondor,City/Haven,,,"4,26",X,1,24,X,5,,Gondor
+linhir-s,,Linhir,,5,Gondor,City/Town,,,"27,",X,1,24,X,5
+eryn-druadan-s,Druadan Forest,Eryn Druadan*,,5,Gondor,Forest,,,"28,73,",X,1,24,X,5
+emyn-muil-s,(Drear Hills),Emyn Muil,,5,Gondor,Hills,,,"29,",X,1,25,X,5
+pinnath-gelin-s,(Green slopes),Pinnath Gelin,,5,Gondor,Hills,,,"28,",X,1,25,X,5
+tolfalas-s,(Island of the Shore),Tolfalas,,5,Gondor,Island,,,"29,",X,1,25,X,5
+mindolluin-s,(Towering Blue Head),Mindolluin,,5,Gondor,Mountain,,,"30,",X,1,26,X,5,,Mountain over Minas Tirith
+dagorlad-s,Battle Plain,Dagorlad,,5,Gondor,Region,,,"31.,",X,1,26,X,5
+dor-en-ernil-s,Land of the Prince*,Dor-en-Ernil,,5,Gondor,Region,,,"30,",X,1,26,X,5
+ethir-anduin-s,Mouths of Anduin,Ethir Anduin,,5,Gondor,Water,,,"34,",X,1,27,X,5
+nen-hithoel-s,,Nen Hithoel,,5,Gondor,Water/Lake,,,"34,",X,1,28,X,5,,The lake south of the Argonath
+ciril-s,Ciril River (Cleft Glitter*),Ciril,,5,Gondor,Water/River,,,"35,",X,1,28,X,5
+morthond-s,(River) Morthond (Blackroot),Morthond,,5,Gondor,Water/River,,,"35,",X,1,28,X,5,,Ends at Erech in Gondor.  (Blackroot attested in Chris Taylor's map)
+ringlo-s,River Ringlo (Coldflood*),Ringlo,,5,Gondor,Water/River,,,"35,",X,1,28,X,5
+serni-s,River Serni,{Serni},,5,Gondor,Water/River,,,"35,70",X,1,28,X,5,silme nuquerna/nuquerna,"The Stardoog map incorrectly labels this ""sernui"""
+sir-celos-s,River Celos,Sîr Celos*,,5,Gondor,Water/River,,,"61,",X,1,28,X,5
+sirith-s,X,Sirith,,5,Gondor,Water/River,,,"35,72",X,1,29,X,5,simle nuquerna -> simle
+men-harad-s,The Harad Road,Men Harad*,,5,Harad,Road,,,"36,",X,1,29,X,5
+gundabad-k,Mount Gundabad (Tunnel-),,[Gundabad],5,Hithaiglir,Mountain,,,"36,",X,1,29,X,5
+emyn-nim-s,White Downs,Emyn Nim*,,5,i Dran,Hills,,,"37,67",X,1,30,X,5
+men-eryn-iaur-s,Old Forest Road,Men Eryn Iaur*,,5,Lasgalen,Road,,,"38,",X,1,31,X,5
+eryn-vorn-s,Black Wood,Eryn Vorn,,5,Minhiriath,Forest,,,"2,39",X,1,32,X,5,,Minhiriath
+parth-celebrant-s,Field of Celebrant,Parth Celebrant*,,5,Rhovanion,Region,,,"43,",X,1,35,X,5
+sir-ninglor-s,"(River) Gladden, River Goldwater",Sîr Ninglor,,5,Rhovanion,Water/River,,,"45,",X,1,36,X,5
+bruinen-s,Loudwater,Bruinen,,5,Rhudaur,Water/River,,,"45,58,",X,1,37,X,5
+carnen-s,Redwater* (River),Carnen,,5,Rhûn,Water/River,,,"46,",X,1,37,X,5
+imlad-thol-s,Helm's Deep,Imlad Thôl,,5,Rohan,City/Fortress,,,"46,64,",X,1,38,X,5
+ethir-onodlo-s,Mouths of Entwash,Ethir Onodló*,,5,Rohan,Water/Delta,,,"47,",X,1,38,X,5,"Sindarin word for ""Ent"" (Onod)"
+onodlo-s,River Entwash,Onodló,,5,Rohan,Water/River,,,"48,",X,1,39,X,5
+lo-edrein-s,"Fenmarch (fen: marsh, march/mark: border)",Lô Edrein,,5,Rohan,,,,"48,58,65",X,1,39,X,5,_amrún_ < _am-rhûn_
+adorn-s,,{Adorn}*,,5,,Water/River,,,"49,",X,1,39,X,5
+erui-s,River Erui,Erui,,5,,Water/River,,,"50,58",X,1,39,X,5
+harnen-s,Southwater*,Harnen,,5,,Water/River,,,"49,",X,1,40,X,5
+mithnen-s,Greylin (River),Mithnen*,,5,,Water/River,,,"49,",X,1,40,X,5
+calenrath-s,Greenway,Calenrath,,5,,,,,,X,1,40,X,5
+perth-ninglor-s,Gladden Fields,Perth Ninglor,,5,,,,,"74,",X,1,40,X,5
+elostirion-s,,Elostirion,,6,Emyn Beraid,Structure/Tower,,,"50,",X,1,41,X,5,,"Tallest of the three towers standing on the Tower Hills, Emyn Beraid"
+irensaga-e,Irensaga,X,,6,Ered Wethrin,Mountain,,,"51,67",X,1,41,X,5,"Since -saga means ""saw"" (OE) not ""tale"", we have no Sindarin for this",One of the mountains above harrowdale
+andnen-s,Long Lake,Andnen*,,6,Esgaroth,Lake,,,"74,",X,1,42,X,5
+mornorod-s,Dwimorberg,Mornorod*,,6,Gondor,Mountain,,,"51,",X,1,43,X,5,,A peak of the White Mountains at the Head of the valley of Harrowdale
+gilrain-s,,Gilrain,,6,Gondor,River,,,"52,59",X,1,43,X,5
+nardol-s,(Fire Hill (Beacon)),Nardol,,6,Gondor,Structure,,,"33,",X,1,43,X,5
+caras-galdhon-s,,Caras Galdhon,,6,Lothlorien,City,,,"54,",X,1,44,X,5,,City in Lothlorien around Cerin Amroth
+celduin-s,River Running,Celduin,,6,Rhovanion,Water/Water/River,,,"53,59",X,1,46,X,5
+erynduin-s,Forest River,Erynduin*,,6,,,,,"63,",X,1,48,X,5
+erynrad-s,Forest Path,Erynrâd*,,6,,,,,"62,",X,1,48,X,5
+anfalas-s,Langstrand (Longbeach),Anfalas,,5,Gondor,Region/Beach,,,"32,",X,1,27,X,5
+poros-s,,{Poros}*,,5,Gondor,Water/River,,,"35,",X,1,28,X,5
+rath-harad-iaur-s,Old South Road,Rath Harad Iaur,,5,Eriador,Road,,,"20,25",X,1,22,X,5
+methedras-s,End-horn,Methedras,,5,Angren,Mountain,,,"14,",X,1,18,X,6,,"Southern tip of misty mountains, overlooking Isengard"
+eryn-ost-s,Chetwood,Eryn Ost*,,5,Eriador,Hills,,,"19,",X,1,21,X,6,,"Chet derives from Latin, meaning ""fortified camp"""
+lanthir-rauros-s,Falls of Rauros,Lanthir Rauros,,5,Gondor,Water,,,"34,",X,1,27,X,6
+cirith-ungol-s,The Spider's Pass,Cirith Ungol,,5,Mordor,Location,,,"40,",X,1,33,X,6
+celebrant-s,(River) Silverlode,Celebrant,[Kibil-nâla],5,Rhovanion,Region,,,"44,43,",X,1,35,X,6
+fortofn-s,North Undeep,Fortofn (translit Fortovn),,5,Rhovanion,Region,,,"56,69",X,1,35,X,6
+hartofn-s,South Undeep,Hartofn (translit Hartovn),,5,Rhovanion,Region,,,"56,69",X,1,35,X,6
+nanduhirion-s,Dimrill Dale,Nanduhirion,[Azanulbizar],5,Rhovanion,Region/Valley,,,"43,",X,1,36,X,6
+nimrodel-s,(River) Nimrodel,Nimrodel,,5,Rhovanion,Water/River,,,"44,",X,1,36,X,6
+glanhir-s,Mering Stream,Glanhír,,5,Rohan,Water/River/Stream,,,"48,",X,1,39,X,6,,"Uplands beneath Halifrien, through the Firien Wood"
+andeithel-s,Langwell (River),Andeithel*,,5,,Water/River,,,"49,58",X,1,39,X,6
+andlo-s,Long Marshes,Andló*,,6,Esgaroth,Marsh,,,"74,",X,1,42,X,6,"Verify canon, Chris Taylor map"
+osgiliath-s,City of Stars*,Osgiliath,,6,Gondor,City,,,"25,",X,1,42,X,6
+achad-tarlang-s,Tarlang's Neck,Achad Tarlang,,6,Gondor,Location/Pass,,,"51,65",X,1,43,X,6
+nen-cenedril-s,Mirrormere,Nen Cenedril*,,6,Highaiglir,Water/Lake,,,"52,68",X,1,44,X,6
+orod-gram-s,Mt. Gram,Orod Gram*,,6,Hithaiglir,Mountain,,,"52,",X,1,44,X,6,,"A mountain in north Eriador; its exact location is unknown but it probably was located either in the Ettenmoors or the Mountains of Angmar, or somewhere else in the northern Misty Mountains."
+durthang-s,(Dark Oppression),Durthang,,6,Isenmouthe,City/Fortress,,,"52,",X,1,44,X,6,,"Northern Ephel Dúath, on the slopes above the Isenmouthe"
+cerin-amroth-s,Amroth's Mound,Cerin Amroth,,6,Lothlorien,Location,,,"54,",X,1,45,X,6,,Mound in Lothlórien
+eryn-morn-s,Dimholt (Dark Wood),Eryn Morn*,,6,Rohan,Forest,,,"53,",X,1,46,X,6,,"Pine and fir forest, base of Dwimorberg, past Dunharrow.  Road to Paths of the Dead."
+eryn-uireb-s,Everholt (Eternal Wood),Eryn Uireb*,,6,Rohan,Region,,,"55,73,",X,1,46,X,6,,"A section of the firienholt, known for its boars."
+imladnur-s,Deeping Coomb,Imladnûr*,,6,Rohan,Region,,,"53,",X,1,47,X,6,,"The deep, well-defended valley in the northern White Mountains that held Helm's Deep and the castle of the Hornburg. The site of an important battle, the Battle of the Hornburg, during the War of the Ring. The word coomb is a rare Brythonic survival word; meaning a small deep dry valley, easily defended. It gives its name to many places in the British Isles."
+amon-hen-s,Hill of Sight,Amon Hen,,6,,,,,"62,",X,1,47,X,6,,west side
+amon-lhaw-s,Hill of Ear,Amon Lhaw,,6,,,,,"62,71",X,1,47,X,6,lawd/lhaw,east side
+annon-eryn-s,Forest Gate,Annon Eryn*,,6,,,,,"62,",X,1,48,X,6
+emyn-arnen-s,Arnen Hills,Emyn Arnen,,5,Gondor,Hills,,,"29,",X,1,25,X,6
+ennyn-moria-s,Moria Gate,Ennyn Moria*,,5,Minhiriath,Structure,,,"40,73,",X,1,33,X,7
+tol-brandir-s,,Tol Brandir,,6,Gondor,Island,,,"62,",X,1,42,X,7
+carchost-s,,Carchost,,6,Morannon,Structure/Tower,,,"54,",X,1,45,X,7,,East tower of the Morannon
+narchost-s,,Narchost,,6,Morannon,Structure/Tower,,,"54,",X,1,45,X,7,,West tower of the Morannon
+parth-galen-s,Greenfield, Parth Galen,,6,Nen Hithoel,Region,,,"55,",X,1,45,X,8,,"A green lawn above the falls of Rauros, at the foot of Amon Hen"
+amon-lanc-s,Bald Hill,Amon Lanc,,5,Lasgalen,Hill,,,"37,",X,X,30,X,5,,Name of Dol Guldur before and after Sauron
+dol-guldur-s,Hill of Sorcery (see: amon lanc),Dol Guldur,,5,Lasgalen,Structure/Tower,,,"38,64,",X,X,31,X,6
+ennorath-s,Middle-earth,Ennorath,Endor,0,,Region,,,"60,",X,X,"4,12",X,X
+ered-moria-s,Mountains of Moria,Ered Moria,,5,Hithaiglir,Mountains,,,"36,",X,X,29,X,X
+maegond-s,Good Stone,Maegond (Spur),,5,Mordor,Mountains,,,"41,",X,X,,,X,"Non-cannon, part of LOTR RPG"
+calembel-s,(Green field*),Calembel,,5,Gondor,Region,,,"31,",X,,27,X,5
+morigost-s,Dark Fortress,Morigost,,5,Mordor,City/Fortress,,,"40,",X,,,,X,,"Non-cannon, part of LOTR RPG"
+cirith-gorgor-s,,Cirith Gorgor,,5,Mordor,Location,,,"40,",X,,33,X,X,,The pass of the Morannon
+bamfurlong-e,Bamfurlong (Bean-field),,?lad,6,i Drann,Location,,,,X,,,,X,,"The field of Farmer Maggot, Marish, Eastern Shire"
+near-harad-e,Near Harad,? Harad,,3,Harad,Region,,,,,X,"5,15",X,3,"Translate ""near"" to Sindarin (not obvious)"
+far-harad-e,Far Harad,Haeron? + Harad,,3,Harad,Region,,,,,X,"5,15",X,3
+,City of Corsairs,Caras ?,,5,Harad,City,,,,,,29,X,5,"Conjugate ""nor/ner"" (run) as (runner), the root of Corsair"
+withywindle-e,Withywindle,,,,Eryn Iaur,River,,,,,,48,X,,,River through the old forest
+framsburg-e,Framsburg,,,,,,,,,,,,,,"Verify canon, stardogg map"
+helevorn-s,,Helevorn,,,,,,,,,,,,,"Verify canon, stardogg map","North ered luin, forest"
+,,Rhimdath,,,,,,,,,,,,,"Verify canon, stardogg map"
+,The Angle,,,,,,,,,,,,,,"Verify canon, stardogg map",Between Hoarwell and Bruinen
+,Mt. Rerir,,,,,,,,,,,,,,"Verify canon, stardogg map","North ered luin, mountain"
+dol-baran-s,Dol Baran (Brown Tower),Dol Baran,,,,,,,,TODO,,,TODO,,,Rohirric outpost south of Isengard

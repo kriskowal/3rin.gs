@@ -12,6 +12,7 @@ from os.path import isfile
 import csv
 from utils import makedirs
 from scale import scale_command
+from darken import darken
 
 normalized_labels_re = re(r'archive/labels/(.*)\-(..)-normalized\.png')
 abnormal_labels_re = re(r'archive/labels/(.*)\-([seku][lt]).png')
@@ -137,6 +138,7 @@ class Label(object):
     @property
     def thumbnail(self):
         return 'build/labels/thumbnails/%s-%s.png' % self.parts
+    mode = 'General Use'
 
 def labels2():
     pngs = set(glob("archive/labels/*.png"))
@@ -162,6 +164,12 @@ def labels2():
 
 def labels2_list():
     return list(labels2())
+
+def labels2_dict():
+    return dict(
+        ((label.canonical, label.language, label.letters, label.mode), label)
+        for label in labels2()
+    )
 
 TEMP = set(('withywindle',))
 def build(*filter):
@@ -201,7 +209,9 @@ def build(*filter):
             int(float(width) / height * 100),
             100,
         ]
-        source.resize(thumb_size, Image.ANTIALIAS).save(label.thumbnail)
+        thumb = source.resize(thumb_size, Image.ANTIALIAS)
+        thumb = darken(thumb, .5)
+        thumb.save(label.thumbnail)
 
         print label.parts, outer_size, source.size, embedded.size, thumb_size, practice.size
 

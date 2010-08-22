@@ -1,35 +1,24 @@
+
 TODO
 ----
 
-1
-
-* latin alphabet labels (50% complete)
-  * automate latin alphabet label resizing
-* more icons for minor locations (50% complete)
-  * 3 ring and palantir icons
-* javascript location search
-  * wiki article div popups
-    * location articles with links
-* parchment background
-
-2
-
-* favicon
-* look into rudhras-1 and rudhras-2 variants
-* replace the images of the following in labels-st (presently not referring to a normalized graphic)
-  * westfold-et
-  * cair-andros-st
-  * min-rimmon-st
-  * cof-belfalas-st
-  * rhunaer-st
-  * durthang-st
 * drag and drop bug in IE
-* redraw when the document or window resizes
+* polish the scrolling feature
+  * normalize scroll deltas
+    * consider fixing in the jquery plugin and contributing back
+* favicon
 * apple touch events
 * about page div popup
+* more icons for minor locations
+  * 3 ring and palantir icons
 
-3
+* quote search and cross-reference
+* political layer
+* story layers
+  * lord of the rings layer
+  * the hobbit layer
 
+* cross reference location articles with other wikis
 * khuzdul rune labels
 * rough source content, indexed, thumbnailed
 * minor icon animation tricks
@@ -47,4 +36,11 @@ TODONE
 * automate darkening
 * automate download of components, sources, and archives
 * automate down-scaled images
+* latin alphabet labels
+  * automate latin alphabet label resizing
+* parchment background
+* javascript location search
+  * wiki article div popups
+* redraw when the document or window resizes
+* location articles with links
 

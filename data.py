@@ -35,6 +35,10 @@ except ImportError:
         import simplejson as json
 from regions import regions as get_regions
 
+from names import names as get_names
+names = get_names()
+print names
+
 regions = sorted(
     get_regions().values(),
     key = lambda region: -min(region['height'], region['width'])
@@ -136,6 +140,10 @@ json.dump({
             "y": "%%0.%df" % PRECISION % region["y"],
             "h": "%%0.%df" % PRECISION % region["height"],
             "w": "%%0.%df" % PRECISION % region["width"],
+            "names": [
+                name['Name']
+                for name in names.get(region["name"], [])
+            ] or [],
         })
         for region in regions
     ),

@@ -17,6 +17,7 @@ haradwaith,Haradwaith,Sindarin,southern-realm,,,southern E > harad S; realm E > 
 haradwaith,Sutherland,English
 belegaer,Belegaer,Sindarin,great-sea,,,great E > beleg S; sea E > aer S
 near-harad,Near Harad,English,near south
+far-harad,Far Harad,English,far south
 ardhon-iaur-arnor,Ardhon Iaur Arnor,Sindarin,realm old high-land,,,ardhon S - realm E; iaur S - old E; ar- S - high E; dor S - land E; ar + dor > arnor S
 ardhon-iaur-arnor,Lost Realm of Arnor,English
 cof-belfalas,Côf Belfalas,Sindarin,,,,côf S - bay E; beleg S - great E; falas S - shore E; beleg + falas > belfalas S
@@ -25,7 +26,7 @@ arthedain,Arthedain,Sindarin,realm of men,,,ardhon S - realm E; edain S - men E;
 rhudaur,Rhudaur,Sindarin,east-forest,,,rhûn S - east E; daur S - forest E; rhûn + daur S > rhudaur S
 cardolan,Cardolan,Unknown
 minhiriath,Minhiriath,Sindarin,between-rivers,,,min- S - between E; sirion S - river E; -ath S - plural; min + sirion > minhirion S; sirion + ath > siriath S; minhirion + ath > minhiriath S
-enedhwaith,Enedwaith,Sindarin,mid-region,,,gwaith S - realm E; enedh S - middle E
+enedwaith,Enedwaith,Sindarin,mid-region,,,gwaith S - realm E; enedh S - middle E
 harondor,Harondor,Sindarin,south-Gondor (stone-land)
 forithilien,Forithilien,Sindarin,north-Ithilien,,Kris Kowal
 forithilien,North Ithilien,English
@@ -33,8 +34,8 @@ harithilien,Harithilien,Sindarin,,,Kris Kowal
 harithilien,South Ithilien,English
 lamedon,Lamedon,Unknown
 anorien,Anórien,Sindarin,sunland
-nurn,Núrn,Sindarin,sad
-nurnen,Núrnen,Sindarin,Núrn-water(s)
+nurn,Nurn,Sindarin,sad / lament
+nurnen,Núrnen,Sindarin,sad water(s)
 nurnen,Sea of Nurn,English
 hithaeglir,Hithaeglir,Sindarin,mist-mountains,,,"hith 'mist', aeglir 'mountain range'"
 hithaeglir,Misty Mountains,English
@@ -60,8 +61,8 @@ moria,Moria,Sindarin,black-chasm
 moria,Khazad-dûm,Khuzdul,dwarf-delving
 udun,Udûn,Ñoldorin?,deep-hidden
 udun,Utumno,Quenya,deep-hidden
-eryn-lasgalen,Eryn Lasgalen,Sindarin,forest leaf-green
-eryn-lasgalen,Mirkwood,English
+ered-lasgalen,Ered Lasgalen,Sindarin,forest leaf-green
+ered-lasgalen,Mirkwood,English
 talf-tharn,Talf Tharn,Sindarin,field-withered,,Måns Björkman
 talf-tharn,Withered Heath,English
 barannorath,Barannorath,Sindarin,brown-lands,,Kris Kowal
@@ -81,8 +82,8 @@ athrad-angren,Fords of Isen,English
 methedras,Methedras,Sindarin,end-horn
 angrenost,Angrenost,Sindarin,Isen-fortress
 angrenost,Isengard,English
-sir-angren,Sîr Angren,Sindarin,river Isen
-sir-angren,River Isen,English
+angren,Sîr Angren,Sindarin,river Isen
+angren,River Isen,English
 himling,Himling,Sindarin
 caradhras,Caradhras,Sindarin,red-horn
 caradhras,Redhorn,English
@@ -136,8 +137,8 @@ ered-angmar,Ered Angmar,Sindarin,mountains of Angmar (iron-dwelling)
 ered-angmar,Mountains of Angmar,English
 eregion,Eregion,Sindarin
 eregion,Hollin,English
-men-daer-rhun-annui,Men Daer Rhún-annui,Sindarin,road great east-west,,Måns Björkman
-men-daer-rhun-annui,Great East/West Road,English
+men-rhun-annui,Men Rhún-annui,Sindarin,road great east-west,,Måns Björkman
+men-rhun-annui,East/West Road,English
 andrath,Andrath,Sindarin,long road,,Kris Kowal
 andrath,Long Road,English
 rath-harad-iaur,Rath Harad Iaur,Sindarin,road south old
@@ -204,7 +205,7 @@ lanthir-rauros,Lanthir Rauros,Sindarin,falls of rauros
 lanthir-rauros,Falls of Rauros,English
 nen-hithoel,Nen Hithoel,Sindarin,lake Hithoel
 serni,Serni,Unknown
-serni,River Serni,ENglish
+serni,River Serni,English
 sirith,Sirith,Sindarin
 sir-celos,Celos,Sindarin
 sir-celos,River Celos,English
@@ -216,7 +217,7 @@ ciril,Ciril River,English
 morthond,Morthond,Sindarin,black-root
 morthond,River Morthond,English
 umbar,Umbar,Quenya,doom
-,City of Corsairs,English
+caras-corsairs,City of Corsairs,English
 lond-umbar,Lond Umbar,Sindarin,haven of doom,,Kris Kowal,haven of umbar; haven > lond
 lond-umbar,Haven of Umbar,English
 men-harad,Men Harad,Sindarin,road south,,Kris Kowal,the harad road; road > men
@@ -225,7 +226,7 @@ gundabad,Mount Gundabad,English
 gundabad,Gundabad,Khuzdul,cave-
 ered-moria,Ered Moria,Sindarin,mountains of Moria (dark-chasm),,Kris Kowal,mountains of moria; ered > mountains
 ered-moria,Mountains of Moria,English
-argirith,Argirith,Sindarin,,,Kris Kowal,high pass; ar > high; cirith > pass,Lenition r-c > r-g
+argirith,Argirith,Sindarin,,,Kris Kowal,"high pass; ar > high; cirith > pass; ar + cirith > argirith [lenition c.f., pel + ar + cir -> pelargir]",Lenition r-c > r-g
 argirith,High Pass,English
 emyn-nim,Emyn Nim,Sindarin,hills of white,,Kris Kowal,"white downs; downs > hills > emyn; white > nim, as in Ered Nimrais"
 emyn-nim,White Downs,English
@@ -233,16 +234,16 @@ cair-andros,Cair Andros,Sindarin,ship of long foam
 amon-lanc,Amon Lanc,Sindarin,hill bald
 emyn-lasgalen,Eryn Lasgalen,Sindarin,wood of leaf-green
 emyn-lasgalen,Mountains of Mirkwood,English
-rhunnag,Rhúnnag,Sindarin,,,Kris Kowal,"east bight; east > rhún; bight > bite > nag, Ety/374 OS nak- (NAK)","A ""bight"" is a bend or curve in a river. It has nothing to do with ""bite""."
-rhunnag,East Bight,English
+east-bight,Rhúnnag,Sindarin,,,Kris Kowal,"east bight; east > rhún; bight > bite > nag, Ety/374 OS nak- (NAK)","A ""bight"" is a bend or curve in a river. It has nothing to do with ""bite""."
+east-bight,East Bight,English
 gwaith-thranduil,Galadhrim,Sindarin,wood elves
 gwaith-thranduil,Gwaith Thranduil,Sindarin,realm of Thranduil
 gwaith-thranduil,Wood Elves,English
 gwaith-thranduil,Thranduil's Realm,English
 men-eryn-iaur,Men Eryn Iaur,Sindarin,,,Kris Kowal,old forest road; old > iaur; forest > woods > eryn; road > way > men
 men-eryn-iaur,Old Forest Road,English
-amon-lanc,Dol Guldur,Sindarin
-amon-lanc,Hill of Sorcery,English
+dol-guldur,Dol Guldur,Sindarin
+dol-guldur,Hill of Sorcery,English
 forlindon,Forlindon,Sindarin,north-Lindon
 forlindon,North Lindon,English
 harlindon,Harlindon,Sindarin,south-Lindon
@@ -257,8 +258,8 @@ cof-lhun,Côf Lhûn,Ñoldorin,bay of blue
 cof-lhun,Gulf of Lune,English
 eryn-vorn,Eryn Vorn,Sindarin,wood black
 eryn-vorn,Black Wood,English
-barandor,Barandor,Sindarin,brown-land,,Kris Kowal
-barandor,Dunland,English
+barannor,Barannor,Sindarin,brown-land,,Kris Kowal,"dun E -> brown E -> baran S; land E -> dor S; baran + dor > barannor [c.f., ennorath, barannorath]"
+barannor,Dunland,English
 ennyn-moria,Ennyn Moria,Sindarin,gates of Moria,,Kris Kowal
 ennyn-moria,Moria Gate,English
 barad-dur,Barad Dûr,Sindarin,tower dark
