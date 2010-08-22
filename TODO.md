@@ -24,6 +24,10 @@ TODO
 * minor icon animation tricks
 * improve performance of tiling
 * ambient contextual audio at close zoom
+* replace the Makefile with something more civilized
+  and resumable.
+
+* crowd source further languag layers
 
 TODONE
 ------

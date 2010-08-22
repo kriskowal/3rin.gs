@@ -114,16 +114,22 @@
                 position: absolute;
                 top: 1ex;
                 right: 1ex;
-                width: 60ex;
-                text-align: right;
+                width: 25ex;
                 overflow: hidden;
             }
 
             #article {
                 text-align: left;
-                margin-top: 1ex;
+            }
+
+            #articles-index {
+                text-align: right;
+                min-width: 15ex;
+            }
+
+            .article {
                 padding-right: 1ex;
-                max-height: 30em;
+                max-height: 40em;
                 overflow: auto;
             }
 
@@ -168,9 +174,9 @@
             <a id="about-link" href="about.html">About</a>
         </div>
         <div class="control article-control">
-            <form action="#" id="search-form"><input type="search" id="search"></form>
-            <div id="articles"></div>
-            <div id="article"></div>
+            <input type="search" id="search">
+            <div id="articles-index" class="article"></div>
+            <div id="article" class="article"></div>
         </div>
         <script src="js/jquery-1.4.2.min.js"></script>
         <script src="js/jquery-mousewheel-3.0.2.min.js"></script>

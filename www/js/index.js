@@ -2,13 +2,16 @@
 
 var SNAP_DELAY = 150;
 var TILE_SIZE = 256;
-var TILE_URL = "http://3rin.gs/tiles.10/";
+var TILE_URL = "http://3rin.gs/tiles.11/";
 var ARTICLE_URL = "http://3rin.gs/articles/";
 var regions; // acquired via AJAX
 var largeToSmall; // computed from regions
 var show; // updated by the Map.onShow emitter
+var article = "";
+var letters = "l";
+var mode = "article-index";
 
-var layers = [ // layers
+var layers = [
     {"name": "Geography", "prefix": "g", "visible": true},
     {"name": "English / Latin", "prefix": "l", "visible": true},
     {"name": "Sindarin / Tengwar", "prefix": "t", "visible": false}
@@ -62,7 +65,6 @@ setTimeout(function () {
     });
 }, 500);
 
-
 function search(regions, ordered) {
     var names = [];
     $.each(ordered, function (i, that) {
@@ -100,7 +102,7 @@ function search(regions, ordered) {
 }
 
 $("#select-labels").change(function () {
-    showLabels($(this).val());
+    showLetters($(this).val());
 });
 
 $(window).keypress(function (event) {
@@ -108,14 +110,15 @@ $(window).keypress(function (event) {
     event.preventDefault();
     event.stopPropagation();
     if (key ==="l".charCodeAt())
-        showLabels(labels.t.visible ? "l" : "t");
+        showLetters(letters === "l" ? "t" : "l");
     else if (key === "L".charCodeAt())
-        showLabels("*");
+        showLetters("*");
     else if (key === "/".charCodeAt())
         $("#search").focus();
 });
 
-function showLabels(letters) {
+function showLetters(_letters) {
+    letters = _letters;
     $("#select-labels").val(letters);
     labels.l.visible = false;
     labels.t.visible = false;
@@ -129,27 +132,43 @@ function go(region) {
         region = regions[region];
     if (!region)
         return;
-    displayArticle(region.name);
+    showArticle(region.name);
     map.go(region);
 }
 
-function displayArticle(name) {
+function showArticle(_article) {
+    article = _article;
     $("#article").scroll(0).hide("fast");
     $.ajax({
-        "url": ARTICLE_URL + name + ".frag.html",
+        "url": ARTICLE_URL + article + ".frag.html",
         "dataType": "text",
         "success": function (data, status, xhr) {
-            var hider = $("<a>(hide)</a>").attr({
+            var hider = $("<a>close</a>").attr({
                 "href": "#"
             }).css({
                 "float": "right",
                 "padding": "1em"
             }).click(function () {
-                $("#article").hide("fast");
+                hideArticle();
             });
+            $(".article-control").animate({
+                "width": "50ex"
+            }, "fast");
+            $("#articles-index").scroll(0).hide("fast");
             $("#article").html(data).prepend(hider).show("fast");
+            mode = "article";
         }
     });
+}
+
+function hideArticle() {
+    mode = "article-index";
+    article = "";
+    $(".article-control").css({
+        "width": "30ex"
+    });
+    $("#article").scroll(0).hide("fast");
+    $("#articles-index").show("fast");
 }
 
 function byArea(a, b) {
@@ -204,7 +223,7 @@ function onShow() {
 function report(containers, contents) {
     var report = [];
     var j, jj,
-        lists = [containers, contents.slice(0, 10)],
+        lists = [containers, contents],
         element = $("<div></div>");
     for (j = 0, jj = lists.length; j < jj; j++) {
         var i, ii, location, locations = lists[j];
@@ -213,20 +232,30 @@ function report(containers, contents) {
                 $.each(location.names, function (k, name) {
                     $("<a></a>").attr({
                         "href": "#" + [
-                            location.x,
-                            location.y,
-                            location.width,
-                            location.height
+                            location.width.toFixed(7),
+                            location.height.toFixed(7),
+                            location.left.toFixed(7),
+                            location.top.toFixed(7)
                         ].join(",")
                     }).click(function () {
                         go(location);
-                    }).html("&laquo;" + name + "&raquo;").appendTo(element);
+                    }).html("&laquo;" + name + "&raquo;").appendTo($("<nobr></nobr>").appendTo($("<div></div>").appendTo(element)));
                     $("<span>  </span>").appendTo(element);
                 });
             })(locations[i]);
         }
     }
-    $("#articles").empty().append(element);
+    if (mode === "article-index") {
+        $("#articles-index").empty().append(element).css({
+            "width": 0
+        });
+        $(".article-control").animate({
+            "width": $("#articles-index").attr("scrollWidth") + 20 + "px"
+        }, "fast");
+        $("#articles-index").css({
+            "width": "100%"
+        });
+    }
 }
 
 // computes a quadkey, as used to name tiles, based on
@@ -283,7 +312,9 @@ function Map(el, layers, scales, getTile, onShow) {
                         "height": parts[0],
                         "width": parts[1],
                         "top": parts[2],
-                        "left": parts[3]
+                        "left": parts[3],
+                        "letters": parts[4],
+                        "name": parts[5]
                     });
                 } else {
                     navigator.go({
@@ -321,7 +352,7 @@ function Map(el, layers, scales, getTile, onShow) {
                 layer.scales[j] = $("<div></div>").attr({
                     "class": "scale scale-" + j
                 }).css({
-                    "display": j === scale && layer.visible? "block" :"none"
+                    "display": j === scale && layer.visible ? "block" :"none"
                 }).appendTo(layer.control);
             }
         }
@@ -384,10 +415,12 @@ function Map(el, layers, scales, getTile, onShow) {
         hashHandle = setTimeout(function () {
             var at = navigator.at();
             location.replace(
-                '#' + at.height +
-                ',' + at.width +
-                ',' + at.top +
-                ',' + at.left
+                '#' + at.height.toFixed(7) +
+                ',' + at.width.toFixed(7) +
+                ',' + at.top.toFixed(7) +
+                ',' + at.left.toFixed(7) + 
+                ',' + letters +
+                ',' + article
             );
             if (onShow) {
                 onShow({
@@ -526,14 +559,16 @@ function ZoomAndDrag(map, control, scales, onInit, onDrag, onZoom) {
 
     var navigator = {
         // window coordinates are from a normal square
-        "go": function (top, left, height, width) {
+        "go": function (top, left, height, width, letters, name) {
             var normal, _scale, window, mapSize;
             if (typeof top === "number") {
                 normal = {
                     "top": top,
                     "left": left,
                     "height": height,
-                    "width": width
+                    "width": width,
+                    "letters": letters,
+                    "name": name
                 }
             } else {
                 normal = top;
@@ -567,8 +602,14 @@ function ZoomAndDrag(map, control, scales, onInit, onDrag, onZoom) {
             viewport.left = - window.left - window.width / 2 + mapSize.width / 2;
             viewport.height = scales[_scale];
             viewport.width = scales[_scale];
-            update();
-            onZoom(scale, viewport);
+            if (normal.name)
+                showArticle(normal.name);
+            if (normal.letters)
+                showLetters(normal.letters);
+            else {
+                update();
+                onZoom(scale, viewport);
+            }
         },
         "at": function () {
             var mapSize = {

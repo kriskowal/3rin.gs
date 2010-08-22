@@ -32,7 +32,11 @@ LANGUAGE = """<p class="translation"><em><strong>%s:</strong></em> %s%s %s</p> %
 def language_html(language):
     return LANGUAGE % (
         language["Language"],
-        ("*" if "Constructed" in language else ""),
+        (
+            """<abbr tilte="not attested, constructed by %s.">*</abbr>"""
+                % language["Constructed"]
+            if "Constructed" in language else ""
+        ),
         language["Name"],
         (
             "<em>(%s)</em>" % language["Meaning"]
