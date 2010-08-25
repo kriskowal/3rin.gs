@@ -27,7 +27,7 @@ TODO
 * replace the Makefile with something more civilized
   and resumable.
 
-* crowd source further languag layers
+* crowd source further language layers
 
 TODONE
 ------
@@ -47,4 +47,6 @@ TODONE
   * wiki article div popups
 * redraw when the document or window resizes
 * location articles with links
+* complete etymologies
+* comment system for location articles
 

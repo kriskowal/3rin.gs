@@ -2,7 +2,7 @@
 
 var SNAP_DELAY = 150;
 var TILE_SIZE = 256;
-var TILE_URL = "http://3rin.gs/tiles.11/";
+var TILE_URL = "http://3rin.gs/tiles.13/";
 var ARTICLE_URL = "http://3rin.gs/articles/";
 var regions; // acquired via AJAX
 var largeToSmall; // computed from regions

@@ -9,14 +9,62 @@ regions = get_regions()
 names = get_names()
 labels = get_labels()
 
+# &#8275; - swung dash
+# "; " terms
+# " > ", " < ", " - " parts
+# definition ", " notes
+# " / "
+# " "
+
+def linguistic_details_html(details):
+    return "".join(
+        "<li>%s</li>" % definition_html(detail)
+        for detail in details.split("; ")
+    )
+
+def definition_html(definition):
+    return ", ".join(term_html(term) for term in definition.split(", "))
+
+def term_html(term):
+    return " &#47; ".join(
+        " &ndash; ".join(
+            " &ndash; ".join(
+                " &rarr; ".join(
+                    " &larr; ".join(
+                        "&#8275;".join(
+                            words_html(words)
+                            for words in tilde.split("~")
+                        ) for tilde in rarr.split(" < ")
+                    ) for rarr in ndash.split(" > ")
+                ) for ndash in mdash.split(" - ")
+            ) for mdash in solidus.split(" -- ")
+        ) for solidus in term.split(" / ")
+    )
+
+def words_html(words):
+    return " ".join(
+        word_html(word)
+        for word in
+        words.split(" ")
+    )
+
+def word_html(word):
+    if word.startswith("http://"):
+        return '<a href="%s" target="_blank">&dagger;</a>' % word
+    if word in LANGUAGE_ABBRS:
+        return language_abbr_html(word)
+    return word
+
+LANGUAGE_ABBRS = {
+    "E": "English",
+    "S": "Sindarin",
+    "Q": "Quenya",
+    "N": "Ñoldorin",
+}
+
 def language_abbr_html(language):
     return """<em><abbr title="%s">%s.</abbr></em>""" % (
-        {
-            "E": "English",
-            "S": "Sindarin",
-            "Q": "Quenya",
-            "N": "Ñoldorin",
-        }.get(language, language),
+        LANGUAGE_ABBRS.get(language, language),
         language
     )
 
@@ -52,27 +100,11 @@ def language_html(language):
         (
             (
                 "<ul>%s%s</ul>" % (
-                    (
-                        "<br>".join(
-                            " &rarr; ".join(
-                                " ".join(
-                                    language_abbr_html(word)
-                                    if
-                                        len(word) == 1 and
-                                        word.upper() == word and
-                                        word.isalpha()
-                                    else word
-                                    for word in part.split(" ")
-                                )
-                                for part in term.split(" > ")
-                            )
-                            for term in language["Construction"].split("; ")
-                        )
-                    ),
+                    linguistic_details_html(language["Construction"]),
                     (
                         "<ul><small><em>&mdash; %s</em></small></ul>" %
                         language["Constructed"]
-                        if "Consructed" in language
+                        if "Constructed" in language
                         else ""
                     )
                 )
@@ -82,7 +114,8 @@ def language_html(language):
         ),
     )
 
-
+TEMPLATE = open('template.html').read().decode("utf-8")
+EMBEDDED = u'''%s <p><a href="/articles/%s.html" target="_blank">comments</a></p>'''
 makedirs("build/articles")
 for canonical, region in regions.items():
     parts = []
@@ -101,7 +134,13 @@ for canonical, region in regions.items():
     etym = names[canonical]
     for et in etym:
         parts.append(language_html(et))
+    body = u"\n".join(parts)
     file = open("build/articles/%s.frag.html" % canonical, "w")
-    file.write(u"\n".join(parts).encode("utf-8"))
-    
+    file.write((EMBEDDED % (body, canonical)).encode("utf-8"))
+    file = open("build/articles/%s.html" % canonical, "w")
+    file.write((TEMPLATE % {
+        "title": canonical,
+        "id": canonical,
+        "body": body
+    }).encode("utf-8"))
 
