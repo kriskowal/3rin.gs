@@ -3,11 +3,13 @@
 from regions import regions as get_regions
 from names import names as get_names
 from labels import labels2_dict as get_labels
+from encarda import encarda as get_encarda
 from utils import makedirs
 from pprint import pprint
 regions = get_regions()
 names = get_names()
 labels = get_labels()
+encarda = get_encarda()
 
 # sindarin normalizations (X/* references)
 # http://www.jrrvf.com/cgi-bin/hisweloke/sindnorm.cgi
@@ -64,26 +66,22 @@ LANGUAGE_ABBRS = {
     "Q": "Quenya",
     "Ñ": "Ñoldorin",
     "W": "Westron",
+    "R": "Rohirric",
 }
 LANGUAGE_ABBRS_NORMAL = {
     "N": "Ñ",
 }
 
 def language_abbr_html(language):
-    language = LANGUAGE_ABBRS_NORMAL.get(language, languate)
+    language = LANGUAGE_ABBRS_NORMAL.get(language, language)
     return """<em><abbr title="%s">%s</abbr></em>""" % (
         LANGUAGE_ABBRS.get(language, language),
         language
     )
 
-ARTICLE = '''\
-%(labels)s
-%(translations)s
-'''
-
 LABEL = '''<p><img src="%(image_url)s" title="&#8216;%(name)s&#8217; in %(language)s with %(letters)s letters"></p>'''
 
-LANGUAGE = """<p class="translation"><em><strong>%s:</strong></em> %s%s %s</p> %s"""
+LANGUAGE = """<p><em><strong>%s:</strong></em> %s%s %s</p> %s"""
 
 def language_html(language):
     return LANGUAGE % (
@@ -122,12 +120,14 @@ def language_html(language):
         ),
     )
 
+ENCARDA = u'''<p><strong><a href="%(href)s" target="_blank">%(name)s</a></strong>, %(description)s <nobr>&ndash; <em>Encyclopedia Arda</em></nobr></p>'''
 TEMPLATE = open('template.html').read().decode("utf-8")
 EMBEDDED = u'''%s <p><a href="/articles/%s.html" target="_blank">comments</a></p>'''
 makedirs("build/articles")
 for canonical, region in regions.items():
     parts = []
     print canonical
+
     for letters in 'Tengwar',:
         for language in 'Sindarin', 'English', 'Quenya', 'Khuzdul':
             mode = 'General Use'
@@ -139,9 +139,19 @@ for canonical, region in regions.items():
                     "language": language,
                     "letters": letters
                 })
+
     etym = names[canonical]
     for et in etym:
         parts.append(language_html(et))
+
+    articles = encarda.get(canonical, [])
+    for article in articles:
+        parts.append(ENCARDA % {
+            'name': article.name,
+            'href': article.href,
+            'description': article.description,
+        })
+
     body = u"\n".join(parts)
     file = open("build/articles/%s.frag.html" % canonical, "w")
     file.write((EMBEDDED % (body, canonical)).encode("utf-8"))

@@ -3,7 +3,7 @@
 var SNAP_DELAY = 150;
 var TILE_SIZE = 256;
 var TILE_URL = "http://3rin.gs/tiles.13/";
-var ARTICLE_URL = "http://3rin.gs/articles/";
+var ARTICLE_URL = "http://3rin.gs/articles.1/";
 var regions; // acquired via AJAX
 var largeToSmall; // computed from regions
 var show; // updated by the Map.onShow emitter
@@ -169,6 +169,7 @@ function hideArticle() {
     });
     $("#article").scroll(0).hide("fast");
     $("#articles-index").show("fast");
+    onShow();
 }
 
 function byArea(a, b) {
@@ -213,7 +214,7 @@ function onShow() {
     for (i = 0, ii = largeToSmall.length; i < ii; i++) {
         var region = largeToSmall[i];
         if (contains(region, show.region))
-            containers.unshift(region);
+            containers.push(region);
         if (contains(show.region, region))
             contents.push(region);
     }
@@ -227,8 +228,12 @@ function report(containers, contents) {
         element = $("<div></div>");
     for (j = 0, jj = lists.length; j < jj; j++) {
         var i, ii, location, locations = lists[j];
+        if (j === 1 && locations.length > 0)
+            $("<hr>").appendTo(element);
         for (i = 0, ii = locations.length; i < ii; i++) {
             (function (location) {
+                if (j === 0 && i === ii - 1)
+                    document.title = location.names.join(" / ");
                 $.each(location.names, function (k, name) {
                     $("<a></a>").attr({
                         "href": "#" + [
@@ -387,21 +392,6 @@ function Map(el, layers, scales, getTile, onShow) {
         var x, y, i, ii, layer, showing = [];
         calculateBounds(viewport);
         collect(); // garbage tiles
-        for (i = 0, ii = layers.length; i < ii; i++) {
-            layer = layers[i];
-            for (y = bounds.top; y <= bounds.bottom; y++) {
-                for (x = bounds.left; x <= bounds.right; x++) {
-                    if (
-                        y >= 0 &&
-                        x >= 0 &&
-                        y < viewport.height / TILE_SIZE &&
-                        x < viewport.width / TILE_SIZE
-                    ) {
-                        showTile(layer, y, x);
-                    }
-                }
-            }
-        }
 
         $(el).css({
             "background-position":
@@ -409,6 +399,24 @@ function Map(el, layers, scales, getTile, onShow) {
                 " " +
                 viewport.top + "px"
         });
+
+        setTimeout(function () { // yield to invoke redraw
+            for (i = 0, ii = layers.length; i < ii; i++) {
+                layer = layers[i];
+                for (y = bounds.top; y <= bounds.bottom; y++) {
+                    for (x = bounds.left; x <= bounds.right; x++) {
+                        if (
+                            y >= 0 &&
+                            x >= 0 &&
+                            y < viewport.height / TILE_SIZE &&
+                            x < viewport.width / TILE_SIZE
+                        ) {
+                            showTile(layer, y, x);
+                        }
+                    }
+                }
+            }
+        }, 0);
 
         if (hashHandle)
             clearTimeout(hashHandle);
@@ -490,10 +498,13 @@ function Map(el, layers, scales, getTile, onShow) {
             "left": x
         }, freeList.shift());
         tiles[hash] = tile;
-        $(tile).css({
-            "top": y * TILE_SIZE,
-            "left": x * TILE_SIZE
-        }).appendTo(layer.scales[scale]);
+        tile.unbind();
+        tile.bind('load', function () {
+            $(tile).css({
+                "top": y * TILE_SIZE,
+                "left": x * TILE_SIZE
+            }).appendTo(layer.scales[scale]);
+        });
     }
 
     return navigator;
