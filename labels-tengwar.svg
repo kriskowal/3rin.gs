@@ -199,9 +199,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.080000005"
-     inkscape:cx="3290.0548"
-     inkscape:cy="3704.7394"
+     inkscape:zoom="0.11313709"
+     inkscape:cx="6076.4954"
+     inkscape:cy="3176.2539"
      inkscape:document-units="px"
      inkscape:current-layer="layer-reference"
      showgrid="false"
@@ -515,12 +515,13 @@
        transform="matrix(0.9795142,-0.201375,0.201375,0.9795142,0,0)" />
     <image
        style="opacity:0.84677417;display:inline"
-       y="2527.2043"
-       x="3716.6492"
+       y="2707.2278"
+       x="3728.1345"
        id="image7988"
        height="284.80054"
        width="270.18079"
-       xlink:href="build/labels/practice/moria-st.png" />
+       xlink:href="build/labels/practice/moria-st.png"
+       transform="matrix(0.9998332,-1.8265415e-2,1.8265415e-2,0.9998332,0,0)" />
     <image
        style="opacity:1;display:inline"
        y="6962.3062"
@@ -1029,16 +1030,16 @@
        xlink:href="build/labels/practice/talf-tharn-st.png"
        style="opacity:0.9758065;display:inline" />
     <image
-       y="2809.021"
-       x="3880.8369"
+       y="2628.5522"
+       x="4049.1963"
        id="image5586"
        height="92.461792"
        width="159.65068"
        xlink:href="build/labels/practice/fanuidhol-st.png"
        style="opacity:0.9758065;display:inline" />
     <image
-       y="2705.7822"
-       x="3809.7705"
+       y="2633.9072"
+       x="3807.4268"
        id="image5659"
        height="100.65408"
        width="177.62088"
@@ -1229,13 +1230,13 @@
        xlink:href="build/labels/practice/mitheithel-st.png"
        transform="matrix(0.8156789,-0.5785049,0.5785049,0.8156789,0,0)" />
     <image
-       y="4005.7107"
-       x="2217.0095"
+       y="1229.7772"
+       x="4498.2847"
        id="image12708"
        height="104.83755"
        width="172.28305"
        xlink:href="build/labels/practice/glanduin-st.png"
-       transform="matrix(0.922696,-0.3855284,0.3855284,0.922696,0,0)"
+       transform="matrix(0.9202396,0.3913555,-0.3913555,0.9202396,0,0)"
        style="opacity:0.9758065" />
     <image
        style="opacity:0.9758065;display:inline"
@@ -1423,8 +1424,8 @@
        y="6713.6484"
        style="display:inline" />
     <image
-       y="2596.7368"
-       x="3969.3408"
+       y="2560.4087"
+       x="3965.4346"
        id="image6043"
        height="100.60741"
        width="156.27684"
@@ -1769,9 +1770,9 @@
        id="image3094"
        x="2918.6145"
        y="2068.7605"
-       style="display:inline;opacity:1" />
+       style="opacity:1;display:inline" />
     <image
-       style="display:inline;opacity:1"
+       style="opacity:1;display:inline"
        y="1903.4248"
        x="2461.9624"
        id="image3085"
@@ -1992,19 +1993,19 @@
        xlink:href="build/labels/practice/mornorod-st.png" />
     <image
        style="display:inline"
-       y="3037.1013"
-       x="3544.8831"
+       y="1035.9742"
+       x="4591.9443"
        id="image11293"
-       height="34.012405"
-       width="66.437561"
+       height="22.796621"
+       width="44.529396"
        xlink:href="build/labels/practice/barad-durin-st.png"
-       transform="matrix(0.9951394,-9.8476704e-2,9.8476704e-2,0.9951394,0,0)"
-       inkscape:transform-center-x="35.83191"
-       inkscape:transform-center-y="6.7726322" />
+       transform="matrix(0.9329461,0.360016,-0.360016,0.9329461,0,0)"
+       inkscape:transform-center-x="23.488799"
+       inkscape:transform-center-y="-6.7572163" />
     <image
        style="display:inline"
-       y="2824.4788"
-       x="3755.1531"
+       y="2844.4006"
+       x="3614.9187"
        id="image12835"
        height="38.384155"
        width="68.067902"
@@ -2013,13 +2014,13 @@
        inkscape:transform-center-x="-1.5258788e-05" />
     <image
        style="opacity:0.95967742;display:inline"
-       y="3500.4773"
-       x="3272.9167"
+       y="1267.5181"
+       x="4656.3823"
        id="image8236"
-       height="53.806969"
-       width="92.763214"
+       height="42.822048"
+       width="73.825211"
        xlink:href="build/labels/practice/nanduhirion-st.png"
-       transform="matrix(0.9747392,-0.2233461,0.2233461,0.9747392,0,0)" />
+       transform="matrix(0.9487636,0.3159868,-0.3159868,0.9487636,0,0)" />
     <image
        style="display:inline"
        y="936.01782"
@@ -2323,13 +2324,13 @@
        width="26.925716"
        xlink:href="build/labels/practice/pelennor-st.png" />
     <image
-       y="3725.7151"
-       x="3077.5469"
+       y="861.67743"
+       x="4801.9062"
        id="image3503"
        height="24.489796"
        width="61.306118"
        xlink:href="build/labels/practice/nen-cenedril-st.png"
-       transform="matrix(0.9601745,-0.2794009,0.2794009,0.9601745,0,0)" />
+       transform="matrix(0.9147463,0.4040288,-0.4040288,0.9147463,0,0)" />
     <image
        style="display:inline"
        y="3787.6135"
@@ -2392,13 +2393,13 @@
        xlink:href="build/labels/practice/orthanc-st.png" />
     <image
        style="display:inline"
-       y="-3177.2881"
-       x="3542.6326"
+       y="3813.6648"
+       x="2835.5081"
        id="image13011"
        height="20.100828"
-       width="28.141161"
+       width="28.141165"
        xlink:href="build/labels/practice/pendlanthir-st.png"
-       transform="matrix(0.1945356,0.9808955,-0.9808955,0.1945356,0,0)" />
+       transform="matrix(0.9521539,-0.3056191,0.3056191,0.9521539,0,0)" />
     <image
        style="display:inline"
        y="5128.9258"
@@ -2444,11 +2445,11 @@
        xlink:href="build/labels/practice/iorost-st.png"
        transform="matrix(0.7805445,-0.6251002,0.6251002,0.7805445,0,0)" />
     <image
-       y="1969.4966"
-       x="4359.1055"
+       y="1770.7615"
+       x="4421.4912"
        id="image5416"
-       height="14.541918"
-       width="28.502161"
+       height="14.541917"
+       width="28.502159"
        xlink:href="build/labels/practice/ennyn-moria-st.png"
        transform="matrix(0.9753671,0.2205877,-0.2205877,0.9753671,0,0)" />
     <image
@@ -2460,13 +2461,13 @@
        xlink:href="build/labels/practice/eryn-uireb-st.png" />
     <image
        style="display:inline"
-       y="1403.2896"
-       x="4517.4551"
+       y="-194.78337"
+       x="4723.9512"
        id="image5865"
-       height="25.476042"
-       width="62.416302"
+       height="26.370459"
+       width="64.607628"
        xlink:href="build/labels/practice/annon-caradhras-st.png"
-       transform="matrix(0.9583438,0.2856171,-0.2856171,0.9583438,0,0)" />
+       transform="matrix(0.8109254,0.5851496,-0.5851496,0.8109254,0,0)" />
     <image
        style="display:inline"
        y="-404.41202"

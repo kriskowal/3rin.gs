@@ -121,8 +121,10 @@ build/labels-latin-export-16384.png: labels-latin.svg
 
 build/geography-%.png: build/geography-combined-%.png
 	python darken.py $< $@ .5
-build/geography-combined-%.png: build/coast-translucent-%.png build/geography-export-%.png
-	python over.py build/coast-translucent-$*.png build/geography-export-$*.png build/geography-combined-$*.png
+build/geography-combined-%.png: build/coast-translucent-%.png build/geography-translucent-%.png
+	python over.py build/coast-translucent-$*.png build/geography-translucent-$*.png build/geography-combined-$*.png
+build/geography-translucent-%.png: build/geography-export-%.png
+	(echo $<; echo $@) | bash c2a.bash
 build/geography-export-%.png: geography.svg
 	inkscape -z -e $@ -w $* -h $* $<
 build/coast-translucent-%.png: build/coast-export-%.png
@@ -139,6 +141,7 @@ build/coast-export-%.png: coast.svg
 build/tiles/t: build/labels-tengwar-export-32768
 	mkdir -p build/tiles
 	python tiles_labels.py $< $@
+	touch build/tiles/t
 
 # the master label level sources
 # 4.72 HOURS
@@ -187,6 +190,7 @@ build/labels-tengwar-opaque.svg: labels-tengwar.svg labels_opaque.py
 build/tiles/l: build/labels-latin-export-32768
 	mkdir -p build/tiles
 	python tiles_labels.py $< $@
+	touch build/tiles/l
 
 # the master label level sources
 # 4.72 HOURS
@@ -236,15 +240,20 @@ build/labels-latin-opaque.svg: labels-latin.svg labels_opaque.py
 build/tiles/g: build/geography-combined-32768
 	mkdir -p build/tiles
 	python tiles_darken.py $</t $@ .5
+	touch build/tiles/g
 
 build/geography-combined-32768: \
-		build/geography-export-32768 \
+		build/geography-translucent-32768 \
 		build/coast-translucent-32768
 	mkdir -p $@
 	python tiles_over.py \
 		build/coast-translucent-32768/t \
-		build/geography-export-32768/t \
+		build/geography-translucent-32768/t \
 		$@/t
+
+build/geography-translucent-32768: build/geography-export-32768
+	mkdir -p $@
+	bash tiles_c2a.bash build/geography-export-32768/t build/geography-translucent-32768/t
 
 build/geography-export-32768: \
 		build/geography-export-16384/q0.png \

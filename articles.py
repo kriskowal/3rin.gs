@@ -9,6 +9,9 @@ regions = get_regions()
 names = get_names()
 labels = get_labels()
 
+# sindarin normalizations (X/* references)
+# http://www.jrrvf.com/cgi-bin/hisweloke/sindnorm.cgi
+
 # &#8275; - swung dash
 # "; " terms
 # " > ", " < ", " - " parts
@@ -59,11 +62,16 @@ LANGUAGE_ABBRS = {
     "E": "English",
     "S": "Sindarin",
     "Q": "Quenya",
-    "N": "Ñoldorin",
+    "Ñ": "Ñoldorin",
+    "W": "Westron",
+}
+LANGUAGE_ABBRS_NORMAL = {
+    "N": "Ñ",
 }
 
 def language_abbr_html(language):
-    return """<em><abbr title="%s">%s.</abbr></em>""" % (
+    language = LANGUAGE_ABBRS_NORMAL.get(language, languate)
+    return """<em><abbr title="%s">%s</abbr></em>""" % (
         LANGUAGE_ABBRS.get(language, language),
         language
     )
