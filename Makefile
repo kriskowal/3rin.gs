@@ -310,7 +310,17 @@ build/coast-export-16384/q3.png: coast.svg
 
 
 # Article Data
-build/crawl/encyclopedia-arda.html:
-	mkdir -p build/crawl
-	curl http://www.glyphweb.com/ARDA/placland.html > $@
+build/encarda: \
+	build/encarda/placland.html \
+	build/encarda/placciti.html \
+	build/encarda/placfiel.html \
+	build/encarda/placfore.html \
+	build/encarda/plachill.html \
+	build/encarda/placisla.html \
+	build/encarda/placrive.html \
+	build/encarda/placseas.html \
+	build/encarda/placothe.html
+build/encarda/%.html:
+	mkdir -p build/encarda
+	curl http://www.glyphweb.com/ARDA/$*.html > $@
 
