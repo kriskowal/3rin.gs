@@ -1984,11 +1984,11 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.080000004"
-     inkscape:cx="6118.8206"
-     inkscape:cy="3868.365"
+     inkscape:zoom="0.040000002"
+     inkscape:cx="4952.58"
+     inkscape:cy="9731.9303"
      inkscape:document-units="px"
-     inkscape:current-layer="layer10"
+     inkscape:current-layer="layer-reference"
      showgrid="false"
      showborder="true"
      inkscape:window-width="1680"
@@ -2296,8 +2296,8 @@
        xlink:href="build/labels/practice/angmar-sl.png" />
     <image
        style="opacity:0.78629037;display:inline"
-       y="3920.7585"
-       x="2443.2061"
+       y="3948.0525"
+       x="2464.5935"
        id="image2622"
        height="145.02528"
        width="542.03198"
@@ -2798,22 +2798,22 @@
        transform="matrix(0.907195,-0.4207105,0.4207105,0.907195,0,0)" />
     <image
        style="display:inline"
-       y="2619.1917"
-       x="3973.918"
+       y="2587.0955"
+       x="3952.7246"
        id="image3488"
        height="52.242126"
        width="155.28853"
        xlink:href="build/labels/practice/caradhras-el.png" />
     <image
-       y="2724.6885"
-       x="3826.4607"
+       y="2657.8054"
+       x="3862.061"
        id="image3602"
        height="43.287434"
        width="167.2373"
        xlink:href="build/labels/practice/celebdil-el.png" />
     <image
-       y="2848.9529"
-       x="3849.7688"
+       y="2636.3076"
+       x="4050.9192"
        id="image3692"
        height="40.383068"
        width="171.18134"
@@ -2974,13 +2974,13 @@
        transform="matrix(0.1858318,0.9825816,-0.9825816,0.1858318,0,0)" />
     <image
        style="display:inline"
-       y="3959.2627"
-       x="2313.7419"
+       y="1789.5601"
+       x="4285.7954"
        id="image6792"
        height="40.327869"
        width="157.49094"
        xlink:href="build/labels/practice/glanduin-sl.png"
-       transform="matrix(0.9344164,-0.3561825,0.3561825,0.9344164,0,0)" />
+       transform="matrix(0.9602787,0.2790427,-0.2790427,0.9602787,0,0)" />
     <image
        y="4051.9705"
        x="-1674.1011"
@@ -3250,15 +3250,6 @@
        width="243.59952"
        sodipodi:absref="/home/kris/ennorath/build/labels/practice/amon-lanc-sl.png"
        xlink:href="build/labels/practice/amon-lanc-sl.png" />
-    <image
-       y="2577.4385"
-       x="4481.4951"
-       id="image2972"
-       height="43.418652"
-       width="402.49408"
-       sodipodi:absref="/home/kris/ennorath/build/labels/practice/ered-lasgalen-el.png"
-       xlink:href="build/labels/practice/ered-lasgalen-el.png"
-       transform="matrix(0.9945366,-0.1043881,0.1043881,0.9945366,0,0)" />
     <image
        y="-239.93524"
        x="4969.3823"
@@ -3965,14 +3956,14 @@
        transform="matrix(0.9927858,-0.1199014,0.1199014,0.9927858,0,0)" />
     <image
        style="display:inline"
-       y="4120.1753"
-       x="2496.2542"
+       y="1129.9141"
+       x="4698.6064"
        id="image5852"
-       height="20.843754"
-       width="94.19017"
+       height="14.899984"
+       width="67.331062"
        sodipodi:absref="/home/kris/ennorath/build/labels/practice/nanduhirion-el.png"
        xlink:href="build/labels/practice/nanduhirion-el.png"
-       transform="matrix(0.9094712,-0.4157669,0.4157669,0.9094712,0,0)" />
+       transform="matrix(0.9380736,0.3464359,-0.3464359,0.9380736,0,0)" />
     <image
        style="display:inline"
        y="4511.8447"
@@ -4045,14 +4036,14 @@
        transform="matrix(0.8797178,0.4754961,-0.4754961,0.8797178,0,0)" />
     <image
        style="display:inline"
-       y="3267.4033"
-       x="3325.0671"
+       y="1188.743"
+       x="4556.6772"
        id="image9033"
-       height="14.187503"
-       width="93.401062"
+       height="6.7503138"
+       width="44.439564"
        sodipodi:absref="/home/kris/ennorath/build/labels/practice/barad-durin-el.png"
        xlink:href="build/labels/practice/barad-durin-el.png"
-       transform="matrix(0.9870416,-0.1604645,0.1604645,0.9870416,0,0)" />
+       transform="matrix(0.9437992,0.3305195,-0.3305195,0.9437992,0,0)" />
     <image
        style="display:inline"
        y="3796.1326"
@@ -4064,14 +4055,14 @@
        xlink:href="build/labels/practice/aglarond-el.png" />
     <image
        style="display:inline"
-       y="3491.5889"
-       x="3145.2822"
+       y="2707.1582"
+       x="3726.3503"
        id="image9546"
        height="16.468752"
        width="69.654724"
        sodipodi:absref="/home/kris/ennorath/build/labels/practice/ost-in-edhil-sl.png"
        xlink:href="build/labels/practice/ost-in-edhil-sl.png"
-       transform="matrix(0.982319,-0.187215,0.187215,0.982319,0,0)" />
+       transform="matrix(0.9992829,3.786433e-2,-3.786433e-2,0.9992829,0,0)" />
     <image
        y="2306.0417"
        x="2338.9453"
@@ -4127,8 +4118,8 @@
        xlink:href="build/labels/practice/upbourn-el.png"
        transform="matrix(0.9508548,0.3096372,-0.3096372,0.9508548,0,0)" />
     <image
-       y="618.25726"
-       x="4839.0708"
+       y="616.62927"
+       x="4845.3647"
        id="image11119"
        height="14.168934"
        width="70.522652"
@@ -4226,11 +4217,11 @@
        sodipodi:absref="/home/kris/ennorath/build/labels/practice/imladnur-el.png"
        xlink:href="build/labels/practice/imladnur-el.png" />
     <image
-       y="1090.2239"
-       x="4592.5137"
+       y="1074.4736"
+       x="4625.8022"
        id="image13352"
-       height="10.806935"
-       width="69.440315"
+       height="13.062726"
+       width="83.934975"
        sodipodi:absref="/home/kris/ennorath/build/labels/practice/annon-caradhras-el.png"
        xlink:href="build/labels/practice/annon-caradhras-el.png"
        transform="matrix(0.9362433,0.3513523,-0.3513523,0.9362433,0,0)" />
@@ -4320,8 +4311,8 @@
        transform="matrix(0.9027146,-0.4302399,0.4302399,0.9027146,0,0)" />
     <image
        style="display:inline"
-       y="1444.2651"
-       x="4557.1006"
+       y="1242.5824"
+       x="4600.0732"
        id="image4112"
        height="6.2120028"
        width="32.189468"
@@ -4350,14 +4341,14 @@
        transform="matrix(0.9734932,-0.228716,0.228716,0.9734932,0,0)" />
     <image
        style="display:inline"
-       y="-2814.6472"
-       x="3821.1873"
+       y="4523.7002"
+       x="1466.4575"
        id="image11848"
-       height="9.6849842"
-       width="41.881016"
+       height="12.007277"
+       width="51.923363"
        sodipodi:absref="/home/kris/ennorath/build/labels/practice/pendlanthir-el.png"
        xlink:href="build/labels/practice/pendlanthir-el.png"
-       transform="matrix(0.2879401,0.9576484,-0.9576484,0.2879401,0,0)" />
+       transform="matrix(0.8063072,-0.591497,0.591497,0.8063072,0,0)" />
     <image
        style="display:inline"
        y="926.7218"

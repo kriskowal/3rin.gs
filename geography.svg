@@ -1185,6 +1185,20 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 526.18109 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3236"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3232"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1196,11 +1210,11 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.11313709"
-     inkscape:cx="2883.6424"
-     inkscape:cy="3731.6815"
+     inkscape:zoom="0.32"
+     inkscape:cx="4326.9054"
+     inkscape:cy="4676.0346"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer-ennorath"
      showgrid="false"
      showborder="true"
      inkscape:window-width="1680"
@@ -1298,7 +1312,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer9"
-     inkscape:label="guide">
+     inkscape:label="guide"
+     style="display:none">
     <g
        id="g4068"
        transform="translate(0,-749.99996)">
@@ -3780,6 +3795,30 @@
      id="layer-ennorath"
      style="display:inline">
     <image
+       style="display:inline"
+       y="2746.4387"
+       x="3243.6411"
+       id="image2636"
+       height="234.81697"
+       width="604.42889"
+       xlink:href="archive/geography/swanfleet.png" />
+    <image
+       style="opacity:1;display:inline"
+       y="1264.5233"
+       x="3429.7939"
+       id="image2864"
+       height="2386.1272"
+       width="1943.4979"
+       xlink:href="archive/geography/hithaeglir.png" />
+    <image
+       y="2502"
+       x="3524.0552"
+       id="image3238"
+       height="521.00006"
+       width="692.51477"
+       sodipodi:absref="/home/kris/ennorath/archive/geography/moria.png"
+       xlink:href="archive/geography/moria.png" />
+    <image
        y="4510.7246"
        x="5780.5249"
        id="image4893"
@@ -3871,22 +3910,6 @@
        height="1927.0668"
        width="1093.5115"
        xlink:href="archive/geography/lhun.png" />
-    <image
-       style="display:inline"
-       y="2746.4387"
-       x="3243.6411"
-       id="image2636"
-       height="234.81697"
-       width="604.42889"
-       xlink:href="archive/geography/swanfleet.png" />
-    <image
-       style="opacity:0.95161288;display:inline"
-       y="1264.5233"
-       x="3429.7939"
-       id="image2864"
-       height="2386.1272"
-       width="1943.4979"
-       xlink:href="archive/geography/hithaeglir.png" />
     <image
        y="1683.7314"
        x="5128.5439"
@@ -4253,31 +4276,31 @@
        sodipodi:absref="/home/kris/ennorath/archive/icons/dol-amroth.png"
        xlink:href="archive/icons/dol-amroth.png" />
     <image
-       y="2835.4233"
-       x="3697.4075"
+       y="2841.3823"
+       x="3673.3127"
        id="image3720"
-       height="27.320391"
-       width="34.225544"
+       height="42.945389"
+       width="53.799721"
        sodipodi:absref="/home/kris/ennorath/archive/icons/ost-in-edhil.png"
        xlink:href="archive/icons/ost-in-edhil.png" />
     <image
-       y="3255.9033"
-       x="3410.574"
+       y="2826.6116"
+       x="3795.9192"
        id="image3956"
-       height="22.587505"
-       width="18.38518"
+       height="36.925999"
+       width="30.056046"
        sodipodi:absref="/home/kris/ennorath/archive/icons/barad-durin.png"
        xlink:href="archive/icons/barad-durin.png"
-       transform="matrix(0.9871295,-0.1599227,0.1599227,0.9871295,0,0)" />
+       transform="matrix(0.9986952,-5.1066947e-2,5.1066947e-2,0.9986952,0,0)" />
     <image
-       y="3209.853"
-       x="3459.8152"
+       y="2258.7549"
+       x="4168.8027"
        id="image4023"
-       height="14.691142"
+       height="14.69114"
        width="17.823811"
        sodipodi:absref="/home/kris/ennorath/archive/icons/balrog.png"
        xlink:href="archive/icons/balrog.png"
-       transform="matrix(0.9896911,-0.1432187,0.1432187,0.9896911,0,0)" />
+       transform="matrix(0.9953426,9.64004e-2,-9.64004e-2,0.9953426,0,0)" />
     <image
        y="4297.3984"
        x="4351.5723"
@@ -4336,94 +4359,14 @@
        width="13.214969"
        sodipodi:absref="/home/kris/ennorath/archive/icons/upbourn.png"
        xlink:href="archive/icons/upbourn.png" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer5"
-     inkscape:label="coastline-boxes"
-     style="display:none">
-    <rect
-       style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:14.31904125;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect13725"
-       width="2232.4912"
-       height="1427.8641"
-       x="-3385.4021"
-       y="-2.620451"
-       transform="scale(-1,1)"
-       inkscape:export-xdpi="80.110001"
-       inkscape:export-ydpi="80.110001"
-       inkscape:export-filename="/home/kris/Dropbox/Public/ennorath/coastline-1.png" />
-    <rect
-       inkscape:export-filename="/home/kris/Dropbox/Public/ennorath/coastline-2.png"
-       inkscape:export-ydpi="80.110001"
-       inkscape:export-xdpi="80.110001"
-       transform="matrix(0,-1,-1,0,0,0)"
-       y="-2570.3782"
-       x="-3529.9873"
-       height="1427.8641"
-       width="2232.4912"
-       id="rect2889"
-       style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:14.31904125;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <rect
-       style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:14.31904125;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect2891"
-       width="2232.4912"
-       height="1427.8641"
-       x="-4623.5327"
-       y="3466.7256"
-       transform="scale(-1,1)"
-       inkscape:export-xdpi="80.110001"
-       inkscape:export-ydpi="80.110001"
-       inkscape:export-filename="/home/kris/Dropbox/Public/ennorath/coastline-3.png" />
-    <rect
-       inkscape:export-filename="/home/kris/Dropbox/Public/ennorath/coastline-4.png"
-       inkscape:export-ydpi="80.110001"
-       inkscape:export-xdpi="80.110001"
-       transform="matrix(0,-1,-1,0,0,0)"
-       y="-4762.9014"
-       x="-6844.5669"
-       height="1427.8641"
-       width="2232.4912"
-       id="rect2893"
-       style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:14.31904125;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <rect
-       style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:14.31904125;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect2895"
-       width="2232.4912"
-       height="1427.8641"
-       x="2158.8921"
-       y="-7293.4688"
-       transform="scale(1,-1)"
-       inkscape:export-xdpi="80.110001"
-       inkscape:export-ydpi="80.110001"
-       inkscape:export-filename="/home/kris/Dropbox/Public/ennorath/coastline-5.png" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="boxes"
-     style="display:inline">
-    <rect
-       style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:13.13418674;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect13730"
-       width="872.43097"
-       height="716.71588"
-       x="7847.4092"
-       y="779.11426"
-       inkscape:export-xdpi="98.086403"
-       inkscape:export-ydpi="98.086403"
-       inkscape:export-filename="/home/kris/Dropbox/minasath-box.png" />
-    <rect
-       inkscape:export-filename="/home/kris/Dropbox/Public/ennorath/emyn-muil-box.png"
-       inkscape:export-ydpi="80.110001"
-       inkscape:export-xdpi="80.110001"
-       transform="scale(1,-1)"
-       y="-3808.8135"
-       x="7784.1797"
-       height="1427.8641"
-       width="2232.4912"
-       id="rect2897"
-       style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:14.31904125;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <image
+       y="2715.6243"
+       x="3912.2258"
+       id="image3234"
+       height="17.512627"
+       width="21.543835"
+       sodipodi:absref="/home/kris/ennorath/archive/icons/ennyn-moria.png"
+       xlink:href="archive/icons/ennyn-moria.png" />
     <image
        y="2875.2117"
        x="3823.4368"
@@ -4545,5 +4488,137 @@
        width="26.528555"
        sodipodi:absref="/home/kris/ennorath/archive/icons/ford-1.png"
        xlink:href="archive/icons/ford-1.png" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="coastline-boxes"
+     style="display:none">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:14.31904125;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect13725"
+       width="2232.4912"
+       height="1427.8641"
+       x="-3385.4021"
+       y="-2.620451"
+       transform="scale(-1,1)"
+       inkscape:export-xdpi="80.110001"
+       inkscape:export-ydpi="80.110001"
+       inkscape:export-filename="/home/kris/Dropbox/Public/ennorath/coastline-1.png" />
+    <rect
+       inkscape:export-filename="/home/kris/Dropbox/Public/ennorath/coastline-2.png"
+       inkscape:export-ydpi="80.110001"
+       inkscape:export-xdpi="80.110001"
+       transform="matrix(0,-1,-1,0,0,0)"
+       y="-2570.3782"
+       x="-3529.9873"
+       height="1427.8641"
+       width="2232.4912"
+       id="rect2889"
+       style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:14.31904125;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:14.31904125;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2891"
+       width="2232.4912"
+       height="1427.8641"
+       x="-4623.5327"
+       y="3466.7256"
+       transform="scale(-1,1)"
+       inkscape:export-xdpi="80.110001"
+       inkscape:export-ydpi="80.110001"
+       inkscape:export-filename="/home/kris/Dropbox/Public/ennorath/coastline-3.png" />
+    <rect
+       inkscape:export-filename="/home/kris/Dropbox/Public/ennorath/coastline-4.png"
+       inkscape:export-ydpi="80.110001"
+       inkscape:export-xdpi="80.110001"
+       transform="matrix(0,-1,-1,0,0,0)"
+       y="-4762.9014"
+       x="-6844.5669"
+       height="1427.8641"
+       width="2232.4912"
+       id="rect2893"
+       style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:14.31904125;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:14.31904125;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2895"
+       width="2232.4912"
+       height="1427.8641"
+       x="2158.8921"
+       y="-7293.4688"
+       transform="scale(1,-1)"
+       inkscape:export-xdpi="80.110001"
+       inkscape:export-ydpi="80.110001"
+       inkscape:export-filename="/home/kris/Dropbox/Public/ennorath/coastline-5.png" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="boxes"
+     style="display:none">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:13.13418674;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect13730"
+       width="872.43097"
+       height="716.71588"
+       x="7847.4092"
+       y="779.11426"
+       inkscape:export-xdpi="98.086403"
+       inkscape:export-ydpi="98.086403"
+       inkscape:export-filename="/home/kris/Dropbox/minasath-box.png" />
+    <rect
+       inkscape:export-filename="/home/kris/Dropbox/Public/ennorath/emyn-muil-box.png"
+       inkscape:export-ydpi="80.110001"
+       inkscape:export-xdpi="80.110001"
+       transform="scale(1,-1)"
+       y="-5015.3145"
+       x="8645.9658"
+       height="1427.8641"
+       width="2232.4912"
+       id="rect2897"
+       style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:14.31904125;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:6.69000006;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3138"
+       width="1370.496"
+       height="876.54633"
+       x="3162.2129"
+       y="-3242.4536"
+       transform="scale(1,-1)"
+       inkscape:export-xdpi="80.110001"
+       inkscape:export-ydpi="80.110001"
+       inkscape:export-filename="/home/kris/Dropbox/moria-box.png" />
+    <rect
+       style="opacity:0.83467742;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.88999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="shire-box"
+       width="443.599"
+       height="277.87085"
+       x="2489.7891"
+       y="2108.8313"
+       inkscape:label="#rect3911"
+       inkscape:export-filename="/home/kris/Dropbox/shire-box.png"
+       inkscape:export-xdpi="202.03"
+       inkscape:export-ydpi="202.03" />
+    <rect
+       inkscape:export-filename="/home/kris/Dropbox/emyn-beraid-box.png"
+       inkscape:export-ydpi="98.086403"
+       inkscape:export-xdpi="98.086403"
+       y="1916.6143"
+       x="1844.2844"
+       height="716.71588"
+       width="872.43097"
+       id="emyn-beraid-box"
+       style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:4.53399992;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:label="#rect3913" />
+    <rect
+       inkscape:export-filename="/home/kris/Dropbox/erebor-box.png"
+       inkscape:export-ydpi="98.086403"
+       inkscape:export-xdpi="98.086403"
+       y="1610.3033"
+       x="4709.5381"
+       height="466.34171"
+       width="567.65997"
+       id="erebor-box"
+       style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:2.14599991;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:label="#rect3915" />
   </g>
 </svg>
