@@ -237,10 +237,10 @@ function report(containers, contents) {
                 $.each(location.names, function (k, name) {
                     $("<a></a>").attr({
                         "href": "#" + [
-                            location.width.toFixed(7),
                             location.height.toFixed(7),
-                            location.left.toFixed(7),
+                            location.width.toFixed(7),
                             location.top.toFixed(7)
+                            location.left.toFixed(7),
                         ].join(",")
                     }).click(function () {
                         go(location);

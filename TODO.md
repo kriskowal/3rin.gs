@@ -75,4 +75,5 @@ TODONE
 * fix the labeling and missing river in the ost-in-edhil region
 * fix the positions and order of the peaks of Moria http://www.glyphweb.com/arda/m/moria.html
 * cross reference with encyclopedia arda
+* make the map discoverable to search engines
 

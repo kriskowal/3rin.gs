@@ -1,6 +1,6 @@
 # -*- coding: UTF-8 -*-
 
-from regions import regions as get_regions
+from regions import regions2 as get_regions
 from names import names as get_names
 from labels import labels2_dict as get_labels
 from encarda import encarda as get_encarda
@@ -124,6 +124,7 @@ ENCARDA = u'''<p><strong><a href="%(href)s" target="_blank">%(name)s</a></strong
 TEMPLATE = open('template.html').read().decode("utf-8")
 EMBEDDED = u'''%s <p><a href="/articles/%s.html" target="_blank">comments</a></p>'''
 makedirs("build/articles")
+index = []
 for canonical, region in regions.items():
     parts = []
     print canonical
@@ -140,9 +141,20 @@ for canonical, region in regions.items():
                     "letters": letters
                 })
 
+    map_href = "http://3rin.gs/#%s" % ",".join("%s" % val for val in [
+        region.height,
+        region.width,
+        region.y,
+        region.x,
+    ])
     etym = names[canonical]
     for et in etym:
         parts.append(language_html(et))
+        index.append({
+            "name": et['Name'],
+            "article": "%s.html" % canonical,
+            "map": map_href,
+        })
 
     articles = encarda.get(canonical, [])
     for article in articles:
@@ -159,6 +171,25 @@ for canonical, region in regions.items():
     file.write((TEMPLATE % {
         "title": canonical,
         "id": canonical,
-        "body": body
+        "body": """
+            <p style="float: right"><a href="%(map_href)s">MAP</a></p>
+            %(body)s
+        """ % {
+            "body": body,
+            "map_href": map_href,
+        }
     }).encode("utf-8"))
+
+open("build/articles/index.html", "w").write((TEMPLATE % {
+    "title": "Locations of Middle-earth",
+    "id": "index",
+    "body": """
+        <h1>Locations of Middle-earth</h1>
+        <ol>%s</ol>
+    """ % "".join(
+        """<li>%(name)s <a href="%(map)s">map</a> <a href="%(article)s">info</a></li>\n""" % entry
+        for entry in sorted(index, key=lambda entry: entry['name'])
+    ),
+}).encode("utf-8"))
+
 
