@@ -120,7 +120,7 @@ def language_html(language):
         ),
     )
 
-ENCARDA = u'''<p><strong><a href="%(href)s" target="_blank">%(name)s</a></strong>, %(description)s <nobr>&ndash; <em>Encyclopedia Arda</em></nobr></p>'''
+ENCARDA = u'''<p><strong><a href="%(href)s" target="_blank">%(name)s</a></strong>%(description)s <nobr>&ndash; <em>Encyclopedia Arda</em></nobr></p>'''
 TEMPLATE = open('template.html').read().decode("utf-8")
 EMBEDDED = u'''%s <p><a href="/articles/%s.html" target="_blank">comments</a></p>'''
 makedirs("build/articles")
@@ -149,7 +149,7 @@ for canonical, region in regions.items():
         parts.append(ENCARDA % {
             'name': article.name,
             'href': article.href,
-            'description': article.description,
+            'description': ", %s" % article.description if article.description else '',
         })
 
     body = u"\n".join(parts)

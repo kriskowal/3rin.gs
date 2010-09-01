@@ -5,7 +5,6 @@ TODO
 * double-click to zoom
 * keyboard zoom and pan
 * zoom and pan UI controls
-* fix tile garbage collection mixup
 * tool to debug missing references among labels, regions, and etymologies
 * drag and drop bug in IE
 * polish the scrolling feature
@@ -18,12 +17,7 @@ TODO
 * more icons for minor locations
   * 3 ring and palantir icons
 
-* sort out the duplicate eryn/emyn-lasgalen in regions.svg and work out the images
-* fix the tower hills, such that elostirion is in the middle and farthest west
-** add "under towers", the west-most hobbit settlement
-* fix the labeling and missing river in the ost-in-edhil region
-* fix the positions and order of the peaks of Moria http://www.glyphweb.com/arda/m/moria.html
-
+* add "under towers", the west-most hobbit settlement
 * independent zoom animations for each scale
 
 * story tours
@@ -75,4 +69,10 @@ TODONE
 * location articles with links
 * complete etymologies
 * comment system for location articles
+* fix tile garbage collection mixup
+* fix the tower hills, such that elostirion is in the middle and farthest west
+* sort out the duplicate eryn/emyn-lasgalen in regions.svg and work out the images
+* fix the labeling and missing river in the ost-in-edhil region
+* fix the positions and order of the peaks of Moria http://www.glyphweb.com/arda/m/moria.html
+* cross reference with encyclopedia arda
 

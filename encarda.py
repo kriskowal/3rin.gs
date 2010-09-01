@@ -3,11 +3,18 @@ import csv, sys, urlparse
 from glob import glob
 from re import compile as re
 from pprint import pprint
+from itertools import chain
+import codecs
 
 class Encarda(object):
-    def __init__(self, **kws):
-        for key, value in kws.items():
-            setattr(self, key, value)
+    def __init__(self, canonical = None, mappable = None, mapped = None, names = None, description = None, href = None):
+        if names is None: names = []
+        self.canonical = canonical or ""
+        self.mappable = mappable
+        self.mapped = mapped
+        self.names = names
+        self.description = description or ""
+        self.href = href.lower() or ""
     def __repr__(self):
         return 'Encarda(%s)' % ", ".join(
             "%s=%r" % (key, value)
@@ -17,19 +24,33 @@ class Encarda(object):
     def name(self):
         return u" / ".join(self.names)
 
+def EncardaReader(file_name):
+    file = codecs.open(file_name, "r", "utf-8")
+    content = file.read()
+    content = content.lstrip(unicode(codecs.BOM_UTF8, "utf-8"))
+    rows = (
+        [cell.strip('"') for cell in line.split(u"\t")]
+        for line in content.split(u"\n")
+        if line.strip()
+    )
+    headers = rows.next()
+    return (
+        dict(zip(headers, row))
+        for row in rows
+    )
+
 def encarda():
-    reader = csv.reader(open('encarda.csv'))
-    headers = reader.next()
+    reader = EncardaReader('encarda.txt')
     articles = {}
     encardas = list(
         Encarda(
             canonical = entry['Canonical'],
             mappable = entry['Mappable'] == '1',
             mapped = entry['Mapped'] == '1',
-            names = entry['Names'].decode('utf-8').split(u" / "),
-            description = entry['Description'].decode('utf-8'),
+            names = entry['Names'].split(u" / "),
+            description = entry['Description'],
             href = entry['Link'],
-        ) for entry in csv.DictReader(open("encarda.csv"))
+        ) for entry in reader
     )
     for encarda in encardas:
         articles.setdefault(encarda.canonical, []).append(encarda)
@@ -64,7 +85,7 @@ def scrape_files():
             titles.add(title)
     return hrefs
 
-def merge_iter():
+def merge_csv_iter():
     """
     Merges locations scraped from the web with those already
     collected and annotated, producing a new encarda.csv to stdout.
@@ -77,14 +98,20 @@ def merge_iter():
         canonical, mappable, mapped  = already.get(href, ('', '', ''))
         yield (canonical, mappable, mapped, " / ".join(sorted(names, key = lambda key: len(key))), description, href)
 
+def merge_iter():
+    yield u"\t".join(["Canonical","Mappable","Mapped","Name","Description","Link"])
+    for row in merge_txt():
+        yield u"\t".join([
+            row.canonical,
+            unicode("" if row.mappable is None else int(row.mappable)),
+            unicode("" if row.mappable is None else int(row.mapped)),
+            row.name,
+            row.description,
+            row.href,
+        ])
+
 def merge():
-    print "Canonical,Mappable,Mapped,Name,Description,Link"
-    for row in sorted(
-        merge_iter(),
-        key = lambda (canonical, mappable, mapped, name, description, href):
-            (mappable == "", mapped == "", canonical)
-    ):
-        print csv_row(row).encode('utf-8')
+    print u"\n".join(merge_iter()).encode('utf-16')
 
 def main():
     import sys

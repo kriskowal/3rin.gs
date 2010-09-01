@@ -1,0 +1,1140 @@
+﻿Canonical	Mappable	Mapped	Names	Description	Link
+achad-tarlang	1	1	Tarlang's Neck	The pass into eastern Lamedon	http://www.glyphweb.com/arda/t/tarlangsneck.html
+adorn	1	1	Adorn / River Adorn	Rohans western border	http://www.glyphweb.com/arda/a/adorn.html
+aglarond	1	1	Aglarond	The Glittering Caves	http://www.glyphweb.com/arda/a/aglarond.html
+aglarond	1	1	Glæmscrafu	The Glittering Caves	http://www.glyphweb.com/arda/g/glaemscrafu.html
+aglarond	1	1	Glittering Caves	The caverns behind Helms Deep	http://www.glyphweb.com/arda/g/glitteringcaves.html
+amon-anwar	1	1	Amon Anwar	The Hill of Awe	http://www.glyphweb.com/arda/a/amonanwar.html
+amon-anwar	1	1	Eilenaer	The peak later known as the Halifirien	http://www.glyphweb.com/arda/e/eilenaer.html
+amon-anwar	1	1	Halifirien	The mountain of the Firien Wood	http://www.glyphweb.com/arda/h/halifirien.html
+amon-anwar	1	1	Hill of Awe	The Halifirien on the borders of Rohan	http://www.glyphweb.com/arda/h/hillofawe.html
+amon-anwar	1	1	Hill of Anwar	An old name for the Halifirien	http://www.glyphweb.com/arda/h/hillofanwar.html
+amon-craban	1	1	Ravenhill	An old guard-post of Erebor	http://www.glyphweb.com/arda/r/ravenhill.html
+amon-din	1	1	Amon Dîn	The Silent Hill	http://www.glyphweb.com/arda/a/amondin.html
+amon-din	1	1	Silent Hill	The Beacon-hill of Amon Dîn	http://www.glyphweb.com/arda/s/silenthill.html
+amon-hen	1	1	Amon Hen	The Hill of Sight	http://www.glyphweb.com/arda/a/amonhen.html
+amon-hen	1	1	Hill of Sight	A name for Amon Hen	http://www.glyphweb.com/arda/h/hillofsight.html
+amon-hen	1	1	Hill of the Eye	"Amon Hen, the Hill of Sight"	http://www.glyphweb.com/arda/h/hilloftheeye.html
+amon-hen	1	1	Seat of Amon Hen		http://www.glyphweb.com/arda/s/seatofamonhen.html
+amon-lanc	1	1	Amon Lanc	The hill beneath Dol Guldur	http://www.glyphweb.com/arda/a/amonlanc.html
+amon-lhaw	1	1	Amon Lhaw	The Hill of Hearing in the eastern Emyn Muil	http://www.glyphweb.com/arda/a/amonlhaw.html
+amon-sul	1	1	Amon Súl / Amon Sûl	The hill that Men called Weathertop	http://www.glyphweb.com/arda/a/amonsul.html
+amon-sul	1	1	Tower of Amon Súl / Tower of Amon Sûl	An ancient stronghold of Arnor	http://www.glyphweb.com/arda/t/towerofamonsul.html
+amon-sul	1	1	Weathertop	Chief of the Weather Hills	http://www.glyphweb.com/arda/w/weathertop.html
+andeithel	1	1	Langwell / River Langwell	One of the sources of the Great River	http://www.glyphweb.com/arda/l/langwell.html
+andlo	1	1	Long Marshes	The marshlands east of Mirkwood	http://www.glyphweb.com/arda/l/longmarshes.html
+andnen	1	1	Long Lake	The lake on which Esgaroth stood	http://www.glyphweb.com/arda/l/longlake.html
+andrast	1	1	Andrast	The peninsula of Ras Morthil	http://www.glyphweb.com/arda/a/andrast.html
+andrath	1	1	Andrath	The Greenway south from Bree	http://www.glyphweb.com/arda/a/andrath.html
+andrath	1	1	Great Road (north to south)	The North-South Road that joined the Two Kingdoms	http://www.glyphweb.com/arda/g/greatroad2.html
+andrath	1	1	North-South Road	The ancient road that linked the North- and South-kingdoms	http://www.glyphweb.com/arda/n/northsouthroad.html
+anduin	1	1	Anduin / River Anduin	The Great River	http://www.glyphweb.com/arda/a/anduin.html
+anduin	1	1	Great River	The River Anduin	http://www.glyphweb.com/arda/g/greatriver.html
+anduin	1	1	Langflood	The Mannish name for the Anduin	http://www.glyphweb.com/arda/l/langflood.html
+anfalas	1	1	Langstrand		http://www.glyphweb.com/arda/l/langstrand.html
+anfalas	1	1	Anfalas		http://www.glyphweb.com/arda/a/anfalas.html
+angmar	1	1	Angmar		http://www.glyphweb.com/arda/a/angmar.html
+angren	1	1	Angren / Sîr Angren	The Elvish name for the River Isen	http://www.glyphweb.com/arda/a/angren.html
+angren	1	1	Isen / River Isen	The iron river that flowed past the gates of Isengard	http://www.glyphweb.com/arda/i/isen.html
+angrenost	1	1	Angrenost	The ringed fortress also called Isengard	http://www.glyphweb.com/arda/a/angrenost.html
+angrenost	1	1	Isengard	The fortress of Saruman	http://www.glyphweb.com/arda/i/isengard.html
+annon-caradhras	1	1	Redhorn Gate	The 'gate' of the Misty Mountains	http://www.glyphweb.com/arda/r/redhorngate.html
+annon-caradhras	1	1	Redhorn Pass	The pass beneath Caradhras	http://www.glyphweb.com/arda/r/redhornpass.html
+annuminas	1	1	Annúminas	Ancient seat of the Kings of Arnor	http://www.glyphweb.com/arda/a/annuminas.html
+anorien	1	1	Anórien		http://www.glyphweb.com/arda/a/anorien.html
+argirith	1	1	Cirith Forn en Andrath	The High Pass through the Misty Mountains	http://www.glyphweb.com/arda/c/cirithfornenandrath.html
+argirith	1	1	High Pass	The northern pass through the Misty Mountains	http://www.glyphweb.com/arda/h/highpass.html
+argonath	1	1	Argonath	The Pillars of the Kings	http://www.glyphweb.com/arda/a/argonath.html
+argonath	1	1	Gates of Argonath	The Pillars of the Kings	http://www.glyphweb.com/arda/g/gatesofargonath.html
+arthedain	1	1	Arthedain		http://www.glyphweb.com/arda/a/arthedain.html
+athrad-angren	1	1	Athrad Angren	The Fords of Isen	http://www.glyphweb.com/arda/a/athradangren.html
+athrad-angren	1	1	Crossings of Isen	The Fords across the River Isen	http://www.glyphweb.com/arda/c/crossingsofisen.html
+athrad-angren	1	1	Fords of Isen	The crossing-point of the River Isen	http://www.glyphweb.com/arda/f/fordsofisen.html
+athrad-angren	1	1	Ethraid Engrin	An old name for the Fords of Isen	http://www.glyphweb.com/arda/e/ethraidengrin.html
+athrad-iaur	1	1	Old Ford	The main crossing of the Anduin in the north	http://www.glyphweb.com/arda/o/oldford.html
+athrad-imladris	1	1	Ford of Bruinen	The crossing of the Loudwater	http://www.glyphweb.com/arda/f/fordofbruinen.html
+athrad-imladris	1	1	Ford of Rivendell	The crossing of the Bruinen	http://www.glyphweb.com/arda/f/fordofrivendell.html
+athrad-onodlo	1	1	Entwade	The crossings of Entwash	http://www.glyphweb.com/arda/e/entwade.html
+barad-dur	1	1	Barad-dúr / Barad-dûr	The Dark Tower of Sauron	http://www.glyphweb.com/arda/b/baraddur.html
+barad-dur	1	1	Dark Tower	The Barad-dûr	http://www.glyphweb.com/arda/d/darktower.html
+barad-dur	1	1	Lugbúrz	Saurons Dark Tower	http://www.glyphweb.com/arda/l/lugburz.html
+barad-durin	1	1	Durin’s Tower / Durin's Tower	The tower on Celebdils peak	http://www.glyphweb.com/arda/d/durinstower.html
+baranduin	1	1	Baranduin / River Baranduin	The river called Brandywine by the Shire-hobbits	http://www.glyphweb.com/arda/b/baranduin.html
+baranduin	1	1	Branda-nîn	The Hobbits name for the Brandywine	http://www.glyphweb.com/arda/b/brandanin.html
+baranduin	1	1	Brandywine / Brandywine River	The eastern border-river of the Shire	http://www.glyphweb.com/arda/b/brandywine.html
+baranduiniant	1	1	Brandywine Bridge	The point where the East Road crossed the Brandywine	http://www.glyphweb.com/arda/b/brandywinebridge.html
+baranduiniant	1	1	Bridge of Stonebows	The ancient name for the Brandywine Bridge	http://www.glyphweb.com/arda/b/bridgeofstonebows.html
+barannor	1	1	Dunland		http://www.glyphweb.com/arda/d/dunland.html
+barannorath	1	1	Brown Lands		http://www.glyphweb.com/arda/b/brownlands.html
+belegaer	1	1	Belegaer	The Great Sea	http://www.glyphweb.com/arda/b/belegaer.html
+belegaer	1	1	Great Water	A name for the wide ocean of Belegaer	http://www.glyphweb.com/arda/g/greatwater.html
+belegaer	1	1	Western Sea	The Great Sea west of Middle-earth	http://www.glyphweb.com/arda/w/westernsea.html
+belegaer	1	1	Great Sea of the West / Great Sea (of the West)	The immense ocean to the west of Middle-earth	http://www.glyphweb.com/arda/g/greatsea.html
+belfalas	1	1	Belfalas		http://www.glyphweb.com/arda/b/belfalas.html
+bree	1	1	Bree	An ancient township of Eriador	http://www.glyphweb.com/arda/b/bree.html
+bree	1	1	Inn of Bree		http://www.glyphweb.com/arda/i/innofbree.html
+bree	1	1	Bree-land		http://www.glyphweb.com/arda/b/breeland.html
+bruinen	1	1	Bruinen / River Bruinen	The Elves name for the Loudwater	http://www.glyphweb.com/arda/b/bruinen.html
+bruinen	1	1	Loudwater	The river the Elves called Bruinen	http://www.glyphweb.com/arda/l/loudwater.html
+cair-andros	1	1	Cair Andros	The Ship of Long-foam	http://www.glyphweb.com/arda/c/cairandros.html
+cair-andros	1	1	Ship of Long-foam	The island of Cair Andros	http://www.glyphweb.com/arda/s/shipoflongfoam.html
+calembel	1	1	Calembel	The township on the River Ciril	http://www.glyphweb.com/arda/c/calembel.html
+calenardhon	1	1	Calenardhon		http://www.glyphweb.com/arda/c/calenardhon.html
+calenardhon	1	1	Rochand		http://www.glyphweb.com/arda/r/rochand.html
+calenardhon	1	1	Rohan		http://www.glyphweb.com/arda/r/rohan.html
+calenardhon	1	1	Riddermark		http://www.glyphweb.com/arda/r/riddermark.html
+calenhad	1	1	Calenhad	Sixth of the Beacons of Gondor	http://www.glyphweb.com/arda/c/calenhad.html
+calenrath	1	1	Greenway	The remnant of the old North-South Road	http://www.glyphweb.com/arda/g/greenway.html
+carach-angren	1	1	Carach Angren	The pass between Gorgoroth and Udûn	http://www.glyphweb.com/arda/c/carachangren.html
+carach-angren	1	1	Isenmouthe	The iron jaws to the south of Udûn	http://www.glyphweb.com/arda/i/isenmouthe.html
+caradhras	1	1	Baraz	The short form of Barazinbar	http://www.glyphweb.com/arda/b/baraz.html
+caradhras	1	1	Barazinbar	The Dwarvish name for the Redhorn	http://www.glyphweb.com/arda/b/barazinbar.html
+caradhras	1	1	Caradhras	The Redhorn	http://www.glyphweb.com/arda/c/caradhras.html
+caradhras	1	1	Redhorn	The Mannish name for Caradhras	http://www.glyphweb.com/arda/r/redhorn.html
+carag	1	1	Carrock	The rocky river-island named by Beorn	http://www.glyphweb.com/arda/c/carrock.html
+caras-galdhon	1	1	Caras Galadhon	The tree-city of the Galadhrim	http://www.glyphweb.com/arda/c/carasgaladhon.html
+caras-perian	1	1	Hobbiton	The township beneath the Hill	http://www.glyphweb.com/arda/h/hobbiton.html
+carchost	1	1	Carchost	One of the Towers that guarded the Black Gate	http://www.glyphweb.com/arda/c/carchost.html
+cardolan	1	1	Cardolan		http://www.glyphweb.com/arda/c/cardolan.html
+carn-dum	1	1	Carn Dúm / Carn Dûm	Mountain Fortress of Angmar	http://www.glyphweb.com/arda/c/carndum.html
+carnen	1	1	Carnen	The long river known as the Redwater	http://www.glyphweb.com/arda/c/carnen.html
+carnen	1	1	Redwater	The red river out of the Iron Hills	http://www.glyphweb.com/arda/r/redwater.html
+celduin	1	1	Running / River Running	The river that flowed out of the Lonely Mountain	http://www.glyphweb.com/arda/r/running.html
+celduin	1	1	Celduin / River Celduin	The long river that flowed out of Erebor	http://www.glyphweb.com/arda/c/celduin.html
+celebdil	1	1	Celebdil	The mountain known as the Silvertine	http://www.glyphweb.com/arda/c/celebdil.html
+celebdil	1	1	Silvertine	The Mannish name for Zirakzigil	http://www.glyphweb.com/arda/s/silvertine.html
+celebdil	1	1	Zirak	A Dwarvish name for Zirakzigil	http://www.glyphweb.com/arda/z/zirak.html
+celebdil	1	1	Kibil-nâla	The Dwarves name for the River Silverlode	http://www.glyphweb.com/arda/k/kibilnala.html
+celebdil	1	1	Zirakzigil	The Silvertine	http://www.glyphweb.com/arda/z/zirakzigil.html
+celebrant	1	1	Silverlode / River Silverlode	The river the Elves called Celebrant	http://www.glyphweb.com/arda/s/silverlode.html
+celebrant	1	1	Celebrant	The Elves name for the River Silverlode	http://www.glyphweb.com/arda/c/celebrant.html
+cerin-amroth	1	1	Cerin Amroth	The mound at the heart of Lórien	http://www.glyphweb.com/arda/c/cerinamroth.html
+cil-rohan	1	1	Gap of Rohan	The breach between the Misty Mountains and the White	http://www.glyphweb.com/arda/g/gapofrohan.html
+ciril	1	1	Kiril / Ciril / River Ciril	A minor river of western Lamedon	http://www.glyphweb.com/arda/c/ciril.html
+cirith-gorgor	1	1	Cirith Gorgor	The Haunted Pass	http://www.glyphweb.com/arda/c/cirithgorgor.html
+cirith-ungol	1	1	Cirith Dúath	The Pass of Shadows	http://www.glyphweb.com/arda/c/cirithduath.html
+cirith-ungol	1	1	Cirith Ungol	The high pass where Shelob lurked	http://www.glyphweb.com/arda/c/cirithungol.html
+cof-belfalas	1	1	Bay of Belfalas	The great bay to the south of Gondor	http://www.glyphweb.com/arda/b/bayofbelfalas.html
+cof-belfalas	1	1	Great Gulf	A wide gulf of Belegaer	http://www.glyphweb.com/arda/g/greatgulf.html
+cof-lhun	1	1	Gulf of Lhún / Gulf of Lhûn	An immense northern inlet of the Great Sea	http://www.glyphweb.com/arda/l/lhungulf.html
+cof-lhun	1	1	Gulf of Lune	The great northern firth of Middle-earth	http://www.glyphweb.com/arda/g/gulfoflune.html
+dagorlad	1	1	Battle Plain	The plain before the Gates of Mordor	http://www.glyphweb.com/arda/b/battleplain.html
+dagorlad	1	1	Dagorlad	The Battle Plain	http://www.glyphweb.com/arda/d/dagorlad.html
+dol-amroth	1	1	Dol Amroth		http://www.glyphweb.com/arda/d/dolamroth.html
+dol-guldur	1	1	Dol Guldur	The lair of the Necromancer	http://www.glyphweb.com/arda/d/dolguldur.html
+dor-en-ernil	1	1	Dor-en-Ernil		http://www.glyphweb.com/arda/d/dorenernil.html
+dorwinion	1	1	Dorwinion		http://www.glyphweb.com/arda/d/dorwinion.html
+druwaith-iaur	1	1	Drúwaith Iaur		http://www.glyphweb.com/arda/d/druwaithiaur.html
+dunharrow	1	1	Dúnharg	The original form of Dunharrow	http://www.glyphweb.com/arda/d/dunharg.html
+dunharrow	1	1	Dunharrow	A refuge in the White Mountains	http://www.glyphweb.com/arda/d/dunharrow.html
+durthang	1	1	Durthang	An old castle of northern Mordor	http://www.glyphweb.com/arda/d/durthang.html
+east-emnet	1	1	Eastemnet	The eastern lands of Rohan	http://www.glyphweb.com/arda/e/eastemnet.html
+edhellond	1	1	Edhellond	A far southern haven of the Elves	http://www.glyphweb.com/arda/e/edhellond.html
+edoras	1	1	Edoras	The Courts of Rohan	http://www.glyphweb.com/arda/e/edoras.html
+eilenach	1	1	Eilenach	One of the seven Beacons of Gondor	http://www.glyphweb.com/arda/e/eilenach.html
+elostirion	1	1	Elostirion	Tallest tower of the Tower Hills	http://www.glyphweb.com/arda/e/elostirion.html
+emyn-angren	1	1	Iron Hills	The northern range settled by Grór	http://www.glyphweb.com/arda/i/ironhills.html
+emyn-arnen	1	1	Emyn Arnen	The central uplands of Ithilien	http://www.glyphweb.com/arda/e/emynarnen.html
+emyn-beraid	1	1	Emyn Beraid	The Tower Hills	http://www.glyphweb.com/arda/e/emynberaid.html
+emyn-beraid	1	1	Tower Hills	The Emyn Beraid west of the Shire	http://www.glyphweb.com/arda/t/towerhills.html
+emyn-formen	1	1	North Downs	The hills above Fornost	http://www.glyphweb.com/arda/n/northdowns.html
+emyn-haeron	1	1	Far Downs	The western borderland of the Shire	http://www.glyphweb.com/arda/f/fardowns.html
+emyn-harad	1	1	South Downs	The downlands of central Eriador	http://www.glyphweb.com/arda/s/southdowns.html
+emyn-lasgalen	1	1	Emyn-nu-Fuin	The Mountains of Mirkwood	http://www.glyphweb.com/arda/e/emynnufuin.html
+emyn-muil	1	1	Emyn Muil	The hill-range around Nen Hithoel	http://www.glyphweb.com/arda/e/emynmuil.html
+emyn-nim	1	1	White Downs	The chalk downs of the Shires Westfarthing	http://www.glyphweb.com/arda/w/whitedowns.html
+emyn-ring	1	1	Coldfells	An upland region north of Rivendell	http://www.glyphweb.com/arda/c/coldfells.html
+emyn-sul	1	1	Weather Hills	The range of hills running north from Weathertop	http://www.glyphweb.com/arda/w/weatherhills.html
+emyn-uial	1	1	Emyn Uial	The Hills of Evendim	http://www.glyphweb.com/arda/e/emynuial.html
+emyn-uial	1	1	Hills of Evendim	The twilight hills above Annúminas	http://www.glyphweb.com/arda/h/hillsofevendim.html
+enedwaith	1	1	Enedwaith		http://www.glyphweb.com/arda/e/enedwaith.html
+ennorath	1	1	Endóre	A very rare Quenya name for Middle-earth	http://www.glyphweb.com/arda/e/endore.html
+ennorath	1	1	Ennor		http://www.glyphweb.com/arda/e/ennor.html
+ennorath	1	1	Middle-earth		http://www.glyphweb.com/arda/m/middleearth.html
+ennorath	1	1	Endor		http://www.glyphweb.com/arda/e/endor.html
+ennorath	1	1	Hither Lands		http://www.glyphweb.com/arda/h/hitherlands.html
+ennyn-moria	1	1	Doors of Durin	The West-gate of Moria	http://www.glyphweb.com/arda/d/doorsofdurin.html
+ennyn-moria	1	1	Moria Gate	The doors of Khazad-dûm	http://www.glyphweb.com/arda/m/moriagate.html
+ennyn-moria	1	1	West-gate of Moria	The Doors of Durin	http://www.glyphweb.com/arda/w/westgateofmoria.html
+ennynion-rhun-moria	1	1	Moria Gate	The doors of Khazad-dûm	http://www.glyphweb.com/arda/m/moriagate.html
+ephel-duath	1	1	East-mountains	A name for the Ephel Dúath	http://www.glyphweb.com/arda/e/eastmountains.html
+ephel-duath	1	1	Ephel Dúath	The Mountains of Shadow on the borders of Mordor	http://www.glyphweb.com/arda/e/ephelduath.html
+ephel-duath	1	1	Mountains of Shadow (Ephel Dúath)	The western border of Mordor	http://www.glyphweb.com/arda/m/mountainsofshadow2.html
+erebor	1	1	Erebor	The Lonely Mountain	http://www.glyphweb.com/arda/e/erebor.html
+erebor	1	1	Kingdom under the Mountain	The Dwarf-kingdom of Erebor	http://www.glyphweb.com/arda/k/kingdomunderthemountain.html
+erebor	1	1	Lonely Mountain	The Dwarf-kingdom of Erebor	http://www.glyphweb.com/arda/l/lonelymountain.html
+erech	1	1	Erech	The hill at the head of the Blackroot Vale	http://www.glyphweb.com/arda/e/erech.html
+erech	1	1	Hill of Erech	The hill of the Black Stone	http://www.glyphweb.com/arda/h/hilloferech.html
+erech	1	1	Stone of Erech		http://www.glyphweb.com/arda/s/stoneoferech.html
+ered-angmar	1	1	Mountains of Angmar	The northernmost Misty Mountains	http://www.glyphweb.com/arda/m/mountainsofangmar.html
+ered-gorgoroth	1	1	Mountains of Terror	The Ered Gorgoroth	http://www.glyphweb.com/arda/m/mountainsofterror.html
+ered-lasgalen	1	1	Emyn Duir	The Dark Mountains of Greenwood the Great	http://www.glyphweb.com/arda/e/emynduir.html
+ered-lindon	1	1	Blue Mountains	The northwestern mountain-chain of Middle-earth	http://www.glyphweb.com/arda/b/bluemountains.html
+ered-lindon	1	1	Ered Lindon	The mountain-borders of the Elf-kingdom of Lindon	http://www.glyphweb.com/arda/e/eredlindon.html
+ered-lindon	1	1	Ered Luin	The Blue Mountains	http://www.glyphweb.com/arda/e/eredluin.html
+ered-lindon	1	1	Mountains of Lune	The western edge of Eriador	http://www.glyphweb.com/arda/m/mountainsoflune.html
+ered-lithui	1	1	Ash Mountains	The range that formed Mordors northern border	http://www.glyphweb.com/arda/a/ashmountains.html
+ered-lithui	1	1	Ashen Mountains	The northern fences of Mordor	http://www.glyphweb.com/arda/a/ashenmountains.html
+ered-lithui	1	1	Ered Lithui	The Ashen Mountains north of Mordor	http://www.glyphweb.com/arda/e/eredlithui.html
+ered-mithrin	1	1	Ered Mithrin	The Elvish name for the Grey Mountains	http://www.glyphweb.com/arda/e/eredmithrin.html
+ered-mithrin	1	1	Grey Mountains	A mountain-range of northern Middle-earth	http://www.glyphweb.com/arda/g/greymountains.html
+ered-moria	1	1	Mountains of Moria	The three peaks above old Khazad-dûm	http://www.glyphweb.com/arda/m/mountainsofmoria.html
+ered-nimrais	1	1	Ered Nimrais	The Elvish name for the White Mountains	http://www.glyphweb.com/arda/e/erednimrais.html
+ered-nimrais	1	1	White Mountains	The snow-capped peaks that separated Gondor from Rohan	http://www.glyphweb.com/arda/w/whitemountains.html
+ered-wethrin	1	1	Mountains of Shadow / Ered Wethrin / Mountains of Shadow (Ered Wethrin)	The northern range of the Ered Wethrin	http://www.glyphweb.com/arda/m/mountainsofshadow.html
+ered-wethrin	1	1	Ered Wethrin	The Mountains of Shadow	http://www.glyphweb.com/arda/e/eredwethrin.html
+eregion	1	1	Hollin		http://www.glyphweb.com/arda/h/hollin.html
+eregion	1	1	Eregion		http://www.glyphweb.com/arda/e/eregion.html
+erelas	1	1	Erelas	The fourth Beacon	http://www.glyphweb.com/arda/e/erelas.html
+eriador	1	1	Eriador		http://www.glyphweb.com/arda/e/eriador.html
+eriador	1	1	Lone-lands		http://www.glyphweb.com/arda/l/lonelands.html
+erui	1	1	Erui / River Erui	The river that flowed out of Lossarnach	http://www.glyphweb.com/arda/e/erui.html
+eryn-druadan	1	1	Drúadan Forest	The forest beneath the Eilenach Beacon	http://www.glyphweb.com/arda/d/druadanforest.html
+eryn-druadan	1	1	Tawar-in-Drúedain	The Drúadan Forest	http://www.glyphweb.com/arda/t/tawarindruedain.html
+eryn-firien	1	1	Firien Wood	The mountain-wood beneath Halifirien	http://www.glyphweb.com/arda/f/firienwood.html
+eryn-firien	1	1	Firienholt	The wood beneath the Halifirien	http://www.glyphweb.com/arda/f/firienholt.html
+eryn-firien	1	1	Halifirien Wood	The forest beneath the Halifirien	http://www.glyphweb.com/arda/h/halifirienwood.html
+eryn-iaur	1	1	Old Forest	A strange northern remnant of the great forest of the Second Age	http://www.glyphweb.com/arda/o/oldforest.html
+eryn-lasgalen	1	1	Dark Mountains	An old name for the Mountains of Mirkwood	http://www.glyphweb.com/arda/d/darkmountains.html
+eryn-lasgalen	1	1	Eryn Galen	The Greenwood	http://www.glyphweb.com/arda/e/eryngalen.html
+eryn-lasgalen	1	1	Eryn Lasgalen	The Wood of Greenleaves	http://www.glyphweb.com/arda/e/erynlasgalen.html
+eryn-lasgalen	1	1	Greenwood the Great	The former name of Mirkwood	http://www.glyphweb.com/arda/g/greenwoodthegreat.html
+eryn-lasgalen	1	1	Mirkwood	Greatest of the forests of Middle-earth	http://www.glyphweb.com/arda/m/mirkwood.html
+eryn-lasgalen	1	1	Mountains of Mirkwood	The central highlands of Middle-earths greatest forest	http://www.glyphweb.com/arda/m/mountainsofmirkwood.html
+eryn-lasgalen	1	1	Taur-e-Ndaedelos	The Forest of the Great Fear	http://www.glyphweb.com/arda/t/taurendaedelos.html
+eryn-lasgalen	1	1	"Taur-nu-Fuin / Taur-nu-Fuin, Dorthonion"	The Forest under Nightshade	http://www.glyphweb.com/arda/t/taurnufuin.html
+eryn-lasgalen	1	1	"Taur-nu-Fuin / Taur-nu-Fuin, Mirkwood"	The Elves name for Mirkwood	http://www.glyphweb.com/arda/t/taurnufuin2.html
+eryn-lasgalen	1	1	The Forest / Forest	A term sometimes used for Mirkwood	http://www.glyphweb.com/arda/f/forest.html
+eryn-lasgalen	1	1	The Wood / Wood	The greatest of Middle-earths forests	http://www.glyphweb.com/arda/w/wood.html
+eryn-lasgalen	1	1	Wood of Greenleaves	Eryn Lasgalen	http://www.glyphweb.com/arda/w/woodofgreenleaves.html
+eryn-morn	1	1	Dimholt	The dark wood beneath the Dwimorberg	http://www.glyphweb.com/arda/d/dimholt.html
+eryn-ost	1	1	Chetwood	The wood of the Bree-land	http://www.glyphweb.com/arda/c/chetwood.html
+eryn-teryg	1	1	Trollshaws	The Troll-woods west of Rivendell	http://www.glyphweb.com/arda/t/trollshaws.html
+eryn-uireb	1	1	Everholt	The boar-wood beneath the Halifirien	http://www.glyphweb.com/arda/e/everholt.html
+eryn-vorn	1	1	Eryn Vorn	The wooded cape beneath the mouths of Baranduin	http://www.glyphweb.com/arda/e/erynvorn.html
+erynduin	1	1	Forest River	The river of northern Mirkwood	http://www.glyphweb.com/arda/f/forestriver.html
+erynrath	1	1	Forest Road	The road that ran through Mirkwood	http://www.glyphweb.com/arda/f/forestroad.html
+esgaroth	1	1	Esgaroth	A township on the shores of the Long Lake	http://www.glyphweb.com/arda/e/esgaroth.html
+esgaroth	1	1	Lake-town	A township of Men on the Long Lake	http://www.glyphweb.com/arda/l/laketown.html
+ethir-anduin	1	1	Ethir Anduin	The estuary of the Great River Anduin	http://www.glyphweb.com/arda/e/ethiranduin.html
+ethir-anduin	1	1	Mouths of Anduin	The wide estuary region known as the Ethir	http://www.glyphweb.com/arda/m/mouthsofanduin.html
+ethir-onodlo	1	1	Mouths of Entwash	The wetlands of the Entwash delta	http://www.glyphweb.com/arda/m/mouthsofentwash.html
+ethir-onodlo	1	1	Mouths of Onodló	The delta of the River Entwash	http://www.glyphweb.com/arda/m/mouthsofonodlo.html
+ethraid-erui	1	1	Crossings of Erui	The place of Eldacars revenge	http://www.glyphweb.com/arda/c/crossingsoferui.html
+ethraid-poros	1	1	Crossing of Poros / Crossings of Poros	The ford that led into South Gondor	http://www.glyphweb.com/arda/c/crossingsofporos.html
+ethraid-poros	1	1	Fords of Poros	The gateway to Ithilien	http://www.glyphweb.com/arda/f/fordsofporos.html
+ethring	1	1	Ethring	The township below the wells of Ringló	http://www.glyphweb.com/arda/e/ethring.html
+fangorn	1	1	Aldalómë	A name for Fangorn Forest	http://www.glyphweb.com/arda/a/aldalome.html
+fangorn	1	1	Ambaróna	An ancient name for Fangorn Forest	http://www.glyphweb.com/arda/a/ambarona.html
+fangorn	1	1	East End	An old name for Fangorn Forest	http://www.glyphweb.com/arda/e/eastend.html
+fangorn	1	1	Entwood	A name among Men for the Forest of Fangorn	http://www.glyphweb.com/arda/e/entwood.html
+fangorn	1	1	Fangorn Forest	Last home of the Ents in the West of Middle-earth	http://www.glyphweb.com/arda/f/fangornforest.html
+fangorn	1	1	Forest of Fangorn	The ancient forest beneath the southern Misty Mountains	http://www.glyphweb.com/arda/f/forestoffangorn.html
+fangorn	1	1	Tauremorna	The Forest of Fangorn	http://www.glyphweb.com/arda/t/tauremorna.html
+fanuidhlol	1	1	Bundushathúr / Bundushathûr	The mountain the Elves called Fanuidhol	http://www.glyphweb.com/arda/b/bundushathur.html
+fanuidhol	1	1	Cloudyhead	The mountain named Fanuidhol	http://www.glyphweb.com/arda/c/cloudyhead.html
+fanuidhol	1	1	Fanuidhol	Cloudyhead	http://www.glyphweb.com/arda/f/fanuidhol.html
+fanuidhol	1	1	Shathúr / Shathûr	A Dwarvish name for the mountain Fanuidhol	http://www.glyphweb.com/arda/s/shathur.html
+far-harad	1	1	Far Harad		http://www.glyphweb.com/arda/f/farharad.html
+forithilien	1	1	North Ithilien		http://www.glyphweb.com/arda/n/northithilien.html
+forlindon	1	1	Forlindon		http://www.glyphweb.com/arda/f/forlindon.html
+forlond	1	1	Forlond	A harbour of the Elves of Lindon	http://www.glyphweb.com/arda/f/forlond.html
+fornost-erain	1	1	Fornost / Fornost Erain	The city of the Kings of Arthedain	http://www.glyphweb.com/arda/f/fornost.html
+fornost-erain	1	1	Kings' Norbury	The Hobbits name for Fornost	http://www.glyphweb.com/arda/k/kingsnorbury.html
+fornost-erain	1	1	Norbury of the Kings	Fornost on the North Downs	http://www.glyphweb.com/arda/n/norburyofthekings.html
+forochel	1	1	Bay of Forochel	The icy bay of the distant north	http://www.glyphweb.com/arda/b/bayofforochel.html
+forochel	1	1	Forochel	The northern icebay of Middle-earth	http://www.glyphweb.com/arda/f/forochel.html
+forochel	1	1	Icebay of Forochel	The great northern bay of Middle-earth	http://www.glyphweb.com/arda/i/icebayofforochel.html
+forodwaith	1	1	"Forodwaith, Land"		http://www.glyphweb.com/arda/f/forodwaith.html
+forodwaith	1	1	Northerland		http://www.glyphweb.com/arda/n/northerland.html
+fortofn	1	1	North Undeep	The first of the two westward loops in the Anduins course	http://www.glyphweb.com/arda/n/northundeep.html
+gilrain	1	1	Gilrain / River Gilrain	The western border-river of Lebennin	http://www.glyphweb.com/arda/g/gilrain.html
+glanduin	1	1	Glanduin / River Glanduin	The river that flowed down into Swanfleet	http://www.glyphweb.com/arda/g/glanduin.html
+glanhir	1	1	Glanhír	The Mering Stream	http://www.glyphweb.com/arda/g/glanhir.html
+glanhir	1	1	Mering Stream	Eastern border-river of Rohan	http://www.glyphweb.com/arda/m/meringstream.html
+gondor	1	1	Gondor		http://www.glyphweb.com/arda/g/gondor.html
+gondor	1	1	South-kingdom		http://www.glyphweb.com/arda/s/southkingdom.html
+gorgoroth	1	1	Gorgoroth / Ered Gorgoroth	The Mountains of Terror	http://www.glyphweb.com/arda/e/eredgorgoroth.html
+gorgoroth	1	1	Gorgoroth / Plateau of Gorgoroth	The wasted uplands of Mordor	http://www.glyphweb.com/arda/p/plateauofgorgoroth.html
+gundabad	1	1	Gundabad / Mount Gundabad	Capital of the northern Goblins	http://www.glyphweb.com/arda/m/mountgundabad.html
+gwathlo	1	1	Agathurush	The River Gwathló	http://www.glyphweb.com/arda/a/agathurush.html
+gwathlo	1	1	Gwathir	The original name for the Gwathló	http://www.glyphweb.com/arda/g/gwathir.html
+gwathlo	1	1	Gwathló / River Gwathló	The Elves name for the Greyflood	http://www.glyphweb.com/arda/g/gwathlo.html
+gwathlo	1	1	Greyflood / River Greyflood	The southern border-river of Eriador	http://www.glyphweb.com/arda/g/greyflood.html
+haradwaith	1	1	Harad		http://www.glyphweb.com/arda/h/harad.html
+haradwaith	1	1	Sunlands		http://www.glyphweb.com/arda/s/sunlands.html
+haradwaith	1	1	Haradwaith		http://www.glyphweb.com/arda/h/haradwaith.html
+harithilien	1	1	South Ithilien		http://www.glyphweb.com/arda/s/southithilien.html
+harlindon	1	1	Harlindon		http://www.glyphweb.com/arda/h/harlindon.html
+harlond	1	1	"Harlond / Harlond in Gondor / Harlond, Gondor"	The port of Minas Tirith	http://www.glyphweb.com/arda/h/harlond.html
+harlond	1	1	"Harlond / Harlond in Lindon / Harlond, Lindon"	A haven on the Gulf of Lhûn	http://www.glyphweb.com/arda/h/harlondlindon.html
+harnen	1	1	Harnen / River Harnen	Gondors boundary with Near Harad	http://www.glyphweb.com/arda/h/harnen.html
+harondor	1	1	Harondor		http://www.glyphweb.com/arda/h/harondor.html
+harondor	1	1	South Gondor		http://www.glyphweb.com/arda/s/southgondor.html
+hartofn	1	1	South Undeep	The southern loop in Anduin's course	http://www.glyphweb.com/arda/s/southundeep.html
+haudh-in-gwanur	1	1	Haudh in Gwanúr / Haudh in Gwanur	The grave-mound of Folcred and Fastred	http://www.glyphweb.com/arda/h/haudhingwanur.html
+helevorn	1	1	Helevorn / Lake Helevorn	The cold lake beneath Mount Rerir	http://www.glyphweb.com/arda/h/helevorn.html
+himling	1	1	Himling	An island off the northern coasts of Middle-earth	http://www.glyphweb.com/arda/h/himling.html
+hithaeglir	1	1	Hithaeglir	The misty peaks of central Middle-earth	http://www.glyphweb.com/arda/h/hithaeglir.html
+hithaeglir	1	1	Misty Mountains	The Backbone of Middle-earth	http://www.glyphweb.com/arda/m/mistymountains.html
+hithaeglir	1	1	Mountains of Mist	The Misty Mountains of the Hithaeglir	http://www.glyphweb.com/arda/m/mountainsofmist.html
+i-drann	1	1	Galabas	A village-name from the Shire	http://www.glyphweb.com/arda/g/galabas.html
+i-drann	1	1	Folklands		http://www.glyphweb.com/arda/f/folklands.html
+i-drann	1	1	Land of the Halflings		http://www.glyphweb.com/arda/l/landofthehalflings.html
+i-drann	1	1	The Shire		http://www.glyphweb.com/arda/s/shire.html
+i-drann	1	1	Hobbit-lands		http://www.glyphweb.com/arda/h/hobbitlands.html
+i-drann	1	1	Sûza		http://www.glyphweb.com/arda/s/suza.html
+iant-vedui	1	1	Bridge of Mitheithel	The Last Bridge across the Hoarwell	http://www.glyphweb.com/arda/b/bridgeofmitheithel.html
+iant-vedui	1	1	Last Bridge	The Bridge of Mitheithel	http://www.glyphweb.com/arda/l/lastbridge.html
+imlad	1	1	Dale	The township of Men beneath the Lonely Mountain	http://www.glyphweb.com/arda/d/dale.html
+imlad-thol	1	1	Helm’s Deep / Helm's Deep	A refuge of the Rohirrim	http://www.glyphweb.com/arda/h/helmsdeep.html
+imladnur	1	1	Deeping-coomb	The valley that led to Helms Deep	http://www.glyphweb.com/arda/d/deepingcoomb.html
+imladris	1	1	First Homely House	Elronds house at Rivendell	http://www.glyphweb.com/arda/f/firsthomelyhouse.html
+imladris	1	1	Imladris	The haven of Elrond	http://www.glyphweb.com/arda/i/imladris.html
+imladris	1	1	Karningul	The Westron name for Rivendell	http://www.glyphweb.com/arda/k/karningul.html
+imladris	1	1	Last Homely House	The House of Elrond at Rivendell	http://www.glyphweb.com/arda/l/lasthomelyhouse.html
+imladris	1	1	Rivendell	The Last Homely House	http://www.glyphweb.com/arda/r/rivendell.html
+imrath-gondraich	1	1	Stonewain Valley	The ancient way of the quarrymen of Gondor	http://www.glyphweb.com/arda/s/stonewainvalley.html
+in-emyn	1	1	Barrows	The mounds of Tyrn Gorthad	http://www.glyphweb.com/arda/b/barrows.html
+in-emyn	1	1	Tyrn Gorthad	The Barrow-downs	http://www.glyphweb.com/arda/t/tyrngorthad.html
+irensaga	1	1	Irensaga	A series of peaks in the White Mountains	http://www.glyphweb.com/arda/i/irensaga.html
+khand	1	1	Khand		http://www.glyphweb.com/arda/k/khand.html
+lamedon	1	1	Lamedon		http://www.glyphweb.com/arda/l/lamedon.html
+lebennin	1	1	Land of Seven Rivers		http://www.glyphweb.com/arda/l/landofsevenrivers.html
+lebennin	1	1	Lebennin		http://www.glyphweb.com/arda/l/lebennin.html
+lefnui	1	1	Lefnui	A winding river of western Gondor	http://www.glyphweb.com/arda/l/lefnui.html
+lhun	1	1	Lhún / River Lhûn	The river that flowed into the Gulf of Lhûn	http://www.glyphweb.com/arda/l/lhun.html
+lhun	1	1	Lune	The Hobbits name for the Lhûn	http://www.glyphweb.com/arda/l/lune.html
+limlight	1	1	Limlaith	The Elves name for the river otherwise called the Limlight	http://www.glyphweb.com/arda/l/limlaith.html
+limlight	1	1	Limlich	An Elvish name for the River Limlight	http://www.glyphweb.com/arda/l/limlich.html
+limlight	1	1	Limlight	A river flowing out of northern Fangorn	http://www.glyphweb.com/arda/l/limlight.html
+limlight	1	1	Limliht	A variation on the name Limlight	http://www.glyphweb.com/arda/l/limliht.html
+limlight	1	1	Limlint	An early name for the Limlight	http://www.glyphweb.com/arda/l/limlint.html
+linhir	1	1	Linhir	A township on the River Gilrain	http://www.glyphweb.com/arda/l/linhir.html
+lithlad	1	1	Lithlad	Mordors northern plain of ash	http://www.glyphweb.com/arda/l/lithlad.html
+lo	1	1	Midgewater Marshes	The marshland east of the Chetwood	http://www.glyphweb.com/arda/m/midgewater.html
+lo-fern	1	1	Dead Marshes	The haunted marshlands beside the Battle Plain	http://www.glyphweb.com/arda/d/deadmarshes.html
+loeg-ningloron	1	1	Loeg Ningloron	The resting-place of the Ring	http://www.glyphweb.com/arda/l/loegningloron.html
+lond-daer	1	1	Lond Daer	The  Númenórean port on the Gwathló	http://www.glyphweb.com/arda/l/londdaer.html
+lond-dear	1	1	Lond Daer Enedh	The Great Middle Haven	http://www.glyphweb.com/arda/l/londdaerenedh.html
+lond-umbar	1	1	"Haven of Umbar / Umbar, Haven of"	The seaport of the Corsairs	http://www.glyphweb.com/arda/h/havenofumbar.html
+lossarnach	1	1	Arnach	The flowery vale west of Minas Tirith	http://www.glyphweb.com/arda/a/arnach.html
+lossarnach	1	1	Lossarnach		http://www.glyphweb.com/arda/l/lossarnach.html
+lossir	1	1	Snowbourn River	The river that flowed out of Harrowdale	http://www.glyphweb.com/arda/s/snowbourn.html
+lothlorien	1	1	Dwimordene	Galadriels magical land	http://www.glyphweb.com/arda/d/dwimordene.html
+lothlorien	1	1	Golden Wood	The forest of the golden mallorn trees	http://www.glyphweb.com/arda/g/goldenwood.html
+lothlorien	1	1	"Lórien, Middle-earth"		http://www.glyphweb.com/arda/l/lorien.html
+lothlorien	1	1	Lothlórien		http://www.glyphweb.com/arda/l/lothlorien.html
+lothlorien	1	1	Dreamflower		http://www.glyphweb.com/arda/d/dreamflower.html
+men-eryn-iaur	1	1	Dwarf-road of Mirkwood	The long east-west road beneath the trees of Mirkwood	http://www.glyphweb.com/arda/d/dwarfroadofmirkwood.html
+men-eryn-iaur	1	1	Men-i-Naugrim	The Dwarf-road that ran through Mirkwood	http://www.glyphweb.com/arda/m/meninaugrim.html
+men-eryn-iaur	1	1	Old Forest Road	The east-west road that led through Greenwood the Great	http://www.glyphweb.com/arda/o/oldforestroad.html
+men-harad	1	1	Harad Road	The road that ran south out of Ithilien	http://www.glyphweb.com/arda/h/haradroad.html
+men-rhun-annui	1	1	East Road	The road that led from the Shire out into Eriador	http://www.glyphweb.com/arda/e/eastroad.html
+men-rhun-annui	1	1	East-West Road	The road that crossed Eriador from west to east	http://www.glyphweb.com/arda/e/eastwestroad.html
+men-rhun-annui	1	1	Great Road (west to east)	The East-West Road of Eriador	http://www.glyphweb.com/arda/g/greatroad1.html
+menion-rhun-annui	1	1	Old Road	The road running east through Eriador	http://www.glyphweb.com/arda/o/oldroad.html
+methedras	1	1	Methedras	The last peak of the Misty Mountains	http://www.glyphweb.com/arda/m/methedras.html
+min-rimmon	1	1	Min-Rimmon	Beacon-hill of Gondor	http://www.glyphweb.com/arda/m/minrimmon.html
+minas-morgul	1	1	Minas Morgul	The Tower of Sorcery	http://www.glyphweb.com/arda/m/minasmorgul.html
+minas-morgul	1	1	Moontower	A name for the tower of Minas Ithil	http://www.glyphweb.com/arda/m/moontower.html
+minas-morgul	1	1	Tower of Sorcery	A dark name for Minas Morgul	http://www.glyphweb.com/arda/t/towerofsorcery.html
+minas-morgul	1	1	Tower of the Moon	The tower of Minas Ithil	http://www.glyphweb.com/arda/t/towerofthemoon.html
+minas-morgul	1	1	Tower of the Rising Moon	Minas Ithil beneath the Ephel Dúath	http://www.glyphweb.com/arda/t/toweroftherisingmoon.html
+minas-morgul	1	1	Minas Ithil	Isildur's Tower of the Moon	http://www.glyphweb.com/arda/m/minasithil.html
+minas-tirith	1	1	Minas Anor	The Tower of the Setting Sun	http://www.glyphweb.com/arda/m/minasanor.html
+minas-tirith	1	1	"Minas Tirith / Minas Tirith, Gondor"	Gondor's Tower of Guard	http://www.glyphweb.com/arda/m/minastirith.html
+minas-tirith	1	1	Mundburg	A name for Minas Tirith	http://www.glyphweb.com/arda/m/mundburg.html
+minas-tirith	1	1	Tower of Guard	A name for Minas Tirith	http://www.glyphweb.com/arda/t/towerofguard.html
+minas-tirith	1	1	Tower of the Setting Sun	A name for Minas Anor	http://www.glyphweb.com/arda/t/towerofthesettingsun.html
+minas-tirith	1	1	Tower of the Sun	The city that would become Minas Tirith	http://www.glyphweb.com/arda/t/towerofthesun.html
+minas-tirith	1	1	White Tower	The Tower of Minas Tirith	http://www.glyphweb.com/arda/w/whitetower.html
+minas-tirith	1	1	City of Gondor	Minas Tirith beneath Mindolluin	http://www.glyphweb.com/arda/c/cityofgondor.html
+minas-tirith	1	1	Hill of Guard	The hill of Minas Tirith	http://www.glyphweb.com/arda/h/hillofguard.html
+mindolluin	1	1	Mindolluin / Mount Mindolluin	Easternmost of the White Mountains	http://www.glyphweb.com/arda/m/mindolluin.html
+mitheithel	1	1	Hoarwell / River Hoarwell	The northern river also called Mitheithel	http://www.glyphweb.com/arda/h/hoarwell.html
+mitheithel	1	1	Mitheithel	The northern river Men called the Hoarwell	http://www.glyphweb.com/arda/m/mitheithel.html
+mithlond	1	1	Grey Havens	The havens at the mouth of the Lhûn	http://www.glyphweb.com/arda/g/greyhavens.html
+mithlond	1	1	Mithlond	The Grey Havens	http://www.glyphweb.com/arda/m/mithlond.html
+mithnen	1	1	Greylin / River Greylin	One of the Anduins two source-rivers	http://www.glyphweb.com/arda/g/greylin.html
+morannon	1	1	Black Gate	The gate that guarded the northwestern entrance to Mordor	http://www.glyphweb.com/arda/b/blackgate.html
+morannon	1	1	Gate of Mordor	The gate across the Haunted Pass	http://www.glyphweb.com/arda/g/gateofmordor.html
+morannon	1	1	Gates of Mordor	Sauron's Black Gate	http://www.glyphweb.com/arda/g/gatesofmordor.html
+morannon	1	1	Morannon	The Black Gate	http://www.glyphweb.com/arda/m/morannon.html
+morannon	1	1	Towers of the Teeth	The twin guardians of Mordor	http://www.glyphweb.com/arda/t/towersoftheteeth.html
+mordor	1	1	Dark Land		http://www.glyphweb.com/arda/d/darkland.html
+mordor	1	1	Mordor		http://www.glyphweb.com/arda/m/mordor.html
+moria	1	1	Black Chasm	The darkness of Moria	http://www.glyphweb.com/arda/b/blackchasm.html
+moria	1	1	Black Pit	A name for Moria	http://www.glyphweb.com/arda/b/blackpit.html
+moria	1	1	Khazad-dúm / Khazad-dûm	The Mansions of Durin and his Kin	http://www.glyphweb.com/arda/k/khazaddum.html
+moria	1	1	Moria	The Black Chasm	http://www.glyphweb.com/arda/m/moria.html
+moria	1	1	Hadhodrond	The Elvish rendering of Khazad-dûm	http://www.glyphweb.com/arda/h/hadhodrond.html
+moria	1	1	Mines of Moria	The Dwarf-delvings of Khazad-dûm	http://www.glyphweb.com/arda/m/minesofmoria.html
+moria	1	1	Phurunargian	The Westron name of Khazad-dûm	http://www.glyphweb.com/arda/p/phurunargian.html
+mornorod	1	1	Dwimorberg	The Haunted Mountain	http://www.glyphweb.com/arda/d/dwimorberg.html
+mornorod	1	1	Haunted Mountain	The domain of the Dead	http://www.glyphweb.com/arda/h/hauntedmountain.html
+morthond	1	1	Blackroot	The river that rose above Erech	http://www.glyphweb.com/arda/b/blackroot.html
+nanduhirion	1	1	Dimrill Dale	The valley of Nanduhirion	http://www.glyphweb.com/arda/d/dimrilldale.html
+nanduhirion	1	1	Azanulbizar	The deep-shadowed valley of the Dimrill Dale	http://www.glyphweb.com/arda/a/azanulbizar.html
+nanduhirion	1	1	Nanduhirion	The Dimrill Dale	http://www.glyphweb.com/arda/n/nanduhirion.html
+narchost	1	1	Narchost	One of the two Towers of the Teeth	http://www.glyphweb.com/arda/n/narchost.html
+nardol	1	1	Nardol	The third of the Beacons of Gondor	http://www.glyphweb.com/arda/n/nardol.html
+near-harad	1	1	Near Harad		http://www.glyphweb.com/arda/n/nearharad.html
+nen-cenedril	1	1	Kheled-zâram	The shimmering Mirrormere	http://www.glyphweb.com/arda/k/kheledzaram.html
+nen-cenedril	1	1	Mirrormere	The hallowed lake of Kheled-zâram	http://www.glyphweb.com/arda/m/mirrormere.html
+nen-hithoel	1	1	Nen Hithoel	The great lake that fed the Falls of Rauros	http://www.glyphweb.com/arda/n/nenhithoel.html
+nenuial	1	1	Evendim / Lake Evendim	The lake on which Annúminas stood	http://www.glyphweb.com/arda/l/lakeevendim.html
+nenuial	1	1	Nenuial	Lake Evendim	http://www.glyphweb.com/arda/n/nenuial.html
+nenuial	1	1	Evendim		http://www.glyphweb.com/arda/e/evendim.html
+nimrodel	1	1	"Nimrodel / Nimrodel, River"	The river of the lost Elf-maiden	http://www.glyphweb.com/arda/n/nimrodelriver.html
+nin-in-eilph	1	1	Nîn-in-Eilph	The marshland region known as Swanfleet	http://www.glyphweb.com/arda/n/ninineilph.html
+nin-in-eilph	1	1	Swanfleet	The great marshlands of the River Glanduin	http://www.glyphweb.com/arda/s/swanfleet.html
+nindalf	1	1	Nindalf	The Wetwang marshes beneath the Emyn Muil	http://www.glyphweb.com/arda/n/nindalf.html
+nindalf	1	1	Wetwang	The great marshland beneath the Emyn Muil	http://www.glyphweb.com/arda/w/wetwang.html
+nurn	1	1	Nurn		http://www.glyphweb.com/arda/n/nurn.html
+nurnen	1	1	Núrnen / Lake Núrnen	Mordors inland sea	http://www.glyphweb.com/arda/l/lakenurnen.html
+nurnen	1	1	Núrnen / Sea of Núrnen	Mordors great inland sea	http://www.glyphweb.com/arda/s/seaofnurnen.html
+onodlo	1	1	Entwash / River Entwash	The broad river that flowed out of Fangorn	http://www.glyphweb.com/arda/e/entwash.html
+onodlo	1	1	Onodló	The ancient Elvish name for the Entwash	http://www.glyphweb.com/arda/o/onodlo.html
+orod-gram	1	1	Gram / Mount Gram	The domain of Golfimbul	http://www.glyphweb.com/arda/m/mountgram.html
+orodruin	1	1	Amon Amarth	The literal translation of Mount Doom	http://www.glyphweb.com/arda/a/amonamarth.html
+orodruin	1	1	Fiery Mountain	The flaming peak of Orodruin	http://www.glyphweb.com/arda/f/fierymountain.html
+orodruin	1	1	Fire-mountain	A name for Orodruin	http://www.glyphweb.com/arda/f/firemountain.html
+orodruin	1	1	Mount Doom	The Fire-mountain of Orodruin	http://www.glyphweb.com/arda/m/mountdoom.html
+orodruin	1	1	Mountain of Fire	Orodruin in the heart of Mordor	http://www.glyphweb.com/arda/m/mountainoffire.html
+orodruin	1	1	Orodruin	Mount Doom	http://www.glyphweb.com/arda/o/orodruin.html
+orthanc	1	1	Mount Fang	A name for the tower of Orthanc	http://www.glyphweb.com/arda/m/mountfang.html
+orthanc	1	1	Orthanc	The unbreachable tower within the Ring of Isengard	http://www.glyphweb.com/arda/o/orthanc.html
+orthanc	1	1	Tower of Orthanc	Stronghold of Saruman	http://www.glyphweb.com/arda/t/toweroforthanc.html
+osgiliath	1	1	Osgiliath	The ancient capital of Gondor	http://www.glyphweb.com/arda/o/osgiliath.html
+ost-in-edhil	1	1	Ost-in-Edhil	The city of the Elves of Eregion	http://www.glyphweb.com/arda/o/ostinedhil.html
+parth-celebrant	1	1	Field of Celebrant	The site of Eorls great victory	http://www.glyphweb.com/arda/f/fieldofcelebrant.html
+parth-celebrant	1	1	Parth Celebrant	The southern lands of old Lórien	http://www.glyphweb.com/arda/p/parthcelebrant.html
+parth-galen	1	1	Parth Galen	The green lawn beneath Amon Hen	http://www.glyphweb.com/arda/p/parthgalen.html
+pelargir	1	1	Pelargir	Haven of the Kings of Gondor	http://www.glyphweb.com/arda/p/pelargir.html
+pelennor	1	1	Pelennor Fields / Pelennor	The fields and townlands of Minas Tirith	http://www.glyphweb.com/arda/p/pelennor.html
+pendlanthir	1	1	Stair Falls	The falls of the Sirannon	http://www.glyphweb.com/arda/s/stairfalls.html
+perth-ninglor	1	1	Gladden Fields	The fields at the mouth of the Gladden River	http://www.glyphweb.com/arda/g/gladdenfields.html
+pinnath-gelin	1	1	Green Hills of Gondor	Pinnath Gelin in western Gondor	http://www.glyphweb.com/arda/g/greenhillsgondor.html
+pinnath-gelin	1	1	Pinnath Gelin	The Green Hills of western Gondor	http://www.glyphweb.com/arda/p/pinnathgelin.html
+poros	1	1	Poros / River Poros	The southern border-river of Ithilien	http://www.glyphweb.com/arda/p/poros.html
+rhimdath	1	1	Rushdown / River Rushdown	A northern tributary of the Anduin	http://www.glyphweb.com/arda/r/rushdown.html
+rhosgobel	1	1	Rhosgobel	Radagasts dwelling on the edge of Mirkwood	http://www.glyphweb.com/arda/r/rhosgobel.html
+rhovanion	1	1	Wilderland		http://www.glyphweb.com/arda/w/wilderland.html
+rhovanion	1	1	Rhovanion		http://www.glyphweb.com/arda/r/rhovanion.html
+rhudaur	1	1	Rhudaur		http://www.glyphweb.com/arda/r/rhudaur.html
+rhun	1	1	Rhún / Sea of Rhûn	The eastern inland sea of Middle-earth	http://www.glyphweb.com/arda/s/seaofrhun.html
+rhun	1	1	Rhûn		http://www.glyphweb.com/arda/r/rhun.html
+ringlo	1	1	Ringló / River Ringló	A river of southern Gondor	http://www.glyphweb.com/arda/r/ringlo.html
+rivendell	1	1	House of Elrond	The refuge of Rivendell	http://www.glyphweb.com/arda/h/houseofelrond.html
+rohan	1	1	Rochann		http://www.glyphweb.com/arda/r/rochann.html
+rohan	1	1	Mark		http://www.glyphweb.com/arda/m/mark.html
+rudhras	1	1	Starkhorn	The mountain at Harrowdales head	http://www.glyphweb.com/arda/s/starkhorn.html
+sarn-athrad	1	1	Sarn Athrad	The crossing-place of the River Gelion	http://www.glyphweb.com/arda/s/sarnathrad.html
+sarn-gebir	1	1	Sarn Gebir	The rapids of Anduin	http://www.glyphweb.com/arda/s/sarngebir.html
+sarnathrad	1	1	Sarn Ford	The crossing of the Baranduin to the south of the Shire	http://www.glyphweb.com/arda/s/sarnford.html
+serni	1	1	Serni / River Serni	A minor river of southern Gondor	http://www.glyphweb.com/arda/s/serni.html
+sir-celos	1	1	Kelos / Celos / River Celos	A river of eastern Gondor	http://www.glyphweb.com/arda/c/celos.html
+sir-ninglor	1	1	Gladden River / Gladden	River of the Golden Flowers	http://www.glyphweb.com/arda/g/gladden.html
+sir-ninglor	1	1	Ninglor / Sîr Ninglor	The Elves name for the Gladden River	http://www.glyphweb.com/arda/s/sirninglor.html
+sirith	1	1	Sirith / River Sirith	The river that met the Anduin at Pelargir	http://www.glyphweb.com/arda/s/sirith.html
+talf-tharn	1	1	Withered Heath	The dragons breeding-ground	http://www.glyphweb.com/arda/w/witheredheath.html
+tharbad	1	1	Tharbad	The city at the crossings of Greyflood	http://www.glyphweb.com/arda/t/tharbad.html
+tharbad	1	1	Bridge of Tharbad	The crossing of the Greyflood	http://www.glyphweb.com/arda/b/bridgeoftharbad.html
+the-wold	1	1	The Wold		http://www.glyphweb.com/arda/w/wold.html
+tol-brandir	1	1	Tindrock Isle / Tindrock	The steep-sided isle of Nen Hithoel	http://www.glyphweb.com/arda/t/tindrock.html
+tol-brandir	1	1	Tol Brandir	The island known as the Tindrock	http://www.glyphweb.com/arda/t/tolbrandir.html
+tolfalas	1	1	Tolfalas / Tol Falas	The island at the Mouths of Anduin	http://www.glyphweb.com/arda/t/tolfalas.html
+uanlo	1	1	Ettenmoors	The empty moors north of Rivendell	http://www.glyphweb.com/arda/e/ettenmoors.html
+uanlo	1	1	Troll-fells	The Ettenmoors north of Rivendell	http://www.glyphweb.com/arda/t/trollfells.html
+uanlo	1	1	Ettendales	The troll-country north of Rivendell	http://www.glyphweb.com/arda/e/ettendales.html
+udun	1	1	"Udún / Udûn, Name of Utumno"	Melkors ancient fortress in the far north of the World	http://www.glyphweb.com/arda/u/udun.html
+udun	1	1	"Udún / Udûn, Valley in Mordor"	The valley behind the Gates of Mordor	http://www.glyphweb.com/arda/u/udunvalley.html
+umbar	1	1	Umbar	The great haven far to the south of Gondor	http://www.glyphweb.com/arda/u/umbar.html
+upbourn	1	1	Upbourn	A hamlet of Harrowdale	http://www.glyphweb.com/arda/u/upbourn.html
+west-emnet	1	1	Westemnet	The western plain of Rohan	http://www.glyphweb.com/arda/w/westemnet.html
+westfold	1	1	Westfold		http://www.glyphweb.com/arda/w/westfold.html
+gondor	1	1	Stoningland		http://www.glyphweb.com/arda/s/stoningland.html
+eryn-lasgalen	1	1	Woodland Realm		http://www.glyphweb.com/arda/w/woodlandrealm.html
+mordor	1	1	Dark Country		http://www.glyphweb.com/arda/d/darkcountry.html
+eastfold	1	1	East Dales		http://www.glyphweb.com/arda/e/eastdales.html
+ennorath	1	1	Hither Shore		http://www.glyphweb.com/arda/h/hithershore.html
+ardhon-iaur-arnor	1	1	North-kingdom		http://www.glyphweb.com/arda/n/northkingdom.html
+caradhras	1	1	The Cruel		http://www.glyphweb.com/arda/c/cruel.html
+ardhon-iaur-arnor	1	1	Arnor		http://www.glyphweb.com/arda/a/arnor.html
+eastfold	1	1	Eastfold		http://www.glyphweb.com/arda/e/eastfold.html
+minhiriath	1	1	Minhiriath		http://www.glyphweb.com/arda/m/minhiriath.html
+ardhon-iaur-arnor	1	1	North-realm		http://www.glyphweb.com/arda/n/northrealm.html
+mordor	1	1	Black Land		http://www.glyphweb.com/arda/b/blackland.html
+anorien	1	1	Sunlending		http://www.glyphweb.com/arda/s/sunlending.html
+lo-edrein	1	1	Fenmarch		http://www.glyphweb.com/arda/f/fenmarch.html
+lothlorien	1	1	Lindórinand		http://www.glyphweb.com/arda/l/lindorinand.html
+gondor	1	1	Southlands		http://www.glyphweb.com/arda/s/southlands.html
+ennorath	1	1	Dark Lands		http://www.glyphweb.com/arda/d/darklands.html
+rhun	1	1	Eastlands of Middle-earth		http://www.glyphweb.com/arda/e/eastlands.html
+Rhovanion	1	1	The Wild		http://www.glyphweb.com/arda/w/wild.html
+lothlorien	1	1	Lórinand		http://www.glyphweb.com/arda/l/lorinand.html
+folde	1	1	Folde		http://www.glyphweb.com/arda/f/folde.html
+gondor	1	1	Kingdom of the South		http://www.glyphweb.com/arda/k/kingdomofthesouth.html
+ennorath	1	1	Great Lands		http://www.glyphweb.com/arda/g/greatlands.html
+cirith-morgul	1	0	Morgul Pass	The main pass of the Ephel Dúath	http://www.glyphweb.com/arda/m/morgulpass.html
+dol-baran	1	0	Dol Baran	Last of the southern foothills of the Misty Mountains	http://www.glyphweb.com/arda/d/dolbaran.html
+emmynion-rhun-moria	1	0	East-gate of Moria	The eastern entrance to old Khazad-dûm	http://www.glyphweb.com/arda/e/eastgateofmoria.html
+ennynion-rhun-moria	1	0	Dimrill Gate	The East-gate of Moria	http://www.glyphweb.com/arda/d/dimrillgate.html
+ennynion-rhun-moria	1	0	Great Gates	The eastern entrance to Khazad-dûm	http://www.glyphweb.com/arda/g/greatgates.html
+lanthir-rauros	1	0	Rauros	The falls beneath Nen Hithoel	http://www.glyphweb.com/arda/r/rauros.html
+morgulduin	1	0	Morgulduin	The stream of Imlad Morgul	http://www.glyphweb.com/arda/m/morgulduin.html
+moria	1	0	Dwarrowdelf	The Mannish name for Khazad-dûm	http://www.glyphweb.com/arda/d/dwarrowdelf.html
+nan-curunir	1	0	Wizard's Vale	Nan Curunír in the Misty Mountains	http://www.glyphweb.com/arda/w/wizardsvale.html
+needlehole	1	0	Needlehole	A village in the northwest of the Shire	http://www.glyphweb.com/arda/n/needlehole.html
+orod-rerir	1	0	Rerir / Mount Rerir	The mountain above Lake Helevorn	http://www.glyphweb.com/arda/r/rerir.html
+rath-dinen	1	0	Rath Dínen	The Silent Street	http://www.glyphweb.com/arda/r/rathdinen.html
+rath-dinen	1	0	Silent Street	Minas Tiriths street of tombs	http://www.glyphweb.com/arda/s/silentstreet.html
+rimmon	1	0	Rimmon	A region of the White Mountains	http://www.glyphweb.com/arda/r/rimmon.html
+sirannon	1	0	Sirannon	The Gate-stream of Khazad-dûm	http://www.glyphweb.com/arda/s/sirannon.html
+iorost	1	0	Aldburg	Historic home of Eorl the Young	http://www.glyphweb.com/arda/a/aldburg.html
+minas-tirith	1	0	Amon Tirith	The Hill of Guard	http://www.glyphweb.com/arda/a/amontirith.html
+	1	0	Archet	Forest village of Bree-land	http://www.glyphweb.com/arda/a/archet.html
+	1	0	Bag End	The great smial beneath Hobbiton Hill	http://www.glyphweb.com/arda/b/bagend.html
+	1	0	Bagshot Row	The row of smials beneath Bag End	http://www.glyphweb.com/arda/b/bagshotrow.html
+	1	0	Bamfurlong	The home of Farmer Maggot	http://www.glyphweb.com/arda/b/bamfurlong.html
+	1	0	Barrow-downs	The haunted hills of Tyrn Gorthad	http://www.glyphweb.com/arda/b/barrowdowns.html
+	1	0	Barrowfield	The grave-ground of the Kings of Rohan	http://www.glyphweb.com/arda/b/barrowfield.html
+	1	0	"Beacons of Gondor / Gondor, Beacons of"	The warning-fires of Minas Tirith	http://www.glyphweb.com/arda/b/beaconsofgondor.html
+	1	0	Bindbole Wood	A northern wood of the Shire	http://www.glyphweb.com/arda/b/bindbolewood.html
+	1	0	Blackroot Vale	The valley of the River Morthond	http://www.glyphweb.com/arda/b/blackrootvale.html
+	1	0	Bonfire Glade	A burnt glade in the Old Forest	http://www.glyphweb.com/arda/b/bonfireglade.html
+	1	0	Brandy Hall	The seat of the Brandybuck family	http://www.glyphweb.com/arda/b/brandyhall.html
+	1	0	Bree-hill	The centrepoint of the Bree-land	http://www.glyphweb.com/arda/b/breehill.html
+	1	0	Breredon	A village beyond the Hedge	http://www.glyphweb.com/arda/b/breredon.html
+	1	0	Bridge of Khazad-dúm / Bridge of Khazad-dûm	The entranceway to the Second Hall	http://www.glyphweb.com/arda/b/bridgeofkhazaddum.html
+	1	0	Brockenbores / Brockenborings	A settlement in the north of the Shire	http://www.glyphweb.com/arda/b/brockenbores.html
+	1	0	Buck Hill	The hill that held Brandy Hall	http://www.glyphweb.com/arda/b/buckhill.html
+	1	0	Buckland Gate	The North Gate of the Bucklanders	http://www.glyphweb.com/arda/b/bucklandgate.html
+	1	0	Bucklebury	A village on the banks of the Brandywine	http://www.glyphweb.com/arda/b/bucklebury.html
+	1	0	Bucklebury Ferry	The ferry across the Brandywine into Buckland	http://www.glyphweb.com/arda/b/buckleburyferry.html
+	1	0	Budgeford	A town of the Shires Eastfarthing	http://www.glyphweb.com/arda/b/budgeford.html
+	1	0	Bywater	The village by the Water	http://www.glyphweb.com/arda/b/bywater.html
+	1	0	Bywater Road	The road to Bywater and beyond	http://www.glyphweb.com/arda/b/bywaterroad.html
+	1	0	Cape of Forochel	The home of the Lossoth	http://www.glyphweb.com/arda/c/capeofforochel.html
+	1	0	"Causeway / Causeway, Gondor"	The roadway between the Osgiliath and the Pelennor	http://www.glyphweb.com/arda/c/causeway.html
+	1	0	Chamber of Mazarbul	The Chamber of Records in old Khazad-dûm	http://www.glyphweb.com/arda/c/chamberofmazarbul.html
+	1	0	Chamber of Records	The Chamber of Mazarbul in Khazad-dûm	http://www.glyphweb.com/arda/c/chamberofrecords.html
+	1	0	Citadel of Gondor	The seventh circle of Minas Tirith	http://www.glyphweb.com/arda/c/citadelofgondor.html
+	1	0	Closed Door	The door that led to the Silent Street	http://www.glyphweb.com/arda/c/closeddoor.html
+	1	0	Combe	A village of the Bree-land	http://www.glyphweb.com/arda/c/combe.html
+	1	0	Cracks of Doom	The heart of Orodruin	http://www.glyphweb.com/arda/c/cracksofdoom.html
+	1	0	Crickhollow	A village of northern Buckland	http://www.glyphweb.com/arda/c/crickhollow.html
+	1	0	Cross-roads	The road-meeting in central Ithilien	http://www.glyphweb.com/arda/c/crossroads.html
+	1	0	Dark Door	The entrance into the Paths of the Dead	http://www.glyphweb.com/arda/d/darkdoor.html
+	1	0	Deephallow	A village of the Shire's Eastfarthing	http://www.glyphweb.com/arda/d/deephallow.html
+	1	0	Deeping	The guarded vale of the Deeping-stream	http://www.glyphweb.com/arda/d/deeping.html
+	1	0	Deeping Wall	The defensive wall of Helms Deep	http://www.glyphweb.com/arda/d/deepingwall.html
+	1	0	Deeping-road	The road to Helms Deep	http://www.glyphweb.com/arda/d/deepingroad.html
+	1	0	Deeping-stream	The stream of Helm's Deep	http://www.glyphweb.com/arda/d/deepingstream.html
+	1	0	Derndingle	The place of Entmoot	http://www.glyphweb.com/arda/d/derndingle.html
+	1	0	Desolation of Smaug	The blasted domain of the Dragon of Erebor	http://www.glyphweb.com/arda/d/desolationofsmaug.html
+	1	0	Desolation of the Dragon	The burned lands around Erebor	http://www.glyphweb.com/arda/d/desolationofthedragon.html
+	1	0	Desolation of the Morannon	The desert before Mordor's Gates	http://www.glyphweb.com/arda/d/desolationofthemorannon.html
+	1	0	Dimrill Stair	The pass down into the Dimrill Dale	http://www.glyphweb.com/arda/d/dimrillstair.html
+	1	0	Dîn	The hill to the east of the Drúadan Forest	http://www.glyphweb.com/arda/d/din.html
+	1	0	Dome of Stars	The great hall of Osgiliath	http://www.glyphweb.com/arda/d/domeofstars.html
+	1	0	Door of the Dead	The gateway of the Haunted Mountain	http://www.glyphweb.com/arda/d/doorofthedead.html
+	1	0	Durin's Stone	The standing stone beside the Mirrormere	http://www.glyphweb.com/arda/d/durinsstone.html
+	1	0	Durin’s Bridge / Durin's Bridge	The Bridge of Khazad-dûm	http://www.glyphweb.com/arda/d/durinsbridge.html
+	1	0	Dwaling	A northern settlement of the Shire	http://www.glyphweb.com/arda/d/dwaling.html
+	1	0	East Bight	Mirkwood's treeless tract	http://www.glyphweb.com/arda/e/eastbight.html
+	1	0	East Wall of Rohan	The edge of the Emyn Muil	http://www.glyphweb.com/arda/e/eastwallofrohan.html
+	1	0	Edge of the Wild	The limit of the civilized lands	http://www.glyphweb.com/arda/e/edgeofthewild.html
+	1	0	Elvenking's Halls	The stronghold of the Woodland Realm	http://www.glyphweb.com/arda/e/elvenkingshalls.html
+	1	0	Enchanted River	The black river of northern Mirkwood	http://www.glyphweb.com/arda/e/enchantedriver.html
+	1	0	Endless Stair	The stair that led to Durins Tower	http://www.glyphweb.com/arda/e/endlessstair.html
+	1	0	Entwash Vale	The wide valley of the River Entwash	http://www.glyphweb.com/arda/e/entwashvale.html
+	1	0	Ethir	The land at the Mouths of Anduin	http://www.glyphweb.com/arda/e/ethir.html
+	1	0	Fen Hollen	The Closed Door	http://www.glyphweb.com/arda/f/fenhollen.html
+	1	0	Field of Cormallen	A garth of Ithilien	http://www.glyphweb.com/arda/c/cormallen.html
+	1	0	Firien-dale	The valley beneath Halifirien	http://www.glyphweb.com/arda/f/firiendale.html
+	1	0	Firienfeld	The mountain-field of Dunharrow	http://www.glyphweb.com/arda/f/firienfield.html
+	1	0	First Hall	The great eastern hall of Khazad-dûm	http://www.glyphweb.com/arda/f/firsthall.html
+	1	0	Floating Log	The inn at Frogmorton	http://www.glyphweb.com/arda/f/floatinglog.html
+	1	0	Ford of Carrock	A crossing of the upper Anduin	http://www.glyphweb.com/arda/f/fordofcarrock.html
+	1	0	Forsaken Inn	The last inn on the road into Eriador	http://www.glyphweb.com/arda/f/forsakeninn.html
+	1	0	Framsburg	The chief town of the Éothéod	http://www.glyphweb.com/arda/f/framsburg.html
+	1	0	Frogmorton	Home of The Floating Log	http://www.glyphweb.com/arda/f/frogmorton.html
+	1	0	Front Gate	The entrance to Erebor	http://www.glyphweb.com/arda/f/frontgate.html
+	1	0	Gamwich	A village of the Shire	http://www.glyphweb.com/arda/g/gamwich.html
+	1	0	Gate of Erebor	The Front Gate of the Lonely Mountain	http://www.glyphweb.com/arda/g/gateoferebor.html
+	1	0	Gate of Isengard	The guarded archway that led to Orthanc	http://www.glyphweb.com/arda/g/gateofisengard.html
+	1	0	Girdley Island	An island in the River Brandywine	http://www.glyphweb.com/arda/g/girdleyisland.html
+	1	0	Goblin-town	A city of the Orcs	http://www.glyphweb.com/arda/g/goblintown.html
+	1	0	Golden Hall	The gold-thatched hall of the Kings of Rohan	http://www.glyphweb.com/arda/g/goldenhall.html
+	1	0	Golden Perch	Home of the best beer in the Eastfarthing	http://www.glyphweb.com/arda/g/goldenperch.html
+	1	0	Great Gate of Minas Tirith	Entrance to the City of Gondor	http://www.glyphweb.com/arda/g/greatgateofminastirith.html
+	1	0	Great Hall of Feasts	The feasting-hall of Minas Tirith	http://www.glyphweb.com/arda/g/greathalloffeasts.html
+	1	0	Great House	The hall of the Master of Lake-town	http://www.glyphweb.com/arda/g/greathouse.html
+	1	0	Great Smials	The seat of the Took family	http://www.glyphweb.com/arda/g/greatsmials.html
+	1	0	Great West Road	The westward road out of Minas Tirith	http://www.glyphweb.com/arda/g/greatwestroad.html
+	1	0	Green Dragon	An inn of Bywater	http://www.glyphweb.com/arda/g/greendragon.html
+	1	0	Green Hills of the Shire	The range of hills that ran through the Shire	http://www.glyphweb.com/arda/g/greenhills.html
+	1	0	Greenholm	A settlement on the Far Downs	http://www.glyphweb.com/arda/g/greenholm.html
+	1	0	Grey Wood	The forest beneath Amon Dín	http://www.glyphweb.com/arda/g/greywood.html
+	1	0	Hall of Fire	The tale-hall of Rivendell	http://www.glyphweb.com/arda/h/halloffire.html
+	1	0	Hallows of Minas Tirith	The tombs of the great ones of Gondor	http://www.glyphweb.com/arda/h/hallowsofminastirith.html
+	1	0	Hardbottle	A township in the Shires Northfarthing	http://www.glyphweb.com/arda/h/hardbottle.html
+	1	0	Harrowdale	The mountain valley of the Snowbourn River	http://www.glyphweb.com/arda/h/harrowdale.html
+	1	0	Hay Gate	The northern gate of the High Hay	http://www.glyphweb.com/arda/h/haygate.html
+	1	0	Haysend	The village at the end of the High Hay	http://www.glyphweb.com/arda/h/haysend.html
+	1	0	Hedge	The eastern boundary of Buckland	http://www.glyphweb.com/arda/h/hedge.html
+	1	0	Helcar	An inland sea in the distant east of Middle-earth	http://www.glyphweb.com/arda/h/helcar.html
+	1	0	Helm’s Dike	The defensive dike of the Deeping-coomb	http://www.glyphweb.com/arda/h/helmsdike.html
+	1	0	Helm’s Gate	The guarded entrance to Helm's Deep	http://www.glyphweb.com/arda/h/helmsgate.html
+	1	0	High Hay	The great fence that ran between Buckland and the Old Forest	http://www.glyphweb.com/arda/h/highhay.html
+	1	0	Hobbit-holes	The underground dwellings of the Little Folk	http://www.glyphweb.com/arda/h/hobbitholes.html
+	1	0	Hobbiton Hill	The hill above Bag End	http://www.glyphweb.com/arda/h/hobbitonhill.html
+	1	0	Hobbiton Road	The road from Bywater to Hobbiton	http://www.glyphweb.com/arda/h/hobbitonroad.html
+	1	0	Hornburg	The castle that guarded Helms Deep	http://www.glyphweb.com/arda/h/hornburg.html
+	1	0	Hornrock	The foundation of the Hornburg	http://www.glyphweb.com/arda/h/hornrock.html
+	1	0	House of the Kings	The last resting place of Aragorn	http://www.glyphweb.com/arda/h/houseofthekings.html
+	1	0	House of the Mírdain	The guildhouse of the jewelsmiths of Eregion	http://www.glyphweb.com/arda/h/houseofthemirdain.html
+	1	0	Houses of Healing	The hospital of Minas Tirith	http://www.glyphweb.com/arda/h/housesofhealing.html
+	1	0	Houses of the Dead / Houses of the Dead (in Minas Tirith)	The tombs of Rath Dínen	http://www.glyphweb.com/arda/h/housesofthedead.html
+	1	0	Imlad Morgul	The valley of the Morgulduin	http://www.glyphweb.com/arda/i/imladmorgul.html
+	1	0	Inn of Bree	The Prancing Pony	http://www.glyphweb.com/arda/i/innofbree.html
+	1	0	Ivy Bush	An inn on the Bywater Road	http://www.glyphweb.com/arda/i/ivybush.html
+	1	0	King’s House / King's House	The seat of the Kings of Gondor	http://www.glyphweb.com/arda/k/kingshouse.html
+	1	0	Lampwrights' Street	Rath Celerdain in Minas Tirith	http://www.glyphweb.com/arda/l/lampwrightsstreet.html
+	1	0	Little Delving	A small village near Michel Delving	http://www.glyphweb.com/arda/l/littledelving.html
+	1	0	Lockholes	The short-lived prison cells of Michel Delving	http://www.glyphweb.com/arda/l/lockholes.html
+	1	0	Long Cape	The cape to the north of the Bay of Belfalas	http://www.glyphweb.com/arda/l/longcape.html
+	1	0	Long Cleeve	The home of the North-tooks	http://www.glyphweb.com/arda/l/longcleeve.html
+	1	0	Longbottom	The birthplace of pipe-weed in the Shire	http://www.glyphweb.com/arda/l/longbottom.html
+	1	0	Máhanaxar	The Ring of Doom before the gates of Valmar	http://www.glyphweb.com/arda/m/mahanaxar.html
+	1	0	Mathom-house	The 'museum' of Michel Delving	http://www.glyphweb.com/arda/m/mathomhouse.html
+	1	0	Meduseld	The Golden Hall of the King of Rohan	http://www.glyphweb.com/arda/m/meduseld.html
+	1	0	Merethrond	The Great Hall of Feasts	http://www.glyphweb.com/arda/m/merethrond.html
+	1	0	Michel Delving	The chief township of the Shire	http://www.glyphweb.com/arda/m/micheldelving.html
+	1	0	Mickleburg	A great Dwarf-city of the Blue Mountains	http://www.glyphweb.com/arda/m/mickleburg.html
+	1	0	Morgai	The inner fence of Mordor	http://www.glyphweb.com/arda/m/morgai.html
+	1	0	Morgul	The city of the Ringwraiths and its vale	http://www.glyphweb.com/arda/m/morgul.html
+	1	0	Morgul Vale	The valley behind Minas Morgul in the Ephel Dúath	http://www.glyphweb.com/arda/m/morgulvale.html
+	1	0	Morgul Valley	The valley where Minas Morgul stood	http://www.glyphweb.com/arda/m/morgulvalley.html
+	1	0	Morgul-road	The road that passed Minas Morgul	http://www.glyphweb.com/arda/m/morgulroad.html
+	1	0	Morthond Vale	The valley of the Blackroot	http://www.glyphweb.com/arda/m/morthondvale.html
+	1	0	Mound of Elendil	Elendils grave on the Halifirien	http://www.glyphweb.com/arda/m/moundofelendil.html
+	1	0	Mounds of Mundburg	The war-graves of Minas Tirith	http://www.glyphweb.com/arda/m/moundsofmundburg.html
+	1	0	Nan Curunír	The valley of the Wizard Saruman	http://www.glyphweb.com/arda/n/nancurunir.html
+	1	0	Narrows of the Forest	The neck of southern Mirkwood	http://www.glyphweb.com/arda/n/narrowsoftheforest.html
+	1	0	New Row	The smials that replaced Bagshot Row	http://www.glyphweb.com/arda/n/newrow.html
+	1	0	Newbury	A village of Buckland	http://www.glyphweb.com/arda/n/newbury.html
+	1	0	Nobottle	A village of the northwestern Shire	http://www.glyphweb.com/arda/n/nobottle.html
+	1	0	North Gate	The Hay Gate of Buckland	http://www.glyphweb.com/arda/n/northgate.html
+	1	0	North Road of Ithilien	The road to the Morannon	http://www.glyphweb.com/arda/n/northroadofithilien.html
+	1	0	Oatbarton	A settlement of the Shire's Northfarthing	http://www.glyphweb.com/arda/o/oatbarton.html
+	1	0	Old Mill	The mill of the Hobbiton	http://www.glyphweb.com/arda/o/oldmill.html
+	1	0	Overbourn Marshes	The marshland to the southeast of the Shire	http://www.glyphweb.com/arda/o/overbournmarshes.html
+	1	0	Overhill	The village beyond Hobbiton Hill	http://www.glyphweb.com/arda/o/overhill.html
+	1	0	Party Field	The field of Bilbos farewell feast	http://www.glyphweb.com/arda/p/partyfield.html
+	1	0	Pass of Anach	The western pass of the Ered Gorgoroth	http://www.glyphweb.com/arda/p/passofanach.html
+	1	0	Paths of the Dead	The haunted caverns beneath the Ered Nimrais	http://www.glyphweb.com/arda/p/pathsofthedead.html
+	1	0	Pincup	A village of the Shires Southfarthing	http://www.glyphweb.com/arda/p/pincup.html
+	1	0	Pinnacle of Orthanc	The high tower of Isengard	http://www.glyphweb.com/arda/p/pinnacleoforthanc.html
+	1	0	Prancing Pony	The Inn of Bree	http://www.glyphweb.com/arda/p/prancingpony.html
+	1	0	Rammas Echor	The boundary wall of the Pelennor Fields	http://www.glyphweb.com/arda/r/rammasechor.html
+	1	0	Rath Celerdain	A street of Minas Tirith	http://www.glyphweb.com/arda/r/rathcelerdain.html
+	1	0	Ring of Isengard	The defences of Orthanc	http://www.glyphweb.com/arda/r/ringofisengard.html
+	1	0	Ringló Vale	The upper course of the River Ringló	http://www.glyphweb.com/arda/r/ringlovale.html
+	1	0	Rushey	A village of the Shires Eastfarthing	http://www.glyphweb.com/arda/r/rushey.html
+	1	0	Rushock Bog	The marshland of Needlehole	http://www.glyphweb.com/arda/r/rushockbog.html
+	1	0	Sammath Naur	The Chambers of Fire in the heart of Mount Doom	http://www.glyphweb.com/arda/s/sammathnaur.html
+	1	0	Scary	A village in the uplands of the Shire	http://www.glyphweb.com/arda/s/scary.html
+	1	0	Second Hall	The great hall that held Durin's Bridge	http://www.glyphweb.com/arda/s/secondhall.html
+	1	0	Shelob’s Lair / Shelob's Lair	The dark tunnels of Cirith Ungol	http://www.glyphweb.com/arda/s/shelobslair.html
+	1	0	Shirebourn / River Shirebourn	A southern river of the Shire	http://www.glyphweb.com/arda/s/shirebourn.html
+	1	0	Smials	The Hobbits name for their holes	http://www.glyphweb.com/arda/s/smials.html
+	1	0	Snowmane's Howe	The grave of Théodens horse	http://www.glyphweb.com/arda/s/snowmaneshowe.html
+	1	0	South Lane	The way to the home of the Cotton family	http://www.glyphweb.com/arda/s/southlane.html
+	1	0	Southward Road	The long road through Ithilien	http://www.glyphweb.com/arda/s/southwardroad.html
+	1	0	Staddle	The home of the Bree-hobbits	http://www.glyphweb.com/arda/s/staddle.html
+	1	0	Stairs of Cirith Ungol	The hidden way into the Ephel Dúath	http://www.glyphweb.com/arda/s/stairsofcirithungol.html
+	1	0	Standelf	A village of southern Buckland	http://www.glyphweb.com/arda/s/standelf.html
+	1	0	Stock	A small town of the Marish	http://www.glyphweb.com/arda/s/stock.html
+	1	0	Stock Road	The road through the Green Hill Country	http://www.glyphweb.com/arda/s/stockroad.html
+	1	0	Stock-brook	The stream that flowed through Stock in the Shire	http://www.glyphweb.com/arda/s/stockbrook.html
+	1	0	Straight Stair	The lower of the Stairs of Cirith Ungol	http://www.glyphweb.com/arda/s/straightstair.html
+	1	0	Súthburg	The fortress later known as the Hornburg	http://www.glyphweb.com/arda/s/suthburg.html
+	1	0	Teeth of Mordor	The towers of Narchost and Carchost	http://www.glyphweb.com/arda/t/teethofmordor.html
+	1	0	The Hill / Hill	"Hobbiton Hill, to the local Hobbits"	http://www.glyphweb.com/arda/h/hill.html
+	1	0	The Pool / Pool	The small lake at Bywater	http://www.glyphweb.com/arda/p/pool.html
+	1	0	The River / River	The Hobbits name for the Brandywine	http://www.glyphweb.com/arda/r/river.html
+	1	0	The Water / Water	The main river running through the Shire	http://www.glyphweb.com/arda/w/water.html
+	1	0	Thistle Brook	A tributary of the Shirebourn	http://www.glyphweb.com/arda/t/thistlebrook.html
+	1	0	Three-Farthing Stone / Three Farthing Stone	The meeting point of three of the Shires farthings	http://www.glyphweb.com/arda/t/threefarthingstone.html
+	1	0	Thrihyrne	The northernmost peaks of the White Mountains	http://www.glyphweb.com/arda/t/thrihyrne.html
+	1	0	Tighfield	The home of Sam Gamgees ancestors	http://www.glyphweb.com/arda/t/tighfield.html
+	1	0	Tomb of Elendil	The secret of the Halifirien	http://www.glyphweb.com/arda/t/tombofelendil.html
+	1	0	Tookbank	A village of the Tookland	http://www.glyphweb.com/arda/t/tookbank.html
+	1	0	Torech Ungol	Shelobs Lair	http://www.glyphweb.com/arda/t/torechungol.html
+	1	0	Tower of Anor	The city of Minas Tirith	http://www.glyphweb.com/arda/t/towerofanor.html
+	1	0	Tower of Cirith Ungol	A guard-tower of Mordors western borders	http://www.glyphweb.com/arda/t/towerofcirithungol.html
+	1	0	Tower of Ecthelion	The White Tower at the peak of Minas Tirith	http://www.glyphweb.com/arda/t/towerofecthelion.html
+	1	0	Towers of Gondor	The sites of three Seeing-stones	http://www.glyphweb.com/arda/t/towersofgondor.html
+	1	0	Treebeard's Hill	A rocky hill in eastern Fangorn	http://www.glyphweb.com/arda/t/treebeardshill.html
+	1	0	Tuckborough	The township beneath Great Smials	http://www.glyphweb.com/arda/t/tuckborough.html
+	1	0	"Tumladen, Gondor"	A minor valley of eastern Gondor	http://www.glyphweb.com/arda/t/tumladengondor.html
+	1	0	Tumunzahar	A Dwarf-city of the Blue Mountains	http://www.glyphweb.com/arda/t/tumunzahar.html
+	1	0	Undeeps	The meanderings of the Great River	http://www.glyphweb.com/arda/u/undeeps.html
+	1	0	Underharrow	A hamlet on the River Snowbourn	http://www.glyphweb.com/arda/u/underharrow.html
+	1	0	"Underhill / Underhill, Hamlet"	The hamlet under Hobbiton Hill	http://www.glyphweb.com/arda/u/underhill.html
+	1	0	Undertowers	The home of the Wardens of Westmarch	http://www.glyphweb.com/arda/u/undertowers.html
+	1	0	Vales of Anduin / Vale(s) of Anduin	The valley of the Great River	http://www.glyphweb.com/arda/v/valesofanduin.html
+	1	0	Walls of Moria	The western cliffs of the Mountains of Moria	http://www.glyphweb.com/arda/w/wallsofmoria.html
+	1	0	Watchwood	The guardians of Isengard	http://www.glyphweb.com/arda/w/watchwood.html
+	1	0	Waymoot / Waymeet	A township on the East Road	http://www.glyphweb.com/arda/w/waymeet.html
+	1	0	Wellinghall	The Ent-house beneath the spring of Entwash	http://www.glyphweb.com/arda/w/wellinghall.html
+	1	0	West Road	The road running westward from Minas Tirith	http://www.glyphweb.com/arda/w/westroad.html
+	1	0	West-gate of Bree	The gate guarded by Harry Goatleaf	http://www.glyphweb.com/arda/w/westgateofbree.html
+	1	0	Westfold Vale	A wide valley of the White Mountains	http://www.glyphweb.com/arda/w/westfoldvale.html
+	1	0	Whitwell	A township of the Tookland	http://www.glyphweb.com/arda/w/whitwell.html
+	1	0	Willowbottom	A village on the course of Thistle Brook	http://www.glyphweb.com/arda/w/willowbottom.html
+	1	0	Withy-path	The pathway beside the Withywindle	http://www.glyphweb.com/arda/w/withypath.html
+	1	0	Withywindle / River Withywindle	The river that flowed through the Old Forest	http://www.glyphweb.com/arda/w/withywindle.html
+	1	0	Woodhall	A village of the eastern Shire	http://www.glyphweb.com/arda/w/woodhall.html
+	1	0	Northfarthing of the Shire		http://www.glyphweb.com/arda/n/northfarthing.html
+	1	0	"Westlands, Middle-earth"		http://www.glyphweb.com/arda/w/westlands.html
+	1	0	Green Hill Country		http://www.glyphweb.com/arda/g/greenhillcountry.html
+	1	0	Marish		http://www.glyphweb.com/arda/m/marish.html
+	1	0	Four Farthings		http://www.glyphweb.com/arda/f/fourfarthings.html
+	1	0	Lindon		http://www.glyphweb.com/arda/l/lindon.html
+	1	0	Éothéod		http://www.glyphweb.com/arda/e/eotheod.html
+	1	0	West-mark		http://www.glyphweb.com/arda/w/westmark.html
+	1	0	Buckland		http://www.glyphweb.com/arda/b/buckland.html
+	1	0	Woody End		http://www.glyphweb.com/arda/w/woodyend.html
+	1	0	Yale		http://www.glyphweb.com/arda/y/yale.html
+	1	0	Southfarthing of the Shire		http://www.glyphweb.com/arda/s/southfarthing.html
+	1	0	Eastfarthing of the Shire		http://www.glyphweb.com/arda/e/eastfarthing.html
+	1	0	Westmarch of the Shire		http://www.glyphweb.com/arda/w/westmarch.html
+	1	0	Eastmarch of the Shire		http://www.glyphweb.com/arda/e/eastmarch.html
+	1	0	"Angle, Lórien"		http://www.glyphweb.com/arda/a/anglelorien.html
+	1	0	Reunited Kingdom		http://www.glyphweb.com/arda/r/reunitedkingdom.html
+	1	0	Westfarthing of the Shire		http://www.glyphweb.com/arda/w/westfarthing.html
+	1	0	Farthings		http://www.glyphweb.com/arda/f/farthings.html
+	1	0	"Angle, Bruinen"		http://www.glyphweb.com/arda/a/angle.html
+	1	0	Tookland		http://www.glyphweb.com/arda/t/tookland.html
+	1	0	Ithilien		http://www.glyphweb.com/arda/i/ithilien.html
+	1	0	East Lórien		http://www.glyphweb.com/arda/e/eastlorien.html
+	1	0	Naith		http://www.glyphweb.com/arda/n/naith.html
+	1	0	Gore		http://www.glyphweb.com/arda/g/gore.html
+	1	0	Henneth Annûn		http://www.glyphweb.com/arda/h/hennethannun.html
+fangorn	1	0	Ent-houses		http://www.glyphweb.com/arda/e/enthouses.html
+	1	0	Egladil		http://www.glyphweb.com/arda/e/egladil.html
+	1	0	East-mark		http://www.glyphweb.com/arda/e/eastmark.html
+	1	0	Imloth Melui		http://www.glyphweb.com/arda/i/imlothmelui.html
+	1	0	Bridgefields		http://www.glyphweb.com/arda/b/bridgefields.html
+	1	0	Mithe		http://www.glyphweb.com/arda/m/mithe.html
+	1	0	West-march of Rohan		http://www.glyphweb.com/arda/w/westmarchofrohan.html
+	1	0	Two Kingdoms		http://www.glyphweb.com/arda/t/twokingdoms.html
+	1	0	Elf-havens		http://www.glyphweb.com/arda/e/elfhavens.html
+	1	0	Greenfields		http://www.glyphweb.com/arda/g/greenfields.html
+	1	0	Kingdoms of the Dúnedain		http://www.glyphweb.com/arda/k/kingdomsofthedunedain.html
+	0	0	Adurant / River Adurant	Southernmost of the tributaries of Gelion	http://www.glyphweb.com/arda/a/adurant.html
+	0	0	Aelin-uial	The Twilit Meres of the River Sirion	http://www.glyphweb.com/arda/a/aelinuial.html
+	0	0	Aeluin / Tarn Aeluin	The refuge of Barahir	http://www.glyphweb.com/arda/a/aeluin.html
+	0	0	"Akallabëth / Akallabêth, name for Númenor"	A name for Downfallen Númenor	http://www.glyphweb.com/arda/a/akallabeth.html
+	0	0	Almaida	A haven of northwestern Númenor	http://www.glyphweb.com/arda/a/almaida.html
+	0	0	Almaren / Isle of Almaren	The ancient home of the Valar	http://www.glyphweb.com/arda/a/almaren.html
+	0	0	Alqualondë	The Haven of the Swans	http://www.glyphweb.com/arda/a/alqualonde.html
+	0	0	Amon Darthir	One of the Mountains of Shadow	http://www.glyphweb.com/arda/a/amondarthir.html
+	0	0	Amon Ereb	The lonely hill of East Beleriand	http://www.glyphweb.com/arda/a/amonereb.html
+	0	0	Amon Ethir	The Spyhill of Nargothrond	http://www.glyphweb.com/arda/a/amonethir.html
+	0	0	Amon Gwareth	The hill on which Gondolin stood	http://www.glyphweb.com/arda/a/amongwareth.html
+	0	0	Amon Obel	The fortified hill at the heart of Brethil	http://www.glyphweb.com/arda/a/amonobel.html
+	0	0	Amon Rúdh / Amon Rûdh	The Bald Hill	http://www.glyphweb.com/arda/a/amonrudh.html
+	0	0	Amon Uilos	Mount Everwhite	http://www.glyphweb.com/arda/a/amonuilos.html
+	0	0	Anach	The road out of Taur-nu-Fuin	http://www.glyphweb.com/arda/a/anach.html
+	0	0	Anadúnë / Anadûnê	One of the many names of Númenor	http://www.glyphweb.com/arda/a/anadune.html
+	0	0	Andor	The Land of Gift	http://www.glyphweb.com/arda/a/andor.html
+	0	0	Andram	The Long Wall	http://www.glyphweb.com/arda/a/andram.html
+	0	0	Androth	Refuge of the Grey-elves of Mithrim	http://www.glyphweb.com/arda/a/androth.html
+	0	0	Andúnië	The shoreland city ruled by the ancestors of Elendil	http://www.glyphweb.com/arda/a/andunie.html
+	0	0	Anfauglith	The Gasping Dust north of Beleriand	http://www.glyphweb.com/arda/a/anfauglith.html
+	0	0	Angband	The Hells of Iron	http://www.glyphweb.com/arda/a/angband.html
+	0	0	Anghabar	An iron mine among the Encircling Mountains	http://www.glyphweb.com/arda/a/anghabar.html
+	0	0	Annon-in-Gelydh	The hidden Gate of the Noldor	http://www.glyphweb.com/arda/a/annoningelydh.html
+	0	0	Ard-galen	The former name of Anfauglith	http://www.glyphweb.com/arda/a/ardgalen.html
+	0	0	Armenelos	The royal city of Númenor	http://www.glyphweb.com/arda/a/armenelos.html
+	0	0	Aros / River Aros	The southern border-river of Doriath	http://www.glyphweb.com/arda/a/aros.html
+	0	0	Arossiach	The crossing of the Aros	http://www.glyphweb.com/arda/a/arossiach.html
+	0	0	Ascar / River Ascar	Last resting-place of the treasures of Doriath	http://www.glyphweb.com/arda/a/ascar.html
+	0	0	Atalantë	A name for the Downfallen isle	http://www.glyphweb.com/arda/a/atalante.html
+	0	0	Avallónë	The haven of Eressëa	http://www.glyphweb.com/arda/a/avallone.html
+	0	0	Bald Hill	The rocky height of Amon Rûdh	http://www.glyphweb.com/arda/b/baldhill.html
+	0	0	Bar-en-Danwedh	The House of Ransom	http://www.glyphweb.com/arda/b/barendanwedh.html
+	0	0	Bar-en-Nibin-noeg	The house of Mîm	http://www.glyphweb.com/arda/b/barennibinnoeg.html
+	0	0	Bar-erib	A camp of Dor-Cúarthol	http://www.glyphweb.com/arda/b/barerib.html
+	0	0	Barad Eithel	The fortress at the well of Sirion	http://www.glyphweb.com/arda/b/baradeithel.html
+	0	0	Barad Nimras	Finrods coastal watchtower	http://www.glyphweb.com/arda/b/baradnimras.html
+	0	0	Bay of Andúnië	Northernmost of the three bays of the Andustar	http://www.glyphweb.com/arda/b/bayofandunie.html
+	0	0	Bay of Balar	The bay at the Mouths of Sirion	http://www.glyphweb.com/arda/b/bayofbalar.html
+	0	0	Bay of Eldamar	Home of the Teleri in Aman	http://www.glyphweb.com/arda/b/bayofeldamar.html
+	0	0	Bay of Eldanna	The great western bight of Númenor	http://www.glyphweb.com/arda/b/bayofeldanna.html
+	0	0	Bay of Elvenhome	The bay east of the Calacirya	http://www.glyphweb.com/arda/b/bayofelvenhome.html
+	0	0	Belegost	A citadel of the Dwarves in the Blue Mountains	http://www.glyphweb.com/arda/b/belegost.html
+	0	0	Bralda-hîm	Heady ale	http://www.glyphweb.com/arda/b/braldahim.html
+	0	0	Brethil / Forest of Brethil	The home of the Folk of Haleth	http://www.glyphweb.com/arda/b/brethil.html
+	0	0	Brilthor	The fourth of Gelion's six tributaries	http://www.glyphweb.com/arda/b/brilthor.html
+	0	0	Brithiach	The northern ford of the Sirion	http://www.glyphweb.com/arda/b/brithiach.html
+	0	0	Brithombar	The Haven at the mouth of the Brithon	http://www.glyphweb.com/arda/b/brithombar.html
+	0	0	Brithon	The river that flowed through Brithombar	http://www.glyphweb.com/arda/b/brithon.html
+	0	0	Bywater Pool	A small lake in the Water	http://www.glyphweb.com/arda/b/bywaterpool.html
+	0	0	Cabed Naeramarth	The Leap of Dreadful Doom	http://www.glyphweb.com/arda/c/cabednaeramarth.html
+	0	0	Cabed-en-Aras	The Deers Leap	http://www.glyphweb.com/arda/c/cabedenaras.html
+	0	0	Calacirian	A region near the Pass of Light	http://www.glyphweb.com/arda/c/calacirian.html
+	0	0	Calacirya	The Pass of Light	http://www.glyphweb.com/arda/c/calacirya.html
+	0	0	Calmindon	The Light-tower of Tol Uinen	http://www.glyphweb.com/arda/c/calmindon.html
+	0	0	Cape Balar	The cape to the west of Arvernien	http://www.glyphweb.com/arda/c/capebalar.html
+	0	0	Caragdúr	The precipice beneath Gondolin	http://www.glyphweb.com/arda/c/caragdur.html
+	0	0	Caves of the Forgotten	The prison of Ar-Pharazôn	http://www.glyphweb.com/arda/c/cavesoftheforgotten.html
+	0	0	Celebros	The stream of the Rainy Stair	http://www.glyphweb.com/arda/c/celebros.html
+	0	0	Celon / River Celon	The river that flowed past Nan Elmoth	http://www.glyphweb.com/arda/c/celon.html
+	0	0	Cirith Ninniach	The Rainbow Cleft	http://www.glyphweb.com/arda/c/cirithninniach.html
+	0	0	Cirith Thoronath	The Eagles Cleft	http://www.glyphweb.com/arda/c/ciriththoronath.html
+	0	0	City of the Kings / City of the Kings (Gondor)	A title of two cities	http://www.glyphweb.com/arda/c/cityofthekings.html
+	0	0	Corollairë	The mound of the Two Trees	http://www.glyphweb.com/arda/c/corollaire.html
+	0	0	Court of the Fountain	The lawn where the Dead Tree stood	http://www.glyphweb.com/arda/c/courtofthefountain.html
+	0	0	Crissaegrim	The Abode of Eagles	http://www.glyphweb.com/arda/c/crissaegrim.html
+	0	0	Crossings of Teiglin	The river-crossing under the eaves of Brethil	http://www.glyphweb.com/arda/c/crossingsofteiglin.html
+	0	0	Deer's Leap	The chasm of Cabed-en-Aras	http://www.glyphweb.com/arda/d/deersleap.html
+	0	0	Dimrost	The Rainy Stair	http://www.glyphweb.com/arda/d/dimrost.html
+	0	0	Dolmed / Mount Dolmed	The central peak of the Blue Mountains	http://www.glyphweb.com/arda/d/dolmed.html
+	0	0	Door of Night	The gateway to the Timeless Void	http://www.glyphweb.com/arda/d/doorofnight.html
+	0	0	Doors of Felagund	The gateway of Nargothrond	http://www.glyphweb.com/arda/d/doorsoffelagund.html
+	0	0	Doors of Nargothrond	The entrance to Finrod's citadel	http://www.glyphweb.com/arda/d/doorsofnargothrond.html
+	0	0	Dor-nu-Fauglith	The desert land north of Beleriand	http://www.glyphweb.com/arda/d/dornufauglith.html
+	0	0	Dry River	The entranceway to Turgons realm	http://www.glyphweb.com/arda/d/dryriver.html
+	0	0	Duilwen	The fifth of Gelions six tributaries	http://www.glyphweb.com/arda/d/duilwen.html
+	0	0	Dwarf-road of Beleriand	The Dwarves road westward from the Blue Mountains	http://www.glyphweb.com/arda/d/dwarfroad.html
+	0	0	Echad i Sedryn	The Camp of the Faithful	http://www.glyphweb.com/arda/e/echadisedryn.html
+	0	0	Echoing Hills	The western wall of Hithlum	http://www.glyphweb.com/arda/e/echoinghills.html
+	0	0	Echoing Mountains	A name for the Ered Lómin	http://www.glyphweb.com/arda/e/echoingmountains.html
+	0	0	Echoriath	The Encircling Mountains	http://www.glyphweb.com/arda/e/echoriath.html
+	0	0	Eglarest	The Haven at Nennings mouth	http://www.glyphweb.com/arda/e/eglarest.html
+	0	0	Eithel Ivrin	The source of the Narog	http://www.glyphweb.com/arda/e/eithelivrin.html
+	0	0	Eithel Nínui	The Fountain of Tinúviel	http://www.glyphweb.com/arda/e/eithelninui.html
+	0	0	Eithel Sirion	The source of the River Sirion	http://www.glyphweb.com/arda/e/eithelsirion.html
+	0	0	Ekkaia	The Encircling Sea	http://www.glyphweb.com/arda/e/ekkaia.html
+	0	0	Eldalondë	The haven on the Bay of Eldanna	http://www.glyphweb.com/arda/e/eldalonde.html
+	0	0	Elenna	The island of Númenor	http://www.glyphweb.com/arda/e/elenna.html
+	0	0	Elerrína	Crowned with Stars	http://www.glyphweb.com/arda/e/elerrina.html
+	0	0	Enchanted Isles	Entrapments of the western seas	http://www.glyphweb.com/arda/e/enchantedisles.html
+	0	0	Encircling Mountains	The protective mountains of Gondolin	http://www.glyphweb.com/arda/e/encirclingmountains.html
+	0	0	Encircling Sea	The vast and bleak ocean that surrounded Arda	http://www.glyphweb.com/arda/e/encirclingsea.html
+	0	0	Ephel Brandir	The stockade at the heart of Brethil	http://www.glyphweb.com/arda/e/ephelbrandir.html
+	0	0	Ered Engrin	The Iron Mountains of the north	http://www.glyphweb.com/arda/e/eredengrin.html
+	0	0	Ered Lómin	The western mountains of Hithlum	http://www.glyphweb.com/arda/e/eredlomin.html
+	0	0	Eressëa / Tol Eressëa	The Lonely Isle	http://www.glyphweb.com/arda/t/toleressea.html
+	0	0	Esgalduin / River Esgalduin	The river that flowed through Doriath	http://www.glyphweb.com/arda/e/esgalduin.html
+	0	0	Evernight	A shadowy region of southern Aman	http://www.glyphweb.com/arda/e/evernight.html
+	0	0	Everwhite / Mount Everwhite	A name for Taniquetil	http://www.glyphweb.com/arda/m/mounteverwhite.html
+	0	0	Ezellohar	The Green Mound of the Two Trees	http://www.glyphweb.com/arda/e/ezellohar.html
+	0	0	Falls of Ivrin	The source of the River Narog	http://www.glyphweb.com/arda/f/fallsofivrin.html
+	0	0	Falls of Sirion	Sirions descent beneath the Andram	http://www.glyphweb.com/arda/f/fallsofsirion.html
+	0	0	Faroth	A name for the hills above Nargothrond	http://www.glyphweb.com/arda/f/faroth.html
+	0	0	Fens of Sirion	The marshland of the Aelin-uial	http://www.glyphweb.com/arda/f/fensofsirion.html
+	0	0	Firth of Drengist	The landing-place of Fëanor in Middle-earth	http://www.glyphweb.com/arda/f/firthofdrengist.html
+	0	0	Ford of Brithiach	A northern crossing of Sirion	http://www.glyphweb.com/arda/f/fordofbrithiach.html
+	0	0	Fords of Aros	The crossings on the upper River Aros	http://www.glyphweb.com/arda/f/fordsofaros.html
+	0	0	Forest between the Rivers / Forest Between the Rivers	Taur-im-Duinath	http://www.glyphweb.com/arda/f/forestbetweentherivers.html
+	0	0	Formenos	The northern stronghold of Fëanor	http://www.glyphweb.com/arda/f/formenos.html
+	0	0	Gabilgathol	The Dwarves own name for their city of Belegost	http://www.glyphweb.com/arda/g/gabilgathol.html
+	0	0	Gasping Dust	The desert created in the Dagor Bragollach	http://www.glyphweb.com/arda/g/gaspingdust.html
+	0	0	Gate of Steel	The last defence of Gondolin	http://www.glyphweb.com/arda/g/gateofsteel.html
+	0	0	Gate of the Noldor	Annon-in-Gelydh	http://www.glyphweb.com/arda/g/gateofthenoldor.html
+	0	0	Gates of Morning	The eastern gateway of the Sun	http://www.glyphweb.com/arda/g/gatesofmorning.html
+	0	0	Gates of Sirion	Sirions emergence from beneath the Andram	http://www.glyphweb.com/arda/g/gatesofsirion.html
+	0	0	Gelion / River Gelion	The river that marked Beleriands eastern border	http://www.glyphweb.com/arda/g/gelion.html
+	0	0	Ginglith	A northern tributary of the Narog	http://www.glyphweb.com/arda/g/ginglith.html
+	0	0	Glithui	A minor tributary of the Teiglin	http://www.glyphweb.com/arda/g/glithui.html
+	0	0	Goldenbed	The later name of the River Ascar	http://www.glyphweb.com/arda/g/goldenbed.html
+	0	0	Gondolin	Turgons Hidden Refuge	http://www.glyphweb.com/arda/g/gondolin.html
+	0	0	Great Gate of Gondolin	Maeglin's Gate of Steel	http://www.glyphweb.com/arda/g/greatgateofgondolin.html
+	0	0	Great Hall of Thráin	The seat of the Kings under the Mountain	http://www.glyphweb.com/arda/g/greathallofthrain.html
+	0	0	Great Lake	The lake that held the island of Almaren	http://www.glyphweb.com/arda/g/greatlake.html
+	0	0	Greater Gelion	The greater of Gelions two source-rivers	http://www.glyphweb.com/arda/g/greatergelion.html
+	0	0	Green Mound	The mound of the Two Trees	http://www.glyphweb.com/arda/g/greenmound.html
+	0	0	Grimslade	The home of Grimbold	http://www.glyphweb.com/arda/g/grimslade.html
+	0	0	Grindwall	A landing on the Withywindle	http://www.glyphweb.com/arda/g/grindwall.html
+	0	0	Guarded Plain	The plain of Talath Dirnen	http://www.glyphweb.com/arda/g/guardedplain.html
+	0	0	Hallow of Eru	The summit of the Meneltarma	http://www.glyphweb.com/arda/h/hallowoferu.html
+	0	0	Halls of Mandos	The Houses of the Dead	http://www.glyphweb.com/arda/h/hallsofmandos.html
+	0	0	Halls of Waiting	The abode of Mandos	http://www.glyphweb.com/arda/h/hallsofwaiting.html
+	0	0	Haudh-en-Arwen	The Ladybarrow of Brethil	http://www.glyphweb.com/arda/h/haudhenarwen.html
+	0	0	Haudh-en-Elleth	The grave-mound of Finduilas	http://www.glyphweb.com/arda/h/haudhenelleth.html
+	0	0	Haudh-en-Ndengin	The Hill of Slain	http://www.glyphweb.com/arda/h/haudhenndengin.html
+	0	0	Haudh-en-Nirnaeth	The Hill of Tears	http://www.glyphweb.com/arda/h/haudhennirnaeth.html
+	0	0	Haven of the Swans	The haven of the Teleri on the shores of Aman	http://www.glyphweb.com/arda/h/havenoftheswans.html
+	0	0	Havens of the Falas	The sea-cities of Círdan	http://www.glyphweb.com/arda/h/havens.html
+	0	0	Hells of Iron	Morgoths fortress of Angband	http://www.glyphweb.com/arda/h/hellsofiron.html
+	0	0	Hidden City	A name for Gondolin	http://www.glyphweb.com/arda/h/hiddencity.html
+	0	0	Hidden Rock	"Gondolin, and Amon Gwareth on which it stood"	http://www.glyphweb.com/arda/h/hiddenrock.html
+	0	0	High Faroth	The Hills of the Hunters above Nargothrond	http://www.glyphweb.com/arda/h/highfaroth.html
+	0	0	Hill of Himring	The site of Maedhros capital	http://www.glyphweb.com/arda/h/hillofhimring.html
+	0	0	Hill of Ilmarin	The Mountain of Manwë	http://www.glyphweb.com/arda/h/hillofilmarin.html
+	0	0	Hill of Spies	The guard-hill of Nargothrond	http://www.glyphweb.com/arda/h/hillofspies.html
+	0	0	Himring	The hill where Maedhros fortress stood	http://www.glyphweb.com/arda/h/himring.html
+	0	0	Hollowbold	A Dwarvish citadel among the Blue Mountains	http://www.glyphweb.com/arda/h/hollowbold.html
+	0	0	Holy Mountain: Meneltarma / Holy Mountain (Meneltarma)	The Pillar of Heaven	http://www.glyphweb.com/arda/h/holymountain2.html
+	0	0	Holy Mountain: Taniquetil / Holy Mountain (Taniquetil)	The abode of Manwë and Varda	http://www.glyphweb.com/arda/h/holymountain.html
+	0	0	House of Ransom	The house of the treacherous Petty-dwarf	http://www.glyphweb.com/arda/h/houseofransom.html
+	0	0	House of the Stewards / House of the Stewards (tomb)	Last resting-place of the Stewards of Gondor	http://www.glyphweb.com/arda/h/houseofstewards.html
+	0	0	Hyarmentir	A peak on the borders of Valinor	http://www.glyphweb.com/arda/h/hyarmentir.html
+	0	0	Iant Iaur	The old stone bridge over the Esgalduin	http://www.glyphweb.com/arda/i/iantiaur.html
+	0	0	Ilmarin	The halls of Manwë and Varda	http://www.glyphweb.com/arda/i/ilmarin.html
+	0	0	Iron Mountains	The mountain-fence of Utumno	http://www.glyphweb.com/arda/i/ironmountains.html
+	0	0	Isle of Balar	The refuge of Círdan	http://www.glyphweb.com/arda/b/balar.html
+	0	0	Isle of Meneltarma	The summit of the Pillar of Heaven	http://www.glyphweb.com/arda/i/isleofmeneltarma.html
+	0	0	Isle of Werewolves	"Tol-in-Gaurhoth, the island of Sauron"	http://www.glyphweb.com/arda/i/isleofwerewolves.html
+	0	0	Isles of the West	The islands of Eldamar	http://www.glyphweb.com/arda/i/islesofthewest.html
+	0	0	Ivrin	The pools at the source of the Narog	http://www.glyphweb.com/arda/i/ivrin.html
+	0	0	King’s Court / King's Court	The courts of the Kings of Númenor	http://www.glyphweb.com/arda/k/kingscourt.html
+	0	0	Ladybarrow	The green grave of Haleth	http://www.glyphweb.com/arda/l/ladybarrow.html
+	0	0	Land of Gift	"Andor, a name for the island of Númenor"	http://www.glyphweb.com/arda/l/landofgift.html
+	0	0	Lanthir Lamath	The fall beside the house of Dior	http://www.glyphweb.com/arda/l/lanthirlamath.html
+	0	0	Last Desert	The barren lands of the distant east	http://www.glyphweb.com/arda/l/lastdesert.html
+	0	0	Last Gate	The Seventh of the Seven Gates of Gondolin	http://www.glyphweb.com/arda/l/lastgate.html
+	0	0	Last Shore	The coastlands of Eldamar	http://www.glyphweb.com/arda/l/lastshore.html
+	0	0	Legolin	Third of Gelions six tributaries	http://www.glyphweb.com/arda/l/legolin.html
+	0	0	Linaewen	The lake of birds	http://www.glyphweb.com/arda/l/linaewen.html
+	0	0	Little Gelion	The lesser of Gelions two sources	http://www.glyphweb.com/arda/l/littlegelion.html
+	0	0	Lonely Isle	The island of Tol Eressëa	http://www.glyphweb.com/arda/l/lonelyisle.html
+	0	0	Long Wall	The Andram of Beleriand	http://www.glyphweb.com/arda/l/longwall.html
+	0	0	Lórellin	The shaded lake of Lórien	http://www.glyphweb.com/arda/l/lorellin.html
+	0	0	Lothlann	"The wide, empty plain north of the March of Maedhros"	http://www.glyphweb.com/arda/l/lothlann.html
+	0	0	Malduin	A northern tributary of the Teiglin	http://www.glyphweb.com/arda/m/malduin.html
+	0	0	Menegroth	The Thousand Caves of Doriath	http://www.glyphweb.com/arda/m/menegroth.html
+	0	0	Meneltarma	The Pillar of Heaven	http://www.glyphweb.com/arda/m/meneltarma.html
+	0	0	Meres of Twilight	The lakeland region of Aelin-uial	http://www.glyphweb.com/arda/m/meresoftwilight.html
+	0	0	Methed-en-glad	The End of the Wood	http://www.glyphweb.com/arda/m/methedenglad.html
+	0	0	"Minas Tirith / Minas Tirith, Beleriand"	The tower that guarded the Pass of Sirion	http://www.glyphweb.com/arda/m/minastirith1.html
+	0	0	Mindeb	A lesser tributary of the Sirion	http://www.glyphweb.com/arda/m/mindeb.html
+	0	0	Mindon Eldaliéva	The Tower of Ingwë in Tirion	http://www.glyphweb.com/arda/m/mindoneldalieva.html
+	0	0	Mithrim / Lake Mithrim	The lake to the north of the land of Mithrim	http://www.glyphweb.com/arda/l/lakemithrim.html
+	0	0	Moors of the Nibin-noeg	Lost lands of the Petty-dwarves	http://www.glyphweb.com/arda/m/moorsofthenibinnoeg.html
+	0	0	Morthond / River Morthond	The river of the Blackroot Vale	http://www.glyphweb.com/arda/m/morthond.html
+	0	0	Mound of the Elf-maid	The grave of Finduilas	http://www.glyphweb.com/arda/m/moundoftheelfmaid.html
+	0	0	Mountain of Manwë	The peak of the Elder King	http://www.glyphweb.com/arda/m/mountainofmanwe.html
+	0	0	Mountain Wall	A poetic name for the Pelóri	http://www.glyphweb.com/arda/m/mountainwall.html
+	0	0	Mountains of Aman	The defences of Valinor	http://www.glyphweb.com/arda/m/mountainsofaman.html
+	0	0	Mountains of Defence	The Pelóri of Aman	http://www.glyphweb.com/arda/m/mountainsofdefence.html
+	0	0	Mouths of Sirion	Haven of the Exiles of Gondolin	http://www.glyphweb.com/arda/m/mouthsofsirion.html
+	0	0	Nan Dungortheb	The dreadful valley north of Doriath	http://www.glyphweb.com/arda/n/nandungortheb.html
+	0	0	Nan Elmoth	The forest on the banks of the River Celon	http://www.glyphweb.com/arda/n/nanelmoth.html
+	0	0	Nargothrond	The hidden fortress on the River Narog	http://www.glyphweb.com/arda/n/nargothrond.html
+	0	0	Narog / River Narog	One of the great rivers of Beleriand	http://www.glyphweb.com/arda/n/narog.html
+	0	0	Narrow Ice	Bilbos name for the Helcaraxë	http://www.glyphweb.com/arda/n/narrowice.html
+	0	0	Neldoreth	"The lesser, northern forest of Doriath"	http://www.glyphweb.com/arda/n/neldoreth.html
+	0	0	Nen Girith	The Shuddering Water	http://www.glyphweb.com/arda/n/nengirith.html
+	0	0	Nen Lalaith	The laughing stream	http://www.glyphweb.com/arda/n/nenlalaith.html
+	0	0	Nenning / River Nenning	The river that met the Sea at Eglarest	http://www.glyphweb.com/arda/n/nenning.html
+	0	0	Nimbrethil	The birchwoods of Arvernien	http://www.glyphweb.com/arda/n/nimbrethil.html
+	0	0	Nindamos	A shoreland settlement of southern Númenor	http://www.glyphweb.com/arda/n/nindamos.html
+	0	0	Nísinen	The fragrant lake above Eldalondë	http://www.glyphweb.com/arda/n/nisinen.html
+	0	0	Nivrim	The westernmost woods of Doriath	http://www.glyphweb.com/arda/n/nivrim.html
+	0	0	Nogrod	Ancient citadel of the Dwarves	http://www.glyphweb.com/arda/n/nogrod.html
+	0	0	Noirinan	The Valley of the Tombs	http://www.glyphweb.com/arda/n/noirinan.html
+	0	0	North Cape	The northernmost tip of the isle of Númenor	http://www.glyphweb.com/arda/n/northcape.html
+	0	0	Núath	The woodlands south of Nevrast	http://www.glyphweb.com/arda/n/nuath.html
+	0	0	Nulukkizdîn	A settlement of the Petty-dwarves	http://www.glyphweb.com/arda/n/nulukkizdin.html
+	0	0	Númenor	Ancient home of the Dúnedain	http://www.glyphweb.com/arda/n/numenor.html
+	0	0	Númenórë	The Quenya form of the name Númenor	http://www.glyphweb.com/arda/n/numenore.html
+	0	0	Nunduinë	The river of Eldalondë	http://www.glyphweb.com/arda/n/nunduine.html
+	0	0	Oiolossë	The high seat of Manwë and Varda	http://www.glyphweb.com/arda/o/oiolosse.html
+	0	0	Ondolindë	Rock of the Music of Water	http://www.glyphweb.com/arda/o/ondolinde.html
+	0	0	Ondosto	The chief city of the Forostar	http://www.glyphweb.com/arda/o/ondosto.html
+	0	0	Orfalch Echor	The Way of Escape	http://www.glyphweb.com/arda/o/orfalchechor.html
+	0	0	Orocarni	The red mountains above Cuiviénen	http://www.glyphweb.com/arda/o/orocarni.html
+	0	0	Orod-na-Th&#244;n / Orod-na-Thôn	A mountain of Dorthonion	http://www.glyphweb.com/arda/o/orodnathon.html
+	0	0	Oromet	The hill on which Tar-Minastir's tower stood	http://www.glyphweb.com/arda/o/oromet.html
+	0	0	Outer Sea	The Encircling Sea of the World	http://www.glyphweb.com/arda/o/outersea.html
+	0	0	Pass of Aglon	The narrow pass west of the March of Maedhros	http://www.glyphweb.com/arda/p/passofaglon.html
+	0	0	Pass of Light	The deep cleft in the Pelóri	http://www.glyphweb.com/arda/p/passoflight.html
+	0	0	Pass of Sirion	The northern pass guarded by the first Minas Tirith	http://www.glyphweb.com/arda/p/passofsirion.html
+	0	0	Pelóri	The Mountains of Defence	http://www.glyphweb.com/arda/p/pelori.html
+	0	0	Pillar of Heaven	The Meneltarma of Númenor	http://www.glyphweb.com/arda/p/pillarofheaven.html
+	0	0	Pools of Ivrin	The waters at the Sources of Narog	http://www.glyphweb.com/arda/p/poolsofivrin.html
+	0	0	Ramdal	Walls End	http://www.glyphweb.com/arda/r/ramdal.html
+	0	0	Ras Morthil	The northwestern limit of the Bay of Belfalas	http://www.glyphweb.com/arda/r/rasmorthil.html
+	0	0	Rathlóriel	Goldenbed	http://www.glyphweb.com/arda/r/rathloriel.html
+	0	0	Ravines of Teiglin	The thundering chasms south of Brethil	http://www.glyphweb.com/arda/r/ravinesofteiglin.html
+	0	0	Region / Forest of Region	The greater part of the Kingdom of Doriath	http://www.glyphweb.com/arda/r/region.html
+	0	0	"Ring of Doom / Ring of Doom, Máhanaxar"	The Máhanaxar	http://www.glyphweb.com/arda/r/ringofdoom.html
+	0	0	Ringwil	The stream that fell from the High Faroth	http://www.glyphweb.com/arda/r/ringwil.html
+	0	0	Rivil / River Rivil	Sirions northernmost tributary	http://www.glyphweb.com/arda/r/rivil.html
+	0	0	Rivil's Well	The source of the River Rivil	http://www.glyphweb.com/arda/r/rivilswell.html
+	0	0	Rock of the Music of Water	An old name for the fountained city of Gondolin	http://www.glyphweb.com/arda/r/rockofthemusicofwater.html
+	0	0	Rómenna	The royal haven of Númenor	http://www.glyphweb.com/arda/r/romenna.html
+	0	0	Sauron’s Isle / Sauron's Isle	The island of Tol-in-Gaurhoth	http://www.glyphweb.com/arda/s/sauronsisle.html
+	0	0	Serech / Fen of Serech	Scene of Barahirs rescue of Finrod	http://www.glyphweb.com/arda/s/serech.html
+	0	0	Seven Gates of Gondolin	The guarded way into Hidden City	http://www.glyphweb.com/arda/s/sevengates.html
+	0	0	Seven Rivers of Ossir	The River Gelion and its six tributaries	http://www.glyphweb.com/arda/s/sevenriversofossir.html
+	0	0	"Seventh Gate / Seventh Gate, Gondolin"	The Last Gate of Gondolin	http://www.glyphweb.com/arda/s/seventhgate.html
+	0	0	Shadowmere	A lake of Aman	http://www.glyphweb.com/arda/s/shadowmere.html
+	0	0	Shadowy Mountains	The bulwark of Hithlum	http://www.glyphweb.com/arda/s/shadowymountains.html
+	0	0	Shadowy Seas	The seas to the east of Aman	http://www.glyphweb.com/arda/s/shadowyseas.html
+	0	0	Sharbhund	Mîms name for Amon Rûdh	http://www.glyphweb.com/arda/s/sharbhund.html
+	0	0	Siril / River Siril	The major river of the island of Númenor	http://www.glyphweb.com/arda/s/siril.html
+	0	0	Sirion / River Sirion	The great river of Beleriand	http://www.glyphweb.com/arda/s/sirion.html
+	0	0	Sorontil	The northern height of Númenor	http://www.glyphweb.com/arda/s/sorontil.html
+	0	0	Sources of Narog	The springs of Eithel Ivrin	http://www.glyphweb.com/arda/s/sourcesofnarog.html
+	0	0	"South Road / South Road, Beleriand"	The road that ran to Nargothrond	http://www.glyphweb.com/arda/s/southroad.html
+	0	0	Spyhill	The watch-mound of Nargothrond	http://www.glyphweb.com/arda/s/spyhill.html
+	0	0	Starwards	"Elenna, a name for the island of Númenor"	http://www.glyphweb.com/arda/s/starwards.html
+	0	0	Stone of the Hapless	Memorial to the family of Húrin	http://www.glyphweb.com/arda/s/stoneofthehapless.html
+	0	0	Sundering Seas	The trackless oceans that sundered Aman from Middle-earth	http://www.glyphweb.com/arda/s/sunderingseas.html
+	0	0	Swanhaven	The haven of the Teleri in Aman	http://www.glyphweb.com/arda/s/swanhaven.html
+	0	0	Talath Dirnen	The Guarded Plain	http://www.glyphweb.com/arda/t/talathdirnen.html
+	0	0	Talath Rhúnen	The East Vale	http://www.glyphweb.com/arda/t/talathrhunen.html
+	0	0	Taniquetil	The lofty dwelling of Manwë and Varda	http://www.glyphweb.com/arda/t/taniquetil.html
+	0	0	Taras / Mount Taras	The seaward peak of Nevrast	http://www.glyphweb.com/arda/t/taras.html
+	0	0	Taras-ness	The headland on which Vinyamar was built	http://www.glyphweb.com/arda/t/tarasness.html
+	0	0	Tarmasundar	The Roots of the Pillar of Heaven	http://www.glyphweb.com/arda/t/tarmasundar.html
+	0	0	Taur-en-Faroth	The high woodland above the gates of Nargothrond	http://www.glyphweb.com/arda/t/taurenfaroth.html
+	0	0	Taur-im-Duinath	The Forest between the Rivers	http://www.glyphweb.com/arda/t/taurimduinath.html
+	0	0	Taur-na-neldor	A forest of lost Beleriand	http://www.glyphweb.com/arda/t/taurnaneldor.html
+	0	0	Teiglin / River Teiglin	The river that ran through Brethil	http://www.glyphweb.com/arda/t/teiglin.html
+	0	0	Thalos	Second of the tributaries of Gelion	http://www.glyphweb.com/arda/t/thalos.html
+	0	0	Thangorodrim	The three towering peaks above Angbands gates	http://www.glyphweb.com/arda/t/thangorodrim.html
+	0	0	The Mountain / Mountain	Lofty seat of Manwë and Varda	http://www.glyphweb.com/arda/m/mountain.html
+	0	0	The Tongue / Tongue	The southeastern limit of Lórien	http://www.glyphweb.com/arda/t/tongue.html
+	0	0	Thousand Caves	Thingols carven citadel at Menegroth	http://www.glyphweb.com/arda/t/thousandcaves.html
+	0	0	Timeless Halls / Timeless Halls (in the Void)	The dwellings of the Ainur beyond Eä	http://www.glyphweb.com/arda/t/timelesshalls.html
+	0	0	Tirion	The city of the Elves in Aman	http://www.glyphweb.com/arda/t/tirion.html
+	0	0	Tol Fuin	The remnant of Taur-nu-Fuin	http://www.glyphweb.com/arda/t/tolfuin.html
+	0	0	Tol Galen	The river-isle where Beren and Lúthien lived out their days	http://www.glyphweb.com/arda/t/tolgalen.html
+	0	0	Tol Morwen	A survivor of the wreck of Beleriand	http://www.glyphweb.com/arda/t/tolmorwen.html
+	0	0	Tol Sirion	The island where the first Minas Tirith stood	http://www.glyphweb.com/arda/t/tolsirion.html
+	0	0	Tol Uinen	An island in the bay of Rómenna	http://www.glyphweb.com/arda/t/toluinen.html
+	0	0	Tol-in-Gaurhoth	The Isle of Werewolves	http://www.glyphweb.com/arda/t/tolingaurhoth.html
+	0	0	Tower of Avallónë	The tower of the Elf-haven of Tol Eressëa	http://www.glyphweb.com/arda/t/towerofavallone.html
+	0	0	Tower of Ingwë	The Mindon Eldaliéva of Tirion	http://www.glyphweb.com/arda/t/towerofingwe.html
+	0	0	Tower of the Dome of Osgiliath	A landmark of Gondor's old chief city	http://www.glyphweb.com/arda/t/towerofthedomeofosgiliath.html
+	0	0	Tower of the King	Turgons great tower in Gondolin	http://www.glyphweb.com/arda/t/toweroftheking.html
+	0	0	Tumhalad	A field to the north of Nargothrond	http://www.glyphweb.com/arda/t/tumhalad.html
+	0	0	"Tumladen, Beleriand / Tumladen, Gondolin"	The valley of Gondolin	http://www.glyphweb.com/arda/t/tumladen.html
+	0	0	Túna	The hill on which Tirion stood	http://www.glyphweb.com/arda/t/tuna.html
+	0	0	Túr Haretha / Tûr Haretha	The Ladybarrow of Brethil	http://www.glyphweb.com/arda/t/turharetha.html
+	0	0	Twilight Meres	The shaded waterways of the Aelin-uial	http://www.glyphweb.com/arda/t/twilightmeres.html
+	0	0	Twilit Meres	The pools of the Aelin-uial	http://www.glyphweb.com/arda/t/twilitmeres.html
+	0	0	Utumno	The original stronghold of Melkor	http://www.glyphweb.com/arda/u/utumno.html
+	0	0	Vale of Narog	The course of Narog through West Beleriand	http://www.glyphweb.com/arda/v/valeofnarog.html
+	0	0	Vales of Sirion / Vale(s) of Sirion	The wide valley that ran north to south through Beleriand	http://www.glyphweb.com/arda/v/valesofsirion.html
+	0	0	Valimar	A name for the city of the Valar	http://www.glyphweb.com/arda/v/valimar.html
+	0	0	Valmar	The city of the Valar	http://www.glyphweb.com/arda/v/valmar.html
+	0	0	Vinyalondë	The ancient haven at the mouth of the Gwathló	http://www.glyphweb.com/arda/v/vinyalonde.html
+	0	0	Vinyamar	The city of Turgon in Nevrast	http://www.glyphweb.com/arda/v/vinyamar.html
+	0	0	Wall’s End / Wall's End	The eastern end of the Long Wall	http://www.glyphweb.com/arda/w/wallsend.html
+	0	0	Walls of Night	The ancient boundaries of Arda	http://www.glyphweb.com/arda/w/wallsofnight.html
+	0	0	Walls of the World	The ends of Arda	http://www.glyphweb.com/arda/w/wallsoftheworld.html
+	0	0	Westernesse	The land of Númenor	http://www.glyphweb.com/arda/w/westernesse.html
+	0	0	White House of Erendis	The sanctuary of Erendis and Ancalimë	http://www.glyphweb.com/arda/w/whitehouseoferendis.html
+	0	0	White Mountain	A name of Taniquetil	http://www.glyphweb.com/arda/w/whitemountain.html
+	0	0	Whitfurrows	A village of the Eastfarthing	http://www.glyphweb.com/arda/w/whitfurrows.html
+	0	0	Wild Wood	The fabulous forest of eastern Middle-earth	http://www.glyphweb.com/arda/w/wildwood.html
+	0	0	Y&#244;zâyan / Yôzâyan	The Land of Gift	http://www.glyphweb.com/arda/y/yozayan.html
+	0	0	Kingsland		http://www.glyphweb.com/arda/k/kingsland.html
+	0	0	Aman		http://www.glyphweb.com/arda/a/aman.html
+	0	0	Orrostar		http://www.glyphweb.com/arda/o/orrostar.html
+	0	0	North (realm of Morgoth)		http://www.glyphweb.com/arda/n/north.html
+	0	0	Laurelindórenan		http://www.glyphweb.com/arda/l/laurelindorenan.html
+	0	0	Faerie		http://www.glyphweb.com/arda/f/faerie.html
+	0	0	Water of Awakening		http://www.glyphweb.com/arda/w/waterofawakening.html
+	0	0	Númenórean Realms		http://www.glyphweb.com/arda/n/numenoreanrealms.html
+	0	0	Hithlum		http://www.glyphweb.com/arda/h/hithlum.html
+	0	0	Elvenesse		http://www.glyphweb.com/arda/e/elvenesse.html
+	0	0	Northlands (Forostar)		http://www.glyphweb.com/arda/n/northlandsnumenor.html
+	0	0	Eldamar		http://www.glyphweb.com/arda/e/eldamar.html
+	0	0	Mar-nu-Falmar		http://www.glyphweb.com/arda/m/marnufalmar.html
+	0	0	Sarch nia Hîn Húrin		http://www.glyphweb.com/arda/s/sarchniahinhurin.html
+	0	0	Circles of the World		http://www.glyphweb.com/arda/c/circlesoftheworld.html
+	0	0	West		http://www.glyphweb.com/arda/w/west.html
+	0	0	"Lórien, Valinor"		http://www.glyphweb.com/arda/l/lorienvalinor.html
+	0	0	Dor-lómin		http://www.glyphweb.com/arda/d/dorlomin.html
+	0	0	Empty Lands		http://www.glyphweb.com/arda/e/emptylands.html
+	0	0	Beleriand		http://www.glyphweb.com/arda/b/beleriand.html
+	0	0	Blessed Realm		http://www.glyphweb.com/arda/b/blessedrealm.html
+	0	0	Undying Lands		http://www.glyphweb.com/arda/u/undyinglands.html
+	0	0	Norland		http://www.glyphweb.com/arda/n/norland.html
+	0	0	Helcaraxë		http://www.glyphweb.com/arda/h/helcaraxe.html
+	0	0	Dor Daedeloth		http://www.glyphweb.com/arda/d/dordaedeloth.html
+	0	0	Ossiriand		http://www.glyphweb.com/arda/o/ossiriand.html
+	0	0	Nameless Land		http://www.glyphweb.com/arda/n/namelessland.html
+	0	0	Dorthonion		http://www.glyphweb.com/arda/d/dorthonion.html
+	0	0	Andustar		http://www.glyphweb.com/arda/a/andustar.html
+	0	0	Arda		http://www.glyphweb.com/arda/a/arda.html
+	0	0	Eä		http://www.glyphweb.com/arda/e/ea.html
+	0	0	Nan-tathren		http://www.glyphweb.com/arda/n/nantathren.html
+	0	0	Doriath		http://www.glyphweb.com/arda/d/doriath.html
+	0	0	Nevrast		http://www.glyphweb.com/arda/n/nevrast.html
+	0	0	Himlad		http://www.glyphweb.com/arda/h/himlad.html
+	0	0	East Beleriand		http://www.glyphweb.com/arda/e/eastbeleriand.html
+	0	0	Eastlands of Númenor		http://www.glyphweb.com/arda/e/eastlandsnumenor.html
+	0	0	Elvenland		http://www.glyphweb.com/arda/e/elvenland.html
+	0	0	Cuiviénen		http://www.glyphweb.com/arda/c/cuivienen.html
+	0	0	Elendë		http://www.glyphweb.com/arda/e/elende.html
+	0	0	Downfallen		http://www.glyphweb.com/arda/d/downfallen.html
+	0	0	North (of Beleriand)		http://www.glyphweb.com/arda/n/northbeleriand.html
+	0	0	Northlands (Middle-earth)		http://www.glyphweb.com/arda/n/northlands.html
+	0	0	Araman		http://www.glyphweb.com/arda/a/araman.html
+	0	0	Elvenhome		http://www.glyphweb.com/arda/e/elvenhome.html
+	0	0	Grave of the Children of Húrin		http://www.glyphweb.com/arda/g/graveofthechildrenofhurin.html
+	0	0	Avathar		http://www.glyphweb.com/arda/a/avathar.html
+	0	0	Maglor's Gap		http://www.glyphweb.com/arda/m/maglorsgap.html
+	0	0	Estolad		http://www.glyphweb.com/arda/e/estolad.html
+	0	0	Arandor		http://www.glyphweb.com/arda/a/arandor.html
+	0	0	Ladros		http://www.glyphweb.com/arda/l/ladros.html
+	0	0	Lisgardh		http://www.glyphweb.com/arda/l/lisgardh.html
+	0	0	Ilmarin		http://www.glyphweb.com/arda/i/ilmarin.html
+	0	0	Realms in Exile		http://www.glyphweb.com/arda/r/realmsinexile.html
+	0	0	Hísilómë		http://www.glyphweb.com/arda/h/hisilome.html
+	0	0	Deldúwath		http://www.glyphweb.com/arda/d/delduwath.html
+	0	0	Tasarinan		http://www.glyphweb.com/arda/t/tasarinan.html
+	0	0	Dor Firn-i-Guinar		http://www.glyphweb.com/arda/d/dorfirniguinar.html
+	0	0	Hyarastorni		http://www.glyphweb.com/arda/h/hyarastorni.html
+	0	0	Dor Dínen		http://www.glyphweb.com/arda/d/dordinen.html
+	0	0	Land of Willows		http://www.glyphweb.com/arda/l/landofwillows.html
+	0	0	Dor Caranthir		http://www.glyphweb.com/arda/d/dorcaranthir.html
+	0	0	Hildórien		http://www.glyphweb.com/arda/h/hildorien.html
+	0	0	Havens of Sirion		http://www.glyphweb.com/arda/h/havensofsirion.html
+	0	0	Losgar		http://www.glyphweb.com/arda/l/losgar.html
+	0	0	Emerië		http://www.glyphweb.com/arda/e/emerie.html
+	0	0	Arvernien		http://www.glyphweb.com/arda/a/arvernien.html
+	0	0	Dimbar		http://www.glyphweb.com/arda/d/dimbar.html
+	0	0	Hyarrostar		http://www.glyphweb.com/arda/h/hyarrostar.html
+	0	0	Undying Realm		http://www.glyphweb.com/arda/u/undyingrealm.html
+	0	0	Nísimaldar		http://www.glyphweb.com/arda/n/nisimaldar.html
+	0	0	The Falas		http://www.glyphweb.com/arda/f/falas.html
+	0	0	Lammoth		http://www.glyphweb.com/arda/l/lammoth.html
+	0	0	Mithrim		http://www.glyphweb.com/arda/m/mithrim.html
+	0	0	Ephel		http://www.glyphweb.com/arda/e/ephel.html
+	0	0	Eglador		http://www.glyphweb.com/arda/e/eglador.html
+	0	0	Thargelion		http://www.glyphweb.com/arda/t/thargelion.html
+	0	0	Outer Lands		http://www.glyphweb.com/arda/o/outerlands.html
+	0	0	Land of Bow and Helm		http://www.glyphweb.com/arda/l/landofbowandhelm.html
+	0	0	March of Maedhros		http://www.glyphweb.com/arda/m/marchofmaedhros.html
+	0	0	Nan-tasarion		http://www.glyphweb.com/arda/n/nantasarion.html
+	0	0	West over Sea		http://www.glyphweb.com/arda/w/westoversea.html
+	0	0	Dor-Cúarthol		http://www.glyphweb.com/arda/d/dorcuarthol.html
+	0	0	Mittalmar		http://www.glyphweb.com/arda/m/mittalmar.html
+	0	0	"Westlands, Númenor"		http://www.glyphweb.com/arda/w/westlandsnumenor.html
+	0	0	West Beleriand		http://www.glyphweb.com/arda/w/westbeleriand.html
+	0	0	Valinor		http://www.glyphweb.com/arda/v/valinor.html
+	0	0	Land of the Dead that Live		http://www.glyphweb.com/arda/l/landofthedeadthatlive.html
+	0	0	Elvendom		http://www.glyphweb.com/arda/e/elvendom.html
+	0	0	Arthórien		http://www.glyphweb.com/arda/a/arthorien.html
+	0	0	Uttermost West		http://www.glyphweb.com/arda/u/uttermostwest.html
+	0	0	Elfinesse		http://www.glyphweb.com/arda/e/elfinesse.html
+	0	0	Hidden Realm		http://www.glyphweb.com/arda/h/hiddenrealm.html
+	0	0	Forostar		http://www.glyphweb.com/arda/f/forostar.html
+	0	0	Hyarnustar		http://www.glyphweb.com/arda/h/hyarnustar.html
+	0	0	Hidden Kingdom		http://www.glyphweb.com/arda/h/hiddenkingdom.html
+	0	0	Evereven		http://www.glyphweb.com/arda/e/evereven.html
+	0	0	Oiomúrë		http://www.glyphweb.com/arda/o/oiomure.html
