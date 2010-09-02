@@ -199,11 +199,11 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.11313709"
-     inkscape:cx="6076.4954"
-     inkscape:cy="3176.2539"
+     inkscape:zoom="0.22627418"
+     inkscape:cx="4544.0391"
+     inkscape:cy="4938.8636"
      inkscape:document-units="px"
-     inkscape:current-layer="layer-reference"
+     inkscape:current-layer="layer6"
      showgrid="false"
      showborder="true"
      inkscape:window-width="1680"
@@ -1525,13 +1525,13 @@
        xlink:href="build/labels/practice/celebrant-st.png"
        transform="matrix(0.7000732,0.7140711,-0.7140711,0.7000732,0,0)" />
     <image
-       transform="matrix(0.8538585,0.5205051,-0.5205051,0.8538585,0,0)"
+       transform="matrix(0.3520478,0.935982,-0.935982,0.3520478,0,0)"
        xlink:href="build/labels/practice/celebrant-st.png"
-       width="57.68663"
-       height="40.246487"
+       width="57.686626"
+       height="40.246483"
        id="image11055"
-       x="4920.3438"
-       y="277.75848"
+       x="4008.6169"
+       y="-2826.6104"
        style="display:inline" />
     <image
        y="4448.1763"
@@ -1993,15 +1993,15 @@
        xlink:href="build/labels/practice/mornorod-st.png" />
     <image
        style="display:inline"
-       y="1035.9742"
-       x="4591.9443"
+       y="1038.8125"
+       x="4595.2422"
        id="image11293"
-       height="22.796621"
-       width="44.529396"
+       height="18.303886"
+       width="35.75359"
        xlink:href="build/labels/practice/barad-durin-st.png"
        transform="matrix(0.9329461,0.360016,-0.360016,0.9329461,0,0)"
-       inkscape:transform-center-x="23.488799"
-       inkscape:transform-center-y="-6.7572163" />
+       inkscape:transform-center-x="18.859566"
+       inkscape:transform-center-y="-5.4255185" />
     <image
        style="display:inline"
        y="2844.4006"
@@ -2461,11 +2461,11 @@
        xlink:href="build/labels/practice/eryn-uireb-st.png" />
     <image
        style="display:inline"
-       y="-194.78337"
-       x="4723.9512"
+       y="-192.51031"
+       x="4722.6099"
        id="image5865"
-       height="26.370459"
-       width="64.607628"
+       height="20.902748"
+       width="51.211735"
        xlink:href="build/labels/practice/annon-caradhras-st.png"
        transform="matrix(0.8109254,0.5851496,-0.5851496,0.8109254,0,0)" />
     <image

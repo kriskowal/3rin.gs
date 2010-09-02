@@ -182,8 +182,8 @@ build/labels-tengwar-export-16384:
 	mkdir -p $@
 
 # a version of labels-tengwar.svg wherein all of the labels are opaque
-build/labels-tengwar-opaque.svg: labels-tengwar.svg labels_opaque.py
-	python labels_opaque.py labels-tengwar.svg $@
+build/labels-tengwar-opaque.svg: labels-tengwar.svg opaque_svg.py
+	python opaque_svg.py labels-tengwar.svg $@
 
 # ENGLISH LATIN LABELS
 
@@ -231,8 +231,8 @@ build/labels-latin-export-16384:
 	mkdir -p $@
 
 # a version of labels-latin.svg wherein all of the labels are opaque
-build/labels-latin-opaque.svg: labels-latin.svg labels_opaque.py
-	python labels_opaque.py labels-latin.svg $@
+build/labels-latin-opaque.svg: labels-latin.svg opaque_svg.py
+	python opaque_svg.py labels-latin.svg $@
 
 # GEOGRAPHY
 

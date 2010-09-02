@@ -1973,6 +1973,13 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 526.18109 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3148"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1984,11 +1991,11 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.040000002"
-     inkscape:cx="4952.58"
-     inkscape:cy="9731.9303"
+     inkscape:zoom="0.90509674"
+     inkscape:cx="4962.2482"
+     inkscape:cy="5070.2601"
      inkscape:document-units="px"
-     inkscape:current-layer="layer-reference"
+     inkscape:current-layer="layer5"
      showgrid="false"
      showborder="true"
      inkscape:window-width="1680"
@@ -2025,7 +2032,7 @@
      inkscape:groupmode="layer"
      id="layer-reference"
      inkscape:label="reference-ennorath"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <image
        id="image2961"
@@ -3788,6 +3795,15 @@
        sodipodi:absref="/home/kris/ennorath/build/labels/practice/rath-harad-iaur-el.png"
        xlink:href="build/labels/practice/rath-harad-iaur-el.png"
        transform="matrix(0.1912947,0.9815326,-0.9815326,0.1912947,0,0)" />
+    <image
+       y="2509.2136"
+       x="4502.3633"
+       id="image3150"
+       height="40.644497"
+       width="376.77747"
+       sodipodi:absref="/home/kris/ennorath/build/labels/practice/emyn-lasgalen-el.png"
+       xlink:href="build/labels/practice/emyn-lasgalen-el.png"
+       transform="matrix(0.9959136,-9.0310896e-2,9.0310896e-2,0.9959136,0,0)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -4036,11 +4052,11 @@
        transform="matrix(0.8797178,0.4754961,-0.4754961,0.8797178,0,0)" />
     <image
        style="display:inline"
-       y="1188.743"
-       x="4556.6772"
+       y="1190.1888"
+       x="4564.3672"
        id="image9033"
-       height="6.7503138"
-       width="44.439564"
+       height="4.2460823"
+       width="27.953373"
        sodipodi:absref="/home/kris/ennorath/build/labels/practice/barad-durin-el.png"
        xlink:href="build/labels/practice/barad-durin-el.png"
        transform="matrix(0.9437992,0.3305195,-0.3305195,0.9437992,0,0)" />
@@ -4311,8 +4327,8 @@
        transform="matrix(0.9027146,-0.4302399,0.4302399,0.9027146,0,0)" />
     <image
        style="display:inline"
-       y="1242.5824"
-       x="4600.0732"
+       y="1240.9092"
+       x="4593.6797"
        id="image4112"
        height="6.2120028"
        width="32.189468"
