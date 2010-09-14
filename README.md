@@ -13,6 +13,7 @@ It is dangerous to go alone.  Take these!
  * Numeric Python
  * Inkscape
  * Gimp
+ * Python JSON library (json, simplejson, or the one in django will do)
 
     apt-get install inkscape gimp python-imaging python-numpy
 

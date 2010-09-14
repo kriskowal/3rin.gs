@@ -44,8 +44,6 @@ TODO
 * minor icon animation tricks
 * improve performance of tiling
 * ambient contextual audio at close zoom
-* replace the Makefile with something more civilized
-  and resumable. (make/build)
 
 * crowd source further language layers
 
@@ -76,4 +74,6 @@ TODONE
 * fix the positions and order of the peaks of Moria http://www.glyphweb.com/arda/m/moria.html
 * cross reference with encyclopedia arda
 * make the map discoverable to search engines
+* replace the Makefile with something more civilized
+  and resumable. (make/build)
 

@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -x
 xargs -n 512 | while read ARGS; do
     # this is a crime against humanity, and I know it.
     FILE_NAMES=$(echo $ARGS | xargs -n 1 | while read line; do echo '"'"$line"'"'; done)
@@ -24,5 +24,5 @@ xargs -n 512 | while read ARGS; do
                 (set! file-names (cdr (cdr file-names)))
             )
         )
-    " -b "(gimp-quit 0)"
+    " -b "(gimp-quit 0)" || exit -1
 done

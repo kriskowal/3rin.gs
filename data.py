@@ -37,7 +37,6 @@ from regions import regions as get_regions
 
 from names import names as get_names
 names = get_names()
-print names
 
 regions = sorted(
     get_regions().values(),
