@@ -146,6 +146,8 @@ for canonical, region in regions.items():
         region.width,
         region.y,
         region.x,
+        'l',
+        canonical,
     ])
     etym = names[canonical]
     for et in etym:
