@@ -44,8 +44,6 @@ TODO
 * minor icon animation tricks
 * improve performance of tiling
 * ambient contextual audio at close zoom
-* replace the Makefile with something more civilized
-  and resumable. (make/build)
 
 * crowd source further language layers
 
@@ -75,4 +73,6 @@ TODONE
 * fix the labeling and missing river in the ost-in-edhil region
 * fix the positions and order of the peaks of Moria http://www.glyphweb.com/arda/m/moria.html
 * cross reference with encyclopedia arda
+* replace the Makefile with something more civilized
+  and resumable. (make/build)
 

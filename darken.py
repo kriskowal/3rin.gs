@@ -9,9 +9,12 @@ def darken(image, factor):
     return Image.fromarray(image.astype('uint8'), "RGBA")
 
 def command(source, target, factor):
-    image = Image.open(source)
-    factor = float(factor)
-    darken(image, factor).save(target)
+    try:
+        image = Image.open(source)
+        factor = float(factor)
+        darken(image, factor).save(target)
+    except IOError:
+        print "ERROR", source, target, factor
 
 def main():
     import sys

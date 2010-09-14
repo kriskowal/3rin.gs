@@ -1276,6 +1276,55 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 526.18109 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2994"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3047"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3153"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4249"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4396"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3776"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3877"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1288,10 +1337,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.0625"
-     inkscape:cx="7223.3906"
-     inkscape:cy="4186.0324"
+     inkscape:cx="2914.6705"
+     inkscape:cy="4234.1474"
      inkscape:document-units="px"
-     inkscape:current-layer="layer-ennorath"
+     inkscape:current-layer="layer8"
      showgrid="false"
      showborder="true"
      inkscape:window-width="1680"
@@ -1314,7 +1363,8 @@
      inkscape:label="ennorath"
      inkscape:groupmode="layer"
      id="layer-ennorath"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <image
        y="0"
        x="0"
@@ -1337,6 +1387,54 @@
        width="540.69635"
        sodipodi:absref="/home/kris/ennorath/archive/geography-detail/shire.png"
        xlink:href="archive/geography-detail/shire.png" />
+    <image
+       y="2690.3384"
+       x="3972.7285"
+       id="image3155"
+       height="405.57242"
+       width="398.44406"
+       sodipodi:absref="/home/kris/ennorath/archive/geography-detail/lothlorien.png"
+       xlink:href="archive/geography-detail/lothlorien.png"
+       style="opacity:1"
+       inkscape:export-filename="/home/kris/ennorath/archive/geography-detail/lothlorien-backdrop.png"
+       inkscape:export-xdpi="688.36066"
+       inkscape:export-ydpi="688.36066" />
+    <image
+       y="2217.2068"
+       x="2660.519"
+       id="image4251"
+       height="4.0862174"
+       width="7.1439309"
+       sodipodi:absref="/home/kris/ennorath/archive/icons/hobbits.png"
+       xlink:href="archive/icons/hobbits.png" />
+    <image
+       y="2496.4395"
+       x="3521.6633"
+       id="image4398"
+       height="525.18561"
+       width="698.07819"
+       sodipodi:absref="/home/kris/ennorath/archive/geography-detail/moria.png"
+       xlink:href="archive/geography-detail/moria.png"
+       style="opacity:1"
+       inkscape:export-filename="/home/kris/ennorath/archive/geography-detail/moria-backdrop.png"
+       inkscape:export-xdpi="688.25"
+       inkscape:export-ydpi="688.25" />
+    <image
+       y="2713.8438"
+       x="3913.9963"
+       id="image3778"
+       height="14.684198"
+       width="18.064333"
+       sodipodi:absref="/home/kris/ennorath/archive/icons/ennyn-moria.png"
+       xlink:href="archive/icons/ennyn-moria.png" />
+    <image
+       y="2844.9844"
+       x="3679.0996"
+       id="image3879"
+       height="33.830116"
+       width="42.380585"
+       sodipodi:absref="/home/kris/ennorath/archive/icons/ost-in-edhil.png"
+       xlink:href="archive/icons/ost-in-edhil.png" />
   </g>
   <g
      inkscape:groupmode="layer"

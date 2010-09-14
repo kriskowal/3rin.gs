@@ -26,9 +26,12 @@ def over(front,back):
     return Image.fromarray(result.astype('uint8'), "RGBA")
 
 def command(a, b, target):
-    a = Image.open(a)
-    b = Image.open(b)
-    over(b, a).save(target)
+    try:
+        a = Image.open(a)
+        b = Image.open(b)
+        over(b, a).save(target)
+    except IOError:
+        print 'ERROR', a, b, target
 
 def main():
     import sys
