@@ -2,8 +2,8 @@
 
 var SNAP_DELAY = 150;
 var TILE_SIZE = 256;
-var TILE_URL = "http://3rin.gs/tiles.13/";
-var ARTICLE_URL = "http://3rin.gs/articles.1/";
+var TILE_URL = "http://3rin.gs/tiles.20/";
+var ARTICLE_URL = "http://3rin.gs/articles.4/";
 var regions; // acquired via AJAX
 var largeToSmall; // computed from regions
 var show; // updated by the Map.onShow emitter
@@ -237,10 +237,10 @@ function report(containers, contents) {
                 $.each(location.names, function (k, name) {
                     $("<a></a>").attr({
                         "href": "#" + [
-                            location.height.toFixed(7),
                             location.width.toFixed(7),
-                            location.top.toFixed(7)
+                            location.height.toFixed(7),
                             location.left.toFixed(7),
+                            location.top.toFixed(7)
                         ].join(",")
                     }).click(function () {
                         go(location);
