@@ -6,17 +6,18 @@ from pprint import pprint
 from itertools import chain
 import codecs
 
-class Encarda(object):
-    def __init__(self, canonical = None, mappable = None, mapped = None, names = None, description = None, href = None):
+class Link(object):
+    def __init__(self, canonical = None, mappable = None, mapped = None, names = None, description = None, href = None, source = None):
         if names is None: names = []
         self.canonical = canonical or ""
         self.mappable = mappable
         self.mapped = mapped
         self.names = names
         self.description = description or ""
-        self.href = href.lower() or ""
+        self.href = href or ""
+        self.source = source
     def __repr__(self):
-        return 'Encarda(%s)' % ", ".join(
+        return 'Link(%s)' % ", ".join(
             "%s=%r" % (key, value)
             for key, value in vars(self).items()
         )
@@ -24,7 +25,7 @@ class Encarda(object):
     def name(self):
         return u" / ".join(self.names)
 
-def EncardaReader(file_name):
+def LinkReader(file_name):
     file = codecs.open(file_name, "r", "utf-8")
     content = file.read()
     content = content.lstrip(unicode(codecs.BOM_UTF8, "utf-8"))
@@ -39,17 +40,18 @@ def EncardaReader(file_name):
         for row in rows
     )
 
-def encarda():
-    reader = EncardaReader('encarda.txt')
+def links():
+    reader = LinkReader('links.tsv')
     articles = {}
     encardas = list(
-        Encarda(
+        Link(
             canonical = entry['Canonical'],
             mappable = entry['Mappable'] == '1',
             mapped = entry['Mapped'] == '1',
             names = entry['Names'].split(u" / "),
             description = entry['Description'],
             href = entry['Link'],
+            source = entry['Source'],
         ) for entry in reader
     )
     for encarda in encardas:

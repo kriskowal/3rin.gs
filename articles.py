@@ -3,13 +3,15 @@
 from regions import regions2 as get_regions
 from names import names as get_names
 from labels import labels2_dict as get_labels
-from encarda import encarda as get_encarda
+from links import links as get_links
+from locations import locations as get_locations
 from utils import makedirs
 from pprint import pprint
 regions = get_regions()
 names = get_names()
 labels = get_labels()
-encarda = get_encarda()
+links = get_links()
+locations = dict(get_locations())
 
 # sindarin normalizations (X/* references)
 # http://www.jrrvf.com/cgi-bin/hisweloke/sindnorm.cgi
@@ -95,8 +97,8 @@ def language_html(language):
         (
             "<em>(%s)</em>" % language["Meaning"]
             if
-                "Meaning" in language and
-                not "Construction" in language and
+                language["Meaning"] and
+                not language["Construction"] and
                 not any(
                     language["Meaning"].lower() == other["Name"].lower()
                     for other in names[language["Canonical"]]
@@ -110,17 +112,17 @@ def language_html(language):
                     (
                         "<ul><small><em>&mdash; %s</em></small></ul>" %
                         language["Constructed"]
-                        if "Constructed" in language
+                        if language["Constructed"]
                         else ""
                     )
                 )
             )
-            if "Construction" in language
+            if language["Construction"]
             else ""
         ),
     )
 
-ENCARDA = u'''<p><strong><a href="%(href)s" target="_blank">%(name)s</a></strong>%(description)s <nobr>&ndash; <em>Encyclopedia Arda</em></nobr></p>'''
+SOURCE = u'''<p><strong><a href="%(href)s" target="_blank">%(name)s</a></strong>%(description)s <nobr>&ndash; <em>%(source)s</em></nobr></p>'''
 TEMPLATE = open('template.html').read().decode("utf-8")
 EMBEDDED = u'''%s <p><a href="/articles/%s.html" target="_blank">comments</a></p>'''
 makedirs("build/articles")
@@ -128,6 +130,10 @@ index = []
 for canonical, region in regions.items():
     parts = []
     print canonical
+
+    location = locations[canonical]
+    if 'Notes' in location and location['Notes']:
+        parts.append('<p>%s</p>' % location['Notes'])
 
     for letters in 'Tengwar',:
         for language in 'Sindarin', 'English', 'Quenya', 'Khuzdul':
@@ -158,12 +164,13 @@ for canonical, region in regions.items():
             "map": map_href,
         })
 
-    articles = encarda.get(canonical, [])
+    articles = links.get(canonical, [])
     for article in articles:
-        parts.append(ENCARDA % {
+        parts.append(SOURCE % {
             'name': article.name,
             'href': article.href,
             'description': ", %s" % article.description if article.description else '',
+            'source': article.source,
         })
 
     body = u"\n".join(parts)

@@ -227,7 +227,7 @@ for size in large_sizes:
 
     @file('build/labels')
     def _(make, output):
-        make.depends('locations.csv')
+        make.depends('locations.tsv')
         make.command(['python', 'labels.py'])
 
     for alphabet in alphabets:

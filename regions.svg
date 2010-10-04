@@ -303,7 +303,7 @@
        inkscape:label="#rect3470" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="emyn-angren"
+       id="ered-engrin"
        width="934.70673"
        height="399.95728"
        x="5433.6733"
@@ -501,7 +501,7 @@
        inkscape:label="#rect3520" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="west-emnet"
+       id="westemnet"
        width="531.25"
        height="290.625"
        x="3812.5"
@@ -517,7 +517,7 @@
        inkscape:label="#rect3524" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="east-emnet"
+       id="eastemnet"
        width="460.9375"
        height="600"
        x="4253.125"
@@ -605,7 +605,7 @@
        inkscape:label="#rect3546" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="emyn-lasgalen"
+       id="ered-lasgalen"
        width="522.65625"
        height="196.875"
        x="4655.4688"
@@ -637,7 +637,7 @@
        inkscape:label="#rect3554" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:6.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="uanlo"
+       id="torobrannor"
        width="427.57861"
        height="334.77087"
        x="3669.2212"
@@ -1654,7 +1654,7 @@
        inkscape:label="#rect3784" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="eryn-morn"
+       id="eryn-wethrin"
        width="79.549515"
        height="46.403881"
        x="3986.3145"
@@ -1742,7 +1742,7 @@
        inkscape:label="#rect3806" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="belannurath"
+       id="men-annun"
        width="1316.9863"
        height="605.46014"
        x="3701.262"
