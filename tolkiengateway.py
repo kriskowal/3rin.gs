@@ -73,7 +73,7 @@ def cross_reference():
 
 def cross_reference_txt():
     from tsv import format
-    open('temp.tsv', 'w').write(format(cross_reference()))
+    open('tolkiengateway.tsv', 'w').write(format(cross_reference()))
 
 
 def main():
