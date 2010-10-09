@@ -2,7 +2,7 @@
 
 from regions import regions2 as get_regions
 from names import names as get_names
-from labels import labels2_dict as get_labels
+from labels import labels_dict as get_labels
 from links import links as get_links
 from locations import locations as get_locations
 from utils import makedirs

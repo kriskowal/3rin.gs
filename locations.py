@@ -3,11 +3,12 @@
 
 import tsv
 from re import compile as re
+import codecs
 
 SINDARIN = u"Sindarin [Ñoldorin] {Unknown/Other}"
 ROMAN = u"English [Westron] {Rohirric}"
 OTHER = u"Quenya [Khuzdul]"
-PREFIX = u"Canonical"
+CANONICAL = PREFIX = u"Canonical"
 SCALE = u"Scale"
 TYPE = u"Type"
 SINDARIN_LABEL_PAGES = u"S page"
@@ -25,7 +26,7 @@ def locations():
         name = "-".join(parts)
         data['name'] = name
         return name, row
-    return map(item, tsv.DictReader(open(FILE)))
+    return map(item, tsv.DictReader(codecs.open(FILE, 'r', 'utf-8')))
 
 def names():
     for canonical, data in locations():

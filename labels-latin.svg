@@ -1980,6 +1980,97 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 526.18109 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3066"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3928"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4081"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4216"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4317"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4401"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4486"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4588"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4658"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4742"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4898"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4983"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5068"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1991,9 +2082,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.080000005"
-     inkscape:cx="5781.1172"
-     inkscape:cy="3749.6404"
+     inkscape:zoom="0.080000004"
+     inkscape:cx="4959.2455"
+     inkscape:cy="4340.0944"
      inkscape:document-units="px"
      inkscape:current-layer="layer-reference"
      showgrid="false"
@@ -2032,7 +2123,8 @@
      inkscape:groupmode="layer"
      id="layer-reference"
      inkscape:label="reference-ennorath"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <image
        id="image2961"
        x="0"
@@ -2095,7 +2187,7 @@
        width="2255.7073"
        xlink:href="build/labels/practice/rhovanion-el.png"
        transform="matrix(0.6799967,0.7332151,-0.7332151,0.6799967,0,0)"
-       style="opacity:0.7258065" />
+       style="opacity:0.67741935" />
     <image
        y="7069.749"
        x="2845.9456"
@@ -2129,7 +2221,7 @@
        width="1563.6792"
        xlink:href="build/labels/practice/mordor-sl.png"
        transform="matrix(0.9852598,0.1710649,-0.1710649,0.9852598,0,0)"
-       style="opacity:0.83467742" />
+       style="opacity:0.71370968" />
     <image
        y="2579.3406"
        x="4441.3696"
@@ -2146,7 +2238,7 @@
      inkscape:label="2"
      style="display:inline">
     <image
-       style="display:inline;opacity:0.81048387"
+       style="display:inline;opacity:0.67741935"
        y="1499.0657"
        x="5113.8008"
        id="image2797"
@@ -2177,13 +2269,14 @@
      inkscape:label="3"
      style="opacity:1;display:inline">
     <image
-       y="3016.009"
-       x="966.95862"
+       y="3022.5312"
+       x="969.69958"
        id="image4796"
-       height="148.97482"
-       width="685.58813"
+       height="148.97484"
+       width="685.5882"
        xlink:href="build/labels/practice/arthedain-sl.png"
-       transform="matrix(0.8784395,-0.4778537,0.4778537,0.8784395,0,0)" />
+       transform="matrix(0.8784395,-0.4778537,0.4778537,0.8784395,0,0)"
+       style="opacity:0.74596774" />
     <image
        y="2793.364"
        x="2810.717"
@@ -2191,7 +2284,8 @@
        height="163.77007"
        width="543.2757"
        xlink:href="build/labels/practice/rhudaur-sl.png"
-       transform="matrix(0.9653902,-0.2608097,0.2608097,0.9653902,0,0)" />
+       transform="matrix(0.9653902,-0.2608097,0.2608097,0.9653902,0,0)"
+       style="opacity:0.74596774" />
     <image
        y="3511.5601"
        x="1733.396"
@@ -2199,7 +2293,8 @@
        height="162.48232"
        width="609.74542"
        xlink:href="build/labels/practice/cardolan-ul.png"
-       transform="matrix(0.9310803,-0.3648143,0.3648143,0.9310803,0,0)" />
+       transform="matrix(0.9310803,-0.3648143,0.3648143,0.9310803,0,0)"
+       style="opacity:0.74596774" />
     <image
        y="4596.292"
        x="190.61977"
@@ -2311,7 +2406,7 @@
        xlink:href="build/labels/practice/moria-sl.png"
        transform="matrix(0.9318976,-0.3627214,0.3627214,0.9318976,0,0)" />
     <image
-       style="display:inline"
+       style="display:inline;opacity:0.87903226"
        y="5234.7393"
        x="-1370.3933"
        id="image2935"
@@ -2326,7 +2421,7 @@
        id="image3282"
        height="153.75003"
        width="627.94751"
-       xlink:href="build/labels/practice/emyn-angren-el.png" />
+       xlink:href="build/labels/practice/ered-engrin-el.png" />
     <image
        style="display:inline"
        y="4126.0215"
@@ -2484,14 +2579,6 @@
        xlink:href="build/labels/practice/talf-tharn-el.png"
        transform="matrix(0.9992338,3.9139128e-2,-3.9139128e-2,0.9992338,0,0)" />
     <image
-       y="4050.0903"
-       x="3848.8257"
-       id="image3372"
-       height="67.835899"
-       width="372.41913"
-       xlink:href="build/labels/practice/east-emnet-el.png"
-       transform="matrix(0.992453,-0.1226257,0.1226257,0.992453,0,0)" />
-    <image
        y="221.52711"
        x="5723.5122"
        id="image3462"
@@ -2543,15 +2630,6 @@
        xlink:href="build/labels/practice/folde-el.png"
        transform="matrix(0.9886799,0.1500404,-0.1500404,0.9886799,0,0)" />
     <image
-       style="display:inline"
-       y="4794.1387"
-       x="1228.9949"
-       id="image3247"
-       height="58.750027"
-       width="254.88474"
-       xlink:href="build/labels/practice/angren-el.png"
-       transform="matrix(0.8968814,-0.4422711,0.4422711,0.8968814,0,0)" />
-    <image
        y="804.55109"
        x="1669.1423"
        id="image3338"
@@ -2570,13 +2648,13 @@
        transform="matrix(0.7289727,-0.6845428,0.6845428,0.7289727,0,0)" />
     <image
        style="display:inline"
-       y="3785.0796"
-       x="387.76456"
+       y="3739.3005"
+       x="675.37201"
        id="image6701"
        height="84.070213"
        width="414.40668"
        xlink:href="build/labels/practice/baranduin-el.png"
-       transform="matrix(0.7950676,-0.6065208,0.6065208,0.7950676,0,0)" />
+       transform="matrix(0.8352611,-0.5498535,0.5498535,0.8352611,0,0)" />
     <image
        style="display:inline"
        y="5960.168"
@@ -2670,14 +2748,6 @@
        xlink:href="build/labels/practice/lothlorien-sl.png"
        transform="matrix(0.944997,0.3270791,-0.3270791,0.944997,0,0)" />
     <image
-       y="1671.0627"
-       x="5038.3457"
-       id="image5292"
-       height="39.125004"
-       width="235.80745"
-       sodipodi:absref="/home/kris/ennorath/build/labels/practice/erebor-el.png"
-       xlink:href="build/labels/practice/erebor-el.png" />
-    <image
        style="display:inline"
        y="5117.7954"
        x="267.51746"
@@ -2708,11 +2778,11 @@
        xlink:href="build/labels/practice/eryn-firien-el.png" />
     <image
        style="display:inline"
-       y="4218.0308"
-       x="-164.48958"
+       y="4233.7354"
+       x="-135.47166"
        id="image8458"
-       height="117.09666"
-       width="452.70407"
+       height="101.39867"
+       width="392.0145"
        sodipodi:absref="/home/kris/ennorath/build/labels/practice/gwathlo-el.png"
        xlink:href="build/labels/practice/gwathlo-el.png"
        transform="matrix(0.728051,-0.6855229,0.6855229,0.728051,0,0)" />
@@ -2763,14 +2833,34 @@
        xlink:href="build/labels/practice/barannor-el.png"
        transform="matrix(0.1453828,-0.9893755,0.9893755,0.1453828,0,0)" />
     <image
-       y="4302.5933"
-       x="3095.3101"
-       id="image3557"
-       height="63.443642"
-       width="356.57919"
-       sodipodi:absref="/home/kris/ennorath/build/labels/practice/west-emnet-el.png"
-       xlink:href="build/labels/practice/west-emnet-el.png"
-       transform="matrix(0.9801478,-0.1982681,0.1982681,0.9801478,0,0)" />
+       style="display:inline"
+       y="-4709.3359"
+       x="4703.4668"
+       id="image4900"
+       height="58.341076"
+       width="209.4975"
+       sodipodi:absref="/home/kris/ennorath/build/labels/practice/morgai-sl.png"
+       xlink:href="build/labels/practice/morgai-sl.png"
+       transform="matrix(0.1363816,0.9906564,-0.9906564,0.1363816,0,0)" />
+    <image
+       style="display:inline"
+       y="3968.9475"
+       x="3538.969"
+       id="image4985"
+       height="60.197769"
+       width="331.56931"
+       sodipodi:absref="/home/kris/ennorath/build/labels/practice/westemnet-el.png"
+       xlink:href="build/labels/practice/westemnet-el.png"
+       transform="matrix(0.9952974,-9.6865915e-2,9.6865915e-2,0.9952974,0,0)" />
+    <image
+       y="4016.6409"
+       x="3894.3784"
+       id="image5070"
+       height="52.287395"
+       width="346.10233"
+       sodipodi:absref="/home/kris/ennorath/build/labels/practice/eastemnet-el.png"
+       xlink:href="build/labels/practice/eastemnet-el.png"
+       transform="matrix(0.9940863,-0.1085929,0.1085929,0.9940863,0,0)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2827,19 +2917,20 @@
        xlink:href="build/labels/practice/fanuidhol-el.png" />
     <image
        style="display:inline"
-       y="2240.5059"
-       x="3061.2419"
+       y="2242.7156"
+       x="3022.572"
        id="image3896"
        height="71.422134"
        width="150.32658"
        xlink:href="build/labels/practice/bree-el.png" />
     <image
-       y="1896.2349"
-       x="2912.9861"
+       y="1607.3528"
+       x="3153.2825"
        id="image4021"
-       height="48.322369"
-       width="176.70827"
-       xlink:href="build/labels/practice/fornost-erain-el.png" />
+       height="37.273827"
+       width="136.30527"
+       xlink:href="build/labels/practice/fornost-erain-el.png"
+       transform="matrix(0.9962277,8.6777422e-2,-8.6777422e-2,0.9962277,0,0)" />
     <image
        y="2161.676"
        x="4378.4219"
@@ -2897,13 +2988,13 @@
        xlink:href="build/labels/practice/emyn-formen-el.png"
        transform="matrix(0.9361149,-0.3516944,0.3516944,0.9361149,0,0)" />
     <image
-       y="1022.7264"
-       x="3181.0979"
+       y="622.91162"
+       x="3287.1306"
        id="image4972"
        height="38.714619"
        width="159.32555"
        xlink:href="build/labels/practice/emyn-haeron-el.png"
-       transform="matrix(0.9083507,0.4182093,-0.4182093,0.9083507,0,0)" />
+       transform="matrix(0.8498529,0.52702,-0.52702,0.8498529,0,0)" />
     <image
        y="1600.7361"
        x="3553.7659"
@@ -2948,8 +3039,8 @@
        xlink:href="build/labels/practice/nenuial-el.png"
        transform="matrix(0.79673,-0.6043354,0.6043354,0.79673,0,0)" />
     <image
-       y="784.6756"
-       x="3777.3062"
+       y="801.02893"
+       x="3708.7524"
        id="image5932"
        height="26.234411"
        width="146.68701"
@@ -3013,11 +3104,11 @@
        xlink:href="build/labels/practice/harlond-el.png"
        transform="matrix(0.9426702,-0.3337258,0.3337258,0.9426702,0,0)" />
     <image
-       y="5148.0723"
-       x="3171.6646"
+       y="5150.7954"
+       x="3175.4021"
        id="image7459"
-       height="53.811058"
-       width="176.18784"
+       height="39.992558"
+       width="130.94339"
        xlink:href="build/labels/practice/edhellond-el.png"
        transform="matrix(0.9820834,-0.1884467,0.1884467,0.9820834,0,0)" />
     <image
@@ -3154,14 +3245,6 @@
        xlink:href="build/labels/practice/ciril-el.png"
        transform="matrix(0.2654848,-0.964115,0.964115,0.2654848,0,0)" />
     <image
-       y="950.25031"
-       x="5743.9277"
-       id="image6542"
-       height="32.150551"
-       width="189.29764"
-       xlink:href="build/labels/practice/morthond-el.png"
-       transform="matrix(0.7862573,0.6178993,-0.6178993,0.7862573,0,0)" />
-    <image
        y="6031.939"
        x="856.56427"
        id="image6752"
@@ -3233,8 +3316,8 @@
        width="328.13681"
        xlink:href="build/labels/practice/gundabad-kl.png" />
     <image
-       y="630.35468"
-       x="3369.0881"
+       y="649.0813"
+       x="3231.1201"
        id="image7812"
        height="36.002262"
        width="212.18356"
@@ -3273,8 +3356,8 @@
        id="image3124"
        height="55.875008"
        width="252.90793"
-       sodipodi:absref="/home/kris/ennorath/build/labels/practice/east-bight-el.png"
-       xlink:href="build/labels/practice/east-bight-el.png" />
+       sodipodi:absref="/home/kris/ennorath/build/labels/practice/cunmaeghed-rhunen-el.png"
+       xlink:href="build/labels/practice/cunmaeghed-rhunen-el.png" />
     <image
        y="2128.4065"
        x="4634.4204"
@@ -3303,34 +3386,25 @@
        xlink:href="build/labels/practice/mithlond-el.png"
        transform="matrix(0.9417045,-0.336441,0.336441,0.9417045,0,0)" />
     <image
-       y="4899.7622"
-       x="-187.56906"
-       id="image3872"
-       height="34.235046"
-       width="188.08401"
-       sodipodi:absref="/home/kris/ennorath/build/labels/practice/eryn-vorn-el.png"
-       xlink:href="build/labels/practice/eryn-vorn-el.png"
-       transform="matrix(0.6678868,-0.7442629,0.7442629,0.6678868,0,0)" />
-    <image
        style="display:inline"
-       y="2984.7446"
-       x="6188.9673"
+       y="2985.1282"
+       x="6195.5117"
        id="image4198"
-       height="37.998066"
-       width="191.51024"
+       height="31.40539"
+       width="158.28314"
        sodipodi:absref="/home/kris/ennorath/build/labels/practice/barad-dur-sl.png"
        xlink:href="build/labels/practice/barad-dur-sl.png"
        transform="matrix(0.9834709,0.181066,-0.181066,0.9834709,0,0)" />
     <image
        style="display:inline"
-       y="5274.6533"
-       x="4069.1492"
+       y="4002.0195"
+       x="5357.313"
        id="image4437"
-       height="35.029572"
-       width="209.45515"
+       height="29.503111"
+       width="176.41034"
        sodipodi:absref="/home/kris/ennorath/build/labels/practice/orodruin-el.png"
        xlink:href="build/labels/practice/orodruin-el.png"
-       transform="matrix(0.9678232,-0.2516312,0.2516312,0.9678232,0,0)" />
+       transform="matrix(0.9999807,6.2102508e-3,-6.2102508e-3,0.9999807,0,0)" />
     <image
        y="-4308.5464"
        x="5518.2598"
@@ -3366,8 +3440,8 @@
        id="image5937"
        height="48.920643"
        width="141.86986"
-       sodipodi:absref="/home/kris/ennorath/build/labels/practice/limlight-el.png"
-       xlink:href="build/labels/practice/limlight-el.png"
+       sodipodi:absref="/home/kris/ennorath/build/labels/practice/limlich-el.png"
+       xlink:href="build/labels/practice/limlich-el.png"
        transform="matrix(0.9379648,-0.3467306,0.3467306,0.9379648,0,0)" />
     <image
        transform="matrix(0.5887117,-0.8083431,0.8083431,0.5887117,0,0)"
@@ -3413,8 +3487,8 @@
        id="image6555"
        height="41.875008"
        width="235.07108"
-       sodipodi:absref="/home/kris/ennorath/build/labels/practice/uanlo-el.png"
-       xlink:href="build/labels/practice/uanlo-el.png"
+       sodipodi:absref="/home/kris/ennorath/build/labels/practice/torobrannor-el.png"
+       xlink:href="build/labels/practice/torobrannor-el.png"
        transform="matrix(0.9882523,0.1528313,-0.1528313,0.9882523,0,0)" />
     <image
        y="4252.6069"
@@ -3605,8 +3679,8 @@
        id="image9732"
        height="18.896391"
        width="75.810516"
-       sodipodi:absref="/home/kris/ennorath/build/labels/practice/andnen-el.png"
-       xlink:href="build/labels/practice/andnen-el.png"
+       sodipodi:absref="/home/kris/ennorath/build/labels/practice/annen-el.png"
+       xlink:href="build/labels/practice/annen-el.png"
        transform="matrix(-5.179579e-2,-0.9986577,0.9986577,-5.179579e-2,0,0)" />
     <image
        style="display:inline"
@@ -3672,16 +3746,6 @@
        sodipodi:absref="/home/kris/ennorath/build/labels/practice/nardol-sl.png"
        xlink:href="build/labels/practice/nardol-sl.png"
        transform="matrix(0.8200799,-0.572249,0.572249,0.8200799,0,0)" />
-    <image
-       style="display:inline"
-       y="1175.8936"
-       x="3212.8823"
-       id="image11321"
-       height="20.500006"
-       width="81.740532"
-       sodipodi:absref="/home/kris/ennorath/build/labels/practice/caras-perian-el.png"
-       xlink:href="build/labels/practice/caras-perian-el.png"
-       transform="matrix(0.9437495,0.3306614,-0.3306614,0.9437495,0,0)" />
     <image
        style="display:inline"
        y="2880.165"
@@ -3805,6 +3869,62 @@
        sodipodi:absref="/home/kris/ennorath/build/labels/practice/emyn-lasgalen-el.png"
        xlink:href="build/labels/practice/emyn-lasgalen-el.png"
        transform="matrix(0.9959136,-9.0310896e-2,9.0310896e-2,0.9959136,0,0)" />
+    <image
+       style="display:inline"
+       y="2516.084"
+       x="2057.3567"
+       id="image3068"
+       height="34.417305"
+       width="167.59729"
+       sodipodi:absref="/home/kris/ennorath/build/labels/practice/annuminas-sl.png"
+       xlink:href="build/labels/practice/annuminas-sl.png"
+       transform="matrix(0.9701717,-0.2424189,0.2424189,0.9701717,0,0)" />
+    <image
+       style="display:inline"
+       y="1647.7906"
+       x="4937.9092"
+       id="image3930"
+       height="62.231876"
+       width="438.24344"
+       sodipodi:absref="/home/kris/ennorath/build/labels/practice/erebor-el.png"
+       xlink:href="build/labels/practice/erebor-el.png" />
+    <image
+       y="4890.8862"
+       x="-362.24902"
+       id="image4083"
+       height="37.937508"
+       width="193.11691"
+       sodipodi:absref="/home/kris/ennorath/build/labels/practice/eryn-vorn-sl.png"
+       xlink:href="build/labels/practice/eryn-vorn-sl.png"
+       transform="matrix(0.6405891,-0.7678839,0.7678839,0.6405891,0,0)" />
+    <image
+       y="1449.6326"
+       x="5651.1021"
+       id="image4218"
+       height="32.374451"
+       width="154.23187"
+       sodipodi:absref="/home/kris/ennorath/build/labels/practice/morthond-el.png"
+       xlink:href="build/labels/practice/morthond-el.png"
+       transform="matrix(0.8402487,0.5422011,-0.5422011,0.8402487,0,0)" />
+    <image
+       style="display:inline"
+       y="5338.063"
+       x="789.50256"
+       id="image4488"
+       height="70.060745"
+       width="290.99203"
+       sodipodi:absref="/home/kris/ennorath/build/labels/practice/andrast-sl.png"
+       xlink:href="build/labels/practice/andrast-sl.png"
+       transform="matrix(0.9403602,-0.3401803,0.3401803,0.9403602,0,0)" />
+    <image
+       style="display:inline"
+       y="4792.7598"
+       x="1187.5984"
+       id="image3247"
+       height="61.889198"
+       width="268.50391"
+       xlink:href="build/labels/practice/angren-el.png"
+       transform="matrix(0.8968814,-0.4422711,0.4422711,0.8968814,0,0)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3830,13 +3950,13 @@
        transform="matrix(0.8671762,-0.4980015,0.4980015,0.8671762,0,0)" />
     <image
        style="display:inline"
-       y="3084.3992"
-       x="1689.6595"
+       y="2219.0435"
+       x="2746.6699"
        id="image3805"
-       height="19.720503"
-       width="156.95081"
+       height="10.874832"
+       width="86.550209"
        xlink:href="build/labels/practice/baranduiniant-el.png"
-       transform="matrix(0.9283817,-0.3716281,0.3716281,0.9283817,0,0)" />
+       transform="matrix(0.9999969,2.4947979e-3,-2.4947979e-3,0.9999969,0,0)" />
     <image
        style="display:inline"
        y="-900.51514"
@@ -4054,11 +4174,11 @@
        transform="matrix(0.8797178,0.4754961,-0.4754961,0.8797178,0,0)" />
     <image
        style="display:inline"
-       y="1190.1888"
-       x="4564.3672"
+       y="1184.2437"
+       x="4570.48"
        id="image9033"
        height="4.2460823"
-       width="27.953373"
+       width="27.953375"
        sodipodi:absref="/home/kris/ennorath/build/labels/practice/barad-durin-el.png"
        xlink:href="build/labels/practice/barad-durin-el.png"
        transform="matrix(0.9437992,0.3305195,-0.3305195,0.9437992,0,0)" />
@@ -4071,25 +4191,6 @@
        width="22.261066"
        sodipodi:absref="/home/kris/ennorath/build/labels/practice/aglarond-el.png"
        xlink:href="build/labels/practice/aglarond-el.png" />
-    <image
-       style="display:inline"
-       y="2707.1582"
-       x="3726.3503"
-       id="image9546"
-       height="16.468752"
-       width="69.654724"
-       sodipodi:absref="/home/kris/ennorath/build/labels/practice/ost-in-edhil-sl.png"
-       xlink:href="build/labels/practice/ost-in-edhil-sl.png"
-       transform="matrix(0.9992829,3.786433e-2,-3.786433e-2,0.9992829,0,0)" />
-    <image
-       y="2306.0417"
-       x="2338.9453"
-       id="image9648"
-       height="9.4935026"
-       width="68.598213"
-       sodipodi:absref="/home/kris/ennorath/build/labels/practice/annuminas-el.png"
-       xlink:href="build/labels/practice/annuminas-el.png"
-       transform="matrix(0.9894917,-0.1445897,0.1445897,0.9894917,0,0)" />
     <image
        style="display:inline"
        y="1855.5992"
@@ -4117,14 +4218,14 @@
        sodipodi:absref="/home/kris/ennorath/build/labels/practice/haudh-in-gwanur-el.png"
        xlink:href="build/labels/practice/haudh-in-gwanur-el.png" />
     <image
-       y="2450.7668"
-       x="5254.2222"
+       y="2827.6719"
+       x="5057.3638"
        id="image10343"
        height="17.343754"
        width="106.56773"
        sodipodi:absref="/home/kris/ennorath/build/labels/practice/achad-tarlang-el.png"
        xlink:href="build/labels/practice/achad-tarlang-el.png"
-       transform="matrix(0.9384782,0.3453384,-0.3453384,0.9384782,0,0)" />
+       transform="matrix(0.9610265,0.2764561,-0.2764561,0.9610265,0,0)" />
     <image
        style="display:inline"
        y="2412.9556"
@@ -4174,8 +4275,8 @@
        xlink:href="build/labels/practice/durthang-sl.png" />
     <image
        style="display:inline"
-       y="2910.3713"
-       x="4236.5928"
+       y="2923.3596"
+       x="4236.4951"
        id="image11746"
        height="10.560196"
        width="75.624626"
@@ -4235,8 +4336,8 @@
        sodipodi:absref="/home/kris/ennorath/build/labels/practice/imladnur-el.png"
        xlink:href="build/labels/practice/imladnur-el.png" />
     <image
-       y="1074.4736"
-       x="4625.8022"
+       y="1068.5571"
+       x="4627.417"
        id="image13352"
        height="13.062726"
        width="83.934975"
@@ -4303,6 +4404,51 @@
        width="124.86012"
        sodipodi:absref="/home/kris/ennorath/build/labels/practice/emyn-arnen-el.png"
        xlink:href="build/labels/practice/emyn-arnen-el.png" />
+    <image
+       style="display:inline"
+       y="1218.8401"
+       x="3183.7727"
+       id="image11321"
+       height="10.185403"
+       width="40.612682"
+       sodipodi:absref="/home/kris/ennorath/build/labels/practice/caras-perian-el.png"
+       xlink:href="build/labels/practice/caras-perian-el.png"
+       transform="matrix(0.9437495,0.3306614,-0.3306614,0.9437495,0,0)" />
+    <image
+       y="2857.6409"
+       x="3662.3083"
+       id="image4319"
+       height="15.187502"
+       width="81.63282"
+       sodipodi:absref="/home/kris/ennorath/build/labels/practice/ost-in-edhil-el.png"
+       xlink:href="build/labels/practice/ost-in-edhil-el.png" />
+    <image
+       style="display:inline"
+       y="4757.7612"
+       x="3702.9243"
+       id="image4403"
+       height="14.450914"
+       width="57.182114"
+       sodipodi:absref="/home/kris/ennorath/build/labels/practice/tol-brandir-el.png"
+       xlink:href="build/labels/practice/tol-brandir-el.png"
+       transform="matrix(0.9756226,-0.2194549,0.2194549,0.9756226,0,0)" />
+    <image
+       style="display:inline"
+       y="3654.511"
+       x="3646.1479"
+       id="image4590"
+       height="15.491266"
+       width="73.767929"
+       sodipodi:absref="/home/kris/ennorath/build/labels/practice/dol-baran-sl.png"
+       xlink:href="build/labels/practice/dol-baran-sl.png" />
+    <image
+       y="4501.5615"
+       x="2819.9292"
+       id="image4660"
+       height="43.751732"
+       width="255.45367"
+       sodipodi:absref="/home/kris/ennorath/build/labels/practice/ras-morthil-sl.png"
+       xlink:href="build/labels/practice/ras-morthil-sl.png" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -4329,8 +4475,8 @@
        transform="matrix(0.9027146,-0.4302399,0.4302399,0.9027146,0,0)" />
     <image
        style="display:inline"
-       y="1240.9092"
-       x="4593.6797"
+       y="1242.4391"
+       x="4595.9795"
        id="image4112"
        height="6.2120028"
        width="32.189468"
@@ -4349,18 +4495,8 @@
        transform="matrix(0.7802743,-0.6254374,0.6254374,0.7802743,0,0)" />
     <image
        style="display:inline"
-       y="4795.7319"
-       x="3652.9126"
-       id="image10206"
-       height="11.312503"
-       width="63.075771"
-       sodipodi:absref="/home/kris/ennorath/build/labels/practice/tol-brandir-sl.png"
-       xlink:href="build/labels/practice/tol-brandir-sl.png"
-       transform="matrix(0.9734932,-0.228716,0.228716,0.9734932,0,0)" />
-    <image
-       style="display:inline"
-       y="4523.7002"
-       x="1466.4575"
+       y="4521.4878"
+       x="1466.7103"
        id="image11848"
        height="12.007277"
        width="51.923363"
@@ -4386,6 +4522,16 @@
        sodipodi:absref="/home/kris/ennorath/build/labels/practice/narchost-sl.png"
        xlink:href="build/labels/practice/narchost-sl.png"
        transform="matrix(0.9405064,0.339776,-0.339776,0.9405064,0,0)" />
+    <image
+       style="display:inline"
+       y="2025.6188"
+       x="6130.3857"
+       id="image4744"
+       height="9.5312519"
+       width="65.765633"
+       sodipodi:absref="/home/kris/ennorath/build/labels/practice/henneth-annun-sl.png"
+       xlink:href="build/labels/practice/henneth-annun-sl.png"
+       transform="matrix(0.9329902,0.3599017,-0.3599017,0.9329902,0,0)" />
   </g>
   <g
      inkscape:groupmode="layer"

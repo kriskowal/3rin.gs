@@ -79,9 +79,9 @@ archives: \
 		build/components.zip \
 		build/sources.zip
 build/components.zip:
-	cat components.manifest | (cd archive; find `cat` | xargs zip build/components.zip)
+	cat components.manifest | (cd archive; find `cat` | xargs zip -) > $*
 build/sources.zip:
-	(cd archive; find sources | xargs zip build/sources.zip)
+	(cd archive; find sources | xargs zip -) > $*
 
 # REGIONS
 

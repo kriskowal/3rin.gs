@@ -1,5 +1,5 @@
 Canonical	English [Westron] {Rohirric}	Sindarin [Ñoldorin] {Unknown/Other}	Quenya [Khuzdul]	French	German	Bulgarian Cyrillic	Bulgarian Latin	Portuguese	Scale	Parent	Type	Icon	I page	S page	S	SL	L page	L	LL	R	Outstanding Issues	Notes
-eryn-ost-s	Chetwood	Eryndaur*		Bois de Chet	Chetwald				5	Eriador	Hills			"19,79"	P	1	21	X	6			"""Chetwood"" and ""Carrock"" are both examples of a particular device that Tolkien employed: to join an English word with a word of the same meaning in another language.  In this case, ""chet"" means ""forest"" in Gaelic (as attested by Måns Björkman http://movies.groups.yahoo.com/group/elfscript2/message/301)."
+eryndaur-s	Chetwood	Eryndaur*		Bois de Chet	Chetwald				5	Eriador	Hills			"19,79"	P	1	21	X	6			"""Chetwood"" and ""Carrock"" are both examples of a particular device that Tolkien employed: to join an English word with a word of the same meaning in another language.  In this case, ""chet"" means ""forest"" in Gaelic (as attested by Måns Björkman http://movies.groups.yahoo.com/group/elfscript2/message/301)."
 ered-lasgalen-s	Mountains of Mirkwood	Ered Lasgalen / Emyn nu Fuin			Berge vom Düsterwald				5	Lasgalen	Mountains			"12,79"	P	1	30	X	5
 barannor-s	Dunland	Barannor*		Pays de Dun	Dunland				5	Minhiriath	Region			"39,79"	P	1	33	X	4
 enedwaith-s	Midlands*	Enedwaith		Terre de l'entre-deux	Mittelvolk				3	Eriador	Region			"3,11,79"	P	1	"6,13"	X	3
@@ -332,8 +332,7 @@ budge-ford-e	Budgeford				Balgfurt
 bagshot-row-e	Bagshot Row			Chemin des Trous-du-Talus	Beutelhaldenweg
 bag-end-e	Bag End			Cul-de-Sac	Beutelsend															T	Perhaps incorporate into map at a very fine detail
 bucklebury-e	Bucklebury				Bockenburg
-duriniant-s	Bridge of Khazad-dúm / Durin's Bridge	Duriniant*			"Brücke von Khazad-Dûm
-"															T
+duriniant-s	Bridge of Khazad-dúm / Durin's Bridge	Duriniant*			"Brücke von Khazad-Dûm"															T
 penduireb-s	Endless Stair	Penduireb*			Endlose Treppe															T		"The endless stair extends from the waters beneath Moria up to Durin's Tower atop Celebdil. In Gandalf's account in The Two Towers, he pursues the Balrog up this stair, and it is implied that the Dwarves had long forgotten its entrance."
 cross-roads-e	Cross-roads			Croisée des Chemins	Scheideweg															T
 cracks-of-doom-e	Cracks of Doom			Crevasses du Destin	Schicksalsklüfte															T

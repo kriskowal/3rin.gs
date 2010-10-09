@@ -41,9 +41,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="3370.1977"
-     inkscape:cy="4851.1983"
+     inkscape:zoom="2"
+     inkscape:cx="5254.7696"
+     inkscape:cy="3041.0169"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -180,6 +180,22 @@
        x="2054"
        y="2112"
        inkscape:label="#rect2650" />
+    <rect
+       style="opacity:0.73913042;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:12.40100002;stroke-linecap:square;stroke-linejoin:miter;marker:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="withywindle"
+       width="92.5"
+       height="105.75"
+       x="2836.5"
+       y="2188.75"
+       inkscape:label="#rect2654" />
+    <rect
+       style="opacity:0.73913042;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:12.40100002;stroke-linecap:square;stroke-linejoin:miter;marker:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="morgai"
+       width="152.5"
+       height="312"
+       x="5205.5"
+       y="3979"
+       inkscape:label="#rect2656" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1179,7 +1195,7 @@
        inkscape:label="#rect3684" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="east-bight"
+       id="cunmaeghed-rhunen"
        width="350.23883"
        height="224.28543"
        x="4843.6812"
@@ -1267,7 +1283,7 @@
        inkscape:label="#rect3706" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="andnen"
+       id="annen"
        width="96.875"
        height="112.5"
        x="5075"
@@ -1387,7 +1403,7 @@
        inkscape:label="#rect3736" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="in-emyn"
+       id="tyrn-gorthod"
        width="187.5"
        height="164.84375"
        x="2893.75"
@@ -1497,6 +1513,22 @@
        x="4055.9644"
        y="3830.2827"
        inkscape:label="#rect2669" />
+    <rect
+       style="display:inline;opacity:0.73913041999999984;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:12.40100001999999968;stroke-linecap:square;stroke-linejoin:miter;marker:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;overflow:visible;enable-background:accumulate"
+       id="andrast"
+       width="506"
+       height="434"
+       x="2514"
+       y="4422"
+       inkscape:label="#rect2653" />
+    <rect
+       style="opacity:0.73913042;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:12.40100002;stroke-linecap:square;stroke-linejoin:miter;marker:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="ras-morthil"
+       width="294"
+       height="268"
+       x="2626"
+       y="4530"
+       inkscape:label="#rect3430" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2022,7 +2054,7 @@
        inkscape:label="#rect3904" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="eryn-ost"
+       id="eryndaur"
        width="108.5"
        height="105"
        x="3042.5"
@@ -2062,7 +2094,7 @@
        inkscape:label="#rect3914" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="limlight"
+       id="limlich"
        width="592"
        height="185"
        x="3962"
@@ -2076,6 +2108,22 @@
        width="265.40601"
        id="cirith-gorgor"
        style="fill:none;stroke:#000000;stroke-width:6.04842138;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="display:inline;opacity:0.73913041999999995;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:12.40100001999999968;stroke-linecap:square;stroke-linejoin:miter;marker:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;overflow:visible;enable-background:accumulate"
+       id="dol-baran"
+       width="99"
+       height="87.5"
+       x="3642"
+       y="3592.5"
+       inkscape:label="#rect3432" />
+    <rect
+       style="display:inline;opacity:0.73913041999999984;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:12.40100001999999968;stroke-linecap:square;stroke-linejoin:miter;marker:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;overflow:visible;enable-background:accumulate"
+       id="henneth-annun"
+       width="74.5"
+       height="96"
+       x="5018.5"
+       y="4081.5"
+       inkscape:label="#rect2655" />
   </g>
   <g
      inkscape:groupmode="layer"

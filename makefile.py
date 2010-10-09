@@ -102,17 +102,17 @@ for size in large_sizes:
 
         """
         dark-> geography (tiles/g)
-        over-> geography-combined
-          ^-- c2a -> geography-translucent
-               ^-- choose-> geography-chosen
-                    ^-- 0 1 2 3 4 scales
-                        geography-export
-                    ^-- 5 6 7 scales
-                        over -> geography-detailed
-                         ^-- geography-detail
-                         ^-- geography-export
-          ^-- c2a -> coast-translucent
-               ^-- coast-export
+         ^-- over-> geography-combined
+              ^-- c2a -> geography-translucent
+              |    ^-- choose-> geography-chosen
+              |         ^-- 0 1 2 3 4 scales
+              |         |   geography-export
+              |         ^-- 5 6 7 scales
+              |             over -> geography-detailed
+              |              ^-- geography-detail
+              |              ^-- geography-export
+              ^-- c2a -> coast-translucent
+                   ^-- coast-export
         """
 
         @file('build/tiles-%d/g' % size)
@@ -244,7 +244,6 @@ for size in large_sizes:
                 ])
 
         for size in large_sizes:
-
             @enclosure(size, alphabet)
             def _(size, alphabet):
 
@@ -261,66 +260,68 @@ for size in large_sizes:
                         make('build/labels-%s-export-%d/%d' % (alphabet, size, level))
 
                 for level in levels:
+                    @enclosure(level)
+                    def _(level):
 
-                    @file('build/labels-%s-export-%d/%d' % (alphabet, size, level))
-                    def _(make, output):
-                        make('build/labels')
-                        make('build/labels-%s-opaque.svg' % (alphabet))
-                        for quadrant in range(4):
-                            make.directory('build/labels-%s-export-quads-%d' % (alphabet, size / 2))
-                            make('build/labels-%s-export-quads-%d/%d-%d.png' % (
-                                alphabet,
-                                size / 2,
-                                level,
-                                quadrant
-                            ))
-                            make('build/labels-%s-export-quads-%d/%d-%d.png' % (
-                                alphabet, size / 2, level, quadrant,
-                            ))
-                            make.directory('build/labels-%s-export-%d' % (alphabet, size))
-                            make.command([
-                                'inkscape', '-z',
-                                '-e', '%s-.png' % output,
-                                '-w', 256, '-h', 256,
-                                '-i', 'layer%d' % level, '-j',
-                                'build/labels-%s-opaque.svg' % alphabet
-                            ])
-                            make.command([
-                                'python', 'tiles.py',
-                                'build/labels-%s-export-quads-%d/%d-%d.png' % (alphabet, size / 2, level, quadrant),
-                                'build/labels-%s-export-%d/%d-%d' % (alphabet, size, level, quadrant),
-                            ])
-
-                    for quadrant, area in zip(
-                        range(4),
-                        (
-                            '0000:3600:3600:7200',
-                            '3600:3600:7200:7200',
-                            '0000:0000:3600:3600',
-                            '3600:0000:7200:3600',
-                        ),
-                    ):
-
-                        @enclosure(quadrant, area)
-                        def _(quadrant, area):
-                            @file('build/labels-%s-export-quads-%d/%d-%d.png' % (
-                                alphabet,
-                                size / 2,
-                                level,
-                                quadrant
-                            ))
-                            def _(make, output):
-                                make('build/labels')
-                                make.directory('build/labels-%s-export-%d' % (alphabet, size / 2))
+                        @file('build/labels-%s-export-%d/%d' % (alphabet, size, level))
+                        def _(make, output):
+                            make('build/labels')
+                            make('build/labels-%s-opaque.svg' % (alphabet))
+                            for quadrant in range(4):
+                                make.directory('build/labels-%s-export-quads-%d' % (alphabet, size / 2))
+                                make('build/labels-%s-export-quads-%d/%d-%d.png' % (
+                                    alphabet,
+                                    size / 2,
+                                    level,
+                                    quadrant
+                                ))
+                                make('build/labels-%s-export-quads-%d/%d-%d.png' % (
+                                    alphabet, size / 2, level, quadrant,
+                                ))
+                                make.directory('build/labels-%s-export-%d' % (alphabet, size))
                                 make.command([
                                     'inkscape', '-z',
-                                    '-e', output,
-                                    '-a', area,
-                                    '-w', size / 2,
-                                    '-h', size / 2,
-                                    '-i', 'layer%s' % level, '-j',
-                                    'build/labels-%s-opaque.svg' % alphabet,
+                                    '-e', '%s-.png' % output,
+                                    '-w', 256, '-h', 256,
+                                    '-i', 'layer%d' % level, '-j',
+                                    'build/labels-%s-opaque.svg' % alphabet
                                 ])
+                                make.command([
+                                    'python', 'tiles.py',
+                                    'build/labels-%s-export-quads-%d/%d-%d.png' % (alphabet, size / 2, level, quadrant),
+                                    'build/labels-%s-export-%d/%d-%d' % (alphabet, size, level, quadrant),
+                                ])
+
+                        for quadrant, area in zip(
+                            range(4),
+                            (
+                                '0000:3600:3600:7200',
+                                '3600:3600:7200:7200',
+                                '0000:0000:3600:3600',
+                                '3600:0000:7200:3600',
+                            ),
+                        ):
+
+                            @enclosure(quadrant, area)
+                            def _(quadrant, area):
+                                @file('build/labels-%s-export-quads-%d/%d-%d.png' % (
+                                    alphabet,
+                                    size / 2,
+                                    level,
+                                    quadrant
+                                ))
+                                def _(make, output):
+                                    make('build/labels')
+                                    make.directory('build/labels-%s-export-%d' % (alphabet, size / 2))
+                                    make.command([
+                                        'inkscape', '-z',
+                                        '-e', output,
+                                        '-a', area,
+                                        '-w', size / 2,
+                                        '-h', size / 2,
+                                        '-i', 'layer%s' % level, '-j',
+                                        'build/labels-%s-opaque.svg' % alphabet,
+                                    ])
 
 encarda_file_names = (
     'land', 'citi', 'fiel', 'fore', 'hill',

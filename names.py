@@ -1,9 +1,10 @@
 
 import tsv
+import codecs
 
 def names():
     entires = {}
-    for line in tsv.DictReader(open("names.tsv")):
+    for line in tsv.DictReader(codecs.open("names.tsv", "r", "utf-8")):
         entry = entires.setdefault(line[u"Canonical"], [])
         entry.append(dict(line))
     return entires

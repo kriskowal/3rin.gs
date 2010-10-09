@@ -9,7 +9,6 @@ from glob import glob
 from re import compile as re
 from os import stat
 from os.path import isfile
-import csv
 from utils import makedirs
 from scale import scale_command
 from darken import darken
@@ -95,36 +94,6 @@ def differences():
     for label in sorted(location_prefixes.difference(label_prefixes)):
         print '    %s' % label
     
-def store():
-    locations = dict((key, value) for key, value in get_locations() if key)
-    labels = normalized_labels_dict()
-    location_prefixes = set(locations.keys())
-    label_prefixes = set(labels.keys())
-    prefixes = location_prefixes.intersection(label_prefixes)
-    prefixes = sorted(prefixes, key = lambda prefix: -labels[prefix]['mtime'])
-    writer = csv.writer(open('labels.csv', 'w'))
-    writer.writerow((
-        'Canonical',
-        'Language',
-        'Letters',
-        'Mode',
-        'Last Modified',
-    ))
-    for prefix in prefixes:
-        writer.writerow((
-            prefix,
-            labels[prefix]['language'],
-            labels[prefix]['letters'],
-            labels[prefix]['mode'],
-            labels[prefix]['mtime'],
-        ))
-
-def labels():
-    return dict(
-        ((label['Canonical'], label['Language'], label['Letters'], label['Mode']), label)
-        for label in csv.DictReader(open('labels.csv'))
-    )
-
 class Label(object):
     @property
     def original(self):
@@ -140,7 +109,7 @@ class Label(object):
         return 'build/labels/thumbnails/%s-%s.png' % self.parts
     mode = 'General Use'
 
-def labels2():
+def labels():
     pngs = set(glob("archive/labels/*.png"))
     normalized_pngs = set(glob("archive/labels/*-normalized.png"))
     abnormal_pngs = pngs.difference(normalized_pngs)
@@ -162,25 +131,22 @@ def labels2():
             "normalized": isfile(normalized),
         })()
 
-def labels2_list():
-    return list(labels2())
+def labels_list():
+    return list(labels())
 
-def labels2_dict():
+def labels_dict():
     return dict(
         ((label.canonical, label.language, label.letters, label.mode), label)
-        for label in labels2()
+        for label in labels()
     )
 
-TEMP = set(('withywindle',))
 def build(*filter):
     makedirs("build/labels/embedded")
     makedirs("build/labels/practice")
     makedirs("build/labels/thumbnails")
     regions = get_regions()
-    for label in labels2():
+    for label in labels():
         if filter and label.canonical not in filter:
-            continue
-        if label.canonical in TEMP:
             continue
         source = Image.open(label.source)
         region = regions[label.canonical]

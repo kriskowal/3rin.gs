@@ -1,4 +1,3 @@
-from BeautifulSoup import BeautifulSoup
 import csv, sys, urlparse
 from glob import glob
 from re import compile as re
@@ -67,6 +66,7 @@ def csv_row(row):
 base_url = "http://www.glyphweb.com/ARDA/"
 base_url_re = re(r"^http://www\.glyphweb\.com/ARDA/\w/.*")
 def scrape_file(file_name):
+    from BeautifulSoup import BeautifulSoup
     soup = BeautifulSoup(open(file_name).read())
     out = csv.writer(sys.stdout)
     for tag in soup.findAll('a', title=True):
