@@ -17,7 +17,6 @@ TODO
 * more icons for minor locations
   * 3 ring and palantir icons
 
-* add "under towers", the west-most hobbit settlement
 * independent zoom animations for each scale
 
 * story tours
@@ -34,6 +33,8 @@ TODO
   * the shire
   * thror's erebor
   * lothlorien
+  * minas tirith
+  * breeland
 * story layers
   * lord of the rings layer
   * the hobbit layer
@@ -46,6 +47,12 @@ TODO
 * ambient contextual audio at close zoom
 
 * crowd source further language layers
+
+* additional maps
+  * númenor
+  * beleriand
+  * valinor
+  * arda
 
 TODONE
 ------
