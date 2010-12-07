@@ -2,8 +2,8 @@
 
 var SNAP_DELAY = 150;
 var TILE_SIZE = 256;
-var TILE_URL = "http://3rin.gs/tiles.20/";
-var ARTICLE_URL = "http://3rin.gs/articles.4/";
+var TILE_URL = "http://3rin.gs/tiles.23/";
+var ARTICLE_URL = "http://3rin.gs/articles.8/";
 var regions; // acquired via AJAX
 var largeToSmall; // computed from regions
 var show; // updated by the Map.onShow emitter
@@ -771,6 +771,56 @@ function Drag(el, onMove, onDown, onUp, onScroll) {
         isDown = false;
         onUp && onUp(event);
     });
+    var el = $(el).get(0);
+    el.addEventListener && el.addEventListener("touchstart", function (event) {
+        event.stopPropagation();
+        event.preventDefault();
+        var x = 0, y = 0, d = 0, i, ii = event.touches.length;
+        for (i = 0; i < ii; i++) {
+            var touch = event.touches[i];
+            x += touch.pageX;
+            y += touch.pageY;
+        }
+        x /= ii;
+        y /= ii;
+        for (i = 0; i < ii; i++) {
+            var touch = event.touches[i];
+            d += Math.sqrt(Math.pow(touch.pageX - x, 2) + Math.pow(touch.pageY - y, 2));
+        }
+        d /= ii;
+        left = x;
+        top = y;
+        scroll = d;
+    });
+    el.addEventListener && el.addEventListener("touchmove", function (event) {
+        event.stopPropagation();
+        event.preventDefault();
+        var x = 0, y = 0, d = 0, i, ii = event.touches.length;
+        for (i = 0; i < ii; i++) {
+            var touch = event.touches[i];
+            x += touch.pageX;
+            y += touch.pageY;
+        }
+        x /= ii;
+        y /= ii;
+        for (i = 0; i < ii; i++) {
+            var touch = event.touches[i];
+            d += Math.sqrt(Math.pow(touch.pageX - x, 2) + Math.pow(touch.pageY - y, 2));
+        }
+        d /= ii;
+        onMove && onMove(event, {
+            "left": x - left,
+            "top": y - top
+        });
+        onScroll && onScroll(event, d - scroll, {
+            "left": x,
+            "top": y
+        });
+        left = x;
+        top = y;
+        scroll = d;
+    });
+    el = undefined;
 }
 
 })();
