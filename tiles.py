@@ -136,6 +136,26 @@ def seed(file_name, prefix, suffix):
     width, height = (int(n) for n in image.size)
     quad(image, prefix, suffix, 0, 0, width, height)
 
+def coord(key, region):
+    """
+        >>> coord("", (0, 0, 1, 1))
+        (0, 0, 1, 1)
+        >>> coord("0", (0, 0, 2, 2))
+        (0, 0, 1, 1)
+        >>> coord("1", (0, 0, 2, 2))
+        (1, 0, 1, 1)
+        >>> coord("3", (0, 0, 2, 2))
+        (1, 1, 1, 1)
+    """
+    x, y, width, height = region
+    for s in key:
+        width /= 2
+        height /= 2
+        s = int(s)
+        x += bool(s & 1) * width
+        y += bool(s & 2) * height
+    return (x, y, width, height)
+
 def command(source, target):
     seed(source, target, ".png")
 

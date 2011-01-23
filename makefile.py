@@ -1,10 +1,12 @@
 
+from math import log
 from itertools import chain
 from tiles import TILE_WIDTH, TILE_HEIGHT
 
 levels = (1, 2, 3, 4, 5, 6, 7, 8)
 small_sizes = [1024 * n for n in (1, 2, 4, 8, 16)]
-large_sizes = (32 * 1024,)
+print_size = 16 * 1024
+large_sizes = (32 * 1024, print_size)
 alphabets = ('tengwar', 'latin')
 layers = ('geography',) + alphabets
 
@@ -16,6 +18,7 @@ def _(make, output):
     for size in small_sizes:
         for alphabet in ('latin', 'tengwar'):
             make('build/map-%s-%d.png' % (alphabet, size))
+    make('build/print-tengwar-16384.png')
 
 @task('dev')
 def _(make, output):
@@ -91,14 +94,33 @@ for size in small_sizes:
                         '%s.svg' % layer
                     ])
 
+# large maps
 for size in large_sizes:
     @enclosure(size)
     def _(size):
 
         @file('build/tiles-%d' % size)
         def _(make, output):
-            for layer in layers:
-                make('build/tiles-%d/%s' % (size, layer[0]))
+            for alphabet in alphabets:
+                make('build/tiles-%d/g%s' % (size, alphabet[0]))
+
+        for alphabet in alphabets:
+            @enclosure(alphabet)
+            def _(alphabet):
+                @file('build/tiles-%d/g%s' % (size, alphabet[0]))
+                def _(make, output):
+                    inputs = [
+                        'build/tiles-%d/g' % (size),
+                        'build/tiles-%d/%s' % (size, alphabet[0])
+                    ]
+                    for input in inputs:
+                        make(input)
+                    make.directory('build/tiles-%d' % size)
+                    make.command(list(chain(
+                        ['python', 'tiles_over.py'],
+                        inputs,
+                        [output],
+                    )))
 
         """
         dark-> geography (tiles/g)
@@ -322,6 +344,110 @@ for size in large_sizes:
                                         '-i', 'layer%s' % level, '-j',
                                         'build/labels-%s-opaque.svg' % alphabet,
                                     ])
+
+# print maps
+@enclosure(print_size)
+def _(size):
+    for alphabet in ('tengwar',):
+        @enclosure(alphabet)
+        def _(alphabet):
+
+            @file('build/print-%s-%d' % (alphabet, size))
+            def _(make, output):
+                make('build/geography-print-%s/t' % (size,))
+                make('build/labels-%s-dark-%d/t' % (alphabet, size))
+                make.command(['python', 'prints.py', alphabet, size])
+
+            @file('build/labels-%s-dark-%d/t' % (alphabet, size))
+            def _(make, output):
+                make.directory('build/labels-%s-dark-%d' % (alphabet, size))
+                input = 'build/labels-%s-export-%d/t' % (alphabet, size)
+                make(input)
+                make.command(['python', 'tiles_darken.py', input, output, .5])
+
+            @file('build/labels-%s-export-%d/t' % (alphabet, size))
+            def _(make, output):
+                input = 'build/labels-%s-export-%d.png' % (alphabet, size)
+                make(input)
+                make.command([
+                    'python', 'tiles.py', input, output, 
+                ])
+
+            """
+            dark-> geography-print
+             ^-- over-> geography-print-light
+                  ^-- c2a -> geography-print-translucent
+                  |    ^-- geography-export
+                  ^-- c2a -> coast-translucent
+                       ^-- coast-export
+            """
+
+            @file('build/geography-print-%d/t' % (size,))
+            def _(make, output):
+                input = 'build/geography-print-light-%d/t' % size
+                make(input)
+                make.directory('build/geography-print-%d' % size)
+                make.command(['python', 'tiles_darken.py', input, output, .5])
+
+            @file('build/geography-print-light-%d/t' % (size,))
+            def _(make, output):
+                inputs = [
+                    'build/coast-translucent-32768/t',
+                    'build/geography-print-translucent-%d/t' % (size,)
+                ]
+                for input in inputs:
+                    make(input)
+                make.directory('build/geography-print-light-%d' % size)
+                make.command(list(chain(
+                    ['python', 'tiles_over.py'],
+                    inputs,
+                    [output],
+                )))
+
+            @file('build/geography-print-translucent-%d/t' % (size,))
+            def _(make, output):
+                make.directory('build/geography-print-translucent-%d' % (size,))
+                input = 'build/geography-export-%d/t' % (size,)
+                make(input)
+                make.command(['bash', 'tiles_c2a.bash', input, output, str(int(log(size / 256, 2)))]) 
+
+            @file('build/geography-export-%d/t' % (size,))
+            def _(make, output):
+                make.directory('build/geography-export-%d' % (size,))
+                input = 'build/geography-export-%d.png' % (size,)
+                make(input)
+                make.command(['python', 'tiles.py', input, output])
+
+            @file('build/geography-export-%d.png' % (size,))
+            def _(make, output):
+                make.command([
+                    'inkscape', '-z',
+                    '-e', output,
+                    '-w', size,
+                    '-h', size,
+                    'geography.svg',
+                ])
+
+            @file('build/labels-%s-export-%d.png' % (alphabet, size))
+            def _(make, output):
+                make('build/labels')
+                make('build/labels-%s-highres.svg' % (alphabet,))
+                make.command([
+                    'inkscape', '-z',
+                    '-e', output,
+                    '-w', size,
+                    '-h', size,
+                    'build/labels-%s-highres.svg' % alphabet,
+                ])
+
+            @file('build/labels-%s-highres.svg' % (alphabet,))
+            def _(make, output):
+                make.command([
+                    'python',
+                    'highres.py',
+                    'labels-%s.svg' % alphabet,
+                    output
+                ])
 
 encarda_file_names = (
     'land', 'citi', 'fiel', 'fore', 'hill',

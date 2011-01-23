@@ -12,6 +12,7 @@ from os.path import isfile
 from utils import makedirs
 from scale import scale_command
 from darken import darken
+import sys
 
 normalized_labels_re = re(r'archive/labels/(.*)\-(..)-normalized\.png')
 abnormal_labels_re = re(r'archive/labels/(.*)\-([seku][lt]).png')
@@ -148,38 +149,41 @@ def build(*filter):
     for label in labels():
         if filter and label.canonical not in filter:
             continue
-        source = Image.open(label.source)
-        region = regions[label.canonical]
-        width, height = source.size
+        try:
+            source = Image.open(label.source)
+            region = regions[label.canonical]
+            width, height = source.size
 
-        # embedded images
-        outer_size = outer_width, outer_height = [
-            int(float(region.diagonal) * WIDTH),
-            int(float(region.width) / region.diagonal * region.height * HEIGHT),
-        ]
-        if width > outer_width:
-            inner_size = [
-                int(outer_width),
-                int(float(outer_width) * height / width),
+            # embedded images
+            outer_size = outer_width, outer_height = [
+                int(float(region.diagonal) * WIDTH),
+                int(float(region.width) / region.diagonal * region.height * HEIGHT),
             ]
-            embedded = source.resize(inner_size, Image.ANTIALIAS)
-        else:
-            embedded = source
-        embedded.save(label.embedded)
+            if width > outer_width:
+                inner_size = [
+                    int(outer_width),
+                    int(float(outer_width) * height / width),
+                ]
+                embedded = source.resize(inner_size, Image.ANTIALIAS)
+            else:
+                embedded = source
+            embedded.save(label.embedded)
 
-        practice = embedded.resize([dim / 2 for dim in embedded.size], Image.ANTIALIAS)
-        practice.save(label.practice)
+            practice = embedded.resize([dim / 2 for dim in embedded.size], Image.ANTIALIAS)
+            practice.save(label.practice)
 
-        # thumbnail
-        thumb_size = [
-            int(float(width) / height * 100),
-            100,
-        ]
-        thumb = source.resize(thumb_size, Image.ANTIALIAS)
-        thumb = darken(thumb, .5)
-        thumb.save(label.thumbnail)
+            # thumbnail
+            thumb_size = [
+                int(float(width) / height * 100),
+                100,
+            ]
+            thumb = source.resize(thumb_size, Image.ANTIALIAS)
+            thumb = darken(thumb, .5)
+            thumb.save(label.thumbnail)
 
-        print label.parts, outer_size, source.size, embedded.size, thumb_size, practice.size
+            print label.parts, outer_size, source.size, embedded.size, thumb_size, practice.size
+        except Exception, reason:
+            print>>sys.stderr, label.parts, reason
 
 def main():
     import sys

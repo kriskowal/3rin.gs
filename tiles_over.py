@@ -8,6 +8,8 @@ def command(a, b, target):
         a_file = a + quadkey + ".png"
         b_file = b + quadkey + ".png"
         target_file = target + quadkey + ".png"
+        if not isfile(a_file) or not isfile(b_file):
+            continue
         print target_file
         over.command(a_file, b_file, target_file)
 
