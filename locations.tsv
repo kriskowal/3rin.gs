@@ -1,28 +1,72 @@
 Canonical	Sindarin	English	German	Khuzdul	French	Polish	SP Sindarin Label Pages	SS Sindarin Label Status	EP English Label Pages	ES English Label Status	GP German Label Pages	GS German Status	Outstanding Issues	Labeling Priority	Regioning Priority	Scale	IP Icon Pages	IS Icon Status	R Region Bounding-box Status	Notes	Citation	Quote
-westemnet	Emnet Annûn	Westemnet	Westemnet		Marche de l'Ouest		"60,"	Drawn	"9,17"	RE			changed canonical name from westemnet	1	1	4
-fold-annun	Fold Annûn	Westfold	Westfold		Ouestfolde		"60,"	Drawn	"9,17"	X			changed canonical name from westfold	1	1	4				"The Westfold is mentioned frequently in the Unfinished Tales and The Two Towers, but does not appear on the original maps. However, its extent is well-described as being the northerly region of Rohan touching both the eves of Fangorn and reaching the domain of Isengard. These boundaries are observed here and on the Stardogg map."
-emnet-rhunen	Emnet Rhúnen	Eastemnet	Ostemnet		Marche de l'Est		"13,"	Drawn	"9,17"	RE			changed canonical name from eastemnet	1	1	4
-fold-rhunen	Fold Rhúnen	Eastfold	Ostfold		Estfolde		"13,"	Drawn	"9,17"	X			changed canonical name from eastfold	1	1	4
-haecharad	Haecharad	Far Harad	Weit-Harad					Drawn	"5,15"	RE			"changed the canonical name to haecharad from far-harad, so check all indicies. the Elvish is new."	1	1	3
-caras-galadhon	Caras Galadhon	Caras Galadhon	Caras Galadhon				"54,"	RE	44	RE			"The second ""a"" is still missing in Galadhon"	1	1	6				"The great elven city in the trees at the heart of Lóthlorien, on Cerin Amroth, the seat of Galadriel's realm."
-mordor	Mordor	Mordor	Mordor	Mordor			"6,8,9,15,64"	Drawn	"4,12"	X			Rescan	1	1	1
-rhovanion	Rhovanion	Wilderland	Wilderland	Rhovanion	Pays Sauvage		"6,8"	Drawn	"4,12"	X			Rescan	1	1	1
-annon-duhirion	Annon Duhirion	Dimrill Gate	Dimrill Tor	Annon Moria				Drawn	51	Drawn			changed the canonical name from annon-moria	1	2		T
-shirebourn	Shirebourn	River Shirebourn	Auenlandstrom Fluss		Rivière de la Comté			T		T			Merely Shirebourn in Encyclopedia Arda	2	2
-brockenborings		Brockenborings	Dachsbauten					T	52	Drawn				2	2
-underhill		Underhill	Dorf					T		T				2	2
-framsburg		Framsburg	Framsburg					T		T				2	2					"Framsburg is mentioned on the Stardogg map, but has no mention in The Lord of the Rings, The Hobbit, The Silmarillion, and Unfinished Tales."
-upbourn		Upbourn	Hochborn					T	43	X				2	2	6		X		"A hamlet on the banks of the Snowbourn in the valley of Harrowdale, through which Théoden's company passed on the way to Gondor in The Return of the King."
-waymeet		Waymoot	Wegscheid		Le Carrefour			T		T				2	2					"Where the East-west road meets the southerly road through Sarn Ford and Longbottom, in the Westfarthing of the Shire.  Waymeet is mentioned several times in the text of Return of the King, pertaining to events in the Scouring of the Shire, but it is labeled Waymoot on the map of A Part of the Shire in The Fellowship of the Ring."
-withywindle		Withywindle	Weidenwinde		Tournesaules			T		T				2	2
-withywindle		Withywindle	Weidenwinde		Tournesaules			T	48	X				2	2					"The river winding through the Old Forest, on which Old Man Willow and Tom Bombadil reside."
+achad-tarlang	Achad Tarlang	Tarlang's Neck	Tarlangs Hals	Achad Tarlang	Col de Tarlang		"51,65"	X	43	X				1	1	6
+adorn	Adorn	Adorn	Adorn	Adorn			"49,"	X	39	X				1	1	5
+aglarond	Aglarond	Glittering Caves	Glitzernde Höhlen	Aglarond	Cavernes Étincelantes		"50,50"	X	41	X				1	1	6		T
+amon-anwar	Amon Anwar	Halifirien	Halifirien	Amon Anwar			"28,"	X	25	X				1	1	5		X		"This is the name given to the mountain overlooking the Firien wood, and also the Beacon on top thereof. In the chapter ""Cirion and Eorl"" of ""The Unfinished Tales"", ""Halifirien"" is given as the Rohirric name meaning ""Holy Mountain"". It was previously known as ""Amon Anwar"" in Sindarin, meaning ""Hill of Awe"". 'In the Common Speech it was called ""the Whispering Wood."" '"
+amon-craban	Amon Craban	Ravenhill	Rabenberg	Amon Craban			"55,"	X	41	X				1	1	6		T		A hill overlooking the river running on Erebor.
+amon-din	Amon Dîn	Amon Dîn	Amon Dîn	Amon Dîn			"33,"	X	43	X				1	1	6		X
+amon-fangorn	Amon Fangorn	Treebeard's Hill	Baumbartshügel	Amon Fangorn
+amon-hen	Amon Hen	Amon Hen	Amon Hen	Amon Hen	Colline de la Vue		"62,"	X	47	X				1	1	6				A hilltop to the South of Nen Hithoel on the west side of the Anduin.  Its sister is Amon Lhaw.
+amon-lanc	Amon Lanc	Amon Lanc	Amon Lanc	Amon Lanc			"37,"	X	30	X				1	1	5				"A treeless hilltop in the south of Mirkwood that was known as Amon Lanc and eventually after the eponymous stronghold of Dol Guldor.  The name Amon Lanc is attested in the Unfinished Tales, in Part III, The Disaster of the Gladden Fields. ""The rain lasted for four days; so when they came to the entrance to the Vales, between Lórien and Amon Lanc, [12] Isildur turned away from the Anduin, swollen with swift water, and went up the steep slopes on its eastern side to gain the ancient paths of the Silvan Elves that ran near the eaves of the Forest. [12] - Amon Lanc, ""Naked Hill,"" was the highest point in the highland at the south-west corner of the Greenwood, and was so called because no trees grew on its summit. In later days it was Dol Guldur, the first stronghold of Sauron after his awakening. [Author's note.]"""
+amon-lhaw	Amon Lhaw	Amon Lhaw	Amon Lhaw	Amon Lhaw	Colline de l'Ouïe		"62,71"	X	47	X				1	1	6				A hilltop to the South of Nen Hithoel on the east side of the Anduin.  Its sister is Amon Hen.
+amon-sul	Amon Sûl	Weathertop	Wetterspitze	Amon Sûl	Mont Venteux		"17,24,72"	X	20	X				1	1	5		X
+andeithel	Andeithel	Langwell	Langquell	Andeithel			"49,58"	X	39	X				1	1	5
+andlo	Andló	Long Marshes	Lange Sümpfe	Andló			"74,"	X	42	X				1	1	6				"The Long Marshes are only mentioned in the house of Beorn by name in The Hobbit. The marshes are mentioned as only ""the marshes about the Forest River"" when they are later encountered. They are hitherto only labeled on the ""Stardogg"" map, south of the Forest River."
+andrast	Andrast	Andrast	Andrast	Andrast			82	X	50	X				1	1	5				The peninsula west of Gondor. 
+andrath	Andrath	Long Road	Langer Straße	Andrath			"21,"	X	22	X			Not attested in text.  Need to relocate on maps for attestation.	1	1	5
+anduin	Anduin	Anduin	Anduin	Anduin	Grand Fleuve		"44,61,"	X	36	X				1	1	5
+anduin-vale	Imlaid Anduin	Vales of Anduin	Tal des Anduin	Imlad Anduin			X	X	X	X				1	1		X		T	A vague region defined by the valley or valleys cut by the river Anduin.
+anfalas	Anfalas	Langstrand	Langstrand	Anfalas			"32,"	X	27	X				1	1	5
+angmar	Angmar		Angmar	Angmar			"11,"	X	"8,16"	X				1	1	4
+angren	Angren	Isen	Isen	Sîr Angren	Isen		"15,23,72"	X	18	X				1	1	5				"The river that issues from the Wizard's Vale in the southern Misty Mountains, flowing generally westward to the sea, through the Old Púkel Land."
+angrenost	Angrenost	Isengard	Isengart	Angrenost			"14,23"	X	18	X				1	1	5
+annen	Annen	Long Lake	Langer See	Annen	Long Lac		"74,82"	X	42	X				1	1	6
+annon-angrenost	Annon Angrenost	Gate of Isengard		Annon Angrenost										Z	3
+annon-caradhras	Annon Caradhras	Redhorn Gate	Rothornpass	Annon Caradhras			"74,"	X	47	X				1	1	6		T
+annon-duhirion	Annon Duhirion	Dimrill Gate	Dimrill Tor	Annon Moria			84	X	51	Drawn			changed the canonical name from annon-moria	1	2		T
+annon-erebor	Annon Erebor	Front Gate		Annon Erebor										3	3
+annon-eryn	Annon Eryn	Forest Gate	Waldeingang	Annon Eryn			"62,"	X	48	X				1	1	6
+annon-thol	Annon Thol	Helm’s Gate		Annon Thol										4	3
+annuminas	Annúminas	Annúminas	Annúminas	Annúminas	Tour de l'Ouest		"3,21,77"	X	"41,49"	X				1	1	6		X		"Annúminas is a city on the shores of Lake Evendim (Nenuial), north of the Shire, in the elbow of the beginnings of the Brandywine river (Baranduin).  In the Silmarillion, it is called the ""city of the Kings of Arnor"", established by Elendil as his chief city, and later inhabited by Valandil in lesser days. Valandil's heirs eventually moved their seat to Fornost (Kings' Norbury).  In The Two Towers, it is mentioned that the lore of Elrond's house tells that one of the palantiri was in Annúminas.  The index of The Lord of the Rings and the Unfinished Tales both mention that the palantiri of Annúminas, Amon Sûl, and Elostirion were lost when Arvedui perished in a shipwreck in the Ice Bay of Forochel. On this map, Annúminas is represented by a tower, the existence of which is conjecture, based on the name and that it was common for palantiri to be housed in watch towers."
+anorien	Anorien	Anorien	Anorien	Anorien			"12,32"	X	"6,14"	RE			Anorien doesn't have an ó in textual references. Verify on maps.	1	1	3
+archet		Archet			Archet									3	3
+ardhon-iaur-arnor	Ardhon Iaur Arnor	Lost Realm of Arnor	Verlorenes Reich von Arnor	Ardhon Iaur Arnor			"2,11,71"	X	"5,13"	X				1	1	2
+argirith	Argirith	High Pass	Hochpaß	Cirith Forn en Andrath	Haut Col		"56,76,"	X	30	X				1	1	5		T
+argonath	Argonath	Argonath	Argonath	Argonath			"29,"	X	25	X				1	1	5		X		"Aragorn named the Argonath ""Pillars of the Kings"" when they are first seen in The Fellowship of the Ring.  The name ""Gate of Kings"" was used by Aragorn in his lament for Boromir in The Two Towers, and by Théoden to speculate the extent of the dark lord's power in Return of the King.  They are called the King-stones in the reference for the name Argonath in the Silmarillion."
+arnor-tower		Tower of Anor												3
+arthedain	Arthedain	Arthedain	Arthedain	Arthedain			"1,11,22"	X	"5,13"	X				1	1	3
+athrad-angren	Athrad Angren	Fords of Isen	Furten des Isen	Ethraid Engrin	Gués de l'Isen		"14,23"	X	"9,18"	X				1	1	5		X		"According to the entry for ""Athrad Angren"" in the Unfinished Tales, both the singular and plural forms of Fords of Isen were used in Elvish, so ""Athrad Angren"" and ""Ethraid Engrin"" are both acceptable names."
+athrad-carag	Athrad Carag	Ford of Carrock	Carrockfurt	Athrad Carag										3	3
+athrad-iaur	Athrad Iaur	Old Ford	Alte Furt	Athrad Iaur			"17,"	X	19	X				1	1	5		X
+athrad-imladris	Athrad Imladris	Ford of Bruinen	Bruinenfurt	Athrad Imladris			"45,"	X	36	X				1	1	5		X
+athrad-onodlo	Athrad Onodló	Entwade	Entfurt	Athrad Onodló	Gué d'Ent		"48,67,"	X	39	X				1	1	5		X
 bag-end		Bag End			Cul-de-Sac			T	51	Drawn			Perhaps incorporate into map at a very fine detail	2	2				T
 bagshot-row		Bagshot Row			Chemin des Trous-du-Talus			T	51	Drawn				2	2
+bair-nestad	Bair Nestad	Houses of Healing			Maisons de Guérison									Z	3
+bamfurlong		Bamfurlong			La Haricotière			X					May be too fine to map	3	3	6			T	"The field of Farmer Maggot, in the Marish in the East Farthing of the Shire."
+barad-dur	Barad Dûr	Barad Dûr	Barad Dûr	Barad Dûr	Tour Sombre		"40,"	X	33	X				1	1	5		X (eye)
+barad-durin	Barad Durin	Durin's Tower	Durins Turm	Barad Durin	Tour de Durin	Wieża Durina	"50,"	X	40	X				1	1	6		X		"A tower built by Durin the Undying, atop the mountain Celebdil of Moria."
+baranduin	Baranduin	Brandywine	Brandywein	Branda-nîn	Brandevin		"4,21"	X	22	X				1	1	5
+baranduiniant	Baranduiniant	Brandywine Bridge	Brandyweinbrücke	Baranduiniant	Pont de Brandevin		"16,77"	X	19	X			Should the i in iant be yanta here?	1	1	5		X
+barannor	Barannor	Dunland	Dunland	Barannor	Pays de Dun	Dunland	"39,79"	X	33	X				1	1	5
+barannorath	Barannorath	The Brown Lands	Die Braunen Lande	Barannorath	Terres Brunes		"12,64,"	X	"8,17"	X				1	1	4
+barion	Barion	Great House		Barion										Z	3					The house of the Master of Laketown.
 barrowfield		Barrowfield						T	51	Drawn				2	2
+belegaer	Belegaer	Great Sea	Große Meer	Belegaer	Grande Mer		"14,64,"	RE	"5,13"	X			Rescan	1	1	1
+belfalas	Belfalas	Belfalas	Belfalas	Belfalas			"32,"	X	27	X				1	1	5
+beorn	Beorn	Beorn	Beorn		Beorn		"74,"	X	40	X				1	1	5		X
+beraid-gondor	Beraid Gondor	Towers of Gondor		Beraid Gondor										Z
 beredon								T	51	Drawn				2	2
 bindbole-wood		Bindbole Wood						T	51	Drawn				2	2
+bonfire-glade		Bonfire Glade											"Might be too fine a detail to map, but would be on the way from Crickhollow, north of the Withywindle."	3	2					"A clearing in the Old Forest, near the Shire, where the Hobbits had made a pyre of the willows that had encroached on Buckland.  Bilbo and his friends found the Bonfire Glade in their flight from the Shire in The Fellowship of the Ring, placing the Glade north of the Withywindle and east of Crickhollow."
 brandy-hall		Brandy Hall						T	52	Drawn				2	2
+bree	Amon	Bree	Bree	Amon	Bree		"16,"	X	19	X				1	1	5		X
+bree-hill		Bree-hill												Z	3
+bree-inn		Inn of Bree												Z	3
+bree-west-gate		West-gate of Bree
 bridgefields		Bridgefields			Champs du Pont			T	52	Drawn				2	2
+brockenborings		Brockenborings	Dachsbauten					T	52	Drawn				2	2
+bruinen	Bruinen	Loudwater	Lautwasser	Bruinen	Sonoronne		"45,58,"	X	37	X				1	1	5
 buck-hill		Buck Hill						T	52	Drawn				2	2
 buckland		Buckland			Pays de Bouc			T	52	Drawn				2	2
 buckland-gate		Buckland Gate						T	52	Drawn				2	2
@@ -32,458 +76,415 @@ budge-ford								T	53	Drawn				2	2
 bywater		Bywater			Lézeau			T	53	Drawn				2	2
 bywater-pool								T	53	Drawn			Not in the Encyclopedia Arda	2	2
 bywater-road		Bywater Road			Route de Lézeau			T	53	Drawn				2	2
+cair-andros	Cair Andros	Cair Andros	Cair Andros	Cair Andros			"37,57"	X	30	X				1	1	5		TODO
+calembel	Calembel	Calembel	Calembel	Calembel			"31,"	X	27	X				1	1	5
+calenardhon	Calenardhon	The Mark	Rohan	Calenardhon		Rohan	"6,8,9,12"	X	"4,12"	X				1	1	2
+calenhad	Calenhad	Calenhad	Calenhad	Calenhad			"33,"	X	43	X				1	1	6		X
+calenrath	Calenrath	Greenway	Grünweg	Calenrath	Chemin Vert			X	40	X				1	1	5
+carach-angren	Carach Angren	Isenmouthe	Isenmünde	Carach Angren			"41,"	X	34	X				1	1	5
+caradhras	Caradhras	Redhorn	Rothorn	Barazinbar	Rubicorne		"15,65,"	X	18	X				1	1	5
+carag	Carag	Carrock	Carrock	Sargond	Carrock		"53,77"	X	46	X				1	1	6		X
+caras-corsairs	Caras Mírgiryn	City of Corsairs	Piratenstadt		Cité des Corsaires	Miasto Korsarzy			29	X			"Conjugate ""nor/ner"" (run) as (runner), the root of Corsair"	1	1	5
+caras-galadhon	Caras Galadhon	Caras Galadhon	Caras Galadhon				"54,"	X	44	RE				1	1	6				"The great elven city in the trees at the heart of Lóthlorien, on Cerin Amroth, the seat of Galadriel's realm."
+caras-perian	Caras Perian	Hobbiton	Hobbingen		Hobbitebourg	Hobbition	"37,75"	X	44	X				1	1	6		X
+carchost	Carchost	Carchost	Carchost	Carchost			"54,"	X	45	X				1	1	6				"The east tower of the black gate, the Morannon."
+cardolan	Cardolan	Cardolan	Cardolan				"10,"	X	"6,13"	X				1	1	3
+carn-dum	Carn Dûm	Carn Dûm	Carn Dûm				"3,14,18"	X	"9,18"	X				1	1	5				The capital of the witch-king's realm at Angmar.
+carnen	Carnen	Redwater	Rotwasser	Carnen			"46,"	X	37	X				1	1	5
 causeway		Causeway			La Chaussée			T	53	Drawn				2	2
+celduin	Celduin	River Running	Eilend	Celduin	Rivière Courante		"53,59"	X	46	X				1	1	6
+celebdil	Celebdil	Silvertine	Silberzinne	Zirakzigil	Corne d'Argent		"15,"	X	19	X				1	1	5				"Westernmost of the three peaks above Moria, where Gandalf slew the Balrog, and on which Durin's Tower rests"
+celebrant	Celebrant	Silverlode	Silberlauf	Kibil-nâla			"44,43,"	X	35	X				1	1	5
+cerin-amroth	Cerin Amroth	Cerin Amroth	Cerin Amroth	Cerin Amroth			"54,"	X	45	X				1	1	6				A green mound in Lothlórien on which the the trees of Caras Galdhon and the flower Elanor grow.
+cil-rohan	Cîl Rohan	Gap of Rohan	Pforte von Rohan	Cîl Rohan	Trouée du Rohan		"47,75"	X	38	X				1	1	5
+ciril	Ciril	Ciril	Ciril	Ciril			"35,"	X	28	X				1	1	5
+cirith-anach	Cirith Anach	Pass of Anach		Cirith Anach
+cirith-gorgor	Cirith Gorgor	Cirith Gorgor	Cirith Gorgor	Cirith Gorgor			"40,"	X	33	X				1	1	5				The pass through the Mountains of Terror across which the Black Gate stands.
+cirith-ungol	Cirith Ungol	The Spider's Pass	Spinnenpass	Cirith Dúath			"40,"	X	33	X				1	1	5
+cof-belfalas	Côf Belfalas	Bay of Belfalas	Bucht von Belfalas	Côf Belfalas	Baie de Belfalas		"33,"	X	"5,13"	X				1	1	2
+cof-lhun	Côf Lhûn	Gulf of Lune	Golf von Luhn		Golfe de la Lune		"1,39"	X	32	X				1	1	5
+combe		Combe			Combe									3	3
+cormallen-field		Field of Cormallen			Champ de Cormallen									3	3
+cracks-of-doom					Crevasses du Destin									Z	3				T
 crickhollow		Crickhollow			Creux-de-Crique			T		T				2	2
+cross-roads		Cross-roads			Croisée des Chemins									3	3				T
+cunmaeghed-rhunen	Cúnmaeghed Rhúnen	East Bight	Ostbucht	Cúnmaeghed Rhúnen	Brèche Est		"56,81"	X	31	X				1	1	5				A broad crescent-shaped region on the east side of southern Mirkwood from which men had heavily logged.
+dagorlad	Dagorlad	Battle Plain	Walstatt	Dagorlad			"31.,"	X	26	X				1	1	5
+dark-door		Dark Door			Porte des Morts									Z	3
+dead-houses		Houses of the Dead			Maisons des Morts									Z	3
 deephallow		Deephallow						T		T				2	2
+deeping		Deeping												4	4
+deeping-road		Deeping-road												4	4
+deeping-stream		Deeping-stream												4	4
+deeping-wall		Deeping Wall												4	4
 derndingle		Derndingle						T		T				2	2
+din	Dîn	Dîn	Dîn	Dîn										3	3
+dol-amroth	Dol Amroth	Dol Amroth	Dol Amroth	Dol Amroth			"63,"	X	47	X				1	1	6		X
+dol-baran	Dol Baran	Dol Baran	Dol Baran	Dol Baran			82	X	50	X				1	1	6				"A Rohirric outpost, south of Isengard."
+dol-cirith-ungol		Tower of Cirith Ungol			Tour de Cirith Ungol									Z	3
+dol-guldur	Dol Guldur	Dol Guldur	Dol Guldur	Dol Guldur	Dol Guldur		"38,64,"	X	31	X				1	1	5
+dor-en-ernil	Dor-en-Ernil	Dor-en-Ernil	Dor-en-Ernil	Dor-en-Ernil	Terre du Prince*		"30,"	X	26	X				1	1	5
+dorwinion	Dorwinion	Dorwinion	Dorwinion	Dorwinion	Dorwinion		"53,59"	X	46	X				1	1	6				"A land between the meeting of the Carnen and Celduin and the inland sea of the East.  The elf king, Thranduil, received wine in trade from Dorwinion. It was this strong draught that put the elven guards to sleep in The Hobbit, permitting the Dwarves' escape by barrel."
+druwaith-iaur	Drúwaith Iaur	Old Púkel Land	Altes Puckelland	Drúwaith Iaur			"30,"	X	26	X				1	1	5				A region west of Gondor from which the Púkel men originate.
+dunharrow	Dunharrow	Dunharrow	Dunharg		Dunharrow		"47,"	X	38	X				1	1	5		TODO		"An encampment on a cliff overlooking Harrowdale, from which the Paths of the Dead issue southward."
+duriniant	Duriniant	Durin’s Bridge		Duriniant										Z	3				T
+durthang	Durthang	Durthang	Durthang	Durthang			"52,"	X	44	X				1	1	6				A fortress overlooking Udûn from the peaks of Ephel Dúath on the west shoulder of the Isenmouthe.
 dwaling		Dwaling						T		T				2	2
+east-mark		East-mark												Z	3
 eastfarthing		Eastfarthing of the Shire			Quartier Est de la Comté			T		T				2	2
 eastmarch-shire		Eastmarch of the Shire						T		T				2	2
+echor-angrenost	Echor Angrenost	Ring of Isengard		Echor Angrenost										Z	3
+ecthelion		Tower of Ecthelion			Tour d'Ecthelion									Z	3
+edhellond	Edhellond	Edhellond	Edhellond	Edhellond			"26,"	X	23	X				1	1	5		X		"A settlement, established as an elven port, at the end of the river Ringló in Lamedon, Gondor."
+edoras	Edoras	Edoras	Edoras		Edoras		"46,"	X	38	X				1	1	5		X
+egladil
+eilenach	Eilenach	Eilenach	Eilenach		Eilenach (Feu d'alarme)		"28,"	X	25	X				1	1	5		X		The highest point amid the Druadan forest.
+elendil-mound		Mound of Elendil
+elf-havens		Elf-havens												Z						"Mithlond and Edhellond, the havens from which Elves departed from Middle-earth."
+elostirion	Elostirion	Elostirion	Elostirion	Elostirion			"50,"	X	41	X				1	1	6				"A tower on the Tower Hills, built by Elendil's people upon his arrival in Middle-earth after the sinking of Númenor, on which one of the palantiri was housed.  This particular palantir's view was fixed westward."
+emnet-annun	Emnet Annûn	Westemnet	Westemnet		Marche de l'Ouest		"60,83,"	X	"9,17"	RE			changed canonical name from westemnet	1	1	4
+emnet-rhunen	Emnet Rhúnen	Eastemnet	Ostemnet		Marche de l'Est		"13,83,"	X	"9,17"	RE			changed canonical name from eastemnet	1	1	4
+emyn-arnen	Emyn Arnen	Arnen Hills	Berge von Arnen	Emyn Arnen			"29,"	X	25	X				1	1	5
+emyn-beraid	Emyn Beraid	Tower Hills	Turmberge	Emyn Beraid	Collines des Tours	Wzgórza Wieżowe	"2,18,65"	X	20	X				1	1	5				"Hills in the west of Arnor on which Elendil built great towers, including Elostirion, in which one of the Palantiri was housed until the end of the Third Age.  The eastern slopes of the Tower Hills became the westernmost extent of The Shire when King Aragorn added the Westmarch to The Shire as mentioned in the Prologue and the Index of The Lord of the Rings.  A Hobbit settlement was then established in the foothills, called Undertowers."
+emyn-formen	Emyn Formen	North Downs	Nordhöhen	Emyn Formen	Hauts du Nord		"2,19,66"	X	20	X				1	1	5
+emyn-haeron	Emyn Haeron	Far Downs	Weite Höhen	Emyn Haeron	Hauts Reculés		"2,18,65"	X	20	X				1	1	5
+emyn-harad	Emyn Harad	South Downs	Südhöhen	Emyn Harad	Hauts du Sud		"19,71"	X	20	X				1	1	5
+emyn-muil	Emyn Muil	Emyn Muil	Emyn Muil	Emyn Muil			"29,"	X	25	X				1	1	5
+emyn-nim	Emyn Nim	White Downs	Weite Höhen	Emyn Nim	Hauts Blancs		"37,67"	X	30	X				1	1	5
+emyn-ring	Emyn Ring	Coldfells	Kalte Höhen	Emyn Ring			"55,61,70"	X	46	X				1	1	6				"The highlands west of the Misty Mountains and south of the Ettenmoors, separated from them by the northern branch of the river Bruinen.  In the Sindarin name, ""Emyn Ring"" is not attested, but its construction merits one note: ""Emyn"" is plural of ""Amon"" and means ""Hills"", or ""Fells"" very approximately; In Sindarin, the ""arity"" or ""count"" inflections of all words in a name must agree (be the same), so ""cold"" must be pluralized; ""Ring"" means cold in both the plural and singular since ""i"" does not vary between these singular and plural forms."
+emyn-sul	Emyn Sûl	Weather Hills	Wetterhügel	Emyn Sûl			"3,19,24,70"	X	"21,32"	X				1	1	5
+emyn-uial	Emyn Uial	Hills of Evendim	Hügel von Evendim	Emyn Uial	Collines d'Evendim		"3,19"	X	21	X				1	1	5				"A range of hills, north of the Shire, forming a crescent around Lake Evendim and Annúminas."
 enchanted-river		Enchanted River			Rivière Enchantée			T		T				2	2
+enedwaith	Enedwaith	Enedwaith	Enedwaith	Enedwaith	Terre de l'entre-deux		"3,11,79"	X	"6,13"	X				1	1	3
+ennorath	Ennorath	Middle-earth	Mittelerde	Ennorath	Terre du Milieu	Śródziemie	"60,"	X	"4,12"	X				1	1	0
+ennyn-moria	Ennyn Moria	Hollin Gate	Tor von Moria	Ennyn Moria	Porte de la Moria		"40,73,"	X	33	X				1	1	5
+ent-houses		Ent-houses												Z
+eothed														Z	3
+ephel-duath	Ephel Duath	Ephel Duath	Ephel Duath	Ephel Duath	Monts de l'Ombre		"41,"	X	34	X				1	1	5
+erebor	Erebor	Lonely Mountain	Einsamer Berg	Erebor	Montagne Solitaire		"42,"	X	"35,49"	X				1	1	5
+erech	Erech	Erech	Erech		Erech		"63,"	X	40	X				1	1	5		X
+ered-angmar	Ered Angmar	Mountains of Angmar	Berge von Angmar	Ered Angmar	Monts d'Angmar		"20,25,66"	X	22	X				1	1	5
+ered-engrin	Ered Engrin	Iron Hills	Eiserne Berge	Ered Engrin	Monts du Fer		"13,79,83"	X	"9,17"	X				1	1	4				"Throughout the Silmarillion, this region is called ""Ered Engrin"" and the ""Iron Mountains"".  In The Hobbit and The Lord of the Rings, they are called the ""Iron Hills"".  This map splits the difference, calling them ""Iron Hills"" in English, and ""Ered Engrin"" in Elvish."
+ered-lasgalen	Ered Lasgalen	Mountains of Mirkwood	Berge vom Düsterwald	Emyn-nu-Fuin		Góry Mrocznej Puszczy	"12,79"	X	30	X				1	1	5
+ered-lindon	Ered Lindon	Blue Mountains	Blaues Gebirge	Ered Luin	Montagnes Bleues		"5,10"	X	"7,15"	X				1	1	4
+ered-lithui	Ered Lithui	Ash Mountains	Aschengebirge	Ered Lithui	Monts Cendrés		"41,57"	X	34	X				1	1	5
+ered-mithrin	Ered Mithrin	Grey Mountains	Graue Berge	Ered Mithrin	Montagnes Grises	Góry Szare	"10,"	X	"7,15"	X				1	1	4
+ered-moria	Ered Moria	Mountains of Moria	Berge von Moria	Ered Moria			"36,"	X	29	X				1	1	5
+ered-nimrais	Ered Nimrais	White Mountains	Weißen Berge	Ered Nimrais	Montagnes Blanches	Góry Białe	"11,"	X	"7,15"	X				1	1	4
+eregion	Eregion	Hollin	Hülsten	Eregion	Houssaye		"20,60,"	X	22	X				1	1	5
+erelas	Erelas	Erelas	Erelas				"33,"	X	43	X				1	1	6		X
+eriador	Eriador	Eriador	Eriador	Eriador			"4,6,8"	RE	"4,12"	X			Rescan	1	1	1
+erui	Erui	River Erui	Erui Fluss	Erui			"50,58"	X	39	X				1	1	5
+eryn-druadan	Tawar-in-Drúedain	Drúadan Forest	Druadan-Wald	Tawar-in-Drúedain	Forêt de Drúadan		"28,73,"	X	24	X				1	1	5
+eryn-firien	Eryn Firien	Firien Wood	Firienwald	Eryn Firien	Bois de Firien		"47,"	X	38	X				1	1	5
+eryn-iaur	Eryn Iaur	Old Forest	Alter Wald	Eryn Iaur	Vieille Forêt	Stary Las	"17,"	X	19	X				1	1	5
+eryn-lasgalen	Eryn Lasgalen	Mirkwood	Düsterwald	Taur-nu-Fuin	Forêt Noire		"22,"	X	"8,16"	X				1	1	4				"The great forest of Wilderland, comprised primarily of beeches and oaks. Fir grows on the slopes of the Mountains of Mirkwood, and dark fir on the slopes of, but not atop, Amon Lanc on which Dol Guldor was built."
+eryn-mithrin	Eryn Mithrin	Grey Wood		Eryn Mithrin										3	3					"The Grey Wood appears on the Map of Gondor in the back of The Return of the King, the easternmost tip of the Druadan forest.  In The Return of the King, Théoden's company emerges from the Grey Wood ""under Amon Dîn"" led by the Wild Men, hearing drums in the hills.  The Grey Wood appears both as a capitalized proper name and an uncapitalized description."
+eryn-teryg	Eryn Teryg	Trollshaws	Trollhöhen	Eryn Teryg	Fourré aux Trolls		"17,"	X	20	X			"citation needed for ""beech trees"""	1	1	5				"The Trollshaws, wherein Bilbo met the trolls in The Hobbit, are a forest comprised of beech trees [citation needed]."
+eryn-uireb	Eryn Uireb	Everholt	Everholt	Eryn Uireb			"55,73,"	X	46	X			primary source citation needed for notes.	1	1	6				"A section of the Firienholt, known for its boars [citation needed]."
+eryn-vorn	Eryn Vorn	Eryn Vorn	Eryn Vorn	Eryn Vorn	Forêt Noire		"2,39"	X	"32,49"	X			I believe the Stardogg map showed a bit of Eryn Vorn near Lond Daer; verify and mention in the notes. Find citations for the notes.	1	1	5				"The remnants of a forest that once covered much of Enedwaith and Minhiriath but was vigorously logged by the Númenoreans.  Bits of this forest remained on the edges of the region, including south Lindon and Dunland."
+eryn-wethrin	Eryn Wethrin	Dimholt	Dimholt	Eryn Wethrin			"53,80"	X	46	X				1	1	6				"A pine and fir forest at the base of Dwimorberg, past Dunharrow, on the road to the Paths of the Dead."
+eryndaur	Eryndaur	Chetwood	Chetwald	Eryndaur	Bois de Chet		"19,79"	X	21	X				1	1	5				"""Chetwood"" and ""Carrock"" are both examples of a particular device that Tolkien employed: to join an English word with a word of the same meaning in another language.  In this case, ""chet"" means ""forest"" in Gaelic (as attested by Måns Björkman http://movies.groups.yahoo.com/group/elfscript2/message/301)."
+erynduin	Erynduin	Forest River	Waldfluss	Erynduin		Rzeka Leśna	"63,"	X	48	X				1	1	6
+erynrath	Erynrath	Forest Path	Waldweg	Erynrath			"62,80"	X	48	X				1	1	6
+esgaroth	Esgaroth	Lake Town	Seestadt		Lacville		"42,"	X	34	X				1	1	5		X		"A stilted town on the Long Lake, in Wilderland, south of Erebor, where Bilbo and the Dwarves visit on the last leg of their quest for Smaug's treasure."
+ethir		Ethir		Ethir										3	3
+ethir-anduin	Ethir Anduin	Mouths of Anduin	Mündungen des Anduin	Ethir Anduin	Bouches de l'Anduin		"34,"	X	27	X				1	1	5
+ethir-onodlo	Ethir Onodló	Mouths of Entwash	Mündungen des Entwash	Ethir Onodló	Bouches de l'Entalluve		"47,"	X	38	X				1	1	5
+ethraid-erui	Ethraid Erui	Crossings of Erui	Furten des Erui	Ethraid Erui			"27,66"	X	24	X				1	1	5		X
+ethraid-poros	Ethraid Poros	Crossings of Poros	Furten des Poros	Ethraid Poros	Gués du Poros		"27,"	X	24	X				1	1	5		X
+ethring	Ethring	Ethring	Ethring	Ethring			"27,"	X	24	X				1	1	5		X		"A township at the head of the Ringló vale, beneath the wells from which the river Ringló springs, in Calembel, Gondor. Ethring is not mentioned in the text of The Lord of the Rings, the Silmarillion, or the Unfinished Tales.  It is however attested on the original map."
+fangorn	Fangorn	Fangorn	Fangorn	Fangorn	Forêt de Fangorn		"42,"	X	34	X				1	1	5		TODO
+fanuidhol	Fanuidhol	Cloudyhead	Wolkenkopf	Bundushathûr	Tête Couverte		"16,"	X	19	X				1	1	5				"Fanuidhol is the easternmost of the three Mountains of Moria, climbing from the north-east shore of the Mirrormere."
+farthings		Four Farthings			Quatre Quartiers			T		T				Z	2
+fen-hollen	Fen Hollen	Fen Hollen	Fen Hollen	Fen Chollen										Z	3
+firien-dale		Firien-dale												Z	3
+firienfeld		Firienfeld												3	3
+first-hall		First Hall												Z
+floating-log		Floating Log												3	3
+fold-annun	Fold Annûn	Westfold	Westfold		Ouestfolde		"60,84,"	X	"9,17"	X			changed canonical name from westfold	1	1	4				"The Westfold is mentioned frequently in the Unfinished Tales and The Two Towers, but does not appear on the original maps. However, its extent is well-described as being the northerly region of Rohan touching both the eves of Fangorn and reaching the domain of Isengard. These boundaries are observed here and on the Stardogg map."
+fold-rhunen	Fold Rhúnen	Eastfold	Ostfold		Estfolde		"13,84,"	X	"9,17"	X			changed canonical name from eastfold	1	1	4
+folde	Folde	Folde	Folde				"13,"	X	"9,17"	X				1	1	4
+forannon	Forannon	North Gate		Forannon
+forest-narrows		Narrows of the Forest
+forithilien	Forithilien	North Ithilien	Nord Ithilien	Forithilien	Ithilien du Nord		"31,"	X	"6,14"	X				1	1	3
+forlindon	Forlindon	North Lindon	Nord Lindon	Forlindon			"38,"	X	31	X				1	1	5
+forlond	Forlond	Forlond	Forlond	Forlond			"5,39"	X	32	X				1	1	5		X
+fornost-erain	Fornost	Norbury	Norburg	Fornost Erain	Norchâteau des Rois		"3,16,49,"	X	19	X				1	1	5		X		"Kings' Norbury was became the capital of Arnor in their time of waning, after Elendil and Valandil, connected by road to its sister capital of Osgiliath in Gondor.  The name King's Norbury is mentioned once in the prefix of Lord of the Rings.  Fornost is mentioned frequently throughout the Lord of the Rings, the appendices of the Silmarillion, and the Unfinished Tales.  Fornost Erain is mentioned once in the Silmarillion and once in Return of the King as the full Sindarin name of the place."
+forochel	Forochel	Ice Bay of Forochel	Eisbucht von Forochel	Forochel	Baie glaciale de Forochel		"5,21"	X	23	X				1	1	4
+forochel-cape														3	3
+forochel-cape					Cap de Forochel									3	3
+forodwaith	Forodwaith	Northern Waste	Nördliche Wüste	Forodwaith	Désert du Nord		"6,8,9"	RE	"4,12"	X			Rescan	1	1	1
+forsaken-inn		Forsaken Inn												Z	3
+fortofn	Fortofn	North Undeep	Nördliche Untiefe	Fortofn			"56,69"	X	35	X				1	1	5
+framsburg		Framsburg	Framsburg					T		T				2	2					"Framsburg is mentioned on the Stardogg map, but has no mention in The Lord of the Rings, The Hobbit, The Silmarillion, and Unfinished Tales."
+framsburg		Framsburg	Framsburg											3	3
 frogmorton		Frogmorton						T		T				2	2
+gamwich		Gamwich												3	3
+gilrain	Gilrain	Gilrain	Gilrain	Gilrain			"52,59"	X	43	X				1	1	6
 girdley-island		Girdley Island						T		T				2	2					"An island amid the Brandywine, north of the Bridge in Buckland, rendered in the map of a Part of the Shire."
+glanduin	Glanduin	Glanduin	Glanduin	Glanduin	Rivière Frontalière*		"44,57,"	X	23	X				1	1	5
+glanhir	Glanhír	Mering Stream	Mahrefluss	Glanhír			"48,"	X	39	X				1	1	5				"A tributary of the Entwash, through the uplands beneath Halifirien, through the Firien Wood."
+goblin-town		Goblin-town			Gobelinville									Z	3
+golden-perch		Golden Perch												3	3
+gondor	Gondor	Gondor	Gondor	Gondor			"6,8"	X	"4,12"	X				1	1	1
+gondor-beacons		Beacons of Gondor			Feux d'alarme de Gondor									Z	2				T
+gondor-citadel		Citadel of Gondor			Citadelle de Gondor									Z	3				T
+gore														3	3
+gorgoroth	Gorgoroth	Gorgoroth	Gorgoroth	Gorgoroth			"41,"	X	34	X				1	1	5
+great-smials		Great Smials												Z	3
+green-dragon		Green Dragon			Dragon Vert									3	3
 green-hill-country		Green Hill Country			Pays de la Colline Verte			T		T				2	2
 green-hills-of-the-shire		Green Hills of the Shire						T		T				2	2
 greenfields		Greenfields			Champs Verts			T		T				2	2
 greenholm		Greenholm						T		T				2	2
+gundabad	Gundabad	Mount Gundabad	Berg Gundabad	Gundabad			"36,"	X	29	X				1	1	5
+gwaith-thranduil	Gwaith Thranduil	Wood Elves	Waldelben	Galadhrim	Elfes Sylvains / Royaume de Thranduil		"37,57,68"	X	31	X				1	1	5		X
+gwathlo	Gwathló	Greyflood	Grauflut	Gwathir	Flot-Gris		"4,49,68"	X	40	X				1	1	5
+haecharad	Haecharad	Far Harad	Weit-Harad				83	X	"5,15"	RE			"changed the canonical name from far-harad, so check all indicies. the Elvish is new."	1	1	3
+hall-of-fire		Hall of Fire			Salle du Feu									Z	3
+hallows-of-minas-tirith							X	X	X	X				2	1		X		T
+haradwaith	Haradwaith	Sutherland	Südland	Haradwaith			"6,8,18"	RE	"4,12"	X			Rescan	1	1	1
 hardbottle		Hardbottle						T		T				2	2
+harithilien	Harithilien	South Ithilien	Süd-Ithilien	Harithilien	Ithilien du Sud		"31,"	X	"6,14"	X				1	1	3
+harlindon	Harlindon	South Lindon	Süd-Lindon	Harlindon			"38,"	X	31	X				1	1	5
+harlond	Harlond	Harlond	Harlond	Harlond	Harlond		"5,39"	X	32	X				1	1	5		X
+harlond-gondor							"27,"	X	23	X				2	1	5		TODO		The port of Minas Tirith on Anduin.
+harnen	Harnen	Harnen	Harnen	Harnen	Harnen		"49,"	X	40	X				1	1	5
+harondor	Harondor	South Gondor	Südgondor	Harondor	Gondor du Sud		"31,"	X	"6,14"	X				1	1	3
 harrowdale		Harrowdale						T		T				2	2
+hartofn	Hartofn	South Undeep	Südliche Untiefe	Hartofn			"56,69"	X	35	X				1	1	5
+haudh-elendil					Tombe d'Elendil									Z	3
+haudh-in-gwanur	Haudh-In-Gwanûr	Tomb of the Twins	Grab der Zwillinge	Haudh-In-Gwanûr			"51,69"	X	43	X				1	1	6		TODO
 hay-gate		Hay Gate						T		T				2	2					A gate in the Hedge of Buckland.
 haysend		Haysend						T		T				2	2					The end of the Hedge in Buckland.
 hedge		High Hay						T		T				2	2
 hedge		High Hay						T		T				2	2
+helevorn	Helevorn	Helevorn	Helevorn	Helevorn			X	X	X	X				1	1				T	"A lake beneath Mr. Rerir in the Blue Mountains in Beleriand.  The Stardogg map speculates that this lake remained in Ered Luin into the third age and places it in the north of Ered Luin, as the source of the river that emanates from the west watershed of those mountains in the attested map."
+helms-dike		Helm’s Dike												4	3
+henneth-annun	Henneth Annûn	Henneth Annûn	Henneth Annûn	Henneth Annûn	Fenêtre sur l'Ouest		82	X	50	X				2	1
+himling	Himling	Himling	Himling	Himling			"5,15"	X	18	X				1	1	5				Himling appears in later revisions of the map in The Lord of the Rings.	UT	"Himling was the earlier form of Himring (the great hill on which Maedhros son of Fëanor had his fortress in The Silmarillion), and though the fact is nowhere referred to it is clear that Himring's top rose above the waters that covered drowned Beleriand."
+hithaeglir	Hithaeglir	Misty Mountains	Nebelgebirge	Hithaeglir	Monts Brumeux		"10,21"	X	"7,15"	X				1	1	4
 hobbiton-hill		Hobbiton Hill			Colline de Hobbitebourg			T		T				2	2
 hobbiton-road		Hobbiton Road						T		T				2	2
-little-delving		Little Delving			Petite Cave			T		T				2	2
-longbottom		Longbottom						T		T				2	2
-marish		Marish			Maresque			T		T				2	2
-michel-delving		Michel Delving			Grand'Cave			T		T				2	2
-min-fern					Chemins des Morts			T		T				2	2
-needlehole								T		T			Not in the Encyclopedia Arda	2	2	6		T	T	"A village of the Shire in the north of the Westfarthing, attested on the map of A Part of the Shire in The Fellowship of the Ring."
-newbury					Bourgneuf			T		T				2	2
-nobottle		Nobottle			Nobottle			T		T				2	2
-northfarthing		Northfarthing of the Shire			Quartier Nord de la Comté			T		T				2	2
-oatbarton		Oatbarton			Oatbarton			T		T				2	2
-overbourn-marshes		Overbourn Marshes			Marais de Sur la Rivière			T		T				2	2
-overhill		Overhill			Par-delà-la-Colline			T		T				2	2
-pend-dimrill					Escalier des Rigoles Sombres			T		T				2	1
-pincup		Pincup			Pincup			T		T				2	2
-rhimdath	Rhimdath	Rushdown		Rhibdath				T		T			citation needed	2	2					"A tributary of Anduin, not marked on the original maps or mentioned in The Lord of the Rings, The Hobbit, The Silmarillion, or Unfinished Tales, but is marked in the Stardogg map.  Articles on Wikipedia and WordIQ http://www.wordiq.com/definition/Rhimdath hint that it is mentioned in other works."
-rushey								T		T				2	2					"Rushey is mentioned in the text of The Fellowship of the Ring and in The Adventures of Tom Bombadil.  It however appears as ""Rushy"" in the Map of a Part of the Shire in The Fellowship of the Ring."
-rushock-bog					Marais de Rushock			T		T				2	2
-scary		Scary			Scary			T		T				2	2
-scary-quary								T		T				2	2
-southfarthing		Southfarthing of the Shire			Quartier Sud de la Comté			T		T				2	2
-staddle		Staddle						T		T				2	2
-standelf		Standelf			Standelf			T		T				2	2
-stock		Stock			Stock			T		T				2	2
-stock-road		Stock Road						T		T				2	2
-stockbrook								T		T			Stockbrook in Encyclopedia Arda	2	2
-the-hill		The Hill			La Colline			T		T				2	2
-the-pool		The Pool			L'Étang			T		T				2	2
-the-river		The River			La Rivière			T		T				2	2
-the-water		The Water			L'Eau			T		T				2	2
-the-yale								T		T				2	2
-thistle-brook		Thistle Brook			Ruisseau aux Chardons			T		T				2	2
-three-farthing-stone		Three-Farthing Stone			Pierre des Trois Quartiers			T		T				2	2
-tighfield		Tighfield			Champtoron			T		T				2	2
-tookbank		Tookbank			Coteau de Touque			T		T				2	2
-tookland		Tookland			Pays de Touque			T		T				2	2
-tuckborough		Tuckborough			Bourg de Touque			T		T				2	2
-underharrow		Underharrow						T		T				2	2	6		T		"A hamlet on the banks of the Snowbourn in the valley of Harrowdale, through which Théoden's company passed on the way to Gondor in The Return of the King."
-underharrow		Underharrow						T		T				2	2
-undertowers		Undertowers						T		T				2	2
-westfarthing		Westfarthing of the Shire			Quartier Ouest de la Comté			T		T				2	2
-westmarch-shire		Westmarch of the Shire						T		T				2	2
-whitfurrows								T		T			Not in the Encyclopedia Arda	2	2	6		T
-whitwell		Whitwell			Blanche Source			T		T				2	2
-willowbottom		Willowbottom			Le Creux aux Saules			T		T				2	2
-woodhall		Woodhall			Castelbois			T		T				2	2
-woody-end		Woody End			Le Bout des Bois			T		T				2	2
-men-annun		West Road			Route de l'Ouest			T	50	Cropped			This probably should be consolidated with menion-annui	3	3
-morgai								T	50	X				3	3					"The ""inner ring of fences of the land"" of Mordor [RotK], a valley and ridge inside the Ephel Dúath."
-farthings		Four Farthings			Quatre Quartiers			T		T				Z	2
-naith-bruinen	Naith	The Angle		Naith	L'Angle			T		T				Z	2					"A region between Hoarwell and Bruinen as they approach their meeting, south of the Trollshaws."
-elostirion	Elostirion	Elostirion	Elostirion	Elostirion			"50,"	X	41	X				1	1	6				"A tower on the Tower Hills, built by Elendil's people upon his arrival in Middle-earth after the sinking of Númenor, on which one of the palantiri was housed.  This particular palantir's view was fixed westward."
-adorn	Adorn	Adorn	Adorn	Adorn			"49,"	X	39	X				1	1	5
-iorost	Iorost	Aldburg	Altburg	Iorost			"46,71"	X	37	X			This is in the wrong place on the map http://www.glyphweb.com/ARDA/a/aldburg.html	1	1	5		X		"A fortified settlement in the Folde, south-east of Edoras."
-athrad-iaur	Athrad Iaur	Old Ford	Alte Furt	Athrad Iaur			"17,"	X	19	X				1	1	5		X
-men-eryn-iaur	Men-i-Naugrim	Old Forest Road	Alter Nachtwaldweg	Men Eryn Iaur			"38,"	X	31	X				1	1	5
-eryn-iaur	Eryn Iaur	Old Forest	Alter Wald	Eryn Iaur	Vieille Forêt	Stary Las	"17,"	X	19	X				1	1	5
-druwaith-iaur	Drúwaith Iaur	Old Púkel Land	Altes Puckelland	Drúwaith Iaur			"30,"	X	26	X				1	1	5				A region west of Gondor from which the Púkel men originate.
-amon-din	Amon Dîn	Amon Dîn	Amon Dîn	Amon Dîn			"33,"	X	43	X				1	1	6		X
-amon-hen	Amon Hen	Amon Hen	Amon Hen	Amon Hen	Colline de la Vue		"62,"	X	47	X				1	1	6				A hilltop to the South of Nen Hithoel on the west side of the Anduin.  Its sister is Amon Lhaw.
-amon-lanc	Amon Lanc	Amon Lanc	Amon Lanc	Amon Lanc			"37,"	X	30	X				1	1	5				"A treeless hilltop in the south of Mirkwood that was known as Amon Lanc and eventually after the eponymous stronghold of Dol Guldor.  The name Amon Lanc is attested in the Unfinished Tales, in Part III, The Disaster of the Gladden Fields. ""The rain lasted for four days; so when they came to the entrance to the Vales, between Lórien and Amon Lanc, [12] Isildur turned away from the Anduin, swollen with swift water, and went up the steep slopes on its eastern side to gain the ancient paths of the Silvan Elves that ran near the eaves of the Forest. [12] - Amon Lanc, ""Naked Hill,"" was the highest point in the highland at the south-west corner of the Greenwood, and was so called because no trees grew on its summit. In later days it was Dol Guldur, the first stronghold of Sauron after his awakening. [Author's note.]"""
-amon-lhaw	Amon Lhaw	Amon Lhaw	Amon Lhaw	Amon Lhaw	Colline de l'Ouïe		"62,71"	X	47	X				1	1	6				A hilltop to the South of Nen Hithoel on the east side of the Anduin.  Its sister is Amon Hen.
-andrast	Andrast	Andrast	Andrast	Andrast			82	X	50	X				1	1	5				The peninsula west of Gondor. 
-anduin	Anduin	Anduin	Anduin	Anduin	Grand Fleuve		"44,61,"	X	36	X				1	1	5
-angmar	Angmar		Angmar	Angmar			"11,"	X	"8,16"	X				1	1	4
-annuminas	Annúminas	Annúminas	Annúminas	Annúminas	Tour de l'Ouest		"3,21,77"	X	"41,49"	X				1	1	6		X		"Annúminas is a city on the shores of Lake Evendim (Nenuial), north of the Shire, in the elbow of the beginnings of the Brandywine river (Baranduin).  In the Silmarillion, it is called the ""city of the Kings of Arnor"", established by Elendil as his chief city, and later inhabited by Valandil in lesser days. Valandil's heirs eventually moved their seat to Fornost (Kings' Norbury).  In The Two Towers, it is mentioned that the lore of Elrond's house tells that one of the palantiri was in Annúminas.  The index of The Lord of the Rings and the Unfinished Tales both mention that the palantiri of Annúminas, Amon Sûl, and Elostirion were lost when Arvedui perished in a shipwreck in the Ice Bay of Forochel. On this map, Annúminas is represented by a tower, the existence of which is conjecture, based on the name and that it was common for palantiri to be housed in watch towers."
-anorien	Anorien	Anorien	Anorien	Anorien			"12,32"	X	"6,14"	RE			Anorien doesn't have an ó in textual references. Verify on maps.	1	1	3
-argonath	Argonath	Argonath	Argonath	Argonath			"29,"	X	25	X				1	1	5		X		"Aragorn named the Argonath ""Pillars of the Kings"" when they are first seen in The Fellowship of the Ring.  The name ""Gate of Kings"" was used by Aragorn in his lament for Boromir in The Two Towers, and by Théoden to speculate the extent of the dark lord's power in Return of the King.  They are called the King-stones in the reference for the name Argonath in the Silmarillion."
-arthedain	Arthedain	Arthedain	Arthedain	Arthedain			"1,11,22"	X	"5,13"	X				1	1	3
-ered-lithui	Ered Lithui	Ash Mountains	Aschengebirge	Ered Lithui	Monts Cendrés		"41,57"	X	34	X				1	1	5
+hornburg		Hornburg			Fort le Cor									3	3
+hornrock		Hornrock												Z	4
 i-drann	i Drann	The Shire	Auenland	i Drann	La Comté		"11,75"	X	"7,16"	X				1	1	4
-barad-dur	Barad Dûr	Barad Dûr	Barad Dûr	Barad Dûr	Tour Sombre		"40,"	X	33	X				1	1	5		X (eye)
-belfalas	Belfalas	Belfalas	Belfalas	Belfalas			"32,"	X	27	X				1	1	5
-beorn	Beorn	Beorn	Beorn		Beorn		"74,"	X	40	X				1	1	5		X
-orod-gram	Orod Gram	Mt. Gram	Berg Gram	Orod Gram	Mont Gram		"52,"	X	44	X			the sindarin label needs to be moved a little	1	1	6				"A mountain in north Eriador, once a goblin stronghold, mentioned in the Hobbit, known for its sportingly decapitated king, Gol-firnbul. Its exact location is unmentioned but the Encarda suggests that there is circumstantial evidence it was in the Misty Mountains. The Stardogg map places it at the end of the arm of the Hithaeglir extending above the Etenmoors."
-gundabad	Gundabad	Mount Gundabad	Berg Gundabad	Gundabad			"36,"	X	29	X				1	1	5
-ered-lasgalen	Ered Lasgalen	Mountains of Mirkwood	Berge vom Düsterwald	Emyn-nu-Fuin		Góry Mrocznej Puszczy	"12,79"	X	30	X				1	1	5
-ered-angmar	Ered Angmar	Mountains of Angmar	Berge von Angmar	Ered Angmar	Monts d'Angmar		"20,25,66"	X	22	X				1	1	5
-emyn-arnen	Emyn Arnen	Arnen Hills	Berge von Arnen	Emyn Arnen			"29,"	X	25	X				1	1	5
-ered-moria	Ered Moria	Mountains of Moria	Berge von Moria	Ered Moria			"36,"	X	29	X				1	1	5
-nurnen	Núrnen	Sea of Nurn	Binnenmeer Núrnen	Núrnen	Mer de Nurn		"12,18"	X	"7,14"	X				1	1	3
-ered-lindon	Ered Lindon	Blue Mountains	Blaues Gebirge	Ered Luin	Montagnes Bleues		"5,10"	X	"7,15"	X				1	1	4
-baranduin	Baranduin	Brandywine	Brandywein	Branda-nîn	Brandevin		"4,21"	X	22	X				1	1	5
-baranduiniant	Baranduiniant	Brandywine Bridge	Brandyweinbrücke	Baranduiniant	Pont de Brandevin		"16,77"	X	19	X			Should the i in iant be yanta here?	1	1	5		X
-bree	Amon	Bree	Bree	Amon	Bree		"16,"	X	19	X				1	1	5		X
-imladris	Imladris	Rivendell	Bruchtal	Imladris	Fondcombe		"2,45"	X	36	X				1	1	5		X
-athrad-imladris	Athrad Imladris	Ford of Bruinen	Bruinenfurt	Athrad Imladris			"45,"	X	36	X				1	1	5		X
-cof-belfalas	Côf Belfalas	Bay of Belfalas	Bucht von Belfalas	Côf Belfalas	Baie de Belfalas		"33,"	X	"5,13"	X				1	1	2
-cair-andros	Cair Andros	Cair Andros	Cair Andros	Cair Andros			"37,57"	X	30	X				1	1	5		TODO
-calembel	Calembel	Calembel	Calembel	Calembel			"31,"	X	27	X				1	1	5
-calenhad	Calenhad	Calenhad	Calenhad	Calenhad			"33,"	X	43	X				1	1	6		X
-carchost	Carchost	Carchost	Carchost	Carchost			"54,"	X	45	X				1	1	6				"The east tower of the black gate, the Morannon."
-cardolan	Cardolan	Cardolan	Cardolan				"10,"	X	"6,13"	X				1	1	3
-carn-dum	Carn Dûm	Carn Dûm	Carn Dûm				"3,14,18"	X	"9,18"	X				1	1	5				The capital of the witch-king's realm at Angmar.
-carag	Carag	Carrock	Carrock	Sargond	Carrock		"53,77"	X	46	X				1	1	6		X
-sir-celos	Celos	River Celos	Celos Fluss	Celos			"61,"	X	28	X				1	1	5
-cerin-amroth	Cerin Amroth	Cerin Amroth	Cerin Amroth	Cerin Amroth			"54,"	X	45	X				1	1	6				A green mound in Lothlórien on which the the trees of Caras Galdhon and the flower Elanor grow.
-eryndaur	Eryndaur	Chetwood	Chetwald	Eryndaur	Bois de Chet		"19,79"	X	21	X				1	1	5				"""Chetwood"" and ""Carrock"" are both examples of a particular device that Tolkien employed: to join an English word with a word of the same meaning in another language.  In this case, ""chet"" means ""forest"" in Gaelic (as attested by Måns Björkman http://movies.groups.yahoo.com/group/elfscript2/message/301)."
-ciril	Ciril	Ciril	Ciril	Ciril			"35,"	X	28	X				1	1	5
-cirith-gorgor	Cirith Gorgor	Cirith Gorgor	Cirith Gorgor	Cirith Gorgor			"40,"	X	33	X				1	1	5				The pass through the Mountains of Terror across which the Black Gate stands.
-barannorath	Barannorath	The Brown Lands	Die Braunen Lande	Barannorath	Terres Brunes		"12,64,"	X	"8,17"	X				1	1	4
 iant-vedui	Iant Vedui	The Last Bridge	Die Letzte Brücke	Iant Vedui	Le Dernier Pont		"45,"	X	37	X				1	1	5		X
-eryn-wethrin	Eryn Wethrin	Dimholt	Dimholt	Eryn Wethrin			"53,80"	X	46	X				1	1	6				"A pine and fir forest at the base of Dwimorberg, past Dunharrow, on the road to the Paths of the Dead."
-dol-amroth	Dol Amroth	Dol Amroth	Dol Amroth	Dol Amroth			"63,"	X	47	X				1	1	6		X
-dol-baran	Dol Baran	Dol Baran	Dol Baran	Dol Baran			82	X	50	X				1	1	6				"A Rohirric outpost, south of Isengard."
-dol-guldur	Dol Guldur	Dol Guldur	Dol Guldur	Dol Guldur	Dol Guldur		"38,64,"	X	31	X				1	1	5
-dor-en-ernil	Dor-en-Ernil	Dor-en-Ernil	Dor-en-Ernil	Dor-en-Ernil	Terre du Prince*		"30,"	X	26	X				1	1	5
-dorwinion	Dorwinion	Dorwinion	Dorwinion	Dorwinion	Dorwinion		"53,59"	X	46	X				1	1	6				"A land between the meeting of the Carnen and Celduin and the inland sea of the East.  The elf king, Thranduil, received wine in trade from Dorwinion. It was this strong draught that put the elven guards to sleep in The Hobbit, permitting the Dwarves' escape by barrel."
-eryn-druadan	Tawar-in-Drúedain	Drúadan Forest	Druadan-Wald	Tawar-in-Drúedain	Forêt de Drúadan		"28,73,"	X	24	X				1	1	5
-dunharrow	Dunharrow	Dunharrow	Dunharg		Dunharrow		"47,"	X	38	X				1	1	5		TODO		"An encampment on a cliff overlooking Harrowdale, from which the Paths of the Dead issue southward."
-barannor	Barannor	Dunland	Dunland	Barannor	Pays de Dun	Dunland	"39,79"	X	33	X				1	1	5
-barad-durin	Barad Durin	Durin's Tower	Durins Turm	Barad Durin	Tour de Durin	Wieża Durina	"50,"	X	40	X				1	1	6		X		"A tower built by Durin the Undying, atop the mountain Celebdil of Moria."
-durthang	Durthang	Durthang	Durthang	Durthang			"52,"	X	44	X				1	1	6				A fortress overlooking Udûn from the peaks of Ephel Dúath on the west shoulder of the Isenmouthe.
-eryn-lasgalen	Eryn Lasgalen	Mirkwood	Düsterwald	Taur-nu-Fuin	Forêt Noire		"22,"	X	"8,16"	X				1	1	4				"The great forest of Wilderland, comprised primarily of beeches and oaks. Fir grows on the slopes of the Mountains of Mirkwood, and dark fir on the slopes of, but not atop, Amon Lanc on which Dol Guldor was built."
-mornorod	Mornorod	Dwimorberg	Dwimorberg	Mornorod			"51,"	X	43	X				1	1	6				"A peak of the White Mountains at the head of the valley of Harrowdale, through which the Paths of the Dead tunnel."
-lithlad	Lithlad	Ash Plain	Ebene der Aschen	Lithlad			"52,"	X	45	X				1	1	6				"A region of Mordor to the south of Ered Lithui, upon the outskirts of which the Tower of Barad-dûr stood."
-edhellond	Edhellond	Edhellond	Edhellond	Edhellond			"26,"	X	23	X				1	1	5		X		"A settlement, established as an elven port, at the end of the river Ringló in Lamedon, Gondor."
-edoras	Edoras	Edoras	Edoras		Edoras		"46,"	X	38	X				1	1	5		X
-eilenach	Eilenach	Eilenach	Eilenach		Eilenach (Feu d'alarme)		"28,"	X	25	X				1	1	5		X		The highest point amid the Druadan forest.
-celduin	Celduin	River Running	Eilend	Celduin	Rivière Courante		"53,59"	X	46	X				1	1	6
-erebor	Erebor	Lonely Mountain	Einsamer Berg	Erebor	Montagne Solitaire		"42,"	X	"35,49"	X				1	1	5
-forochel	Forochel	Ice Bay of Forochel	Eisbucht von Forochel	Forochel	Baie glaciale de Forochel		"5,21"	X	23	X				1	1	4
-ered-engrin	Ered Engrin	Iron Hills	Eiserne Berge	Ered Engrin	Monts du Fer		"13,79"	X	"9,17"	X				1	1	4				"Throughout the Silmarillion, this region is called ""Ered Engrin"" and the ""Iron Mountains"".  In The Hobbit and The Lord of the Rings, they are called the ""Iron Hills"".  This map splits the difference, calling them ""Iron Hills"" in English, and ""Ered Engrin"" in Elvish."
-ost-in-edhil	Ost-in-Edhil	Elventown	Elfstadt	Ost-in-Edhil			"51,"	X	"48,49"	X				1	1	6		X		"The ruined principle city of the elves of Eregion, Hollin, who had trade with the dwarves of Khazad-dûm and who had forged the rings of power at their height."
-emyn-muil	Emyn Muil	Emyn Muil	Emyn Muil	Emyn Muil			"29,"	X	25	X				1	1	5
-enedwaith	Enedwaith	Enedwaith	Enedwaith	Enedwaith	Terre de l'entre-deux		"3,11,79"	X	"6,13"	X				1	1	3
-athrad-onodlo	Athrad Onodló	Entwade	Entfurt	Athrad Onodló	Gué d'Ent		"48,67,"	X	39	X				1	1	5		X
-onodlo	Onodló	Entwash	Entwasser	Onodló	Entalluve		"48,"	X	39	X				1	1	5
-ephel-duath	Ephel Duath	Ephel Duath	Ephel Duath	Ephel Duath	Monts de l'Ombre		"41,"	X	34	X				1	1	5
-erech	Erech	Erech	Erech		Erech		"63,"	X	40	X				1	1	5		X
-erelas	Erelas	Erelas	Erelas				"33,"	X	43	X				1	1	6		X
-eriador	Eriador	Eriador	Eriador	Eriador			"4,6,8"	X	"4,12"	X				1	1	1
-erui	Erui	River Erui	Erui Fluss	Erui			"50,58"	X	39	X				1	1	5
-eryn-vorn	Eryn Vorn	Eryn Vorn	Eryn Vorn	Eryn Vorn	Forêt Noire		"2,39"	X	"32,49"	X			I believe the Stardogg map showed a bit of Eryn Vorn near Lond Daer; verify and mention in the notes. Find citations for the notes.	1	1	5				"The remnants of a forest that once covered much of Enedwaith and Minhiriath but was vigorously logged by the Númenoreans.  Bits of this forest remained on the edges of the region, including south Lindon and Dunland."
-ethring	Ethring	Ethring	Ethring	Ethring			"27,"	X	24	X				1	1	5		X		"A township at the head of the Ringló vale, beneath the wells from which the river Ringló springs, in Calembel, Gondor. Ethring is not mentioned in the text of The Lord of the Rings, the Silmarillion, or the Unfinished Tales.  It is however attested on the original map."
-torobrannor	Torobrannor	Ettenmoors	Ettenöden	Onobrannor	Landes d'Etten		"56,81"	X	37	X				1	1	5
-eryn-uireb	Eryn Uireb	Everholt	Everholt	Eryn Uireb			"55,73,"	X	46	X			primary source citation needed for notes.	1	1	6				"A section of the Firienholt, known for its boars [citation needed]."
-lanthir-rauros	Lanthir Rauros	Falls of Rauros	Fälle des Rauros	Lanthir Rauros	Chutes du Rauros		"34,"	X	27	X				1	1	5
-fangorn	Fangorn	Fangorn	Fangorn	Fangorn	Forêt de Fangorn		"42,"	X	34	X				1	1	5		TODO
-parth-celebrant	Parth Celebrant	Field of Celebrant	Feld von Celebrant	Parth Celebrant	Champ du Celebrant		"43,"	X	35	X				1	1	5
-lo-edrein	Lô Edrein	Fenmarch	Fenmark	Lô Edrein	Fenmarche		"48,58,65"	X	39	X				1	1	5
-nindalf	Nindalf	Wetwang	Fennfeld	Nindalf	Platerrague		"34,"	X	"8,16"	X				1	1	4
-eryn-firien	Eryn Firien	Firien Wood	Firienwald	Eryn Firien	Bois de Firien		"47,"	X	38	X				1	1	5
-folde	Folde	Folde	Folde				"13,"	X	"9,17"	X				1	1	4
-forlond	Forlond	Forlond	Forlond	Forlond			"5,39"	X	32	X				1	1	5		X
-ethraid-erui	Ethraid Erui	Crossings of Erui	Furten des Erui	Ethraid Erui			"27,66"	X	24	X				1	1	5		X
-athrad-angren	Athrad Angren	Fords of Isen	Furten des Isen	Ethraid Engrin	Gués de l'Isen		"14,23"	X	"9,18"	X				1	1	5		X		"According to the entry for ""Athrad Angren"" in the Unfinished Tales, both the singular and plural forms of Fords of Isen were used in Elvish, so ""Athrad Angren"" and ""Ethraid Engrin"" are both acceptable names."
-ethraid-poros	Ethraid Poros	Crossings of Poros	Furten des Poros	Ethraid Poros	Gués du Poros		"27,"	X	24	X				1	1	5		X
-gilrain	Gilrain	Gilrain	Gilrain	Gilrain			"52,59"	X	43	X				1	1	6
-glanduin	Glanduin	Glanduin	Glanduin	Glanduin	Rivière Frontalière*		"44,57,"	X	23	X				1	1	5
-aglarond	Aglarond	Glittering Caves	Glitzernde Höhlen	Aglarond	Cavernes Étincelantes		"50,50"	X	41	X				1	1	6		T
-cof-lhun	Côf Lhûn	Gulf of Lune	Golf von Luhn		Golfe de la Lune		"1,39"	X	32	X				1	1	5
-gondor	Gondor	Gondor	Gondor	Gondor			"6,8"	X	"4,12"	X				1	1	1
-gorgoroth	Gorgoroth	Gorgoroth	Gorgoroth	Gorgoroth			"41,"	X	34	X				1	1	5
-haudh-in-gwanur	Haudh-In-Gwanûr	Tomb of the Twins	Grab der Zwillinge	Haudh-In-Gwanûr			"51,69"	X	43	X				1	1	6		TODO
-mithlond	Mithlond	Grey Havens	Graue Anfurten	Mithlond	Havres Gris		"5,38"	X	32	X				1	1	5		X
-ered-mithrin	Ered Mithrin	Grey Mountains	Graue Berge	Ered Mithrin	Montagnes Grises	Góry Szare	"10,"	X	"7,15"	X				1	1	4
-gwathlo	Gwathló	Greyflood	Grauflut	Gwathir	Flot-Gris		"4,49,68"	X	40	X				1	1	5
-mithnen	Mithnen	Greylin	Grauquell	Mithnen			"49,"	X	40	X				1	1	5
-belegaer	Belegaer	Great Sea	Große Meer	Belegaer	Grande Mer		"14,64,"	X	"5,13"	X				1	1	1
-menion-annui	Menion Annui	Great West Road	Große Weststraße	Menion Annui	Grande Route de l'Ouest		"47,76,"	X	38	X				1	1	5
-parth-galen	Parth Galen	Greenfield	Grünfeld	Parth Galen			"55,"	X	45	X				1	1	6				"A green lawn above the falls of Rauros, at the foot of Amon Hen."
-calenrath	Calenrath	Greenway	Grünweg	Calenrath	Chemin Vert			X	40	X				1	1	5
-lond-umbar	Lond Umbar	Haven of Umbar	Hafen von Umbar	Lond Umbar	Havres d'Umbar		"35,"	X	29	X				1	1	5		X
-amon-anwar	Amon Anwar	Halifirien	Halifirien	Amon Anwar			"28,"	X	25	X				1	1	5		X		"This is the name given to the mountain overlooking the Firien wood, and also the Beacon on top thereof. In the chapter ""Cirion and Eorl"" of ""The Unfinished Tales"", ""Halifirien"" is given as the Rohirric name meaning ""Holy Mountain"". It was previously known as ""Amon Anwar"" in Sindarin, meaning ""Hill of Awe"". 'In the Common Speech it was called ""the Whispering Wood."" '"
-harlond	Harlond	Harlond	Harlond	Harlond	Harlond		"5,39"	X	32	X				1	1	5		X
-harnen	Harnen	Harnen	Harnen	Harnen	Harnen		"49,"	X	40	X				1	1	5
-helevorn	Helevorn	Helevorn	Helevorn	Helevorn			X	X	X	X				1	1				T	"A lake beneath Mr. Rerir in the Blue Mountains in Beleriand.  The Stardogg map speculates that this lake remained in Ered Luin into the third age and places it in the north of Ered Luin, as the source of the river that emanates from the west watershed of those mountains in the attested map."
+imlad	Imlad	Dale	Tal	Imlad	Dale		"42,"	X	34	X				1	1	5		X
+imlad-morgul	Imlad Morgul	Morgul Vale		Morgul	Vallée de Morgul									Z	3
+imlad-morgul	Imlad Morgul	Morgul Vale		Morgul										Z	2
+imlad-morthond	Imlad Morthond	Blackroot Vale		Imlad Morthond										Z	3
+imlad-morthond	Imlad Morthond	Blackroot Vale		Imlad Morthond
+imlad-onodlo		Entwash Vale			Vallée de l'Entalluve									Z	3
+imlad-ringlo	Imlad Ringló	Ringló Vale		Imlad Ringló										Z	3
 imlad-thol	Imlad Thôl	Helm's Deep	Helms Klamm	Imlad Thôl	Gouffre de Helm		"46,64,80"	X	38	X				1	1	5
-himling	Himling	Himling	Himling	Himling			"5,15"	X	18	X				1	1	5				Himling appears in later revisions of the map in The Lord of the Rings.	UT	"Himling was the earlier form of Himring (the great hill on which Maedhros son of Fëanor had his fortress in The Silmarillion), and though the fact is nowhere referred to it is clear that Himring's top rose above the waters that covered drowned Beleriand."
-caras-perian	Caras Perian	Hobbiton	Hobbingen		Hobbitebourg	Hobbition	"37,75"	X	44	X				1	1	6		X
-argirith	Argirith	High Pass	Hochpaß	Cirith Forn en Andrath	Haut Col		"56,76,"	X	30	X				1	1	5		T
-emyn-uial	Emyn Uial	Hills of Evendim	Hügel von Evendim	Emyn Uial	Collines d'Evendim		"3,19"	X	21	X				1	1	5				"A range of hills, north of the Shire, forming a crescent around Lake Evendim and Annúminas."
-tyrn-gorthad	Tyrn Gorthad	Barrow-downs	Hühelgräberhöhen		Hauts des Galgals		"19,81"	X	21	X				1	1	5				"The Barrow Downs are one of many burial locations for the men of Arnor in Eriador. Barrow Downs is an example of Tolkien's device where he pairs archaic, synonymous words in compounds (as in ""carrock"" and ""chetwood"").  ""Barrow"" and ""down"" both mean ""hill""."
-eregion	Eregion	Hollin	Hülsten	Eregion	Houssaye		"20,60,"	X	22	X				1	1	5
-irensaga	Írensaga	Írensaga	Írensaga				"51,67"	X	41	RE			Írensaga needs an acute over the I.	1	1	6				"One of the White Mountains that looms over Harrowdale.  ""Iren"" means iron, which we could translate to ""Angren"" in Sindarin.  However, ""saga"" comes from Old English meaning ""saw"", for which we have no Sindarin equivalent, so the Tengwar for this location are are transliterated from ""Irensaga"" phonetically."
-angren	Angren	Isen	Isen	Sîr Angren	Isen		"15,23,72"	X	18	X				1	1	5				"The river that issues from the Wizard's Vale in the southern Misty Mountains, flowing generally westward to the sea, through the Old Púkel Land."
-angrenost	Angrenost	Isengard	Isengart	Angrenost			"14,23"	X	18	X				1	1	5
-carach-angren	Carach Angren	Isenmouthe	Isenmünde	Carach Angren			"41,"	X	34	X				1	1	5
-ithilien	Ithilien	Ithilien	Ithilien	Ithilien			X	X	X	X				1	1				T
-emyn-ring	Emyn Ring	Coldfells	Kalte Höhen	Emyn Ring			"55,61,70"	X	46	X				1	1	6				"The highlands west of the Misty Mountains and south of the Ettenmoors, separated from them by the northern branch of the river Bruinen.  In the Sindarin name, ""Emyn Ring"" is not attested, but its construction merits one note: ""Emyn"" is plural of ""Amon"" and means ""Hills"", or ""Fells"" very approximately; In Sindarin, the ""arity"" or ""count"" inflections of all words in a name must agree (be the same), so ""cold"" must be pluralized; ""Ring"" means cold in both the plural and singular since ""i"" does not vary between these singular and plural forms."
-khand	Khand	Khand	Khand				"14,23"	X	"9,18"	X				1	1	4
 imladnur	Imladnûr	Deeping Coomb	Klammtal	Imladnûr			"53,80"	X	47	X				1	1	6				"The deep, well-defended valley in the northern White Mountains that held Helm's Deep and the castle of the Hornburg. The site of an important battle, the Battle of the Hornburg, during the War of the Ring. The word coomb is a rare Brythonic survival word; meaning a small deep dry valley, easily defended. It gives its name to many places in the British Isles."
+imladris	Imladris	Rivendell	Bruchtal	Imladris	Fondcombe		"2,45"	X	36	X				1	1	5		X
+imloth-melui	Imloth Melui	Imloth Melui	Imloth Melui	Imloth Melui
+imrath-gondraich	Imrath Gondraich	Stonewain Valley	Steinkarrental	Imrath Gondraich	Vallée fardière		"32,66,76"	X	27	X				1	1	5
+iorost	Iorost	Aldburg	Altburg	Iorost			"46,71"	X	37	X			This is in the wrong place on the map http://www.glyphweb.com/ARDA/a/aldburg.html	1	1	5		X		"A fortified settlement in the Folde, south-east of Edoras."
+irensaga	Írensaga	Írensaga	Írensaga				"51,67"	X	41	RE			Írensaga needs an acute over the I.	1	1	6				"One of the White Mountains that looms over Harrowdale.  ""Iren"" means iron, which we could translate to ""Angren"" in Sindarin.  However, ""saga"" comes from Old English meaning ""saw"", for which we have no Sindarin equivalent, so the Tengwar for this location are are transliterated from ""Irensaga"" phonetically."
+ithilien	Ithilien	Ithilien	Ithilien	Ithilien			X	X	X	X				1	1				T
+ithilien-north-road		North Road of Ithilien
+ivy-bush		Ivy Bush												3	3
+khand	Khand	Khand	Khand				"14,23"	X	"9,18"	X				1	1	4
+kings-house					Maison des Rois
+kings-house					Maison du Roi
 lamedon	Lamedon	Lamedon	Lamedon				"33,"	X	"6,14"	X				1	1	3
-andlo	Andló	Long Marshes	Lange Sümpfe	Andló			"74,"	X	42	X				1	1	6				"The Long Marshes are only mentioned in the house of Beorn by name in The Hobbit. The marshes are mentioned as only ""the marshes about the Forest River"" when they are later encountered. They are hitherto only labeled on the ""Stardogg"" map, south of the Forest River."
-annen	Annen	Long Lake	Langer See	Annen	Long Lac		"74,82"	X	42	X				1	1	6
-andrath	Andrath	Long Road	Langer Straße	Andrath			"21,"	X	22	X			Not attested in text.  Need to relocate on maps for attestation.	1	1	5
-andeithel	Andeithel	Langwell	Langquell	Andeithel			"49,58"	X	39	X				1	1	5
-anfalas	Anfalas	Langstrand	Langstrand	Anfalas			"32,"	X	27	X				1	1	5
-bruinen	Bruinen	Loudwater	Lautwasser	Bruinen	Sonoronne		"45,58,"	X	37	X				1	1	5
+lanthir-rauros	Lanthir Rauros	Falls of Rauros	Fälle des Rauros	Lanthir Rauros	Chutes du Rauros		"34,"	X	27	X				1	1	5
 lebennin	Lebennin	Lebennin	Lebennin	Lebennin			"30,"	X	27	X				1	1	3
 lefnui	Lefnui	Lefnui	Lefnui	Lefnui			"73,76,"	X	27	X				1	1	5				"The westernmost river through the watershed of Lamedon.  Lefnui is the pronunciation and transliteration of the Elvish, but it is spelled as ""levnui"" in the Tengwar, presumably a hold-over from its pre-lenition spelling."
-limlich	Limlich	Limlight	Limklar		Limeclaire		"77,81"	X	36	X				1	1	5
-linhir	Linhir	Linhir	Linhir	Linhir			"27,"	X	24	X				1	1	5
-lond-daer	Lond Daer	Lond Daer	Lond Daer	Lond Daer Enedh			"4,26"	X	24	X				1	1	5				"A haven, established by the Númenoreans, for the purpose of shipping lumber."
-lossarnach	Lossarnach	Lossarnach	Lossarnach	Lossarnach			"29,76,"	X	25	X				1	1	5
-lothlorien	Lothlórien	Lothlórien	Lothlórien	Lothlórien	Bois d'Or		"42,"	X	34	X				1	1	5
 lhun	Lhûn	River Lune	Luhn		Lune		"5,11"	X	"7,16"	X			not placed on map in sindarin	1	1	4
-glanhir	Glanhír	Mering Stream	Mahrefluss	Glanhír			"48,"	X	39	X				1	1	5				"A tributary of the Entwash, through the uplands beneath Halifirien, through the Firien Wood."
+limlich	Limlich	Limlight	Limklar		Limeclaire		"77,81"	X	36	X				1	1	5
+lindon	Lindon	Lindon	Lindon	Lindon										Z	3					"The lands around the Blue Mountains and between the Blue Mountains and the sea, north and south of the Sea of Lhûn."
+linhir	Linhir	Linhir	Linhir	Linhir			"27,"	X	24	X				1	1	5
+lithlad	Lithlad	Ash Plain	Ebene der Aschen	Lithlad			"52,"	X	45	X				1	1	6				"A region of Mordor to the south of Ered Lithui, upon the outskirts of which the Tower of Barad-dûr stood."
+little-delving		Little Delving			Petite Cave			T		T				2	2
+lo	Lô	Midgewater	Mückenwassermoore	Lô			"20,"	X	21	X				1	1	5				"For lack of a word for ""midge"" or ""fly"" in Sindarin, the Midgewater's Tengwar label is simply ""Ló"", meaning swamp."
+lo-edrein	Lô Edrein	Fenmarch	Fenmark	Lô Edrein	Fenmarche		"48,58,65"	X	39	X				1	1	5
+lo-fern	Lô Fern	Dead Marshes	Ödmoore	Lô Fern	Marais des Morts		"34,"	X	"8,16"	X				1	1	4
+lockholes		Lockholes			Trous-prisons									Z	3
+loeg-ningloron	Loeg Ningloron	Resting place of the Ring	Ruheplatz des Rings	Loeg Ningloron			"43,67"	X	35	X				1	1	5		TODO		"In the Tengwar here, I've rendered ""oe"" as ""yanta"" with the ""o"" tehta in accordance with Måns Björkman's recommendation in a private email. It's my understanding that using a tengwa and tehta combination indicates a diphthong, but ""oe"" is not included in the list of Elvish diphthongs in the appendix of Return of the King."
+lond-daer	Lond Daer	Lond Daer	Lond Daer	Lond Daer Enedh			"4,26"	X	24	X				1	1	5				"A haven, established by the Númenoreans, for the purpose of shipping lumber."
+lond-umbar	Lond Umbar	Haven of Umbar	Hafen von Umbar	Lond Umbar	Havres d'Umbar		"35,"	X	29	X				1	1	5		X
+long-cleeve		Long Cleeve
+longbottom		Longbottom						T		T				2	2
+lorien-rhunen		East Lórien			Lórien orientale									Z	3				T
+lossarnach	Lossarnach	Lossarnach	Lossarnach	Lossarnach			"29,76,"	X	25	X				1	1	5
+lossir	Lossir	Snowbourn	Schneeborn	Lossir			"48,77"	X	39	X				1	1	5
+lothlorien	Lothlórien	Lothlórien	Lothlórien	Lothlórien	Bois d'Or		"42,"	X	34	X				1	1	5
+maegond							"41,"	X						Z	2	5				"Maegond is a non-cannon location, mentioned on the Lord of the Ring's Online map."
+mallenrond	Mallenrond	Golden Hall		Mallenrond										Z	3
+marish		Marish			Maresque			T		T				2	2
+mathom-house		Mathom-house
+mazarbul-chamber		Chamber of Mazarbul			Chambre de Mazarbul									Z	3
+meduseld		Meduseld
+men-annun		West Road			Route de l'Ouest			T	50	Cropped			This probably should be consolidated with menion-annui	3	3
+men-eryn-iaur	Men-i-Naugrim	Old Forest Road	Alter Nachtwaldweg	Men Eryn Iaur			"38,"	X	31	X				1	1	5
+men-harad	Men Harad	The Harad Road	Südstraße	Men Harad			"36,"	X	29	X				1	1	5
+men-rhun-annui	Men Rhún-annui	East/West Road	Ostweststraße	Men Rhún-annui			"21,75"	X	22	X				1	1	5
+menion-annui	Menion Annui	Great West Road	Große Weststraße	Menion Annui	Grande Route de l'Ouest		"47,76,"	X	38	X				1	1	5
+merethrond	Merethrond	Merethrond	Merethrond	Merethrond
 methedras	Methedras	Methedras	Methedras	Methedras			"14,"	X	18	X			The Tengwar label needs to be moved a little bit to the left	1	1	5				"The mountain of the Hithaegilr, standing over Isengard at the northern end of the Wizard's Vale."
+michel-delving		Michel Delving			Grand'Cave			T		T				2	2
+min-fern					Chemins des Morts			T		T				2	2
 min-rimmon	Min-Rimmon	Min-Rimmon	Min-Rimmon	Min-Rimmon	Min-Rimmon (Feu d'alarme)		"30,"	X	26	X				1	1	5		X		"The highest of a set of peaks in the White Mountains, called the Rimmon, on which the eponymous beacon stood."
 minas-morgul	Minas Morgul	Minas Morgul	Minas Morgul	Minas Ithil	Tour de la Sorcellerie		"26,"	X	42	X				1	1	6		X
 minas-tirith	Minas Tirith	Minas Tirith	Minas Tirith	Minas Anor	Tour de Garde		"25,"	X	42	X				1	1	6		TODO
 mindolluin	Mindolluin	Mindolluin	Mindolluin	Mindolluin			"30,"	X	26	X				1	1	5				"The easternmost mountain of the White Mountains, on the foot of which Minas Tirith stands."
 minhiriath	Minhiriath	Minhiriath	Minhiriath	Minhiriath			"3,11"	X	"6,13"	X				1	1	3
-ennorath	Ennorath	Middle-earth	Mittelerde	Ennorath	Terre du Milieu	Śródziemie	"60,"	X	"4,12"	X				1	1	0
+mirdain-house		House of the Mírdain												Z	3
+mithe		Mithe
+mitheithel	Mitheithel	River Hoarwell	Weißquell	Mitheithel	Fontgrise		"21,"	X	23	X				1	1	5
+mithlond	Mithlond	Grey Havens	Graue Anfurten	Mithlond	Havres Gris		"5,38"	X	32	X				1	1	5		X
+mithnen	Mithnen	Greylin	Grauquell	Mithnen			"49,"	X	40	X				1	1	5
+morannon	Morannon	Black Gate	Schwarzes Tor	Morannon	Porte Noire		"25,"	X	23	X				1	1	5		X
+morannon-desolation														Z	3
+mordor	Mordor	Mordor	Mordor	Mordor			"6,8,9,15,64,84"	X	"4,12"	X				1	1	1
+mordor-teeth		Teeth of Mordor			Dents du Mordor									Z	2
+morgai								T	50	X				3	3					"The ""inner ring of fences of the land"" of Mordor [RotK], a valley and ridge inside the Ephel Dúath."
+morgul
+morgulduin
 moria	Moria	Moria	Moria	Khazad-dûm			"36,"	X	"8,16"	X				1	1	4
+moria-walls		Walls of Moria
+morigost							"40,"	X						Z	2	5			T	Morigost is a non-cannon contribution included in the Lord of the Rings RPG map.
+mornorod	Mornorod	Dwimorberg	Dwimorberg	Mornorod			"51,"	X	43	X				1	1	6				"A peak of the White Mountains at the head of the valley of Harrowdale, through which the Paths of the Dead tunnel."
 morthond	Morthond	River Morthond	Morthond Fluss	Morthond			"35,"	X	"28,49"	X				1	1	5				"The river issuing from Erech and flowing into the Bay of Belfalas at the Elfhavens in Lamedon, Gondor. On the original maps, it is labeled by its Sindarin name, Morthond. The Chris Taylor map labels it by the English translation, Blackroot, a name mentioned in The Return of the King, and in the index thereof."
-lo	Lô	Midgewater	Mückenwassermoore	Lô			"20,"	X	21	X				1	1	5				"For lack of a word for ""midge"" or ""fly"" in Sindarin, the Midgewater's Tengwar label is simply ""Ló"", meaning swamp."
-ethir-anduin	Ethir Anduin	Mouths of Anduin	Mündungen des Anduin	Ethir Anduin	Bouches de l'Anduin		"34,"	X	27	X				1	1	5
-ethir-onodlo	Ethir Onodló	Mouths of Entwash	Mündungen des Entwash	Ethir Onodló	Bouches de l'Entalluve		"47,"	X	38	X				1	1	5
+mundburg-mounds		Mounds of Mundburg
+naith-bruinen	Naith	The Angle		Naith	L'Angle			T		T				Z	2					"A region between Hoarwell and Bruinen as they approach their meeting, south of the Trollshaws."
+naith-lorien	Egladil	The Gore	Gehren	Egladil	L'Angle									3	3
+nan-curunir				Nan Curunír										Z	3
+nanduhirion	Nanduhirion	Dimrill Dale	Schattenbach-Tal	Azanulbizar	Vallée des Rigoles sombres		"43,"	X	36	X				1	1	5
 narchost	Narchost	Narchost	Narchost	Narchost			"54,"	X	45	X				1	1	6				"The west tower of the Black Gate, the Morannon."
 nardol	Nardol	Nardol	Nardol	Nardol			"33,"	X	43	X				1	1	6
-hithaeglir	Hithaeglir	Misty Mountains	Nebelgebirge	Hithaeglir	Monts Brumeux		"10,21"	X	"7,15"	X				1	1	4
+near-harad		Near Harad	Nah-Harad						"5,15"	X			"Translate ""near"" to Sindarin (not obvious)"	1	1	3
+needlehole								T		T			Not in the Encyclopedia Arda	2	2	6		T	T	"A village of the Shire in the north of the Westfarthing, attested on the map of A Part of the Shire in The Fellowship of the Ring."
+nen-cenedril	Nen Cenedril	Mirrormere	Spiegelsee	Kheled-zâram			"52,68"	X	44	X				1	1	6
 nen-hithoel	Nen Hithoel	Nen Hithoel	Nen Hithoel	Nen Hithoel			"34,"	X	28	X				1	1	5				"A large lake along the Anduin, at the northern extent of Gondor, south of the Argonath. The 1994 updated second edition text has Celeborn mis-utter ""Nen Hithoe"" in ""Farwell to Lórien"" in ""The Fellowship of the Ring"", apparently accidentally omitting the final ""L""."
+nenuial	Nenuial	Lake Evendim	See Evendim	Nenuial	Lac Evendim		"2,20"	X	21	X				1	1	5
+new-row		New Row												Z	3
+newbury					Bourgneuf			T		T				2	2
 nimrodel	Nimrodel	River Nimrodel	Nimrodel Fluss	Nimrodel			"44,"	X	36	X				1	1	5
-fornost-erain	Fornost	Norbury	Norburg	Fornost Erain	Norchâteau des Rois		"3,16,49,"	X	19	X				1	1	5		X		"Kings' Norbury was became the capital of Arnor in their time of waning, after Elendil and Valandil, connected by road to its sister capital of Osgiliath in Gondor.  The name King's Norbury is mentioned once in the prefix of Lord of the Rings.  Fornost is mentioned frequently throughout the Lord of the Rings, the appendices of the Silmarillion, and the Unfinished Tales.  Fornost Erain is mentioned once in the Silmarillion and once in Return of the King as the full Sindarin name of the place."
-forithilien	Forithilien	North Ithilien	Nord Ithilien	Forithilien	Ithilien du Nord		"31,"	X	"6,14"	X				1	1	3
-forlindon	Forlindon	North Lindon	Nord Lindon	Forlindon			"38,"	X	31	X				1	1	5
-emyn-formen	Emyn Formen	North Downs	Nordhöhen	Emyn Formen	Hauts du Nord		"2,19,66"	X	20	X				1	1	5
-fortofn	Fortofn	North Undeep	Nördliche Untiefe	Fortofn			"56,69"	X	35	X				1	1	5
-forodwaith	Forodwaith	Northern Waste	Nördliche Wüste	Forodwaith	Désert du Nord		"6,8,9"	X	"4,12"	X				1	1	1
+nin-in-eilph	Nîn-in-Eilph	Swanfleet	Schwanenfleet	Nîn-in-Eilph	Noues des Cygnes		"20,24,66"	X	22	X				1	1	5				An inland delta between the approaches of the Glanduin and Gwathló.
+nindalf	Nindalf	Wetwang	Fennfeld	Nindalf	Platerrague		"34,"	X	"8,16"	X				1	1	4
+nobottle		Nobottle			Nobottle			T		T				2	2
+northfarthing		Northfarthing of the Shire			Quartier Nord de la Comté			T		T				2	2
 nurn	Nurn	Nurn	Nurn	Nurn			"60,"	X	"7,14"	X				1	1	3
-the-wold		The Wold	Ödland				"13,"	X	"9,17"	X		?	What does Öd mean literally? It's used in the German for Dead Marshes	1	1	4
-lo-fern	Lô Fern	Dead Marshes	Ödmoore	Lô Fern	Marais des Morts		"34,"	X	"8,16"	X				1	1	4
+nurnen	Núrnen	Sea of Nurn	Binnenmeer Núrnen	Núrnen	Mer de Nurn		"12,18"	X	"7,14"	X				1	1	3
+oatbarton		Oatbarton			Oatbarton			T		T				2	2
+old-mill		Old Mill
+onodlo	Onodló	Entwash	Entwasser	Onodló	Entalluve		"48,"	X	39	X				1	1	5
+orod-gram	Orod Gram	Mt. Gram	Berg Gram	Orod Gram	Mont Gram		"52,"	X	44	X			the sindarin label needs to be moved a little	1	1	6				"A mountain in north Eriador, once a goblin stronghold, mentioned in the Hobbit, known for its sportingly decapitated king, Gol-firnbul. Its exact location is unmentioned but the Encarda suggests that there is circumstantial evidence it was in the Misty Mountains. The Stardogg map places it at the end of the arm of the Hithaeglir extending above the Etenmoors."
+orod-rerir		Mt. Rerir			Mont Rerir									Z	3				T	"Mr. Rerir and Helevorn are a mountain and river of the Blue Mountains before the fall of Morgoth. The Stardogg map speculates that these locations existed in the remnants of Ered Luin, north of the Bay of Lhun."
+orodruin	Orodruin	Mount Doom	Schicksalsberg	Amon Amarth	Mont du Destin		"61,"	X	33	X				1	1	5		X
 orthanc	Orthanc	Orthanc	Orthanc	Orthanc	"Orthanc (""Esprit rusé"" ou ""Mont du Croc"")"		"52,"	X	44	X				1	1	6		X
+orthanc-pinnacle		Pinnacle of Orthanc
 osgiliath	Osgiliath	Osgiliath	Osgiliath	Osgiliath			"25,"	X	42	X				1	1	6
-cunmaeghed-rhunen	Cúnmaeghed Rhúnen	East Bight	Ostbucht	Cúnmaeghed Rhúnen	Brèche Est		"56,81"	X	31	X				1	1	5				A broad crescent-shaped region on the east side of southern Mirkwood from which men had heavily logged.
-men-rhun-annui	Men Rhún-annui	East/West Road	Ostweststraße	Men Rhún-annui			"21,75"	X	22	X				1	1	5
+ost-in-edhil	Ost-in-Edhil	Elventown	Elfstadt	Ost-in-Edhil			"51,"	X	"48,49"	X				1	1	6		X		"The ruined principle city of the elves of Eregion, Hollin, who had trade with the dwarves of Khazad-dûm and who had forged the rings of power at their height."
+overbourn-marshes		Overbourn Marshes			Marais de Sur la Rivière			T		T				2	2
+overhill		Overhill			Par-delà-la-Colline			T		T				2	2
+parth-celebrant	Parth Celebrant	Field of Celebrant	Feld von Celebrant	Parth Celebrant	Champ du Celebrant		"43,"	X	35	X				1	1	5
+parth-galen	Parth Galen	Greenfield	Grünfeld	Parth Galen			"55,"	X	45	X				1	1	6				"A green lawn above the falls of Rauros, at the foot of Amon Hen."
+party-field		Party Field					X	X	X	X				3	1	X	X	X	T
 pelargir	Pelargir	Pelargir	Pelargir	Pelargir			"26,28"	X	24	X				1	1	5		X
 pelennor	Pelennor	Pelennor	Pelennor	Pelennor	Champs du Pelennor		"32,"	X	26	X				1	1	5		TODO
-cil-rohan	Cîl Rohan	Gap of Rohan	Pforte von Rohan	Cîl Rohan	Trouée du Rohan		"47,75"	X	38	X				1	1	5
+pend-dimrill					Escalier des Rigoles Sombres			T		T				2	1
+pendlanthir	Pendlanthir	Stair Falls	Treppen-Wasserfall	Pendlanthir			"54,"	X	45	X				1	1	6		RE	RE	"A series of falls in the Sirannon, as the river emanates from the lake at the west gate of Moria.  The Sirannon is a tributary of the Glanduin, and in turn, the Greyflood."
+penduireb	Penduireb	Endless Stair		Penduireb										Z	3				T	"The endless stair extends from the waters beneath Moria up to Durin's Tower atop Celebdil. In Gandalf's account in The Two Towers, he pursues the Balrog up this stair, and it is implied that the Dwarves had long forgotten its entrance."
+perth-ninglor	Perth Ninglor	Gladden Fields	Schwertelfelder	Perth Ninglor	Champs d'Iris		"74,"	X	40	X				1	1	5
+pincup		Pincup			Pincup			T		T				2	2
+pindungol	Pindungol	Stairs of Cirith Ungol		Pindungol	Escaliers de Cirith Ungol									3	3
 pinnath-gelin	Pinnath Gelin	Pinnath Gelin	Pinnath Gelin	Pinnath Gelin			"28,"	X	25	X				1	1	5
 poros	Poros	Poros	Poros	Poros			"35,"	X	28	X				1	1	5
-amon-craban	Amon Craban	Ravenhill	Rabenberg	Amon Craban			"55,"	X	41	X				1	1	6		T		A hill overlooking the river running on Erebor.
+prancing-pony		Prancing Pony			Poney Fringant									3	3
+rammas-echor	Rammas Echor	Rammas Echor	Rammas Echor
 ras-morthil	Ras Morthil	Ras Morthil	Ras Morthil	Ras Morthil			82	X	50	X				1	1	6				"The southernmost mountain of the White Mountains, on the peninsula of Andrast, west of Gondor."
+rath-celerdain	Rath Celerdain	Lampwrights' Street			Rue des Lanterniers									Z	3
+rath-harad	Rath Harad	South Lane		Rath Harad
+rath-harad-iaur	Rath Harad Iaur	Old South Road	Südstraße	Rath Harad Iaur	Vieille Route du Sud		"20,25"	X	22	X				1	1	5
+rath-morgul
+reunited-kingdom		Reunited Kingdom			Royaume réunifié									Z	3
+rhimdath	Rhimdath	Rushdown		Rhibdath				T		T			citation needed	2	2					"A tributary of Anduin, not marked on the original maps or mentioned in The Lord of the Rings, The Hobbit, The Silmarillion, or Unfinished Tales, but is marked in the Stardogg map.  Articles on Wikipedia and WordIQ http://www.wordiq.com/definition/Rhimdath hint that it is mentioned in other works."
 rhosgobel	Rhosgobel	Rhosgobel	Rhosgobel	Rhosgobel			"72,"	X	23	X				1	1	5		X		"The settlement of Radagas the Brown. The exact position of Rhosgobel is not attested on any map, and conflicting texts place it either opposite the East Bight, or nearer the Old Forest Road [Encarda].  In an account by Gandalf in The Fellowship of the Ring, Rhosgobel is placed ""near the borders of Mirkwood"".  Scouts sent by Elrond passed through Rhosgobel near the Gladden Fields returning by way of the Dimrill Stair, above Moria. A passage in the Unfinished Tales appears to mis-quote The Fellowship of the Ring, placing Rhosgobel, ""in the forest between the Carrock and the Old Forest Road.""  It is possible that The Fellowship of the Ring was revised after the publication of Unfinished Tales to reconcile the reports of the scouts and Gandalf."
+rhovanion	Rhovanion	Wilderland	Wilderland	Rhovanion	Pays Sauvage		"6,8,84"	X	"4,12"	X				1	1	1
 rhudaur	Rhudaur	Rhudaur	Rhudaur	Rhudaur			"10,"	X	"5,12"	X				1	1	3
-rhun	Rhûn	Rhûn	Rhûn	Rhûn			"6,8"	X	"4,12"	X				1	1	1
+rhun	Rhûn	Rhûn	Rhûn	Rhûn			"6,8"	RE	"4,12"	X			Rescan	1	1	1
 rhunaer	Rhúnaer	Sea of Rhûn	Rhûn-Meer	Rhúnaer	Mer de Rhûn		"46,"	X	37	X				1	1	5
 ringlo	Ringlo	River Ringlo	Ringlo Fluss	Ringlo			"35,"	X	28	X				1	1	5
-calenardhon	Calenardhon	The Mark	Rohan	Calenardhon		Rohan	"6,8,9,12"	X	"4,12"	X				1	1	2
-caradhras	Caradhras	Redhorn	Rothorn	Barazinbar	Rubicorne		"15,65,"	X	18	X				1	1	5
-annon-caradhras	Annon Caradhras	Redhorn Gate	Rothornpass	Annon Caradhras			"74,"	X	47	X				1	1	6		T
-carnen	Carnen	Redwater	Rotwasser	Carnen			"46,"	X	37	X				1	1	5
-loeg-ningloron	Loeg Ningloron	Resting place of the Ring	Ruheplatz des Rings	Loeg Ningloron			"43,67"	X	35	X				1	1	5		TODO		"In the Tengwar here, I've rendered ""oe"" as ""yanta"" with the ""o"" tehta in accordance with Måns Björkman's recommendation in a private email. It's my understanding that using a tengwa and tehta combination indicates a diphthong, but ""oe"" is not included in the list of Elvish diphthongs in the appendix of Return of the King."
+rohan-wall-east														Z	3
+rohan-wet-march														3	3
+rudhras	Rudhras	Starkhorn	Starkhorn	Rudhras			"50,67,78"	X	41	X				1	1	6				"A peak in the White Mountains from which the Snowbourn issues, a tributary of the Entwash that passes through Edoras and Upbourn."
+rushey								T		T				2	2					"Rushey is mentioned in the text of The Fellowship of the Ring and in The Adventures of Tom Bombadil.  It however appears as ""Rushy"" in the Map of a Part of the Shire in The Fellowship of the Ring."
+rushock-bog					Marais de Rushock			T		T				2	2
+sammath-naur	Sammath Naur	Cracks of Doom		Sammath Naur
+sarn-durin		Durin's Stone												3	3
 sarn-gebir	Sarn Gebir	Sarn Gebir	Sarn Gebir	Sarn Gebir			"53,72"	X	46	X				1	1	6				A hilly area just west of the Falls of Rauros on the river Anduin.
 sarnathrad	Sarnathrad	Sarnathrad	Sarnathrad	Sarn Athrad	Sarn Ford (Gué de Pierre)		"4,16,24,72"	X	19	X				1	1	5		X
-nanduhirion	Nanduhirion	Dimrill Dale	Schattenbach-Tal	Azanulbizar	Vallée des Rigoles sombres		"43,"	X	36	X				1	1	5
-orodruin	Orodruin	Mount Doom	Schicksalsberg	Amon Amarth	Mont du Destin		"61,"	X	33	X				1	1	5		X
-lossir	Lossir	Snowbourn	Schneeborn	Lossir			"48,77"	X	39	X				1	1	5
-nin-in-eilph	Nîn-in-Eilph	Swanfleet	Schwanenfleet	Nîn-in-Eilph	Noues des Cygnes		"20,24,66"	X	22	X				1	1	5				An inland delta between the approaches of the Glanduin and Gwathló.
-morannon	Morannon	Black Gate	Schwarzes Tor	Morannon	Porte Noire		"25,"	X	23	X				1	1	5		X
-perth-ninglor	Perth Ninglor	Gladden Fields	Schwertelfelder	Perth Ninglor	Champs d'Iris		"74,"	X	40	X				1	1	5
-sir-ninglor	Sîr Ninglor	River Gladden	Schwertelfluss	Sîr Ninglor	Rivière aux Iris		"45,"	X	36	X				1	1	5
-nenuial	Nenuial	Lake Evendim	See Evendim	Nenuial	Lac Evendim		"2,20"	X	21	X				1	1	5
-esgaroth	Esgaroth	Lake Town	Seestadt		Lacville		"42,"	X	34	X				1	1	5		X		"A stilted town on the Long Lake, in Wilderland, south of Erebor, where Bilbo and the Dwarves visit on the last leg of their quest for Smaug's treasure."
+scary		Scary			Scary			T		T				2	2
+scary-quary								T		T				2	2
+second-hall		Second Hall
 serni	Serni	River Serni	Serni Fluss				"35,70"	X	28	X				1	1	5				"The Stardogg map incorrectly labels this river as ""Sernui""."
-celebrant	Celebrant	Silverlode	Silberlauf	Kibil-nâla			"44,43,"	X	35	X				1	1	5
-celebdil	Celebdil	Silvertine	Silberzinne	Zirakzigil	Corne d'Argent		"15,"	X	19	X				1	1	5				"Westernmost of the three peaks above Moria, where Gandalf slew the Balrog, and on which Durin's Tower rests"
+shirebourn	Shirebourn	River Shirebourn	Auenlandstrom Fluss		Rivière de la Comté			T		T			Merely Shirebourn in Encyclopedia Arda	2	2
+sir-celos	Celos	River Celos	Celos Fluss	Celos			"61,"	X	28	X				1	1	5
+sir-ninglor	Sîr Ninglor	River Gladden	Schwertelfluss	Sîr Ninglor	Rivière aux Iris		"45,"	X	36	X				1	1	5
 sirith	Sirith	Sirith	Sirith	Sirith			"35,72"	X	29	X				1	1	5
-nen-cenedril	Nen Cenedril	Mirrormere	Spiegelsee	Kheled-zâram			"52,68"	X	44	X				1	1	6
-cirith-ungol	Cirith Ungol	The Spider's Pass	Spinnenpass	Cirith Dúath			"40,"	X	33	X				1	1	5
-rudhras	Rudhras	Starkhorn	Starkhorn	Rudhras			"50,67,78"	X	41	X				1	1	6				"A peak in the White Mountains from which the Snowbourn issues, a tributary of the Entwash that passes through Edoras and Upbourn."
-imrath-gondraich	Imrath Gondraich	Stonewain Valley	Steinkarrental	Imrath Gondraich	Vallée fardière		"32,66,76"	X	27	X				1	1	5
-harithilien	Harithilien	South Ithilien	Süd-Ithilien	Harithilien	Ithilien du Sud		"31,"	X	"6,14"	X				1	1	3
-harlindon	Harlindon	South Lindon	Süd-Lindon	Harlindon			"38,"	X	31	X				1	1	5
-harondor	Harondor	South Gondor	Südgondor	Harondor	Gondor du Sud		"31,"	X	"6,14"	X				1	1	3
-emyn-harad	Emyn Harad	South Downs	Südhöhen	Emyn Harad	Hauts du Sud		"19,71"	X	20	X				1	1	5
-haradwaith	Haradwaith	Sutherland	Südland	Haradwaith			"6,8,18"	X	"4,12"	X				1	1	1
-hartofn	Hartofn	South Undeep	Südliche Untiefe	Hartofn			"56,69"	X	35	X				1	1	5
-men-harad	Men Harad	The Harad Road	Südstraße	Men Harad			"36,"	X	29	X				1	1	5
-rath-harad-iaur	Rath Harad Iaur	Old South Road	Südstraße	Rath Harad Iaur	Vieille Route du Sud		"20,25"	X	22	X				1	1	5
-imlad	Imlad	Dale	Tal	Imlad	Dale		"42,"	X	34	X				1	1	5		X
-anduin-vale	Imlaid Anduin	Vales of Anduin	Tal des Anduin	Imlad Anduin			X	X	X	X				1	1		X		T	A vague region defined by the valley or valleys cut by the river Anduin.
-achad-tarlang	Achad Tarlang	Tarlang's Neck	Tarlangs Hals	Achad Tarlang	Col de Tarlang		"51,65"	X	43	X				1	1	6
-tharbad	Tharbad	Tharbad	Tharbad				"4,17"	X	20	X				1	1	5
-tolfalas	Tolfalas	Tolfalas	Tolfalas	Tolfalas			"29,"	X	25	X				1	1	5
-ennyn-moria	Ennyn Moria	Hollin Gate	Tor von Moria	Ennyn Moria	Porte de la Moria		"40,73,"	X	33	X				1	1	5
-pendlanthir	Pendlanthir	Stair Falls	Treppen-Wasserfall	Pendlanthir			"54,"	X	45	X				1	1	6		RE	RE	"A series of falls in the Sirannon, as the river emanates from the lake at the west gate of Moria.  The Sirannon is a tributary of the Glanduin, and in turn, the Greyflood."
-eryn-teryg	Eryn Teryg	Trollshaws	Trollhöhen	Eryn Teryg	Fourré aux Trolls		"17,"	X	20	X			"citation needed for ""beech trees"""	1	1	5				"The Trollshaws, wherein Bilbo met the trolls in The Hobbit, are a forest comprised of beech trees [citation needed]."
-emyn-beraid	Emyn Beraid	Tower Hills	Turmberge	Emyn Beraid	Collines des Tours	Wzgórza Wieżowe	"2,18,65"	X	20	X				1	1	5				"Hills in the west of Arnor on which Elendil built great towers, including Elostirion, in which one of the Palantiri was housed until the end of the Third Age.  The eastern slopes of the Tower Hills became the westernmost extent of The Shire when King Aragorn added the Westmarch to The Shire as mentioned in the Prologue and the Index of The Lord of the Rings.  A Hobbit settlement was then established in the foothills, called Undertowers."
-udun	Udûn	Udûn	Udûn-Tal				"53,12"	X	"8,16"	X				1	1	4
-umbar	Umbar	Umbar	Umbar				"36,"	X	29	X				1	1	5
-ardhon-iaur-arnor	Ardhon Iaur Arnor	Lost Realm of Arnor	Verlorenes Reich von Arnor	Ardhon Iaur Arnor			"2,11,71"	X	"5,13"	X				1	1	2
-talf-tharn	Talf Tharn	Withered Heath	Verwitterte Heide	Talf Tharn	Brande desséchée		"43,"	X	"8,16"	X				1	1	4
-annon-eryn	Annon Eryn	Forest Gate	Waldeingang	Annon Eryn			"62,"	X	48	X				1	1	6
-gwaith-thranduil	Gwaith Thranduil	Wood Elves	Waldelben	Galadhrim	Elfes Sylvains / Royaume de Thranduil		"37,57,68"	X	31	X				1	1	5		X
-erynduin	Erynduin	Forest River	Waldfluss	Erynduin		Rzeka Leśna	"63,"	X	48	X				1	1	6
-erynrath	Erynrath	Forest Path	Waldweg	Erynrath			"62,80"	X	48	X				1	1	6
-dagorlad	Dagorlad	Battle Plain	Walstatt	Dagorlad			"31.,"	X	26	X				1	1	5
-ered-nimrais	Ered Nimrais	White Mountains	Weißen Berge	Ered Nimrais	Montagnes Blanches	Góry Białe	"11,"	X	"7,15"	X				1	1	4
-mitheithel	Mitheithel	River Hoarwell	Weißquell	Mitheithel	Fontgrise		"21,"	X	23	X				1	1	5
-emyn-haeron	Emyn Haeron	Far Downs	Weite Höhen	Emyn Haeron	Hauts Reculés		"2,18,65"	X	20	X				1	1	5
-emyn-nim	Emyn Nim	White Downs	Weite Höhen	Emyn Nim	Hauts Blancs		"37,67"	X	30	X				1	1	5
-emyn-sul	Emyn Sûl	Weather Hills	Wetterhügel	Emyn Sûl			"3,19,24,70"	X	"21,32"	X				1	1	5
-amon-sul	Amon Sûl	Weathertop	Wetterspitze	Amon Sûl	Mont Venteux		"17,24,72"	X	20	X				1	1	5		X
-fanuidhol	Fanuidhol	Cloudyhead	Wolkenkopf	Bundushathûr	Tête Couverte		"16,"	X	19	X				1	1	5				"Fanuidhol is the easternmost of the three Mountains of Moria, climbing from the north-east shore of the Mirrormere."
-tol-brandir	Tol Brandir	Tindrock	Zinnenfels	Tol Brandir			"62,"	X	"42,49"	X				1	1	6
-henneth-annun	Henneth Annûn	Henneth Annûn	Henneth Annûn	Henneth Annûn	Fenêtre sur l'Ouest		82	X	50	X				2	1
-withy-path		Withy-path					X	X	X	X				2	1	X	X	X	T
-hallows-of-minas-tirith							X	X	X	X				2	1		X		T
-harlond-gondor							"27,"	X	23	X				2	1	5		TODO		The port of Minas Tirith on Anduin.
-bamfurlong		Bamfurlong			La Haricotière			X					May be too fine to map	3	3	6			T	"The field of Farmer Maggot, in the Marish in the East Farthing of the Shire."
-party-field		Party Field					X	X	X	X				3	1	X	X	X	T
-maegond							"41,"	X						Z	2	5				"Maegond is a non-cannon location, mentioned on the Lord of the Ring's Online map."
-morigost							"40,"	X						Z	2	5			T	Morigost is a non-cannon contribution included in the Lord of the Rings RPG map.
-							X	X	X	X				Z	3		X	X	T
-							X	X	X	X				Z	3		X		T
-near-harad		Near Harad	Nah-Harad						"5,15"	X			"Translate ""near"" to Sindarin (not obvious)"	1	1	3
-caras-corsairs	Caras Mírgiryn	City of Corsairs	Piratenstadt		Cité des Corsaires	Miasto Korsarzy			29	X			"Conjugate ""nor/ner"" (run) as (runner), the root of Corsair"	1	1	5
-athrad-carag	Athrad Carag	Ford of Carrock	Carrockfurt	Athrad Carag										3	3
-din	Dîn	Dîn	Dîn	Dîn										3	3
-framsburg		Framsburg	Framsburg											3	3
-naith-lorien	Egladil	The Gore	Gehren	Egladil	L'Angle									3	3
-annon-erebor	Annon Erebor	Front Gate		Annon Erebor										3	3
-archet		Archet			Archet									3	3
-arnor-tower		Tower of Anor												3
-bonfire-glade		Bonfire Glade											"Might be too fine a detail to map, but would be on the way from Crickhollow, north of the Withywindle."	3	2					"A clearing in the Old Forest, near the Shire, where the Hobbits had made a pyre of the willows that had encroached on Buckland.  Bilbo and his friends found the Bonfire Glade in their flight from the Shire in The Fellowship of the Ring, placing the Glade north of the Withywindle and east of Crickhollow."
-combe		Combe			Combe									3	3
-cormallen-field		Field of Cormallen			Champ de Cormallen									3	3
-cross-roads		Cross-roads			Croisée des Chemins									3	3				T
-eryn-mithrin	Eryn Mithrin	Grey Wood		Eryn Mithrin										3	3					"The Grey Wood appears on the Map of Gondor in the back of The Return of the King, the easternmost tip of the Druadan forest.  In The Return of the King, Théoden's company emerges from the Grey Wood ""under Amon Dîn"" led by the Wild Men, hearing drums in the hills.  The Grey Wood appears both as a capitalized proper name and an uncapitalized description."
-ethir		Ethir		Ethir										3	3
-firienfeld		Firienfeld												3	3
-floating-log		Floating Log												3	3
-forochel-cape														3	3
-forochel-cape					Cap de Forochel									3	3
-gamwich		Gamwich												3	3
-golden-perch		Golden Perch												3	3
-gore														3	3
-green-dragon		Green Dragon			Dragon Vert									3	3
-hornburg		Hornburg			Fort le Cor									3	3
-ivy-bush		Ivy Bush												3	3
-pindungol	Pindungol	Stairs of Cirith Ungol		Pindungol	Escaliers de Cirith Ungol									3	3
-prancing-pony		Prancing Pony			Poney Fringant									3	3
-rohan-wet-march														3	3
-sarn-durin		Durin's Stone												3	3
 smaug-desolation					Désolation de Smaug / Désolation du Dragon									3	3
+snowmane-howe		Snowmane's Howe
+southfarthing		Southfarthing of the Shire			Quartier Sud de la Comté			T		T				2	2
+southward-road		Southward Road
+staddle		Staddle						T		T				2	2
+standelf		Standelf			Standelf			T		T				2	2
+stock		Stock			Stock			T		T				2	2
+stock-road		Stock Road						T		T				2	2
+stockbrook								T		T			Stockbrook in Encyclopedia Arda	2	2
+straight-stair		Straight Stair
+talf-tharn	Talf Tharn	Withered Heath	Verwitterte Heide	Talf Tharn	Brande desséchée		"43,"	X	"8,16"	X				1	1	4
+tharbad	Tharbad	Tharbad	Tharbad				"4,17"	X	20	X				1	1	5
+the-hill		The Hill			La Colline			T		T				2	2
+the-pool		The Pool			L'Étang			T		T				2	2
+the-river		The River			La Rivière			T		T				2	2
+the-water		The Water			L'Eau			T		T				2	2
+the-wold		The Wold	Ödland				"13,"	X	"9,17"	X		?	What does Öd mean literally? It's used in the German for Dead Marshes	1	1	4
+the-yale								T		T				2	2
+thihyme
+thistle-brook		Thistle Brook			Ruisseau aux Chardons			T		T				2	2
 thranduilrynd	Thranduilrynd			Thranduilrynd										3	3
-wellinghall		Wellinghall												3	3
-annon-thol	Annon Thol	Helm’s Gate		Annon Thol										4	3
-deeping		Deeping												4	4
-deeping-road		Deeping-road												4	4
-deeping-stream		Deeping-stream												4	4
-deeping-wall		Deeping Wall												4	4
-helms-dike		Helm’s Dike												4	3
-fen-hollen	Fen Hollen	Fen Hollen	Fen Hollen	Fen Chollen										Z	3
-lindon	Lindon	Lindon	Lindon	Lindon										Z	3					"The lands around the Blue Mountains and between the Blue Mountains and the sea, north and south of the Sea of Lhûn."
+three-farthing-stone		Three-Farthing Stone			Pierre des Trois Quartiers			T		T				2	2
+tighfield		Tighfield			Champtoron			T		T				2	2
+tol-brandir	Tol Brandir	Tindrock	Zinnenfels	Tol Brandir			"62,"	X	"42,49"	X				1	1	6
+tolfalas	Tolfalas	Tolfalas	Tolfalas	Tolfalas			"29,"	X	25	X				1	1	5
+tongue-lorien		The Tongue																		"The end of the Angle of Lórien, Egladil, where a shining green lawn rests in the triangle between the Celebrant, Anduin, and a high, green wall through which one can enter or depart from Lothlórien. The tongue has more than one hythe, or small havens along the bank of Celebrant where Elvish boats are moored."
+tookbank		Tookbank			Coteau de Touque			T		T				2	2
+tookland		Tookland			Pays de Touque			T		T				2	2
 torech-ungol	Torech Ungol	Shelob’s Lair	Torech Ungol											Z	3
-annon-angrenost	Annon Angrenost	Gate of Isengard		Annon Angrenost										Z	3
-barion	Barion	Great House		Barion										Z	3					The house of the Master of Laketown.
-beraid-gondor	Beraid Gondor	Towers of Gondor		Beraid Gondor										Z
-bree-hill		Bree-hill												Z	3
-bree-inn		Inn of Bree												Z	3
-cracks-of-doom					Crevasses du Destin									Z	3				T
-dark-door		Dark Door			Porte des Morts									Z	3
-dead-houses		Houses of the Dead			Maisons des Morts									Z	3
-dol-cirith-ungol		Tower of Cirith Ungol			Tour de Cirith Ungol									Z	3
-duriniant	Duriniant	Durin’s Bridge		Duriniant										Z	3				T
-east-mark		East-mark												Z	3
-echor-angrenost	Echor Angrenost	Ring of Isengard		Echor Angrenost										Z	3
-ecthelion		Tower of Ecthelion			Tour d'Ecthelion									Z	3
-elf-havens		Elf-havens												Z						"Mithlond and Edhellond, the havens from which Elves departed from Middle-earth."
-ent-houses		Ent-houses												Z
-eothed														Z	3
-firien-dale		Firien-dale												Z	3
-first-hall		First Hall												Z
-forsaken-inn		Forsaken Inn												Z	3
-goblin-town		Goblin-town			Gobelinville									Z	3
-gondor-beacons		Beacons of Gondor			Feux d'alarme de Gondor									Z	2				T
-gondor-citadel		Citadel of Gondor			Citadelle de Gondor									Z	3				T
-great-smials		Great Smials												Z	3
-hall-of-fire		Hall of Fire			Salle du Feu									Z	3
-haudh-elendil					Tombe d'Elendil									Z	3
-healing-houses		Houses of Healing			Maisons de Guérison									Z	3
-hornrock		Hornrock												Z	4
-imlad-morgul	Imlad Morgul	Morgul Vale		Morgul	Vallée de Morgul									Z	3
-imlad-morgul	Imlad Morgul	Morgul Vale		Morgul										Z	2
-imlad-morthond	Imlad Morthond	Blackroot Vale		Imlad Morthond										Z	3
-imlad-onodlo		Entwash Vale			Vallée de l'Entalluve									Z	3
-imlad-ringlo	Imlad Ringló	Ringló Vale		Imlad Ringló										Z	3
-lockholes		Lockholes			Trous-prisons									Z	3
-lorien-rhunen		East Lórien			Lórien orientale									Z	3				T
-mallenrond	Mallenrond	Golden Hall		Mallenrond										Z	3
-mazarbul-chamber		Chamber of Mazarbul			Chambre de Mazarbul									Z	3
-mirdain-house		House of the Mírdain												Z	3
-morannon-desolation														Z	3
-mordor-teeth		Teeth of Mordor			Dents du Mordor									Z	2
-nan-curunir				Nan Curunír										Z	3
-new-row		New Row												Z	3
-orod-rerir		Mt. Rerir			Mont Rerir									Z	3				T	"Mr. Rerir and Helevorn are a mountain and river of the Blue Mountains before the fall of Morgoth. The Stardogg map speculates that these locations existed in the remnants of Ered Luin, north of the Bay of Lhun."
-penduireb	Penduireb	Endless Stair		Penduireb										Z	3				T	"The endless stair extends from the waters beneath Moria up to Durin's Tower atop Celebdil. In Gandalf's account in The Two Towers, he pursues the Balrog up this stair, and it is implied that the Dwarves had long forgotten its entrance."
-rath-celerdain	Rath Celerdain	Lampwrights' Street			Rue des Lanterniers									Z	3
-reunited-kingdom		Reunited Kingdom			Royaume réunifié									Z	3
-rohan-wall-east														Z	3
+torobrannor	Torobrannor	Ettenmoors	Ettenöden	Onobrannor	Landes d'Etten		"56,81"	X	37	X				1	1	5
+tuckborough		Tuckborough			Bourg de Touque			T		T				2	2
+tumladen-gondor		Tumladen
 two-kingdoms		Two Kingdoms												Z	3
 tyfn	Tyfn	Undeeps		Tyfn										Z	2				T
-west-mark		West-mark												Z	3
-wilderland-edge		Edge of the Wild												Z	3
-amon-fangorn	Amon Fangorn	Treebeard's Hill	Baumbartshügel	Amon Fangorn
-imloth-melui	Imloth Melui	Imloth Melui	Imloth Melui	Imloth Melui
-merethrond	Merethrond	Merethrond	Merethrond	Merethrond
-rammas-echor	Rammas Echor	Rammas Echor	Rammas Echor
-bree-west-gate		West-gate of Bree
-cirith-anach	Cirith Anach	Pass of Anach		Cirith Anach
-egladil
-elendil-mound		Mound of Elendil
-forannon	Forannon	North Gate		Forannon
-forest-narrows		Narrows of the Forest
-imlad-morthond	Imlad Morthond	Blackroot Vale		Imlad Morthond
-ithilien-north-road		North Road of Ithilien
-kings-house					Maison des Rois
-kings-house					Maison du Roi
-long-cleeve		Long Cleeve
-mathom-house		Mathom-house
-meduseld		Meduseld
-mithe		Mithe
-morgul
-moria-walls		Walls of Moria
-mundburg-mounds		Mounds of Mundburg
-old-mill		Old Mill
-orthanc-pinnacle		Pinnacle of Orthanc
-rath-harad	Rath Harad	South Lane		Rath Harad
-rath-morgul
-sammath-naur	Sammath Naur	Cracks of Doom		Sammath Naur
-second-hall		Second Hall
-snowmane-howe		Snowmane's Howe
-southward-road		Southward Road
-straight-stair		Straight Stair
-thihyme
-tongue-lorien		The Tongue																		"The end of the Angle of Lórien, Egladil, where a shining green lawn rests in the triangle between the Celebrant, Anduin, and a high, green wall through which one can enter or depart from Lothlórien. The tongue has more than one hythe, or small havens along the bank of Celebrant where Elvish boats are moored."
-tumladen-gondor		Tumladen
+tyrn-gorthad	Tyrn Gorthad	Barrow-downs	Hühelgräberhöhen		Hauts des Galgals		"19,81"	X	21	X				1	1	5				"The Barrow Downs are one of many burial locations for the men of Arnor in Eriador. Barrow Downs is an example of Tolkien's device where he pairs archaic, synonymous words in compounds (as in ""carrock"" and ""chetwood"").  ""Barrow"" and ""down"" both mean ""hill""."
+udun	Udûn	Udûn	Udûn-Tal				"53,12"	X	"8,16"	X				1	1	4
+umbar	Umbar	Umbar	Umbar				"36,"	X	29	X				1	1	5
+underharrow		Underharrow						T		T				2	2	6		T		"A hamlet on the banks of the Snowbourn in the valley of Harrowdale, through which Théoden's company passed on the way to Gondor in The Return of the King."
+underharrow		Underharrow						T		T				2	2
+underhill		Underhill	Dorf					T		T				2	2
+undertowers		Undertowers						T		T				2	2
+upbourn		Upbourn	Hochborn					T	43	X				2	2	6		X		"A hamlet on the banks of the Snowbourn in the valley of Harrowdale, through which Théoden's company passed on the way to Gondor in The Return of the King."
 watchwood		Watchwood
+waymeet		Waymoot	Wegscheid		Le Carrefour			T		T				2	2					"Where the East-west road meets the southerly road through Sarn Ford and Longbottom, in the Westfarthing of the Shire.  Waymeet is mentioned several times in the text of Return of the King, pertaining to events in the Scouring of the Shire, but it is labeled Waymoot on the map of A Part of the Shire in The Fellowship of the Ring."
+wellinghall		Wellinghall												3	3
+west-mark		West-mark												Z	3
+westfarthing		Westfarthing of the Shire			Quartier Ouest de la Comté			T		T				2	2
+westmarch-shire		Westmarch of the Shire						T		T				2	2
+whitfurrows								T		T			Not in the Encyclopedia Arda	2	2	6		T
+whitwell		Whitwell			Blanche Source			T		T				2	2
+wilderland-edge		Edge of the Wild												Z	3
+willowbottom		Willowbottom			Le Creux aux Saules			T		T				2	2
+withy-path		Withy-path					X	X	X	X				2	1	X	X	X	T
+withywindle		Withywindle	Weidenwinde		Tournesaules			T		T				2	2
+withywindle		Withywindle	Weidenwinde		Tournesaules			T	48	X				2	2					"The river winding through the Old Forest, on which Old Man Willow and Tom Bombadil reside."
+woodhall		Woodhall			Castelbois			T		T				2	2
+woody-end		Woody End			Le Bout des Bois			T		T				2	2
+							X	X	X	X				Z	3		X	X	T
+							X	X	X	X				Z	3		X		T

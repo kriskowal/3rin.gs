@@ -50,8 +50,8 @@ def links():
     links = list(
         Link(
             canonical = entry['Canonical'],
-            mappable = entry['Mappable'] == '1',
-            mapped = entry['Mapped'] == '1',
+            #mappable = entry['Mappable'] == '1',
+            #mapped = entry['Mapped'] == '1',
             names = entry['Names'].split(u" / "),
             description = entry['Description'],
             href = entry['Link'],

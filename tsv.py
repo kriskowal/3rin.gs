@@ -139,7 +139,7 @@ def format(table):
             )
             for row in table
         )
-    ).encode("utf-8")
+    )
 
 if __name__ == '__main__':
     from doctest import testmod

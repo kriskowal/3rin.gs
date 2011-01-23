@@ -9,6 +9,14 @@ def names():
         entry.append(dict(line))
     return entires
 
+def names_to_canonicals():
+    return dict(names_to_canonicals_iter())
+
+def names_to_canonicals_iter():
+    for canonical, _names in names().items():
+        for name in _names:
+            yield name["Name"], canonical
+
 def main():
     import sys
     from pprint import pprint

@@ -95,12 +95,12 @@ def language_html(language):
         ),
         language["Name"],
         (
-            "<em>(%s)</em>" % language["Meaning"]
+            "<em>(%s)</em>" % language["English Meaning"]
             if
-                language["Meaning"] and
+                language["English Meaning"] and
                 not language["Construction"] and
                 not any(
-                    language["Meaning"].lower() == other["Name"].lower()
+                    language["English Meaning"].lower() == other["Name"].lower()
                     for other in names[language["Canonical"]]
                 )
             else ""

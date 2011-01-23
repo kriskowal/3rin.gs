@@ -2,6 +2,34 @@
 TODO
 ----
 
+* elvish prints
+  * rescan top-tier labels for higher resolution
+  * create a store-front
+* fresh tile set
+  * empty the todo list in "Locations" for English
+
+* create thumbnails for all regions for embedding in tolkien gateway
+* german labels
+* geographically contoured labels
+* create a layer that incorporates the art of various artists
+* consider putting articles alongside relevant locations, with bounding boxes
+  or boundary graphics
+
+* integrate Tuckborough reference
+  * add links to articles to "Links"
+    * create equivalence classes for names
+  * compare synonyms to known synonyms
+    * find missing names for known locations
+  * add links to Tuckborough articles
+
+* story tours
+  * the hobbit tour
+  * lord of the rings tour
+    * fotr tour
+    * ttt tour
+    * rotk tour
+
+* make the "close" link in pop-up articles more obvious
 * double-click to zoom
 * keyboard zoom and pan
 * zoom and pan UI controls
@@ -12,19 +40,11 @@ TODO
     * consider fixing in the jquery plugin and contributing back
 * favicon
 * apple touch icon
-* apple touch events
 * about page div popup
 * more icons for minor locations
   * 3 ring and palantir icons
 
 * independent zoom animations for each scale
-
-* story tours
-  * the hobbit tour
-  * lord of the rings tour
-    * fotr tour
-    * ttt tour
-    * rotk tour
 
 * citation book name abbreviations in article references
 * quote search and cross-reference
@@ -83,4 +103,7 @@ TODONE
 * make the map discoverable to search engines
 * replace the Makefile with something more civilized
   and resumable. (make/build)
+* apple touch events
+* construct new layers that merge the geography and labels for each label set
+* collect translations for german names
 
