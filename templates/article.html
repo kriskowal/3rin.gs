@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block title %}{{location.name}}{% endblock %}
+{% block body %}
+    <div style="float: right">
+        <a href="{{location.map_href}}">MAP</a>
+    </div>
+    <h1>{{location.name}}</h1>
+    {% include "article.frag.html" %}
+{% endblock %}

@@ -191,14 +191,6 @@
        x="2836.5"
        y="2188.75"
        inkscape:label="#rect2654" />
-    <rect
-       style="opacity:0.57528958;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;marker:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="morgai"
-       width="152.5"
-       height="312"
-       x="5205.5"
-       y="3979"
-       inkscape:label="#rect2656" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1377,7 +1369,7 @@
        inkscape:label="#rect3736" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.57528958"
-       id="tyrn-gorthod"
+       id="tyrn-gorthad"
        width="187.5"
        height="164.84375"
        x="2893.75"
@@ -1445,7 +1437,7 @@
        x="4028.0276"
        height="313.22437"
        width="413.16367"
-       id="caras-corsairs"
+       id="caras-mirgiryn"
        style="fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.57528958" />
     <rect
        style="opacity:0.57528958;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"

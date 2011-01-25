@@ -4,9 +4,11 @@ TODO
 
 * elvish prints
   * rescan top-tier labels for higher resolution
-  * create a store-front
+  * create a store-front (paypal)
 * fresh tile set
   * empty the todo list in "Locations" for English
+* rebuild articles
+  * create django templates
 
 * create thumbnails for all regions for embedding in tolkien gateway
 * german labels

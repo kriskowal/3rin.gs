@@ -2,12 +2,50 @@
 import tsv
 import codecs
 
+languages = [
+    'Sindarin',
+    'Quenya',
+    'Khuzdul',
+    'English',
+    'German',
+    'French',
+    'Polish',
+]
+
+def language_index(language):
+    try:
+        return languages.index(language)
+    except ValueError:
+        return len(languages)
+
+# canonical -> sorted list of all name dicts
 def names():
-    entires = {}
-    for line in tsv.DictReader(codecs.open("names.tsv", "r", "utf-8")):
-        entry = entires.setdefault(line[u"Canonical"], [])
-        entry.append(dict(line))
-    return entires
+    entries = {}
+    file = codecs.open("names.tsv", "r", "utf-8")
+    for name in tsv.DictReader(file):
+        entry = entries.setdefault(name[u"Canonical"], [])
+        entry.append(dict(name))
+    return dict(
+        (canonical, list(sorted(names, key=language_index)))
+        for canonical, names in entries.items()
+    )
+
+# canonical -> language -> name as known in language
+def language_names(debug = False):
+    entries = {}
+    for canonical, _names in names().items():
+        subentries = entries.setdefault(canonical, {})
+        for name in _names:
+            for language in languages:
+                if language in name and name[language]:
+                    if debug and language in subentries:
+                        print 'duplicate', language, 'name for', canonical, repr(subentries[language]["Name"]), repr(name["Name"])
+                    subentries[language] = name
+    return entries
+
+def language_names_debug():
+    # but do not return
+    language_names(debug = True)
 
 def names_to_canonicals():
     return dict(names_to_canonicals_iter())

@@ -33,19 +33,6 @@ def get():
     regions_svg = dom.parse("regions.svg")
     return walk(regions_svg.documentElement)
 
-def regions():
-    return dict(
-        (name, dict(
-            name = name,
-            x = x,
-            y = y,
-            width = width,
-            height = height,
-            url = url,
-        ))
-        for name, x, y, width, height, url in get()
-    )
-
 class Region(object):
     @property
     def diagonal(self):

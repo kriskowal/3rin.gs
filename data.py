@@ -33,26 +33,26 @@ except ImportError:
         from django.utils import simplejson as json
     except ImportError:
         import simplejson as json
-from regions import regions as get_regions
+from regions import regions2 as get_regions
 
 from names import names as get_names
 names = get_names()
 
 regions = sorted(
     get_regions().values(),
-    key = lambda region: -min(region['height'], region['width'])
+    key = lambda region: -min(region.height, region.width)
 )
 
 def quad(regions, prefix, x, y, width, height, depth = 0):
     if depth > DEPTH:
         return
     _width, _height = width / SCALE, height / SCALE
-    _region = {
+    _region = type('region', (), {
         "x": x,
         "y": y,
         "width": width,
         "height": height,
-    }
+    })
     _regions = sorted(
         (
             region for region in regions
@@ -61,7 +61,7 @@ def quad(regions, prefix, x, y, width, height, depth = 0):
         key = keyator(_region)
     )
     yield prefix, list(
-        r["name"]
+        r.name
         for r in _regions[:5]
     )
 
@@ -80,31 +80,31 @@ def quad(regions, prefix, x, y, width, height, depth = 0):
 
 def within(outer, inner):
     return (
-        inner["x"] >= outer["x"] and
-        inner["y"] >= outer["y"] and
-        inner["x"] + inner["width"] < outer["x"] + outer["width"] and
-        inner["y"] + inner["height"] < outer["y"] + outer["height"]
+        inner.x >= outer.x and
+        inner.y >= outer.y and
+        inner.x + inner.width < outer.x + outer.width and
+        inner.y + inner.height < outer.y + outer.height
     )
 
 def intersect(a, b):
     return not (
-        a["x"] + a["width"] < b["x"] or
-        a["y"] + a["height"] < b["y"] or
-        a["x"] > b["x"] + b["width"] or
-        a["y"] > b["y"] + b["height"]
+        a.x + a.width < b.x or
+        a.y + a.height < b.y or
+        a.x > b.x + b.width or
+        a.y > b.y + b.height
     )
 
 def center(region):
     return (
-        region["x"] + region["width"] / 2.,
-        region["y"] + region["height"] / 2.,
+        region.x + region.width / 2.,
+        region.y + region.height / 2.,
     )
 
 def distance((ax, ay), (bx, by)):
     return ((bx - ax) ** 2 + (by - ay) ** 2) ** .5
 
 def area(region):
-    return region["width"] * region["height"]
+    return region.width * region.height
 
 def keyator(_region):
     _center = center(_region)
@@ -134,14 +134,14 @@ for quadkey, neighborhood in quad(regions, "", 0, 0, 1, 1):
 
 json.dump({
     "regions": dict(
-        (region["name"], {
-            "x": "%%0.%df" % PRECISION % region["x"],
-            "y": "%%0.%df" % PRECISION % region["y"],
-            "h": "%%0.%df" % PRECISION % region["height"],
-            "w": "%%0.%df" % PRECISION % region["width"],
+        (region.name, {
+            "x": "%%0.%df" % PRECISION % region.x,
+            "y": "%%0.%df" % PRECISION % region.y,
+            "h": "%%0.%df" % PRECISION % region.height,
+            "w": "%%0.%df" % PRECISION % region.width,
             "names": [
-                name['Name']
-                for name in names.get(region["name"], [])
+                name["Name"]
+                for name in names.get(region.name, [])
             ] or [],
         })
         for region in regions

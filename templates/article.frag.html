@@ -1,0 +1,53 @@
+
+{% for name in location.names %}
+<p>
+    {% if name.language %}
+        <strong><em>{{name.language}}:</em></strong>
+    {% endif %}
+    {% if name.credit %}
+        <abbr title="not attested in primary sources {% if name.credit %}, constructed by {{name.credit}}.{% endif %}">*</abbr>{% endif %}<em>{{name.name}}</em>
+    {% if name.meaning %}
+        &#8216;{{name.meaning}}&#8217;
+    {% endif %}
+    {% if name.citations %}
+        {% for citation in name.citations %}
+            {% if citation.link %}
+                {{citation.link|safe}}
+            {% else %}
+                {{citation.label}}
+            {% endif %}
+            {% if not forloop.last %}, {% endif %}
+        {% endfor %}
+    {% endif %}
+    {% if name.languages %}
+        (as also known in
+        {% for language in name.languages %}
+            <em>{{language}}</em>{% if not forloop.last %}, {% endif %}{% endfor %})
+    {% endif %}
+</p>
+{% if name.notes or name.credit or name.construction %}
+<ul>
+    {% if name.notes %}
+    <p>{{name.notes|safe}}</p>
+    {% endif %}
+    {% for construction in name.construction %}
+        <li>{{construction|safe}}</li>
+    {% endfor %}
+    {% if name.credit %}
+    <ul>&mdash; <abbr title="not attested: does not appear in the works of J.R.R.&nbsp;Tolkien">constructed by</abbr> <em>{{name.credit}}</em></ul>
+    {% endif %}
+</ul>
+{% endif %}
+{% endfor %}
+
+{% if location.links %}
+<hr>
+{% for link in location.links %}
+<p>
+<a target="_blank" href="{{link.href}}">{{link.names|join:" / "}}</a>{% if link.description %},
+{{link.description}}. {% endif %}
+&mdash;&nbsp;<em><strong><nobr>{{link.source}}</nobr></strong></em> 
+</p>
+{% endfor %}
+{% endif %}
+

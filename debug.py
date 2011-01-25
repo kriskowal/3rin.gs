@@ -147,6 +147,11 @@ def place_names():
             )
         )
 
+def redundant_language_names():
+    # this function prints error messages
+    from names import language_names
+    language_names(debug = True)
+
 def main():
     import sys
     from pprint import pprint

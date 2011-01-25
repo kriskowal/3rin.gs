@@ -1,6 +1,16 @@
 from glob import glob
 import codecs
 
+sources = [
+    'Tolkien Gateway',
+    'The Thain\'s Book',
+]
+def source_index(source):
+    try:
+        return sources.index(source.source)
+    except ValueError:
+        return len(sources)
+
 class Link(object):
     def __init__(
         self,
@@ -60,7 +70,10 @@ def links():
     )
     for link in links:
         articles.setdefault(link.canonical, []).append(link)
-    return articles
+    return dict(
+        (canonical, sorted(links, key=source_index))
+        for canonical, links in articles.items()
+    )
 
 def main():
     import sys

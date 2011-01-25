@@ -84,7 +84,7 @@ calenrath	Calenrath	Greenway	Grünweg	Calenrath	Chemin Vert			X	40	X				1	1	5
 carach-angren	Carach Angren	Isenmouthe	Isenmünde	Carach Angren			"41,"	X	34	X				1	1	5
 caradhras	Caradhras	Redhorn	Rothorn	Barazinbar	Rubicorne		"15,65,"	X	18	X				1	1	5
 carag	Carag	Carrock	Carrock	Sargond	Carrock		"53,77"	X	46	X				1	1	6		X
-caras-corsairs	Caras Mírgiryn	City of Corsairs	Piratenstadt		Cité des Corsaires	Miasto Korsarzy			29	X			"Conjugate ""nor/ner"" (run) as (runner), the root of Corsair"	1	1	5
+caras-mirgiryn	Caras Mírgiryn	City of Corsairs	Piratenstadt		Cité des Corsaires	Miasto Korsarzy			29	X			"Conjugate ""nor/ner"" (run) as (runner), the root of Corsair"	1	1	5
 caras-galadhon	Caras Galadhon	Caras Galadhon	Caras Galadhon				"54,"	X	44	RE				1	1	6				"The great elven city in the trees at the heart of Lóthlorien, on Cerin Amroth, the seat of Galadriel's realm."
 caras-perian	Caras Perian	Hobbiton	Hobbingen		Hobbitebourg	Hobbition	"37,75"	X	44	X				1	1	6		X
 carchost	Carchost	Carchost	Carchost	Carchost			"54,"	X	45	X				1	1	6				"The east tower of the black gate, the Morannon."
@@ -321,7 +321,7 @@ mathom-house		Mathom-house
 mazarbul-chamber		Chamber of Mazarbul			Chambre de Mazarbul									Z	3
 meduseld		Meduseld
 men-annun		West Road			Route de l'Ouest			T	50	Cropped			This probably should be consolidated with menion-annui	3	3
-men-eryn-iaur	Men-i-Naugrim	Old Forest Road	Alter Nachtwaldweg	Men Eryn Iaur			"38,"	X	31	X				1	1	5
+men-eryn-iaur	Men-i-Naugrim	Old Forest Road	Alter Nachtwaldweg	Men-i-Naugrim			"38,"	X	31	X				1	1	5
 men-harad	Men Harad	The Harad Road	Südstraße	Men Harad			"36,"	X	29	X				1	1	5
 men-rhun-annui	Men Rhún-annui	East/West Road	Ostweststraße	Men Rhún-annui			"21,75"	X	22	X				1	1	5
 menion-annui	Menion Annui	Great West Road	Große Weststraße	Menion Annui	Grande Route de l'Ouest		"47,76,"	X	38	X				1	1	5

@@ -20,13 +20,9 @@ FILE = 'locations.tsv'
 
 def locations():
     def item(row):
-        data = dict()
-        parts = row[PREFIX].split('-')
-        language_key = parts.pop()
-        name = "-".join(parts)
-        data['name'] = name
+        name = row["Canonical"]
         return name, row
-    return map(item, tsv.DictReader(codecs.open(FILE, 'r', 'utf-8')))
+    return dict(map(item, tsv.DictReader(codecs.open(FILE, 'r', 'utf-8'))))
 
 def names():
     for canonical, data in locations():

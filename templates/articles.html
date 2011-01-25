@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block title %}Locations of Middle-earth{% endblock %}
+{% block body %}
+
+    <h1>Locations of Middle-earth</h1>
+
+    <ol>
+    {% for location in locations %}
+        <li>
+            {{location.name}}
+            <a href="{{location.map_href|urlencode}}">map</a>
+            <a href="{{location.article_href|urlencode}}">article</a></li>
+        </li>
+    {% endfor %}
+    </ol>
+
+{% endblock %}

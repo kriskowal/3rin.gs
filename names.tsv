@@ -1,4 +1,18 @@
 Canonical	Name	Sindarin	English	German	Khuzdul	Language	English Meaning	German Meaning	Citations	Constructed	P	Parts	Construction	Notes	TODO
+firienfeld	Firienfeld		*			English			VIII					"""A green mountain-field of grass and heath high above the sheer wall of the valley,"" describes the Firienfeld, in a draft of ""Lord of the Rings"" published in ""The War of the Ring"". It is debatable whether this is cannon."
+rath-harad-iaur	Südstraße			*		German			LRde					"""Alte Südstraße"" would be direct translation, but is not attested."
+durthang	Durthang	*	*	*	*	Sindarin	Dark Opression	Dunkle Unterdrückung	S		*	dûr dur thong thang	dûr S - dark E; thong S - opression E
+gondor	Stoningland					English			"LR, RK"		*			A name attributed to Gondor by the Rohirrim.
+andrath	Andrath	*			*	Sindarin	Long Road	Lange Straße	UT		*	and rath	"and S - long E; rath S - course / riverbed // stream, Ety/383, LR/Index, http://www.jrrvf.com/cgi-bin/hisweloke/sindarin.cgi?search=rath&phon=ipa"	"Andrath is attested twice in Unfinished tales: once as part of the name Cirith Forn en Andrath, the name of pass taken by the party in The Hobbit, but also as the name of a part of the Greenway between the Barrow Downs and the South Downs, part of the Long Road. I use it here to mean ""Long Road"", though in the former usage, Unfinished Tales translates it to mean ""Long Climb""."
+edhellond	Eldalondë					Quenya					*	elda londë	elda Q - elf; londë Q - haven / harbor E	"Attested as a name in Númenor, having the same meaning."
+druwaith-iaur	Old Drûg land					English									http://tolkiengateway.net/wiki/Woses
+irensaga	Írensaga	*	*	*		Rohirric	Iron-saw		"LR, RK"		*	íren saga	íren R - iron E; saga R - saw E	"In old editions, Írensaga appears without an acute accent."
+dorwinion	Dorwinion	*	*	*	*	Sindarin	Great land of youth		"H, PE17:191"		*	dôr dor gwîn gwin win ion on	"dôr S - land E; gwîn S - young E; -on S - great E, as in ardhon; -ion S - (great) realm, as in rhovanion, eregion; dôr + gwîn > dorwin, lenition, vowel shortening"	"The meaning of ""Dorwinion"" is conjectural, based on lines from ""The Hobbit"" that suggest that this is the land where the elf-king, Thranduil's, folk got their strong wine, which is suspicious since there is little reason to believe that there is a similarity between Sindarin ""win"" and the similarly sounding English ""wine"". Parma Eldalamberon 17:191 suggests a new interpretation based on ""gwîn"", meaning ""young""."
+athrad-imladris	Athrad Imladris	*			*	Sindarin	Ford of Rivendell	Furt von Bruchtal		Kris Kowal	*	athrad imlad ris	Ford of Rivendell; ford E > crossing E > athrad S; crossing E : crossings E :: athrad S: ethraid S; Rivendell E > Imladris S	"The name ""Ford of Rivendell"" is used once and only in ""The Fellowship of the Ring"" to refer to the much more frequently cited ""Ford of Bruinen""."
+erech	Erech		*								?			"This is a name given either by Númenoreans or early Gondorians, so is probably Adûnaic, Gondorian Sindarin, with the Elvish root of ""er"" for loneliness."
+udun	Udûn	*	*								*	udûn dûn u		"This is possibly Ñoldorin, certainly not Sindarin, since ""dûn"" would translate to ""west""."
+mallenrond	Mallenrond	*			*	Sindarin	Golden Hall			Kris Kowal	*	mallen mal rond	Golden Hall E; mallen S - golden colored E; rond S - hall E	"This translation is predicated on the assumption that ""golden"" in ""Golden Hall"" refers to the color. There are other Sindarin words for ""golden"" as in the metal."
+fui-ngothrim	Raith 'Ngorthrim					Sindarin			http://www.tuckborough.net/caves.html#Paths%20of%20the%20Dead		*	raith rath ngorth gorth rim	gorth S - dead person E; rim S - host / great number E; raith S - paths E; rath S - path E	"Tolkien assigned this name to the ""Paths of the Dead"" but changed it to ""Fui 'Ngorthrim"", so this is not strictly canon, although its meaning is clear."
 achad-tarlang	Achad Tarlang	*			*	Sindarin	Tarlang's Neck	Tarlangs Hals			*	achad tarlang	achad S - neck E; Tarlang [proper name]
 achad-tarlang	Tarlang's Neck		*			English					*
 achad-tarlang	Tarlangs Hals			*		German	Tarlang's Neck	Tarlangs Hals	LRde
@@ -10,8 +24,8 @@ aglarond	Súthburg					Old English	South-Fortress	Südburg			*
 aglarond	Glæmscrafu					Rohirric	Glittering-Caves	Glitzernde-Höhlen				glæm scrafu
 amon-anwar	Amon Anwar	*			*	Sindarin	Hill of Awe	Hügel der Ehrfurcht	UT		*	amon anwar	amon S - hill E; anwar S - awe E
 amon-anwar	Halifirien		*	*		Rohirric	Holy Mountain	Heiliger Berg	UT		*	hall fair fîr	"hall S - shady E; fair S - mortal E; fîr S - mortals E; hall + fîr > halifir, compound vowel reduction"
-amon-anwar	Eilenaer						?	?
 amon-anwar	Whispering Wood					English			UT		*
+amon-anwar	Eilenaer						?	?
 amon-craban	Amon Craban	*			*	Sindarin				Kris Kowal	*	amon craban	Ravenhill > raven + hill > hill of ravens; raven E > craban S; craban : crebain :: raven : ravens; hill E > amon S
 amon-craban	Ravenhill		*			English			H		*
 amon-craban	Rabenberg			*		German			H1de
@@ -35,28 +49,27 @@ andlo	Andló	*			*	Sindarin	Long-Marsh			Kris Kowal	*	and ló	long marshes E; lo
 andlo	Long Marshes		*			English	Lange Sümpfe	Long-Marshes
 andlo	Lange Sümpfe			*		German	Long-Marshes	Lange Sümpfe	H1de
 andrast	Andrast	*	*	*	*	Sindarin	Long Cape	Langes Kap	"XI, UT"		*	and rasg rast	and S - long E; rasg S - horn E; rast S - cape E
-andrath	Andrath	*			*	Sindarin	Long Road	Lange Straße	UT		*	and rath	"and S - long E; rath S - course / riverbed // stream, Ety/383, LR/Index, http://www.jrrvf.com/cgi-bin/hisweloke/sindarin.cgi?search=rath&phon=ipa"	"Andrath is attested twice in Unfinished tales: once as part of the name Cirith Forn en Andrath, the name of pass taken by the party in The Hobbit, but also as the name of a part of the Greenway between the Barrow Downs and the South Downs, part of the Long Road. I use it here to mean ""Long Road"", though in the former usage, Unfinished Tales translates it to mean ""Long Climb""."
 andrath	Long Road		*			English		Lange Straße			*
 andrath	Lange Straße			*		German	Long Road			Silvia Ochsenfort
 anduin	Anduin	*	*	*	*	Sindarin	Long River		"LR, FR, VIII, X, XI, XII"		*	and duin	and S - long E; duin S - (large) river E; and + duin > anduin
 anduin	Anduin the Great					English			"LR, FR, X, XII"
 anduin	Great River of Wilderland					English			X
 anduin	Great River					English		Großer Fluss	"H, II, VIII, X, XI, XII"		*
-anduin	Langflood								UT		*
 anduin	Großer Fluss					German	Great River		LRde
+anduin	Langflood								UT		*
 anduin-vale	Imlaid Anduin	*			*	Sindarin	Vales of Anduin			Kris Kowal		imlad imlaid and duin
 anduin-vale	Vales of Anduin		*			English			"LR, XII"
 anduin-vale	Tal des Anduin			*		German			LRde
-anduin-vale	Imlad Anduin				*	Sindarin	Vale of Anduin			Kris Kowal		imlad imlaid and duin
 anduin-vale	Vale of Anduin					English			"LR, VIII, XI, XII"
 anduin-vale	Täler des Anduin					German			LRde
+anduin-vale	Imlad Anduin					Sindarin	Vale of Anduin			Kris Kowal		imlad imlaid and duin
 anfalas	Anfalas	*			*	Sindarin	Long-shore	Lang-strand	"LR, VIII, XII"		*	and falas	"and S - long E; falas S - shore E; and + falas > anfalas, lenition"
 anfalas	Langstrand		*	*			Long-beach				*		lang German - long E; strand German - shore E
 angmar	Angmar	*	*	*	*	Sindarin	Iron-dwelling	Eisenheim			*	ang bar	"ang S - iron E; bar S - dwelling / home E; ang + bar > angmar, lenition"
 angren	Angren	*			*	Sindarin	Of Iron	Eisen			*	ang angren	ang S - iron E; angren S - of iron E; * ~en S - of ~ E
 angren	Isen		*	*			Of Iron	Eisen	LRde
-angren	Sîr Angren				*	Sindarin	River of Iron	Eisen Fluss			*	sîr ang angren	sîr S - river E; ang S - iron E; angren S - of iron E; * ~en S - of ~ E
 angren	River Isen					English	River of Iron	Eisen Fluss			*		isen E - iron E
+angren	Sîr Angren					Sindarin	River of Iron	Eisen Fluss			*	sîr ang angren	sîr S - river E; ang S - iron E; angren S - of iron E; * ~en S - of ~ E
 angrenost	Angrenost	*			*	Sindarin	Iron Fortress				*	ang angren ost	ang S - iron E; angren S - of iron E; * ~en S - of ~ E; ost S - (fortified) city E
 angrenost	Isengard		*			English					*		isen E - iron E; -gard E - fortress E
 angrenost	Isengart			*		German			Sde
@@ -74,10 +87,10 @@ annon-erebor	Gate of Erebor					English			"LR, UT"
 annon-eryn	Annon Eryn	*			*	Sindarin	Forest Gate	Wald Tor		Kris Kowal	*	annon eryn	forest gate; long E > and S; forest E > woods E > eryn E; forest gate E > annon eryn S
 annon-eryn	Forest Gate		*			English		Wald Tor			*
 annon-eryn	Waldeingang			*		German	Forest Entrance
-annon-moria	Annon Duhirion	*			*	Sindarin	Moria Gate	Moria Tor				annon dû sir sirion duhirion ion on
-annon-moria	Dimrill Gate		*			English		Dimrill Tor			*
-annon-moria	Dimrill Tor			*		German	Dimrill Gate
-annon-moria	East Gate					English		Tor des Ostens			*
+annon-duhirion	Annon Duhirion	*			*	Sindarin	Moria Gate	Moria Tor				annon dû sir sirion duhirion ion on
+annon-duhirion	Dimrill Gate		*			English		Dimrill Tor			*
+annon-duhirion	Dimrill Tor			*		German	Dimrill Gate
+annon-duhirion	East Gate					English		Tor des Ostens			*
 annon-thol	Annon Thol	*			*	Sindarin	Gate of Helm			Kris Kowal	*	annon thôl thol	"Helm's Gate; gate E > annon S; Helm [proper name] > helm E [literal] > Thôl S; annon + thôl > annon thol, vowel shortening"
 annon-thol	Helm’s Gate		*			English
 annonion-minas-tirith	Great Gate of Minas Tirith		*			English
@@ -90,7 +103,7 @@ ardhon-iaur-arnor	Verlorenes Reich von Arnor			*		German	Lost Realm of Arnor
 argirith	Argirith	*			*	Sindarin	High-pass	Hochpass		Kris Kowal	*	ar cirith girith	"high pass; ar S > high E; cirith S > cleft / pass E; ar + cirith > argirith S, lenition c.f., pel + ar + cir > pelargir"
 argirith	High Pass		*			English		Hochpass	"LR, FR"		*
 argirith	Hochpass			*		German	High Pass
-argirith	Cirith Forn en Andrath				*	Sindarin	Northern Pass of the Long Climb	Nordpass des langen Aufstiegs	UT/271		*	cirith forn en and rath	"Northern Pass of the Long Climb; cirith S - cleft / pass E; forn - S - northern E; formen S - north E; en S - of the E; and S - long E; rath S - course / riverbed // stream, Ety/383, LotR/Index, http://www.jrrvf.com/cgi-bin/hisweloke/sindarin.cgi?search=rath&phon=ipa"
+argirith	Cirith Forn en Andrath					Sindarin	Northern Pass of the Long Climb	Nordpass des langen Aufstiegs	UT/271		*	cirith forn en and rath	"Northern Pass of the Long Climb; cirith S - cleft / pass E; forn - S - northern E; formen S - north E; en S - of the E; and S - long E; rath S - course / riverbed // stream, Ety/383, LotR/Index, http://www.jrrvf.com/cgi-bin/hisweloke/sindarin.cgi?search=rath&phon=ipa"
 argonath	Argonath	*	*	*	*	Sindarin	High Pillars	Hoch Säulen			*	ar gond gon ath	ar- S - high E; gond S - stone E; ar + gond + ath > argonath
 argonath	Gate of Kings					English		Tor des Königs			*
 argonath	Pillars of the Kings					English		Säulen des Königs			*
@@ -99,7 +112,7 @@ arthedain	Arthedain	*	*	*	*	Sindarin	Realm of Man	Reich der Menschen			*	ar ardh
 athrad-angren	Athrad Angren	*			*	Sindarin	Ford of Isen	Furt des Isen	UT			athrad angren ang
 athrad-angren	Fords of Isen		*			English		Furten des Isen	"LR, VIII, XII"		*
 athrad-angren	Furten des Isen			*		German	Fords of Isen		LRde
-athrad-angren	Ethraid Engrin				*	Sindarin	Fords of Isen	Furten des Isen	UT			ethraid eng engrin
+athrad-angren	Ethraid Engrin					Sindarin	Fords of Isen	Furten des Isen	UT			ethraid eng engrin
 athrad-bruinen	Athrad Bruinen	*			*	Sindarin	Ford of Bruinen	Bruinenfurt		Kris Kowal	*	athrad brui nen	Ford of Bruinen; ford E > crossing E > athrad S; crossing E : crossings E :: athrad S: ethraid S; Bruinen S - Loudwater E; nen S - water E; brui S - loud E
 athrad-carag	Athrad Carag	*			*	Sindarin	Ford of Carrock	Carrockfurt		Kris Kowal	*	athrad carag	Ford of Carrock E; ford / crossing E > athrad S; Carrock E > rock E > carag S
 athrad-carag	Ford of Carrock		*			English		Carrockfurt
@@ -109,7 +122,6 @@ athrad-iaur	Old Ford		*			English		Alte Furt			*
 athrad-iaur	Alte Furt			*		German	Old Ford
 athrad-imladris	Ford of Bruinen		*			English		Bruinenfurt	"LR, FR, RK, UT"
 athrad-imladris	Bruinenfurt			*		German	Bruinen Ford
-athrad-imladris	Athrad Imladris	*			*	Sindarin	Ford of Rivendell	Furt von Bruchtal		Kris Kowal	*	athrad imlad ris	Ford of Rivendell; ford E > crossing E > athrad S; crossing E : crossings E :: athrad S: ethraid S; Rivendell E > Imladris S	"The name ""Ford of Rivendell"" is used once and only in ""The Fellowship of the Ring"" to refer to the much more frequently cited ""Ford of Bruinen""."
 athrad-imladris	Ford of Rivendell					English		Furt von Bruchtal	"LR, FR"		*
 athrad-imladris	Furt von Bruchtal					German	Ford of Rivendell		LRde
 athrad-onodlo	Athrad Onodló	*			*	Sindarin	Ford of Entwash	Entfurt		Kris Kowal	*	athrad onod ló	Entwade > Ford of Entwash; ford > athrad; Entwash > Onodló; onod S - ent E; enyd S - ents E
@@ -117,8 +129,8 @@ athrad-onodlo	Entwade		*			English	Ford of Entwash	Entfurt			*
 athrad-onodlo	Entfurt			*		German	Ford of Entwash		LRde
 bag-end	Bag End		*			English
 bagshot-row	Bagshot Row		*			English
-bair-nestad	Houses of Healing		*			English
 bair-nestad	Bair Nestad	*				Sindarin
+bair-nestad	Houses of Healing		*			English
 bamfurlong	Bamfurlong		*			English	Bean-field	Bohnenfeld	TB		*		bam - bean E; furlong - field E
 barad-dur	Barad Dûr	*	*	*	*	Sindarin	Tower Dark	Dunkler Turm			*	barad dûr	"barad S - tower E; dûr S - dark, sombre E"
 barad-dur	Lugbúrz					Black Speech
@@ -128,7 +140,7 @@ barad-durin	Durins Turm			*		German			LRde
 baranduin	Baranduin	*			*	Sindarin	brown-river	Brauner Fluss			*	baran duin	baran S - brown E; duin S - (large) river E
 baranduin	Brandywine		*			English		Brandywein			*		"baranduin S > brandywine E, adoption by similar sound and fitting meaning"
 baranduin	Brandywein			*		German	Brandy-wine		LRde
-baranduin	Branda-nîn				*	Sindarin		Brauner Wässer				branda nîn
+baranduin	Branda-nîn					Sindarin						branda nîn
 baranduiniant	Baranduiniant	*			*	Sindarin	Brown-river Bridge	Braun-Fluss Brücke			*	baran duin iant	baranduin + iant; iant S - bridge E; baran S - brown E; duin S - (large) river E
 baranduiniant	Brandywine Bridge		*			English					*
 baranduiniant	Brandyweinbrücke			*		German			LRde
@@ -161,9 +173,9 @@ bree-inn	Inn of Bree		*			English
 bree-west-gate	West-gate of Bree		*			English
 breredon	Breredon					English
 bridgefields	Bridgefields		*			English
-brockenborings	Brockenbores		*			English
 brockenborings	Brockenborings		*			English
 brockenborings	Dachsbauten			*		German			LRde
+brockenborings	Brockenbores					English
 bruinen	Bruinen	*			*	Sindarin	Loud-water	Lautwasser			*	brui nen	brui S - loud / noisy E; nen S - water E
 bruinen	Loudwater		*			English		Lautwasser			*
 bruinen	Lautwasser			*		German	Loud-water		LRde
@@ -182,7 +194,7 @@ calembel	Calembel	*	*	*	*	Sindarin	Greenfield	Grünfeld			*	calem bel mbel calen
 calembel	Greenham					English
 calenardhon	Calenardhon	*			*	Sindarin	Green Realm				*	calen ardh on ardhon	calen S = green E; ardhon S = realm E
 calenardhon	Rohan		*	*		Rohirric	Horse Country				*	rocco roch	rocco Q -- horse E; roch S -- horse E
-calenardhon	The Mark		*			English
+calenardhon	The Mark					English
 calenardhon	Rochand											roch and
 calenardhon	Rochann											roch ann
 calenhad	Calenhad	*	*	*	*	Sindarin	Green-place		VIII		*	calen had	calen S - green E; had S - mound E < may have been back-formed from Calenardhon
@@ -199,7 +211,7 @@ caradhras	Rothorn			*		German			LRde
 caradhras	Barazinbar				*	Khuzdul					*	bara? zin? bar? zinbar? baraz?
 carag	Carag	*			*	Sindarin	"Spike, Tooth of rock"			Måns Björkman	*	carag	carag S - spike / tooth of rock E; carreg Welsh - rock / stone E; carr Old English; car Anglo Saxon - rock E
 carag	Carrock		*	*		English			"LR, LRde"		*		carr Old English - rock / stone; car Anglo Saxon - rock E
-carag	Sargond				*	Sindarin				Kris Kowal	*	sarn sar gond	"Carrock > car + rock; car Anglo Saxon > rock E > sarn S; rock / stone E > gond S; sarn + gond > sargond, c.f., morn + gul > morgul"
+carag	Sargond					Sindarin				Kris Kowal	*	sarn sar gond	"Carrock > car + rock; car Anglo Saxon > rock E > sarn S; rock / stone E > gond S; sarn + gond > sargond, c.f., morn + gul > morgul"
 caras-galadhon	Caras Galadhon	*	*	*		Silvan	Fortress of Trees	Festung der Bäume			*	caras galadh on	caras Silvan / S - city / fortress E; galadh Silvan - tree E; galad + on S - of light E; galadh + on > galadhon; ~on S > of ~ E
 caras-mirgiryn	Caras Mírgiryn	*				Sindarin	City of Treasure-sailors			Silvia Ochsenfort	*	caras mir mír gir cîr cir gîr ryn rin	"City of Corsairs; corsairs > pirates > treasure + sailors; treasure E > mîr S; sailors > ship + people; ship E > cîr S; people E > rim S; mîr + cîr + rim > mírgiryn, lenition, vowel shortening; city E > caras Silvan"
 caras-mirgiryn	City of Corsairs		*			English					*
@@ -279,34 +291,30 @@ dol-guldur	Hill of Sorcery					English		Hügel der Schwarzmagie			*
 dol-guldur	Hügel der Schwarzmagie					German			LRde
 dome-of-stars	Dome of Stars		*			English
 dor-en-ernil	Dor-en-Ernil	*	*	*	*	Sindarin	Land of Prince Ernil	Land des Prinzen			*	dôr dor en ernil	dôr S - land E; en S - of the E; ernil S - [proper name of a prince]
-dorwinion	Dorwinion	*	*	*	*	Sindarin	Great land of youth		"H, PE17:191"		*	dôr dor gwîn gwin win ion on	"dôr S - land E; gwîn S - young E; -on S - great E, as in ardhon; -ion S - (great) realm, as in rhovanion, eregion; dôr + gwîn > dorwin, lenition, vowel shortening"	"The meaning of ""Dorwinion"" is conjectural, based on lines from ""The Hobbit"" that suggest that this is the land where the elf-king, Thranduil's, folk got their strong wine, which is suspicious since there is little reason to believe that there is a similarity between Sindarin ""win"" and the similarly sounding English ""wine"". Parma Eldalamberon 17:191 suggests a new interpretation based on ""gwîn"", meaning ""young""."
 druwaith-iaur	Drúwaith Iaur	*			*	Sindarin	Púkel-realm old				*	drû dru drú gwaith waith iaur	"drû S - wild man / wose / púkel-man E; gwaith S - realm E; iaur S - old E; drû + ~ > drú~, compound vowel shortening; ~ + gwaith > ~waith, lenition"
 druwaith-iaur	Old Púkel Land		*			English					*
 druwaith-iaur	Altes Puckelland			*		German	Old Púkel Land			Silvia Ochsenfort
-druwaith-iaur	Old Drûg land					English								http://tolkiengateway.net/wiki/Woses
-dunharrow	Dunharrow	*	*	*		English	Heathen Fane on the Hillside				*
+dunharrow	Dunharrow	*	*			English	Heathen Fane on the Hillside				*
 dunharrow	Dunharg			*		German	Dunharrow		LRde
 dunharrow	Dúnharg					Old English					*		"originally from Danhaerg, meaning ""hillside temple"", http://www.glyphweb.com/ARDA/d/dunharg.html"
 duriniant	Duriniant	*			*	Sindarin	Durin's Bridge			Kris Kowal	*	iant	Durin's Bridge; bridge E > iant S
 duriniant	Bridge of Khazad-dúm		*			English
-duriniant	Durin’s Bridge		*			English
-durthang	Durthang	*	*	*	*	Sindarin	Dark Opression	Dunkle Unterdrückung	S		*	dûr dur thong thang	dûr S - dark E; thong S - opression E	"""thong"" is explained in the Silmarillion - Elements of Quenya and Sindarin Names"
+duriniant	Durin’s Bridge					English
 dwaling	Dwaling		*			English
 east-mark	East-mark		*			English
-eastemnet	Emnet Rhúnen	*				Sindarin				Kris Kowal
-eastemnet	Eastemnet		*			English					*
-eastemnet	Ostemnet			*		German			LRde
+emnet-rhunen	Emnet Rhúnen	*				Sindarin				Kris Kowal
+emnet-rhunen	Eastemnet		*			English					*
+emnet-rhunen	Ostemnet			*		German			LRde
 eastfarthing	Eastfarthing of the Shire		*			English
-eastfold	Eastfold		*			English					*
-eastfold	Ostfold			*		German			LRde
-eastfold	Fold Rhúnen	*				Sindarin				Kris Kowal
+fold-rhunen	Fold Rhúnen	*				Sindarin				Kris Kowal
+fold-rhunen	Eastfold		*			English					*
+fold-rhunen	Ostfold			*		German			LRde
 eastmarch-shire	Eastmarch of the Shire		*			English
 echor-angrenost	Echor Angrenost	*			*	Sindarin	Outer-ring of Isengard			Kris Kowal		echor ang angren ren ost	"Ring of Isengard E; Ring E > circle, outer ring E > echor S, as in ""rammas echor""; Isengard E > Angrenonst S [proper name]"
 echor-angrenost	Ring of Isengard		*			English
 ecthelion	Tower of Ecthelion		*			English
 edhellond	Edhellond	*	*	*	*	Sindarin	Elf-haven	Elbenhafen			*	edhel lond	edhel S - elf E; lond S - haven / harbor E
 edhellond	Elfhaven					English					*
-edhellond	Eldalondë					Quenya					*	elda londë	elda Q - elf; londë Q - haven / harbor E	Attested as a name in Númenor
 edoras	Edoras	*	*	*		Rohirric					*	edo? ras?
 eilenach	Eilenach	*	*	*	*						*
 elendil-mound	Mound of Elendil		*			English
@@ -346,7 +354,7 @@ emyn-uial	Hügel von Evendim			*		German	Hills of Evendim			Silvia Ochsenfort	*
 enchanted-river	Enchanted River		*			English
 enedwaith	Enedwaith	*	*	*	*	Sindarin	Mid-region	Mittelvolk			*	gwaith waith enedh en ened	"gwaith S - realm E; enedh S - middle E; enedh + gwaith > enedwaith S, lenition"
 ennorath	Ennorath	*			*	Sindarin	Middle-lands				*	en nor ath nôr dôr	earth > land E; middle / core / center E -- enedh S; land E -- dôr S; -ath S -- [collective noun]; enedh + dôr + ath -- ennorath S
-ennorath	Middle-earth		*			English					*			from midenguard?
+ennorath	Middle-earth		*			English					*				from midenguard?
 ennorath	Mittelerde			*		German	Middle-earth
 ennorath	Great Lands					English					*
 ennorath	Outer Lands					English
@@ -364,7 +372,6 @@ ephel-duath	Schattengebirge					German	Mountains of Shadow
 erebor	Erebor	*			*	Sindarin	Lonely Mountain	Einsamer Berg			*	ereb er or orod	ereb S - lone E; or- S - above E; *ereb + or > erebor S - lonely height E
 erebor	Lonely Mountain		*			English		Einsamer Berg			*
 erebor	Einsamer Berg			*		German	Lonely Mountain
-erech	Erech		*								?			"This is a name given either by Númenoreans or early Gondorians, so is probably Adûnaic, Gondorian Sindarin, with the Elvish root of ""er"" for loneliness."
 ered-angmar	Ered Angmar	*			*	Sindarin	Mountains of Angmar (iron-dwelling)				*	ered ang mar bar	"ered S - mountains E; orod S- mountain E; ang S - iron E; bar S - dwelling / home E; ang + bar > angmar, lenition"
 ered-angmar	Mountains of Angmar		*			English					*
 ered-angmar	Berge von Angmar			*		German				Silvia Ochsenfort
@@ -374,12 +381,12 @@ ered-engrin	Eiserne Berge			*		German	Iron Mountains
 ered-lasgalen	Ered Lasgalen	*			*	Sindarin	Mountains of Green-leaf			Kris Kowal	*	ered las gal galen calen	"analogous to Eryn Lasgalen; mountains E > hills E > emyn S, as in Emyn-nu-Fuin, the name the same range held when Eryn Lasgalen was known as Taur-nu-Fuin; lass S - leaf; calen S - green; lass + calen > lasgalen S, lenition"
 ered-lasgalen	Mountains of Mirkwood		*			English					*
 ered-lasgalen	Berge vom Düsterwald			*		German				Silvia Ochsenfort
-ered-lasgalen	Emyn Duir				*	Sindarin					*	emyn duir dûr amon	dûr S - dark / sombre E; duir S - dûr [plural] S; amon S - hill E; emyn S - hills E
-ered-lasgalen	Emyn-nu-Fuin				*	Sindarin	Mountains-under-Shadow				*	amon emyn nu fuin	amon S - hill E; emyn S - hills E; nu S - under E; fuin S - shadow E
+ered-lasgalen	Emyn Duir					Sindarin					*	emyn duir dûr amon	dûr S - dark / sombre E; duir S - dûr [plural] S; amon S - hill E; emyn S - hills E
+ered-lasgalen	Emyn-nu-Fuin					Sindarin	Mountains-under-Shadow				*	amon emyn nu fuin	amon S - hill E; emyn S - hills E; nu S - under E; fuin S - shadow E
 ered-lindon	Ered Lindon	*			*	Sindarin					*	orod ered	orod S - moutnain E; ered S - mountains E
 ered-lindon	Blue Mountains		*			English					*
 ered-lindon	Blaues Gebirge			*		German			LRde
-ered-lindon	Ered Luin				*	Sindarin					*	orod ered luin	orod S - mountain E; ered S - mountains E; luin Q - blue E; *elu / elw S - (pale) blue; lhûn S - blue E
+ered-lindon	Ered Luin					Sindarin					*	orod ered luin	orod S - mountain E; ered S - mountains E; luin Q - blue E; *elu / elw S - (pale) blue; lhûn S - blue E
 ered-lithui	Ered Lithui	*			*	Sindarin	Mountains of Ash				*	orod ered lith	"orod S - mountain E; ered S - mountains E; lith S - ash / sand / dust E; ui - S - envelope, especially of the Outer Sea or Air enfolding the world within the Ilurambar or world-walls, Ety/397, http://www.jrrvf.com/cgi-bin/hisweloke/sindarin.cgi?search=ui&phon=ipa"
 ered-lithui	Ash Mountains		*			English					*
 ered-lithui	Aschengebirge			*		German	Mountains of Ash		H1de
@@ -416,8 +423,8 @@ eryn-iaur	Alter Wald			*		German	Old Forest			Silvia Ochsenfort
 eryn-lasgalen	Eryn Lasgalen	*			*	Sindarin	Forest of Green-leaf	Wald der grünen Blätter			*	orod ered las galen calen	"orod S - mountain E; ered S - mountains E; las S - leaf E; calen S - green E; las + calen > lasgalen S, lenition"
 eryn-lasgalen	Mirkwood		*			English					*
 eryn-lasgalen	Düsterwald			*		German			LRde
-eryn-lasgalen	 Taur-e-Ndaedelos				*	Sindarin					*	taur e dae delos ndae ndeaedelos del os	"taur S - forest E; e S - of E; dae S - shadow E; delos S - abhorrence / detestation / loathing E, Etym./355"
-eryn-lasgalen	Taur-nu-Fuin				*	Sindarin	Forest-under-shadow				*	taur nu fuin	"taur S - forest E; nu S - under E; fuin S - night / dead of night / gloom / darkness, Ety/354, Ety/382, http://www.jrrvf.com/cgi-bin/hisweloke/sindarin.cgi?search=fuin&phon=ipa"
+eryn-lasgalen	 Taur-e-Ndaedelos					Sindarin					*	taur e dae delos ndae ndeaedelos del os	"taur S - forest E; e S - of E; dae S - shadow E; delos S - abhorrence / detestation / loathing E, Etym./355"
+eryn-lasgalen	Taur-nu-Fuin					Sindarin	Forest-under-shadow				*	taur nu fuin	"taur S - forest E; nu S - under E; fuin S - night / dead of night / gloom / darkness, Ety/354, Ety/382, http://www.jrrvf.com/cgi-bin/hisweloke/sindarin.cgi?search=fuin&phon=ipa"
 eryn-lasgalen	Greenwood the Great					English					*
 eryn-lasgalen	Nachtwald					German			H1de
 eryn-mithrin	Eryn Mithrin	*			*	Sindarin	Woods Grey			Kris Kowal	*	eryn mith mithrin rin	Grey Wood; wood / woods E > eryn S [plural]; grey E > mithren S; grey [plural] E > mithrin S
@@ -465,14 +472,13 @@ fanuidhol	Cloudyhead		*			English					*
 fanuidhol	Wolkenkopf			*		German	Cloud-head		LRde
 fanuidhol	Bundushathûr				*	Khuzdul					?	bundu shathûr shathur
 fanuidhol	Shathúr					Khuzdul			"LR, FR"		?	shathúr shathur
-farthings	Farthings		*			English
 farthings	Four Farthings		*			English
+farthings	Farthings					English
 fen-hollen	Fen Hollen	*	*	*			Closed Door
 fen-hollen	Fen Chollen				*	Sindarin	Closed Door		http://www.tuckborough.net/otherbuildings.html			fen chollen hol len chol phen
 fen-hollen	Closed Door					English
 fen-hollen	Steward's Door					English
 firien-dale	Firien-dale		*			English
-firienfeld	Firienfeld		*			English			VIII					"""A green mountain-field of grass and heath high above the sheer wall of the valley,"" describes the Firienfeld, in a draft of ""Lord of the Rings"" published in ""The War of the Ring"". It is debatable whether this is cannon."
 first-hall	First Hall		*			English
 floating-log	Floating Log		*			English
 folde	Folde	*	*	*		English					*
@@ -489,9 +495,9 @@ forlond	Forlond	*	*	*	*	Sindarin	North-haven	Nordhafen			*	for lond	forod S - no
 fornost-erain	Fornost	*			*	Sindarin	North-fortress	Nord-burg			*	forn for ost	forod S - north E; ost S - (fortified) city / town E; forod + ost > fornost S
 fornost-erain	Norbury		*			English		Norburg			*
 fornost-erain	Norburg			*		German	Norbury
-fornost-erain	Fornost Erain				*	Sindarin	North-fortress of the Kings	Nord-burg des Königs			*	for forn ost erain	forod S - north E; forod + ~ > for~ S; aran S - king E; erain S - kings E
 fornost-erain	Kings' Norbury					English		Königsnorburg			*
 fornost-erain	Königsnorburg					German	Kings' Norbury
+fornost-erain	Fornost Erain					Sindarin	North-fortress of the Kings	Nord-burg des Königs			*	for forn ost erain	forod S - north E; forod + ~ > for~ S; aran S - king E; erain S - kings E
 forochel	Forochel	*			*	Sindarin	Northern-cold	Nord-kalt			*	forod for ochel khel	forod S - north E; forod + ~ > for~ S; KHEL - freeze E;
 forochel	Ice Bay of Forochel		*			English		Eisbucht von Forochel			*
 forochel	Eisbucht von Forochel			*		German	Ice-bay of Forochel
@@ -505,7 +511,6 @@ fortofn	Nördliche Untiefe			*		German	North Undeep			Silvia Ochsenfort
 framsburg	Framsburg		*	*		German					*
 frogmorton	Frogmorton		*			English
 fui-ngothrim	Fui 'Ngorthrim	*				Sindarin			http://www.tuckborough.net/caves.html#Paths%20of%20the%20Dead		*	fui ngorth rim gorth	gorth S - dead person E; rim S - host / great number E; fuin S - gloom / darkness
-fui-ngothrim	Raith 'Ngorthrim					Sindarin			http://www.tuckborough.net/caves.html#Paths%20of%20the%20Dead		*	raith rath ngorth gorth rim	gorth S - dead person E; rim S - host / great number E; raith S - paths E; rath S - path E	"Tolkien assigned this name to the ""Paths of the Dead"" but changed it to ""Fui 'Ngorthrim"", so this is not strictly canon, although its meaning is clear."
 fui-ngothrim	Paths of the Dead		*			English
 gamwich	Gamwich		*			English
 gilrain	Gilrain	*	*	*	*	Sindarin					*	gil gîl rain	"gîl S - star / bright spark, Ety/358, LotR/E, S/431, RGEO/73, http://www.jrrvf.com/cgi-bin/hisweloke/sindarin.cgi?search=g%EEl&phon=ipa; rain S - border E"
@@ -533,14 +538,14 @@ gundabad	Berg Gundabad			*		German			H1de
 gwaith-thranduil	Gwaith Thranduil	*			*	Sindarin	Realm of Thranduil				*	gwaith waith	"gwaith S - realm / folk E; thranduil S - [proper name of the king of the wood elves, father of Legolas]"
 gwaith-thranduil	Wood Elves		*			English					*
 gwaith-thranduil	Waldelben			*		German	Forest-elves			Silvia Ochsenfort
-gwaith-thranduil	Galadhrim				*	Sindarin	Wood-elves				*	galad gal rim	"galad S - light E; -rim S - crowd / host / great number E; rimbë Q - many E; galad + rim > galadhrim, lenitiion"
 gwaith-thranduil	Thranduil's Realm					English					*
 gwaith-thranduil	Thranduil's Reich					German	Thranduil's Realm			Silvia Ochsenfort
+gwaith-thranduil	Galadhrim					Sindarin	Wood-elves				*	galad gal rim	"galad S - light E; -rim S - crowd / host / great number E; rimbë Q - many E; galad + rim > galadhrim, lenitiion"
 gwathlo	Gwathló	*			*	Sindarin	Shadow-marsh				*	gwath wath lô ló lo	"gwath S - shadow E; lô S - marsh / fenland E; gwath + lô > gwathlo, vowel reduction"
 gwathlo	Greyflood		*			English		Grauflut			*
 gwathlo	Grauflut			*		German	Grey-flood		LRde
-gwathlo	Gwathir				*	Sindarin	Shadow-stream				*	gwath sîr gwathir thir wath	"gwath S - shadow E; sîr S - river E; gwath + sîr > gwathir, lenition"
 gwathlo	Agathurush					Adûnaic					*
+gwathlo	Gwathir					Sindarin	Shadow-stream				*	gwath sîr gwathir thir wath	"gwath S - shadow E; sîr S - river E; gwath + sîr > gwathir, lenition"
 haecharad	Haecharad	*			*	Sindarin	Far-south			Silvia Ochsenfort		hae charad har harad char
 haecharad	Far Harad		*			English	Far South				*
 haecharad	Weit-Harad			*		German	Far-Harad
@@ -569,8 +574,8 @@ haudh-in-gwanur	Tomb of the Twins		*			English		Grab der Zwillinge			*
 haudh-in-gwanur	Grab der Zwillinge			*		German	Tomb of the Twins			Silvia Ochsenfort
 hay-gate	Hay Gate		*			English
 haysend	Haysend		*			English
-hedge	Hedge		*			English
-hedge	High Hay		*			English
+hedge	The Hedge		*			English
+hedge	High Hay					English
 helevorn	Helevorn	*	*	*	*	Sindarin					*	hell hel morn born orn	hell S - naked E; morn S - black E; born S - hot / red E; orn S - (any large) tree E
 helms-dike	Helm’s Dike		*			English
 henneth-annun	Henneth Annûn	*	*	*	*	Sindarin	Window of Sunset				*	henneth annûn	henneth S - window E; annûn - western / sunset E
@@ -595,8 +600,8 @@ imlad	Dale		*			English					*
 imlad	Tal			*		German				Silvia Ochsenfort
 imlad-morgul	Imlad Morgul	*			*	Sindarin						imlad mor môr gul gûl
 imlad-morgul	Morgul Vale		*			English
-imlad-morgul	Morgul				*	Sindarin						mor môr gul gûl
 imlad-morgul	Morgul Valley					English
+imlad-morgul	Morgul					Sindarin						mor môr gul gûl
 imlad-morthond	Mornan	*			*	Sindarin	Dark-valley		http://www.tuckborough.net/valleys.html#Blackroot%20Vale		*	mor nan	mor S - dark E; nan S - valley E
 imlad-morthond	Blackroot Vale		*			English			VIII
 imlad-morthond	Morthond Vale					English			"LR, RK, VIII"
@@ -621,7 +626,6 @@ imrath-gondraich	Steinkarrental			*		German			LRde
 iorost	Iorost	*			*	Sindarin	Old-fortress			Kris Kowal / Måns Björkman	*	io iaur ost	Aldburg > old fortress E; old > iaur; fortress > ost; iorost : iaur + ost :: iorhael : iaur + hael		Need to get a reference for the attested ior-hael
 iorost	Aldburg		*			Old English	Old-fortress		UT		*
 iorost	Altburg			*		German	Old-fortress			Kris Kowal
-irensaga	Írensaga	*	*	*		Rohirric	Iron-saw		"LR, RK"		*	íren saga	íren R - iron E; saga R - saw E	"In old editions, Írensaga appears without an acute accent."
 ithilien	Ithilien	*	*	*	*	Sindarin						ithil ien
 ithilien-north-road	North Road of Ithilien		*			English
 ivy-bush	Ivy Bush		*			English
@@ -661,11 +665,11 @@ loeg-ningloron	Loeg Ningloron	*			*	Sindarin	Pool of the Golden-water-flowers	Te
 loeg-ningloron	Resting place of the Ring		*			English		Ruheplatz des Rings			*
 loeg-ningloron	Ruheplatz des Rings			*		German	Resting place of the Ring		Sde
 lond-daer	Lond Daer	*	*	*	*	Sindarin	Haven Great	Hafen Großer			*	lond daer	lond S - haven / harbor E; daer S - great E
-lond-daer	Lond Daer Enedh				*	Sindarin	Haven Great Middle	Hafen Großer Mittel			*	lond daer enedh	lond S - haven / harbor E; daer S - great E; enedh S - middle E
 lond-daer	Great Middle Haven					English					*
 lond-daer	Great Haven					English		Großer Hafen			*
 lond-daer	Großer Hafen					German	Great Haven			Silvia Ochsenfort
 lond-daer	Vinyalonde					Quenya	New-haven	Neuhafen			*	vin vinya londë	vin- / vinya Q - new; londë Q - haven / harbor E
+lond-daer	Lond Daer Enedh					Sindarin	Haven Great Middle	Hafen Großer Mittel			*	lond daer enedh	lond S - haven / harbor E; daer S - great E; enedh S - middle E
 lond-umbar	Lond Umbar	*			*	Sindarin	Haven of Doom			Kris Kowal	*	lond umbar um bar	haven of umbar; haven E > lond S
 lond-umbar	Haven of Umbar		*			English					*
 lond-umbar	Hafen von Umbar			*		German				Silvia Ochsenfort
@@ -680,7 +684,6 @@ lothlorien	Lothlórien	*	*	*	*	Sindarin	Flower-dream-land				*	loss lórien	"los
 lothlorien	The Golden Wood					English		Der Goldene Wald			*
 lothlorien	Der Goldene Wald					German	The Green Wood		LRde
 lothlorien	Dwimordene					Rohirric						dwimor dene
-mallenrond	Mallenrond	*			*	Sindarin	Golden Hall			Kris Kowal	*	mallen mal rond	Golden Hall E; mallen S - golden colored E; rond S - hall E	"This translation is predicated on the assumption that ""golden"" in ""Golden Hall"" refers to the color. There are other Sindarin words for ""golden"" as in the metal."
 mallenrond	Golden Hall		*			English
 marish	Marish		*			English
 mathom-house	Mathom-house		*			English
@@ -690,7 +693,6 @@ men-annun	West Road		*			English
 men-eryn-iaur	Men-i-Naugrim	*			*	Sindarin	Road of the Dwarves		UT			men i naug naugrim rim
 men-eryn-iaur	Old Forest Road		*			English					*
 men-eryn-iaur	Alter Nachtwaldweg			*		German	Old Night Forest Way		H1de
-men-eryn-iaur	Men Eryn Iaur				*	Sindarin				Kris Kowal	*	men eryn iaur	old forest road; old E > iaur S; forest E > woods E > eryn E; road E > way E > men S
 men-harad	Men Harad	*			*	Sindarin	Road South	Straße Süd		Kris Kowal	*	men harad har	the harad road; road E > men S; harad S - south E
 men-harad	The Harad Road		*			English		Die Harad-Straße			*		harad S - south E
 men-harad	Südstraße			*		German	South Road
@@ -709,12 +711,12 @@ michel-delving	Michel Delving		*			English
 mickleburg	Mickleburg		*			English
 min-rimmon	Min-Rimmon	*	*	*	*	Sindarin					?	min rimmon rim
 minas-morgul	Minas Morgul	*	*	*	*	Sindarin	Tower of Sorcery				*	minas mor gul minë min	minas S - tower E; mor S - dark / black E; gul S - sourcery E
-minas-morgul	Minas Ithil				*	Sindarin	Tower of the Moon				*	minas ithil minë min	minas S - tower E; ithil S - moon / sheen E
+minas-morgul	Minas Ithil					Sindarin	Tower of the Moon				*	minas ithil minë min	minas S - tower E; ithil S - moon / sheen E
 minas-tirith	Minas Tirith	*	*	*	*	Sindarin	Tower of the Guard				*	minas min as tir tira tirith ith	minas S - tower E; tir S - to watch / guard E; tirith S - of the watch E
-minas-tirith	Minas Anor				*	Sindarin	Tower of the Sun				*	minas anor	minas S - tower E; Anor S - the sun [proper name] E
 minas-tirith	Tower of Guard					English
 minas-tirith	Turm der Wacht					German			LRde
 minas-tirith	Mundburg					Rohirric			LRde			mund burg
+minas-tirith	Minas Anor					Sindarin	Tower of the Sun				*	minas anor	minas S - tower E; Anor S - the sun [proper name] E
 minas-tirith-hallows	Hallows of Minas Tirith		*			English
 mindolluin	Mindolluin	*	*	*	*	Sindarin	Towering Blue Head	Hoch Aufragender Blauer Kopf			*	min dôl dol luin	minas S - tower E; dôl S - head E; luin S - blue E
 minhiriath	Minhiriath	*	*	*	*	Sindarin	Between-rivers	Zwischen Flüssen			*	min sir sîr sirion ath hir	min- S - between E; sirion S - river E; -ath S - plural; min + sirion > minhirion S; sirion + ath > siriath S; minhirion + ath > minhiriath S
@@ -805,7 +807,7 @@ orod-rerir	Mt. Rerir		*			English					X
 orodruin	Orodruin	*			*	Sindarin	Mount Doom				*	orod ruin drúin druin	"orod S - mountain E; ered S - mountains; drúin S - doom [plural] E; drû S - doom E; orod + drúin > orodruin, vowel shortening"
 orodruin	Mount Doom		*			English					*
 orodruin	Schicksalsberg			*		German			LRde
-orodruin	Amon Amarth				*	Sindarin	Hill of Doom		"LR, XII"			amon amarth
+orodruin	Amon Amarth					Sindarin	Hill of Doom		"LR, XII"			amon amarth
 orthanc	Orthanc	*	*	*	*	Sindarin	Mount Fang				*	orod or thanc	orod S - mountain E; thanc S - fang E; orod + thanc > orthanc S
 orthanc-pinnacle	Pinnacle of Orthanc		*			English
 osgiliath	Osgiliath	*	*	*	*	Sindarin	Fort of Stars	Sternen-Feste	"VIII, XII"		*	ost gîl gil gili ath	"ost S - fortified city or town E; gil S - star E; -ath S - [collective plural noun]; gil-ath > giliath; ost + gil > osgil, lenition"		"the translation of ""Fort of Stars"" is in HoMe according to Eryniel"
@@ -825,7 +827,7 @@ pelargir	Pelargir	*	*	*	*	Sindarin	Garth of Royal-ships	Königlicher Hafen			*	p
 pelennor	Pelennor	*	*	*	*	Sindarin	Fenced-land				*	pel enedh dôr dor nor en	"pel S - fenced field; enedh S - middle E; dôr S - land E; enedh + dôr > ennor, as in Ennorath; pelen S - of fenced field E, as ""angren"" is ""ang + ren"" meaning ""of iron""; pelen + dôr > pelennor"
 pelennor	Pelennor Field					English
 pelennor	Pelennor-Felder					German			LRde
-pendlanthir	Pendlanthir	*			*	Sindarin				Kris Kowal	*	pend lanthir	"Stair Falls; stair E > declivity E > pend S; stairway E > pendrath S, http://www.jrrvf.com/cgi-bin/hisweloke/sindarin.cgi?search=pendrath&cognate=stair&phon=ipa; pendrath > pend + rath; rath S > path / way E; stairway : stair :: pendrath : pend, http://www.jrrvf.com/cgi-bin/hisweloke/sindarin.cgi?search=pend&phon=ipa; falls / waterfalls E > lanthir S, as in Lanthir Rauros"	"It seems likely that ""pendlanthir"" needs to be normalized through lenition."
+pendlanthir	Pendlanthir	*			*	Sindarin				Kris Kowal	*	pend lanthir	"Stair Falls; stair E > declivity E > pend S; stairway E > pendrath S, http://www.jrrvf.com/cgi-bin/hisweloke/sindarin.cgi?search=pendrath&cognate=stair&phon=ipa; pendrath > pend + rath; rath S > path / way E; stairway : stair :: pendrath : pend, http://www.jrrvf.com/cgi-bin/hisweloke/sindarin.cgi?search=pend&phon=ipa; falls / waterfalls E > lanthir S, as in Lanthir Rauros"		"It seems likely that ""pendlanthir"" needs to be normalized through lenition."
 pendlanthir	Stair Falls		*			English					*
 pendlanthir	Treppen-Wasserfall			*		German				Silvia Ochsenfort
 penduireb	Penduireb	*			*	Sindarin	Stairs of Eternity			Kris Kowal	*	pend ui reb uireb	"Endless Stair; endless E / eternal E / ever E > uireb S, c.f., nenuial; stair E > pend S; pendrath S - stairway E; rath S - way / road E"
@@ -849,13 +851,12 @@ rath-harad	Rath Harad	*			*	Sindarin				Kris Kowal		rath har harad ad	"South Lan
 rath-harad	South Lane		*			English
 rath-harad-iaur	Rath Harad Iaur	*			*	Sindarin	Road South Old			Kris Kowal	*	rath har harad ad iaur	"Old South Road E; rath S - course / riverbed // stream, Ety/383, LotR/Index, http://www.jrrvf.com/cgi-bin/hisweloke/sindarin.cgi?search=rath&phon=ipa; harad S - south E; iaur S - old E"
 rath-harad-iaur	Old South Road		*			English					*
-rath-harad-iaur	Südstraße			*		German			LRde					"""Alte Südstraße"" would be direct translation, but is not attested."
 records-chamber	Chamber of Records		*			English
 reunited-kingdom	Reunited Kingdom		*			English
 rhimdath	Rhimdath	*			*	Sindarin			"V, Etym"		*	rhim dath	"rim / rhim / rhimb S - crowd / host / great number // cold pool or lake (in mountains) E, http://www.jrrvf.com/cgi-bin/hisweloke/sindarin.cgi?search=rim&phon=ipa; dath S - hole or pit E, http://www.jrrvf.com/cgi-bin/hisweloke/sindarin.cgi?search=dath&phon=ipa"
 rhimdath	Rushdown		*			English			"V, Etym"
-rhimdath	Rhibdad				*	Sindarin			http://www.glyphweb.com/ARDA/r/rushdown.html			rhib dad rhib rib
-rhimdath	Rhibdath				*	Sindarin			"V, Etym"			rhib dad dath
+rhimdath	Rhibdad					Sindarin			http://www.glyphweb.com/ARDA/r/rushdown.html			rhib dad rhib rib
+rhimdath	Rhibdath					Sindarin			"V, Etym"			rhib dad dath
 rhosgobel	Rhosgobel	*	*	*	*	Sindarin					*	rhos ross gobel	"rhos S - whisper or rustling sound E; ross / rhoss S - rain E; ross S - red-haired, copper coloured, especially used of animals, as fox, red deer, etc., VT/41:10; gobel S - walled house or village / town, Ety/380, http://www.jrrvf.com/cgi-bin/hisweloke/sindarin.cgi?search=gobel&phon=ipa"
 rhovanion	Rhovanion	*			*	Sindarin	Wilderness-country				*	rovan rhavan rhaw ion	"rovan S -- wild E; rhavan S -- wild man E; rhaw S -- wilderness E; -ion S - (great) realm, as in eregion, dorwinion"
 rhovanion	Wilderland		*	*		German					*
@@ -879,9 +880,9 @@ sammath-naur	Cracks of Doom		*			English
 sarn-durin	Durin's Stone		*			English
 sarn-gebir	Sarn Gebir	*	*	*	*	Sindarin	Stone Ridge	Stein-Riffe			*	sarn gebir ceber	"sarn S - stone / pebble E; ceber S - stake / spike / stone ridge E; cebir S - stakes / spikes / stone ridges E; sarn + cebir > sarn gebir S, lenition"
 sarnathrad	Sarnathrad	*	*	*	*	Sindarin	Stone-ford	Steinfurt	"V, Etym., LR/430"		*	sarn athrad	"sarnathrad S - stone ford E, attested; stone E > sarn S, Lost Road / 430; ford E > athrad S"
-sarnathrad	Sarn Athrad				*	Sindarin	Stone Ford	Steinfurt	"V, Etym., II, XI"		*	sarn athrad	"sarnathrad S - stone ford E, attested; stone E > sarn S, Lost Road / 430; ford E > athrad S"
 sarnathrad	Sarnfurt					German	Sarn-ford		LRde
 sarnathrad	Steinfurt					German	Stone-ford		LRde
+sarnathrad	Sarn Athrad					Sindarin	Stone Ford	Steinfurt	"V, Etym., II, XI"		*	sarn athrad	"sarnathrad S - stone ford E, attested; stone E > sarn S, Lost Road / 430; ford E > athrad S"
 scary	Scary		*			English
 second-hall	Second Hall		*			English
 serni	Serni	*									?	sern sarn serni
@@ -937,8 +938,8 @@ torech-ungol	Shelob’s Lair		*			English
 torobrannor	Torobrannor	*			*	Sindarin				Kris Kowal	*	torog toro brand bran dôr dor nôr nor	"Troll-fells E; troll E > torog S; fells E > highlands E > high + land E; high, lofty E > brand S; land E > nôr S; brand + nôr > brannor, lenition; torog + brannor > torobrannor S, lenition [speculative]"
 torobrannor	Ettenmoors		*			English			"LR, FR"		*
 torobrannor	Ettenöden			*		German
-torobrannor	Onobrannor				*	Sindarin				Kris Kowal	*	onod ono brand bran dor dôr nôr nor	"Ettenmoors E; etten E > ent E > onod S; fells E > highlands E > high + land E; high, lofty E > brand S; land E > nôr S; brand + nôr > brannor, lenition; onod + brannor > onobrannor S, lenition [speculative]"
 torobrannor	Troll-fells					English			"LR, FR"		*
+torobrannor	Onobrannor					Sindarin				Kris Kowal	*	onod ono brand bran dor dôr nôr nor	"Ettenmoors E; etten E > ent E > onod S; fells E > highlands E > high + land E; high, lofty E > brand S; land E > nôr S; brand + nôr > brannor, lenition; onod + brannor > onobrannor S, lenition [speculative]"
 tuckborough	Tuckborough		*			English
 tumladen-gondor	Tumladen		*			English
 two-kingdoms	Two Kingdoms		*			English
@@ -947,7 +948,6 @@ tyfn	Undeeps		*			English
 tyrn-gorthad	Tyrn Gorthad	*			*	Sindarin			LR/Index			tyrn gor thad gorthad
 tyrn-gorthad	Barrow-downs		*			English					*
 tyrn-gorthad	Hühelgräberhöhen			*		German			LRde
-udun	Udûn	*	*								*	udûn dûn u		"This is possibly Ñoldorin, certainly not Sindarin, since ""dûn"" would translate to ""west""."
 udun	Udûn-Tal			*		German	Udûn Valley
 udun	Utumno					Quenya	Deep-hidden				*	u? tumno? ut? umno?
 umbar	Umbar	*	*	*		Quenya	Doom				*	umbar u? ambar?	umbar Q - doom E
@@ -967,18 +967,18 @@ waymeet	Waymeet					English
 wellinghall	Wellinghall		*			English
 west-mark	West-mark		*			English
 westfarthing	Westfarthing of the Shire		*			English
-westfold	Fold Annûn	*				Sindarin				Kris Kowal
-westfold	Westfold		*	*		English					*
-westfold-vale	Westfold Vale		*			English
-westmarch-shire	Westmarch of the Shire		*			English
+fold-annun	Fold Annûn	*				Sindarin				Kris Kowal
+fold-annun	Westfold		*	*		English					*
+nan-fold-annun	Westfold Vale		*			English
+	Westmarch of the Shire		*			English
 whitwell	Whitwell		*			English
 wilderland-edge	Edge of the Wild		*			English
 willowbottom	Willowbottom		*			English
 withy-path	Withy-path		*			English
-withywindle	River Withywindle		*			English
 withywindle	Withywindle		*			English					*
 withywindle	Weidenwinde			*		German
+withywindle	River Withywindle					English
 woodhall	Woodhall		*			English
 woody-end	Woody End		*			English
 yale	The Yale		*			English
-yale	Yale		*			English
+yale	Yale					English

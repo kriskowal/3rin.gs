@@ -14,6 +14,7 @@ It is dangerous to go alone.  Take these!
  * Inkscape
  * Gimp
  * Python JSON library (json, simplejson, or the one in django will do)
+ * Django Python (for templates, generating articles)
 
     apt-get install inkscape gimp python-imaging python-numpy
 

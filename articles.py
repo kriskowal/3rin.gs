@@ -1,33 +1,155 @@
 # -*- coding: UTF-8 -*-
 
-from regions import regions2 as get_regions
-from names import names as get_names
-from labels import labels_dict as get_labels
-from links import links as get_links
-from locations import locations as get_locations
+from django.template import loader, Context
+from os import environ as env
+env["DJANGO_SETTINGS_MODULE"] = "settings"
+
+from itertools import chain
 from utils import makedirs
 from pprint import pprint
-regions = get_regions()
-names = get_names()
-labels = get_labels()
-links = get_links()
-locations = dict(get_locations())
+import codecs
+from os.path import join
+from markup import markup
+from re import compile as re
 
-# sindarin normalizations (X/* references)
-# http://www.jrrvf.com/cgi-bin/hisweloke/sindnorm.cgi
+import regions, names, labels, links, locations, books
+REGIONS = regions.regions2()
+NAMES = names.names()
+LANGUAGES = names.languages
+LANGUAGE_NAMES = names.language_names()
+LINKS = links.links()
+LOCATIONS = locations.locations()
+BOOKS = books.books()
 
-# &#8275; - swung dash
-# "; " terms
-# " > ", " < ", " - " parts
-# definition ", " notes
-# " / "
-# " "
+DIR = join('build', 'articles')
 
-def linguistic_details_html(details):
-    return "".join(
-        "<li>%s</li>" % definition_html(detail)
-        for detail in details.split("; ")
-    )
+parts_re = re(r'[a-zA-Z]+|\d+')
+
+def parse_citation(citation):
+    if citation.startswith("http://"):
+        return {
+            "link": '<a href="%s">&dagger;</a>' % (
+                citation,
+            )
+        }
+    parts = parts_re.findall(citation)
+    part = parts.pop(0)
+    if part in BOOKS:
+        book = BOOKS[part]
+        link = book["HTML"]
+        parts.insert(0, part)
+        return {
+            "link": link.replace("<a ", '<a target="_blank" ').replace(part, u"/".join(parts))
+        }
+    else:
+        return {
+            "label": citation,
+        }
+
+def build_region(canonical, region):
+
+    location = LOCATIONS[canonical]
+    source_names = list(NAMES[canonical])
+    language_names = LANGUAGE_NAMES[canonical]
+    links = LINKS.get(canonical, [])
+
+    names = []
+    def add_name(name):
+        if name in source_names:
+            names.append({
+                "name": name["Name"],
+                "credit": ", ".join(name["Constructed"].split(" / ")),
+                "language": name["Language"],
+                "languages": [
+                    language
+                    for language in ("Sindarin", "English", "German")
+                    if name[language] == "*" and
+                    language != name["Language"]
+                ],
+                "meaning": name["English Meaning"],
+                "citations": [
+                    parse_citation(citation)
+                    for citation in name["Citations"].split(", ")
+                    if citation
+                ],
+                "construction": [
+                    definition_html(construct)
+                    for construct in name["Construction"].split("; ")
+                    if construct
+                ],
+                "notes": markup(name["Notes"])
+            })
+            source_names.pop(source_names.index(name))
+
+    for language in LANGUAGES:
+        if language in language_names:
+            add_name(language_names[language])
+    while source_names:
+        add_name(source_names[0])
+
+    article_href = "%s.html" % canonical
+
+    map_href = "http://3rin.gs/#%s" % ",".join("%s" % val for val in [
+        region.height,
+        region.width,
+        region.y,
+        region.x,
+        'l',
+        canonical,
+    ])
+
+    name = language_names["English"]["Name"]
+
+    location = {
+        "name": name,
+        "names": names,
+        "links": links,
+        "map_href": map_href,
+        "article_href": article_href
+    }
+
+    context = Context({
+        "location": location,
+        "disqus": {
+            "id": canonical
+        }
+    })
+
+    for extension in ('frag.html', 'html'):
+        template = loader.get_template('article.' + extension)
+        content = template.render(context)
+        file = codecs.open(
+            join(DIR, "%s.%s" % (canonical, extension)),
+            "w",
+            "utf-8"
+        )
+        file.write(content)
+        file.close()
+
+    return location
+
+def build_index(locations):
+    template = loader.get_template("articles.html")
+    content = template.render(Context({
+        "locations": locations,
+        "disqus": {
+            "id": "articles"
+        }
+    }))
+    file = codecs.open(join(DIR, "index.html"), "w", "utf-8")
+    file.write(content)
+    file.close()
+
+def build():
+    makedirs(DIR)
+    locations = []
+    for canonical, region in REGIONS.items():
+        location = build_region(canonical, region)
+        locations.append(location)
+    build_index(sorted(
+        locations,
+        key = lambda location: location['name']
+    ))
 
 def definition_html(definition):
     return ", ".join(term_html(term) for term in definition.split(", "))
@@ -81,124 +203,5 @@ def language_abbr_html(language):
         language
     )
 
-LABEL = '''<p><img src="%(image_url)s" title="&#8216;%(name)s&#8217; in %(language)s with %(letters)s letters"></p>'''
-
-LANGUAGE = """<p><em><strong>%s:</strong></em> %s%s %s</p> %s"""
-
-def language_html(language):
-    return LANGUAGE % (
-        language["Language"],
-        (
-            """<abbr tilte="not attested, constructed by %s.">*</abbr>"""
-                % language["Constructed"]
-            if "Constructed" in language else ""
-        ),
-        language["Name"],
-        (
-            "<em>(%s)</em>" % language["English Meaning"]
-            if
-                language["English Meaning"] and
-                not language["Construction"] and
-                not any(
-                    language["English Meaning"].lower() == other["Name"].lower()
-                    for other in names[language["Canonical"]]
-                )
-            else ""
-        ),
-        (
-            (
-                "<ul>%s%s</ul>" % (
-                    linguistic_details_html(language["Construction"]),
-                    (
-                        "<ul><small><em>&mdash; %s</em></small></ul>" %
-                        language["Constructed"]
-                        if language["Constructed"]
-                        else ""
-                    )
-                )
-            )
-            if language["Construction"]
-            else ""
-        ),
-    )
-
-SOURCE = u'''<p><strong><a href="%(href)s" target="_blank">%(name)s</a></strong>%(description)s <nobr>&ndash; <em>%(source)s</em></nobr></p>'''
-TEMPLATE = open('template.html').read().decode("utf-8")
-EMBEDDED = u'''%s <p><a href="/articles/%s.html" target="_blank">comments</a></p>'''
-makedirs("build/articles")
-index = []
-for canonical, region in regions.items():
-    parts = []
-    print canonical
-
-    location = locations[canonical]
-    if 'Notes' in location and location['Notes']:
-        parts.append('<p>%s</p>' % location['Notes'])
-
-    for letters in 'Tengwar',:
-        for language in 'Sindarin', 'English', 'Quenya', 'Khuzdul':
-            mode = 'General Use'
-            label_key = canonical, language, letters, mode
-            if label_key in labels:
-                parts.append(LABEL % {
-                    "image_url": "http://3rin.gs/labels/%s-%s.png" % labels[label_key].parts,
-                    "name": canonical.replace("-", " "),
-                    "language": language,
-                    "letters": letters
-                })
-
-    map_href = "http://3rin.gs/#%s" % ",".join("%s" % val for val in [
-        region.height,
-        region.width,
-        region.y,
-        region.x,
-        'l',
-        canonical,
-    ])
-    etym = names[canonical]
-    for et in etym:
-        parts.append(language_html(et))
-        index.append({
-            "name": et['Name'],
-            "article": "%s.html" % canonical,
-            "map": map_href,
-        })
-
-    articles = links.get(canonical, [])
-    for article in articles:
-        parts.append(SOURCE % {
-            'name': article.name,
-            'href': article.href,
-            'description': ", %s" % article.description if article.description else '',
-            'source': article.source,
-        })
-
-    body = u"\n".join(parts)
-    file = open("build/articles/%s.frag.html" % canonical, "w")
-    file.write((EMBEDDED % (body, canonical)).encode("utf-8"))
-    file = open("build/articles/%s.html" % canonical, "w")
-    file.write((TEMPLATE % {
-        "title": canonical,
-        "id": canonical,
-        "body": """
-            <p style="float: right"><a href="%(map_href)s">MAP</a></p>
-            %(body)s
-        """ % {
-            "body": body,
-            "map_href": map_href,
-        }
-    }).encode("utf-8"))
-
-open("build/articles/index.html", "w").write((TEMPLATE % {
-    "title": "Locations of Middle-earth",
-    "id": "index",
-    "body": """
-        <h1>Locations of Middle-earth</h1>
-        <ol>%s</ol>
-    """ % "".join(
-        """<li>%(name)s <a href="%(map)s">map</a> <a href="%(article)s">info</a></li>\n""" % entry
-        for entry in sorted(index, key=lambda entry: entry['name'])
-    ),
-}).encode("utf-8"))
-
+build()
 
