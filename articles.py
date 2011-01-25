@@ -10,7 +10,7 @@ from pprint import pprint
 import codecs
 from os.path import join
 from markup import markup
-from re import compile as re
+from re import compile as re, escape
 
 import regions, names, labels, links, locations, books
 REGIONS = regions.regions2()
@@ -19,11 +19,14 @@ LANGUAGES = names.languages
 LANGUAGE_NAMES = names.language_names()
 LINKS = links.links()
 LOCATIONS = locations.locations()
-BOOKS = books.books()
+BOOKS_LIST = books.books_iter()
+BOOK_ABBRS = list(zip(*BOOKS_LIST)[0])
+BOOKS = dict(BOOKS_LIST)
 
 DIR = join('build', 'articles')
 
-parts_re = re(r'[a-zA-Z]+|\d+')
+parts_re = re(r'[^\w\d]')
+
 
 def parse_citation(citation):
     if citation.startswith("http://"):
@@ -32,19 +35,38 @@ def parse_citation(citation):
                 citation,
             )
         }
-    parts = parts_re.findall(citation)
+    parts = parts_re.split(citation)
     part = parts.pop(0)
     if part in BOOKS:
+        trailer = citation[len(part):]
+        parts = trailer.split("#")
+        if len(parts) == 2:
+            trailer = '%s(<abbr title="occurrences">%s</abbr>)' % tuple(parts)
         book = BOOKS[part]
         link = book["HTML"]
-        parts.insert(0, part)
+        book_html = part
+        if book["Title"]:
+            book_html = '<abbr title="%s">%s</abbr>' % (
+                book["Title"],
+                book_html
+            )
+        part_html = part.replace("&", "&amp;")
         return {
-            "link": link.replace("<a ", '<a target="_blank" ').replace(part, u"/".join(parts))
+            "link": link
+                .replace("<a ", '<a target="_blank" ')
+                .replace(part_html, book_html) + trailer,
+            "book": part
         }
     else:
         return {
             "label": citation,
         }
+
+def citation_index(citation):
+    try:
+        return BOOK_ABBRS.index(citation["book"])
+    except (ValueError, KeyError):
+        return len(BOOK_ABBRS)
 
 def build_region(canonical, region):
 
@@ -67,11 +89,11 @@ def build_region(canonical, region):
                     language != name["Language"]
                 ],
                 "meaning": name["English Meaning"],
-                "citations": [
+                "citations": sorted([
                     parse_citation(citation)
                     for citation in name["Citations"].split(", ")
                     if citation
-                ],
+                ], key=citation_index),
                 "construction": [
                     definition_html(construct)
                     for construct in name["Construction"].split("; ")

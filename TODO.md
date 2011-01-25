@@ -3,12 +3,10 @@ TODO
 ----
 
 * elvish prints
-  * rescan top-tier labels for higher resolution
   * create a store-front (paypal)
 * fresh tile set
   * empty the todo list in "Locations" for English
-* rebuild articles
-  * create django templates
+* train search-box to recognize German names
 
 * create thumbnails for all regions for embedding in tolkien gateway
 * german labels
@@ -18,11 +16,10 @@ TODO
   or boundary graphics
 
 * integrate Tuckborough reference
-  * add links to articles to "Links"
-    * create equivalence classes for names
   * compare synonyms to known synonyms
     * find missing names for known locations
-  * add links to Tuckborough articles
+    * find conflicting interpretations of names
+  * train search-box with non-diacritical variants of names
 
 * story tours
   * the hobbit tour
@@ -48,18 +45,16 @@ TODO
 
 * independent zoom animations for each scale
 
-* citation book name abbreviations in article references
 * quote search and cross-reference
 * political layer
 * detail layers
   * the shire
   * thror's erebor
-  * lothlorien
+  * lothlorien, tongue of lothlorien
   * minas tirith
   * breeland
-* story layers
-  * lord of the rings layer
-  * the hobbit layer
+  * dunharrow
+  * shelob's lair cave system
 
 * cross reference location articles with other wikis
 * khuzdul rune labels
@@ -108,4 +103,10 @@ TODONE
 * apple touch events
 * construct new layers that merge the geography and labels for each label set
 * collect translations for german names
+* rescan top-tier labels for higher resolution
+* rebuild articles
+  * create django templates
+* mine texts for references and reference counts
+* integrate Tuckborough reference
+* citation book name abbreviations in article references
 

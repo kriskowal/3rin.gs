@@ -3,11 +3,14 @@ import tsv
 import codecs
 FILE = 'books.tsv'
 
-def books():
+def books_iter():
     def item(row):
         name = row["Abbreviation"]
         return name, row
-    return dict(map(item, tsv.DictReader(codecs.open(FILE, 'r', 'utf-8'))))
+    return map(item, tsv.DictReader(codecs.open(FILE, 'r', 'utf-8')))
+
+def books():
+    return dict(books_iter())
 
 def main():
     import sys
