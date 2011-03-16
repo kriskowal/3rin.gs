@@ -1,0 +1,1 @@
+{% for citation in citations %}<nobr>{% if citation.link %}{{citation.link|safe}}{% else %}{{citation.label}}{% endif %}</nobr>{% if not forloop.last %}, {% endif %}{% endfor %}

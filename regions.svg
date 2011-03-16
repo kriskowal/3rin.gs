@@ -491,7 +491,7 @@
        inkscape:label="#rect3520" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.57528958"
-       id="emnet-annun"
+       id="talath-annun"
        width="531.25"
        height="290.625"
        x="3812.5"
@@ -507,7 +507,7 @@
        inkscape:label="#rect3524" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.57528958"
-       id="emnet-rhunen"
+       id="talath-rhunen"
        width="460.9375"
        height="600"
        x="4253.125"
@@ -1169,7 +1169,7 @@
        inkscape:label="#rect3684" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.57528958"
-       id="cunmaeghed-rhunen"
+       id="bennas-rhunen"
        width="350.23883"
        height="224.28543"
        x="4843.6812"
@@ -2189,7 +2189,7 @@
        inkscape:label="#rect3870" />
     <rect
        style="opacity:0.57528962;fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="athrad-imladris"
+       id="athrad-bruinen"
        width="102.34375"
        height="69.140625"
        x="3918.3594"

@@ -2,6 +2,9 @@
 TODO
 ----
 
+* fix commas in articles
+* add East and West Wall to the map, the forks south of Methedras
+
 * elvish prints
   * create a store-front (paypal)
 * fresh tile set

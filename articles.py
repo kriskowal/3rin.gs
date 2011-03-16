@@ -13,6 +13,7 @@ from markup import markup
 from re import compile as re, escape
 
 import regions, names, labels, links, locations, books
+from names import language_index
 REGIONS = regions.regions2()
 NAMES = names.names()
 LANGUAGES = names.languages
@@ -25,8 +26,7 @@ BOOKS = dict(BOOKS_LIST)
 
 DIR = join('build', 'articles')
 
-parts_re = re(r'[^\w\d]')
-
+parts_re = re(r'[^\w\d\.]')
 
 def parse_citation(citation):
     if citation.startswith("http://"):
@@ -50,7 +50,8 @@ def parse_citation(citation):
                 book["Title"],
                 book_html
             )
-        part_html = part.replace("&", "&amp;")
+        book_html = '>%s<' % book_html
+        part_html = '>%s<' % part.replace("&", "&amp;")
         return {
             "link": link
                 .replace("<a ", '<a target="_blank" ')
@@ -89,11 +90,18 @@ def build_region(canonical, region):
                     language != name["Language"]
                 ],
                 "meaning": name["English Meaning"],
-                "citations": sorted([
-                    parse_citation(citation)
-                    for citation in name["Citations"].split(", ")
-                    if citation
-                ], key=citation_index),
+                "citations": dict(
+                    (klass, sorted([
+                        parse_citation(citation)
+                        for citation in citations.split(", ")
+                        if citation
+
+                    ], key=citation_index)) for klass, citations in (
+                        ('manual', name["Manual Citations"]),
+                        ('computed_sensitive', name["Computed Case-sensitive Citations"]),
+                        ('computed_insensitive', name["Computed Case-insensitive Citations"]),
+                    )
+                ),
                 "construction": [
                     definition_html(construct)
                     for construct in name["Construction"].split("; ")
@@ -106,6 +114,12 @@ def build_region(canonical, region):
     for language in LANGUAGES:
         if language in language_names:
             add_name(language_names[language])
+    source_names = sorted(
+        source_names,
+        key = lambda name: language_index(
+            name["Language"]
+        )
+    )
     while source_names:
         add_name(source_names[0])
 
@@ -120,7 +134,11 @@ def build_region(canonical, region):
         canonical,
     ])
 
-    name = language_names["English"]["Name"]
+    try:
+        name = language_names["English"]["Name"]
+    except KeyError, key:
+        print canonical
+        raise
 
     location = {
         "name": name,

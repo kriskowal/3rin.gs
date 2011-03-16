@@ -1,0 +1,101 @@
+{% extends "base.html" %}
+{% block title %}Map Prints{% endblock %}
+{% block disqus %}{% endblock %}
+{% block content %}
+
+<div style="text-align: center">
+
+<h1>Order a Print</h1>
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+    <input type="hidden" name="cmd" value="_s-xclick">
+    <input type="hidden" name="hosted_button_id" value="VEE9R7FN8THPJ">
+    
+    <input type="hidden" name="on0" value="Size and Material">
+    <label for="on0">Size and Material</label>
+    <select name="os0">
+        <option value="2' Heavy Bond Paper">2' Heavy Bond Paper $30.00</option>
+        <option value="3' Heavy Bond Paper">3' Heavy Bond Paper $100.00</option>
+        <option value="3' Vinyl Paper">3' Vinyl Paper $200.00</option>
+    </select>
+    <input type="hidden" name="currency_code" value="USD">
+    <p>
+        <input type="image" src="https://www.paypal.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+    </p>
+    <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+<p><img src="photo-1-600.jpg" title="Photo of the map of Middle-earth in Elvish" alt="Photo of the Map of Middle-eath" height="448" width="600"></p>
+
+</div>
+<p>
+    I&#8217;m currently offering prints of the
+    <em>Elvish</em> version of this Map of Middle-earth,
+    either 2 or 3 feet wide and high, on two kinds of paper.
+    Each print is on high-quality paper and individually
+    signed.
+</p>
+
+<p>
+    The map was illustrated by hand with a nib calligraphy
+    pen.  The image itself is a digital composition of scans
+    of individual sections of geography and labels,
+    meticulously translated, transliterated, drawn, scanned,
+    and assembled.
+</p>
+
+<p>
+    <strong><em>The paper &mdash;</em></strong>
+    There are two options for paper: <em>heavy bond paper</em> and
+    <em>vinyl</em>. Vinyl lasts longer and is not readily damaged but costs
+    more.  The colors are also more vivid on vinyl.
+</p>
+
+<p>
+    <strong><em>Variations &mdash;</em></strong>
+    The map you receive may be a different version of the map than you will see
+    in the images here or in the version that is posted online.
+
+    <strong><em>Labels &ndash;</em></strong>
+    You will notice that when you zoom in and out of the online version of the
+    map that the labels appear, disappear, and vary in transparency based on
+    their size. In the printed version of the map, all of the labels are
+    visible and vary in transparency in so far as they obscure underlying
+    labels, regardless of their size.  Some of the labels are very, very small.
+
+    <strong><em>Background &ndash;</em></strong>
+    The printed version of the map is printed on white paper and relies on the
+    natural texture of the paper for its authentic appearance. The online
+    version is aided by a repeating parchment background to have this effect,
+    but would have diminished the natural authenticity of the printed version.
+
+    <strong><em>Corrections &ndash;</em></strong>
+    I also periodically fix errors, omissions, and replace translations with
+    better ones.
+
+</p>
+
+<p>
+    <strong><em>Uniqueness &ndash;</em></strong>
+    I personally sign your print and include a version number and an impression
+    number.  If you require different dimensions or paper, please contact me
+    at <a href="mailto:kris.kowal@cixar.com">kris.kowal@cixar.com</a>. 
+</p>
+
+<p>
+    <strong><em>Shipping and Handling &mdash;</em></strong>
+    It takes about a week to get fresh prints. I keep a pair in stock, but
+    it may take a week and a half for your print to ship from
+    the time you pay.
+</p>
+
+<p>
+    <strong><em>Returns &mdash;</em></strong>
+    I am not presently accepting returns.
+</p>
+
+<p style="text-align: center">
+    &mdash;&nbsp;<em>Kris&nbsp;Kowal</em>
+</p>
+
+{% endblock %}

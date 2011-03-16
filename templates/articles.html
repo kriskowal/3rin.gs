@@ -8,8 +8,8 @@
     {% for location in locations %}
         <li>
             {{location.name}}
-            <a href="{{location.map_href|urlencode}}">map</a>
-            <a href="{{location.article_href|urlencode}}">article</a></li>
+            <a href="{{location.map_href}}">map</a>
+            <a href="{{location.article_href}}">article</a></li>
         </li>
     {% endfor %}
     </ol>

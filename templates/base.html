@@ -47,7 +47,7 @@
     <body>
         <div id="body">
 
-            {% block body %}{{body}}{% endblock %}
+            {% block body %}{% block content %}{{body}}{% endblock %}{% endblock %}
 
             {% block disqus %}
             <div id="disqus_thread"></div>

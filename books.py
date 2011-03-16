@@ -12,6 +12,17 @@ def books_iter():
 def books():
     return dict(books_iter())
 
+BOOKS_LIST = list(zip(*books_iter())[0])
+
+def book_index(book):
+    try:
+        return BOOKS_LIST.index(book)
+    except ValueError:
+        return len(BOOKS_LIST)
+
+def books_list():
+    return BOOKS_LIST
+
 def main():
     import sys
     from pprint import pprint
