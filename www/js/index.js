@@ -2,8 +2,8 @@
 
 var SNAP_DELAY = 150;
 var TILE_SIZE = 256;
-var TILE_URL = "http://3rin.gs/tiles.23/";
-var ARTICLE_URL = "http://3rin.gs/articles.8/";
+var TILE_URL = "/tiles.22/";
+var ARTICLE_URL = "/articles.8/";
 var regions; // acquired via AJAX
 var largeToSmall; // computed from regions
 var show; // updated by the Map.onShow emitter
